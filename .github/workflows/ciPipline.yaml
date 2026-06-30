@@ -1,0 +1,57 @@
+name: Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+
+  pull_request:
+    branches:
+      - main
+      - dev
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # =========================
+      # Backend
+      # =========================
+      - name: Install Backend Dependencies
+        working-directory: backend
+        run: npm ci
+
+      - name: Build Backend
+        working-directory: backend
+        run: npm run build
+        
+      - name: Run backend tests
+        working-directory: ./backend
+        run: npm test
+
+      # =========================
+      # Frontend
+      # =========================
+      - name: Install Frontend Dependencies
+        working-directory: frontend/test
+        run: npm ci
+
+      - name: Build Frontend
+        working-directory: frontend/test
+        run: npm run build
+
+
+  
+      # =========================
+      # Final
+      # =========================
+      - name: List Files
+        run: ls -la
+
+      - name: Pipeline Completed
+        run: echo "✅ Pipeline completed successfully!"
