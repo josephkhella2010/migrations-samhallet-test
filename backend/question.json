@@ -1,0 +1,3389 @@
+{
+  "lessons": [
+    {
+      "lessonId": 1,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 1 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "questions": {
+        "swedish": [
+          {
+            "question": "Var ligger Sverige?",
+            "answers": [
+              { "text": "Södra Europa", "correct": false },
+              { "text": "Västra Europa", "correct": false },
+              { "text": "Norden i norra Europa", "correct": true },
+              { "text": "Östra Europa", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur många länder finns i Norden?",
+            "answers": [
+              { "text": "3", "correct": false },
+              { "text": "4", "correct": false },
+              { "text": "5", "correct": true },
+              { "text": "6", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilket är det största landet i Norden?",
+            "answers": [
+              { "text": "Norge", "correct": false },
+              { "text": "Finland", "correct": false },
+              { "text": "Sverige", "correct": true },
+              { "text": "Danmark", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur långt är Sverige från norr till söder?",
+            "answers": [
+              { "text": "800 km", "correct": false },
+              { "text": "1200 km", "correct": false },
+              { "text": "1600 km", "correct": true },
+              { "text": "2000 km", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad heter Sveriges nordligaste punkt?",
+            "answers": [
+              { "text": "Kebnekaise", "correct": false },
+              { "text": "Smygehuk", "correct": false },
+              { "text": "Treriksröset", "correct": true },
+              { "text": "Kiruna", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad heter Sveriges sydligaste punkt?",
+            "answers": [
+              { "text": "Malmö", "correct": false },
+              { "text": "Smygehuk", "correct": true },
+              { "text": "Gotland", "correct": false },
+              { "text": "Öland", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilket hav ligger vid Sveriges östra kust?",
+            "answers": [
+              { "text": "Nordsjön", "correct": false },
+              { "text": "Östersjön", "correct": true },
+              { "text": "Medelhavet", "correct": false },
+              { "text": "Svarta havet", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka hav ligger vid västkusten?",
+            "answers": [
+              { "text": "Östersjön och Bottenviken", "correct": false },
+              { "text": "Skagerrak och Kattegatt", "correct": true },
+              { "text": "Atlanten och Nordsjön", "correct": false },
+              { "text": "Bottenhavet och Östersjön", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka är Sveriges två största öar?",
+            "answers": [
+              { "text": "Gotland och Öland", "correct": true },
+              { "text": "Gotland och Bornholm", "correct": false },
+              { "text": "Öland och Hisingen", "correct": false },
+              { "text": "Gotland och Ven", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Varför har Sverige ett milt klimat?",
+            "answers": [
+              { "text": "På grund av Sahara", "correct": false },
+              {
+                "text": "På grund av Golfströmmen och Nordatlantiska strömmen",
+                "correct": true
+              },
+              { "text": "På grund av Alperna", "correct": false },
+              { "text": "På grund av Östersjön", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Varifrån kommer det varma vattnet i Golfströmmen?",
+            "answers": [
+              { "text": "Arktis", "correct": false },
+              { "text": "Indiska oceanen", "correct": false },
+              { "text": "Mexikanska golfen", "correct": true },
+              { "text": "Stilla havet", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad kallades perioden då Sverige var täckt av is?",
+            "answers": [
+              { "text": "Bronsåldern", "correct": false },
+              { "text": "Istiden", "correct": true },
+              { "text": "Vikingatiden", "correct": false },
+              { "text": "Medeltiden", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "För ungefär hur länge sedan smälte isen bort?",
+            "answers": [
+              { "text": "1000 år", "correct": false },
+              { "text": "5000 år", "correct": false },
+              { "text": "10000 år", "correct": true },
+              { "text": "20000 år", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad skapade istiden?",
+            "answers": [
+              { "text": "Vulkaner", "correct": false },
+              { "text": "Sjöar, skärgårdar och slätter", "correct": true },
+              { "text": "Öknar", "correct": false },
+              { "text": "Regnskogar", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad heter bergskedjan längs gränsen mot Norge?",
+            "answers": [
+              { "text": "Alperna", "correct": false },
+              { "text": "Skanderna", "correct": true },
+              { "text": "Himalaya", "correct": false },
+              { "text": "Anderna", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad heter Sveriges högsta berg?",
+            "answers": [
+              { "text": "Åreskutan", "correct": false },
+              { "text": "Kebnekaise", "correct": true },
+              { "text": "Helags", "correct": false },
+              { "text": "Kebnekajse", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur högt är Kebnekaise ungefär?",
+            "answers": [
+              { "text": "1000 meter", "correct": false },
+              { "text": "1500 meter", "correct": false },
+              { "text": "2000 meter", "correct": true },
+              { "text": "3000 meter", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur stor del av Sveriges yta täcks av skog?",
+            "answers": [
+              { "text": "En fjärdedel", "correct": false },
+              { "text": "En tredjedel", "correct": false },
+              { "text": "Mer än hälften", "correct": true },
+              { "text": "Hela landet", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilka träd är vanligast i norra Sverige?",
+            "answers": [
+              { "text": "Ek och bok", "correct": false },
+              { "text": "Gran och tall", "correct": true },
+              { "text": "Björk och ek", "correct": false },
+              { "text": "Bok och lönn", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka är Sveriges tre största sjöar?",
+            "answers": [
+              { "text": "Vänern, Vättern och Mälaren", "correct": true },
+              { "text": "Vänern, Siljan och Mälaren", "correct": false },
+              { "text": "Hjälmaren, Vänern och Vättern", "correct": false },
+              { "text": "Mälaren, Siljan och Storsjön", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad är en skärgård?",
+            "answers": [
+              { "text": "Ett högt berg", "correct": false },
+              { "text": "Ett område med många öar", "correct": true },
+              { "text": "En stor sjö", "correct": false },
+              { "text": "En skog", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur många öar finns det ungefär i Sverige?",
+            "answers": [
+              { "text": "50 000", "correct": false },
+              { "text": "100 000", "correct": false },
+              { "text": "250 000", "correct": true },
+              { "text": "500 000", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilka är Sveriges tre landsdelar?",
+            "answers": [
+              { "text": "Norrland, Halland och Skåne", "correct": false },
+              { "text": "Götaland, Svealand och Norrland", "correct": true },
+              { "text": "Bohuslän, Småland och Lappland", "correct": false },
+              { "text": "Stockholm, Göteborg och Malmö", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur många landskap finns i Sverige?",
+            "answers": [
+              { "text": "20", "correct": false },
+              { "text": "21", "correct": false },
+              { "text": "25", "correct": true },
+              { "text": "290", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur många län finns det i Sverige?",
+            "answers": [
+              { "text": "20", "correct": false },
+              { "text": "21", "correct": true },
+              { "text": "25", "correct": false },
+              { "text": "290", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur många kommuner finns det i Sverige?",
+            "answers": [
+              { "text": "200", "correct": false },
+              { "text": "250", "correct": false },
+              { "text": "290", "correct": true },
+              { "text": "310", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur många invånare har Sverige?",
+            "answers": [
+              { "text": "Cirka 8 miljoner", "correct": false },
+              { "text": "Cirka 9 miljoner", "correct": false },
+              { "text": "Nästan 11 miljoner", "correct": true },
+              { "text": "Cirka 13 miljoner", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur stor del av befolkningen bor i städer?",
+            "answers": [
+              { "text": "50 %", "correct": false },
+              { "text": "65 %", "correct": false },
+              { "text": "85 %", "correct": true },
+              { "text": "95 %", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilka är Sveriges tre största städer?",
+            "answers": [
+              { "text": "Stockholm, Uppsala och Malmö", "correct": false },
+              { "text": "Stockholm, Göteborg och Malmö", "correct": true },
+              { "text": "Göteborg, Umeå och Malmö", "correct": false },
+              { "text": "Stockholm, Linköping och Göteborg", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka naturresurser är viktiga i Sverige?",
+            "answers": [
+              { "text": "Olja och gas", "correct": false },
+              { "text": "Guld och diamanter", "correct": false },
+              {
+                "text": "Järnmalm, skog, vatten och jordbruksmark",
+                "correct": true
+              },
+              { "text": "Kol och olja", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Var finns de största järnmalmsgruvorna?",
+            "answers": [
+              { "text": "Skåne", "correct": false },
+              { "text": "Stockholm", "correct": false },
+              { "text": "Norrbotten", "correct": true },
+              { "text": "Gotland", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilka orter har stora gruvor?",
+            "answers": [
+              { "text": "Malmö och Lund", "correct": false },
+              { "text": "Kiruna och Malmberget", "correct": true },
+              { "text": "Göteborg och Borås", "correct": false },
+              { "text": "Uppsala och Gävle", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad används järn till?",
+            "answers": [
+              { "text": "Att göra glas", "correct": false },
+              { "text": "Att tillverka stål", "correct": true },
+              { "text": "Att göra plast", "correct": false },
+              { "text": "Att göra papper", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad används vattenkraft till?",
+            "answers": [
+              { "text": "Att värma hus", "correct": false },
+              { "text": "Att producera el", "correct": true },
+              { "text": "Att bygga vägar", "correct": false },
+              { "text": "Att rena luft", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Var finns det mesta jordbruket?",
+            "answers": [
+              { "text": "Norra Sverige", "correct": false },
+              { "text": "Södra Sverige", "correct": true },
+              { "text": "Lappland", "correct": false },
+              { "text": "Fjällen", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka produkter kommer från skogen?",
+            "answers": [
+              { "text": "Papper, kartong och trä", "correct": true },
+              { "text": "Olja", "correct": false },
+              { "text": "Gas", "correct": false },
+              { "text": "Kol", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad är den största orsaken till klimatförändringarna?",
+            "answers": [
+              { "text": "Vulkaner", "correct": false },
+              { "text": "Jordbävningar", "correct": false },
+              { "text": "Människors utsläpp av växthusgaser", "correct": true },
+              { "text": "Månen", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad kan klimatförändringarna leda till i Sverige?",
+            "answers": [
+              {
+                "text": "Fler översvämningar och skogsbränder",
+                "correct": true
+              },
+              { "text": "Fler vulkaner", "correct": false },
+              { "text": "Fler jordbävningar", "correct": false },
+              { "text": "Mindre regn alltid", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad är Sveriges klimatmål?",
+            "answers": [
+              { "text": "Noll utsläpp år 2030", "correct": false },
+              { "text": "Nära noll utsläpp år 2045", "correct": true },
+              { "text": "Noll utsläpp år 2050", "correct": false },
+              { "text": "Inga utsläpp år 2100", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad betyder hållbar utveckling?",
+            "answers": [
+              {
+                "text": "Att använda naturresurser så att framtida generationer också kan leva bra.",
+                "correct": true
+              },
+              {
+                "text": "Att använda så mycket naturresurser som möjligt.",
+                "correct": false
+              },
+              {
+                "text": "Att bara tänka på ekonomin.",
+                "correct": false
+              },
+              {
+                "text": "Att bara skydda skogen.",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Hur kan du bidra till en hållbar utveckling?",
+            "answers": [
+              { "text": "Slänga sopor i naturen", "correct": false },
+              { "text": "Använda mer el", "correct": false },
+              {
+                "text": "Åka kollektivt, återvinna och spara energi",
+                "correct": true
+              },
+              { "text": "Bränna avfall hemma", "correct": false }
+            ],
+            "correctAnswer": "C"
+          }
+        ],
+        "arabic": [
+          {
+            "question": "أين تقع السويد؟",
+            "answers": [
+              { "text": "جنوب أوروبا", "correct": false },
+              { "text": "غرب أوروبا", "correct": false },
+              { "text": "دول الشمال في شمال أوروبا", "correct": true },
+              { "text": "شرق أوروبا", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم عدد الدول الموجودة في منطقة الشمال (Norden)؟",
+            "answers": [
+              { "text": "3", "correct": false },
+              { "text": "4", "correct": false },
+              { "text": "5", "correct": true },
+              { "text": "6", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي أكبر دولة في منطقة الشمال؟",
+            "answers": [
+              { "text": "النرويج", "correct": false },
+              { "text": "فنلندا", "correct": false },
+              { "text": "السويد", "correct": true },
+              { "text": "الدنمارك", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم يبلغ طول السويد من الشمال إلى الجنوب؟",
+            "answers": [
+              { "text": "800 كم", "correct": false },
+              { "text": "1200 كم", "correct": false },
+              { "text": "1600 كم", "correct": true },
+              { "text": "2000 كم", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما اسم أقصى نقطة شمالية في السويد؟",
+            "answers": [
+              { "text": "كِبنيكايسي", "correct": false },
+              { "text": "سميغهُوك", "correct": false },
+              { "text": "تري ريكسروست", "correct": true },
+              { "text": "كيرونا", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما اسم أقصى نقطة جنوبية في السويد؟",
+            "answers": [
+              { "text": "مالمو", "correct": false },
+              { "text": "سميغهُوك", "correct": true },
+              { "text": "غوتلاند", "correct": false },
+              { "text": "أولاند", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "أي بحر يقع على الساحل الشرقي للسويد؟",
+            "answers": [
+              { "text": "بحر الشمال", "correct": false },
+              { "text": "بحر البلطيق", "correct": true },
+              { "text": "البحر المتوسط", "correct": false },
+              { "text": "البحر الأسود", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي البحار الموجودة على الساحل الغربي للسويد؟",
+            "answers": [
+              { "text": "بحر البلطيق وخليج بوثنيا", "correct": false },
+              { "text": "سكاغيراك وكاتيغات", "correct": true },
+              { "text": "الأطلسي وبحر الشمال", "correct": false },
+              { "text": "خليج بوثنيا والبلطيق", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هما أكبر جزيرتين في السويد؟",
+            "answers": [
+              { "text": "غوتلاند وأولاند", "correct": true },
+              { "text": "غوتلاند وبورنهولم", "correct": false },
+              { "text": "أولاند وهيسينغن", "correct": false },
+              { "text": "غوتلاند وفين", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "لماذا تتمتع السويد بمناخ معتدل؟",
+            "answers": [
+              { "text": "بسبب الصحراء", "correct": false },
+              {
+                "text": "بسبب تيار الخليج والتيار الأطلسي الشمالي",
+                "correct": true
+              },
+              { "text": "بسبب جبال الألب", "correct": false },
+              { "text": "بسبب بحر البلطيق فقط", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من أين تأتي المياه الدافئة في تيار الخليج؟",
+            "answers": [
+              { "text": "القطب الشمالي", "correct": false },
+              { "text": "المحيط الهندي", "correct": false },
+              { "text": "خليج المكسيك", "correct": true },
+              { "text": "المحيط الهادئ", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما اسم الفترة التي كانت فيها السويد مغطاة بالجليد؟",
+            "answers": [
+              { "text": "العصر البرونزي", "correct": false },
+              { "text": "العصر الجليدي", "correct": true },
+              { "text": "عصر الفايكنغ", "correct": false },
+              { "text": "العصور الوسطى", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "منذ حوالي كم سنة ذاب الجليد؟",
+            "answers": [
+              { "text": "1000 سنة", "correct": false },
+              { "text": "5000 سنة", "correct": false },
+              { "text": "10000 سنة", "correct": true },
+              { "text": "20000 سنة", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا كوّن العصر الجليدي؟",
+            "answers": [
+              { "text": "البراكين", "correct": false },
+              { "text": "البحيرات والجزر والسهول", "correct": true },
+              { "text": "الصحارى", "correct": false },
+              { "text": "الغابات المطيرة", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما اسم سلسلة الجبال على حدود النرويج؟",
+            "answers": [
+              { "text": "جبال الألب", "correct": false },
+              { "text": "سكاندرنا", "correct": true },
+              { "text": "الهيمالايا", "correct": false },
+              { "text": "الأنديز", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما اسم أعلى جبل في السويد؟",
+            "answers": [
+              { "text": "أوريسكوتان", "correct": false },
+              { "text": "كِبنيكايسي", "correct": true },
+              { "text": "هيلاغس", "correct": false },
+              { "text": "كِبنيكاجيسي", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كم يبلغ ارتفاع جبل كِبنيكايسي تقريباً؟",
+            "answers": [
+              { "text": "1000 متر", "correct": false },
+              { "text": "1500 متر", "correct": false },
+              { "text": "2000 متر", "correct": true },
+              { "text": "3000 متر", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم من مساحة السويد مغطاة بالغابات؟",
+            "answers": [
+              { "text": "ربع البلاد", "correct": false },
+              { "text": "ثلث البلاد", "correct": false },
+              { "text": "أكثر من النصف", "correct": true },
+              { "text": "كل البلاد", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي الأشجار الأكثر انتشاراً في شمال السويد؟",
+            "answers": [
+              { "text": "البلوط والزان", "correct": false },
+              { "text": "التنوب والصنوبر", "correct": true },
+              { "text": "البتولا والبلوط", "correct": false },
+              { "text": "الزان والقيقب", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي أكبر ثلاث بحيرات في السويد؟",
+            "answers": [
+              { "text": "فينرن وفاترن ومالارين", "correct": true },
+              { "text": "فينرن وسيليان ومالارين", "correct": false },
+              { "text": "هيلمارن وفينرن وفاترن", "correct": false },
+              { "text": "مالارين وسيليان وستورسجون", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هو الأرخبيل (Skärgård)؟",
+            "answers": [
+              { "text": "جبل مرتفع", "correct": false },
+              { "text": "منطقة فيها العديد من الجزر", "correct": true },
+              { "text": "بحيرة كبيرة", "correct": false },
+              { "text": "غابة", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كم عدد الجزر تقريباً في السويد؟",
+            "answers": [
+              { "text": "50000", "correct": false },
+              { "text": "100000", "correct": false },
+              { "text": "250000", "correct": true },
+              { "text": "500000", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي أقسام السويد الثلاثة؟",
+            "answers": [
+              { "text": "نورلاند وهالاند وسكونه", "correct": false },
+              { "text": "يوتالاند وسفيالاند ونورلاند", "correct": true },
+              { "text": "بوهوسلان وسمولاند ولابلاند", "correct": false },
+              { "text": "ستوكهولم ويوتوبوري ومالمو", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كم عدد الأقاليم التاريخية (Landskap) في السويد؟",
+            "answers": [
+              { "text": "20", "correct": false },
+              { "text": "21", "correct": false },
+              { "text": "25", "correct": true },
+              { "text": "290", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم عدد المقاطعات الإدارية (Län) في السويد؟",
+            "answers": [
+              { "text": "20", "correct": false },
+              { "text": "21", "correct": true },
+              { "text": "25", "correct": false },
+              { "text": "290", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كم عدد البلديات (Kommuner) في السويد؟",
+            "answers": [
+              { "text": "200", "correct": false },
+              { "text": "250", "correct": false },
+              { "text": "290", "correct": true },
+              { "text": "310", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم عدد سكان السويد تقريباً؟",
+            "answers": [
+              { "text": "حوالي 8 ملايين", "correct": false },
+              { "text": "حوالي 9 ملايين", "correct": false },
+              { "text": "تقريباً 11 مليون", "correct": true },
+              { "text": "حوالي 13 مليون", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم نسبة السكان الذين يعيشون في المدن؟",
+            "answers": [
+              { "text": "50%", "correct": false },
+              { "text": "65%", "correct": false },
+              { "text": "85%", "correct": true },
+              { "text": "95%", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي أكبر ثلاث مدن في السويد؟",
+            "answers": [
+              { "text": "ستوكهولم وأوبسالا ومالمو", "correct": false },
+              { "text": "ستوكهولم ويوتوبوري ومالمو", "correct": true },
+              { "text": "يوتوبوري وأوميو ومالمو", "correct": false },
+              { "text": "ستوكهولم ولينشوبينغ ويوتوبوري", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي الموارد الطبيعية المهمة في السويد؟",
+            "answers": [
+              { "text": "النفط والغاز", "correct": false },
+              { "text": "الذهب والألماس", "correct": false },
+              {
+                "text": "خام الحديد والغابات والمياه والأراضي الزراعية",
+                "correct": true
+              },
+              { "text": "الفحم والنفط", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "أين توجد أكبر مناجم خام الحديد؟",
+            "answers": [
+              { "text": "سكونه", "correct": false },
+              { "text": "ستوكهولم", "correct": false },
+              { "text": "نوربوتن", "correct": true },
+              { "text": "غوتلاند", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي المدن التي تحتوي على مناجم كبيرة؟",
+            "answers": [
+              { "text": "مالمو ولوند", "correct": false },
+              { "text": "كيرونا ومالمبرغيت", "correct": true },
+              { "text": "يوتوبوري وبوروس", "correct": false },
+              { "text": "أوبسالا ويفله", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "في ماذا يُستخدم الحديد؟",
+            "answers": [
+              { "text": "لصناعة الزجاج", "correct": false },
+              { "text": "لصناعة الفولاذ", "correct": true },
+              { "text": "لصناعة البلاستيك", "correct": false },
+              { "text": "لصناعة الورق", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "في ماذا تُستخدم الطاقة المائية؟",
+            "answers": [
+              { "text": "لتدفئة المنازل", "correct": false },
+              { "text": "لإنتاج الكهرباء", "correct": true },
+              { "text": "لبناء الطرق", "correct": false },
+              { "text": "لتنقية الهواء", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "أين توجد معظم الزراعة في السويد؟",
+            "answers": [
+              { "text": "شمال السويد", "correct": false },
+              { "text": "جنوب السويد", "correct": true },
+              { "text": "لابلاند", "correct": false },
+              { "text": "الجبال", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي المنتجات التي تأتي من الغابات؟",
+            "answers": [
+              { "text": "الورق والكرتون والخشب", "correct": true },
+              { "text": "النفط", "correct": false },
+              { "text": "الغاز", "correct": false },
+              { "text": "الفحم", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هو السبب الأكبر لتغير المناخ؟",
+            "answers": [
+              { "text": "البراكين", "correct": false },
+              { "text": "الزلازل", "correct": false },
+              { "text": "انبعاثات الإنسان للغازات الدفيئة", "correct": true },
+              { "text": "القمر", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "إلى ماذا يمكن أن يؤدي تغير المناخ في السويد؟",
+            "answers": [
+              { "text": "زيادة الفيضانات وحرائق الغابات", "correct": true },
+              { "text": "زيادة البراكين", "correct": false },
+              { "text": "زيادة الزلازل", "correct": false },
+              { "text": "قلة الأمطار دائماً", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هو هدف السويد المناخي؟",
+            "answers": [
+              { "text": "صفر انبعاثات عام 2030", "correct": false },
+              { "text": "تقريباً صفر انبعاثات عام 2045", "correct": true },
+              { "text": "صفر انبعاثات عام 2050", "correct": false },
+              { "text": "لا توجد انبعاثات عام 2100", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يعني التنمية المستدامة؟",
+            "answers": [
+              {
+                "text": "استخدام الموارد الطبيعية بطريقة تسمح للأجيال القادمة بالعيش جيداً",
+                "correct": true
+              },
+              {
+                "text": "استخدام أكبر كمية ممكنة من الموارد",
+                "correct": false
+              },
+              { "text": "الاهتمام بالاقتصاد فقط", "correct": false },
+              { "text": "حماية الغابات فقط", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "كيف يمكنك المساهمة في التنمية المستدامة؟",
+            "answers": [
+              { "text": "رمي القمامة في الطبيعة", "correct": false },
+              { "text": "استخدام كهرباء أكثر", "correct": false },
+              {
+                "text": "استخدام النقل العام وإعادة التدوير وتوفير الطاقة",
+                "correct": true
+              },
+              { "text": "حرق النفايات في المنزل", "correct": false }
+            ],
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 2,
+      "lessonTitle": {
+        "swedish": "Kapitel två: Sveriges demokratiska system",
+        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": {
+        "swedish": [
+          {
+            "question": "Vad betyder ordet demokrati?",
+            "answers": [
+              { "text": "Kungastyre", "correct": false },
+              { "text": "Folkstyre", "correct": true },
+              { "text": "Regeringsstyre", "correct": false },
+              { "text": "Domstolsstyre", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Varifrån kommer ordet demokrati?",
+            "answers": [
+              { "text": "Latin", "correct": false },
+              { "text": "Svenska", "correct": false },
+              { "text": "Grekiska", "correct": true },
+              { "text": "Engelska", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vem utgår makten från i en demokrati?",
+            "answers": [
+              { "text": "Regeringen", "correct": false },
+              { "text": "Kungen", "correct": false },
+              { "text": "Folket", "correct": true },
+              { "text": "Domstolarna", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur påverkar medborgarna politiken i en demokrati?",
+            "answers": [
+              { "text": "Genom fria och rättvisa val", "correct": true },
+              { "text": "Genom att kungen bestämmer", "correct": false },
+              { "text": "Genom militären", "correct": false },
+              { "text": "Genom domstolarna", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad ska kunna hända med dem som har makten i en demokrati?",
+            "answers": [
+              { "text": "De ska styra hela livet", "correct": false },
+              { "text": "De ska kunna bytas ut", "correct": true },
+              { "text": "De får inte kritiseras", "correct": false },
+              { "text": "De väljs av kungen", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad innebär fria val?",
+            "answers": [
+              { "text": "Alla måste rösta", "correct": false },
+              { "text": "Alla får flera röster", "correct": false },
+              {
+                "text": "Ingen får tvingas att rösta på ett visst parti",
+                "correct": true
+              },
+              { "text": "Bara politiker får rösta", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur många röster har varje person med rösträtt?",
+            "answers": [
+              { "text": "Två", "correct": false },
+              { "text": "Tre", "correct": false },
+              { "text": "En", "correct": true },
+              { "text": "Fyra", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad betyder att valen är hemliga?",
+            "answers": [
+              { "text": "Ingen vet när valet hålls", "correct": false },
+              {
+                "text": "Ingen behöver berätta hur man röstar",
+                "correct": true
+              },
+              { "text": "Bara politiker får rösta", "correct": false },
+              { "text": "Resultatet visas inte", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Måste man rösta i Sverige?",
+            "answers": [
+              { "text": "Ja", "correct": false },
+              { "text": "Bara första gången", "correct": false },
+              { "text": "Bara kommunval", "correct": false },
+              { "text": "Nej", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Hur många partier ska finnas att välja mellan i en demokrati?",
+            "answers": [
+              { "text": "Ett", "correct": false },
+              { "text": "Två", "correct": false },
+              { "text": "Flera", "correct": true },
+              { "text": "Inga", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad betyder yttrandefrihet?",
+            "answers": [
+              { "text": "Bara politiker får tala", "correct": false },
+              {
+                "text": "Alla får säga och skriva vad de tycker",
+                "correct": true
+              },
+              { "text": "Man måste hålla med regeringen", "correct": false },
+              { "text": "Bara journalister får prata", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad har människor rätt att göra i en demokrati?",
+            "answers": [
+              { "text": "Förbjuda andra partier", "correct": false },
+              {
+                "text": "Övertyga andra om sina politiska idéer",
+                "correct": true
+              },
+              { "text": "Tvinga andra att rösta", "correct": false },
+              { "text": "Köpa röster", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad betyder rättssäkerhet?",
+            "answers": [
+              {
+                "text": "Politiker bestämmer över domstolar",
+                "correct": false
+              },
+              { "text": "Alla är lika inför lagen", "correct": true },
+              { "text": "Bara medborgare följer lagen", "correct": false },
+              { "text": "Polisen bestämmer allt", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad krävs innan någon kan dömas?",
+            "answers": [
+              { "text": "Ett val", "correct": false },
+              { "text": "En rättvis rättegång", "correct": true },
+              { "text": "Ett beslut av regeringen", "correct": false },
+              { "text": "Ett beslut av kommunen", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad bygger utbildningen i Sverige på?",
+            "answers": [
+              { "text": "Religion", "correct": false },
+              { "text": "Demokratiska värderingar", "correct": true },
+              { "text": "Kungens regler", "correct": false },
+              { "text": "Militär utbildning", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad lär sig eleverna i grundskolan?",
+            "answers": [
+              { "text": "Hur man blir kung", "correct": false },
+              {
+                "text": "Sina rättigheter och hur samhället fungerar",
+                "correct": true
+              },
+              { "text": "Bara historia", "correct": false },
+              { "text": "Bara matematik", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "När blir demokratin starkare?",
+            "answers": [
+              { "text": "När färre röstar", "correct": false },
+              {
+                "text": "När många röstar och engagerar sig",
+                "correct": true
+              },
+              { "text": "När bara politiker röstar", "correct": false },
+              { "text": "När val stoppas", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur kan man påverka samhället?",
+            "answers": [
+              { "text": "Rösta i val", "correct": false },
+              { "text": "Kontakta politiker", "correct": false },
+              { "text": "Demonstrera", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad kan man bli medlem i för att påverka politiken?",
+            "answers": [
+              { "text": "Politiskt parti", "correct": false },
+              { "text": "Intresseorganisation", "correct": false },
+              { "text": "Förening", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad är en namninsamling?",
+            "answers": [
+              {
+                "text": "Lista med namn som visar stöd för en fråga",
+                "correct": true
+              },
+              { "text": "Ett pass", "correct": false },
+              { "text": "Ett körkort", "correct": false },
+              { "text": "En lag", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad kan man skriva för att påverka samhällsdebatten?",
+            "answers": [
+              { "text": "Debattartiklar", "correct": true },
+              { "text": "Körkort", "correct": false },
+              { "text": "Domar", "correct": false },
+              { "text": "Pass", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Hur kan man påverka på sin arbetsplats?",
+            "answers": [
+              { "text": "Genom fackföreningar", "correct": true },
+              { "text": "Genom polisen", "correct": false },
+              { "text": "Genom domstolen", "correct": false },
+              { "text": "Genom regeringen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad är ett hot mot demokratin?",
+            "answers": [
+              { "text": "Högt valdeltagande", "correct": false },
+              { "text": "Lågt valdeltagande", "correct": true },
+              { "text": "Fria val", "correct": false },
+              { "text": "Föreningar", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad kan lågt valdeltagande bero på?",
+            "answers": [
+              {
+                "text": "Att människor inte litar på politiker",
+                "correct": true
+              },
+              { "text": "Att alla är nöjda", "correct": false },
+              { "text": "Att det finns många skolor", "correct": false },
+              { "text": "Att alla röstar", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad kan lågt valdeltagande leda till?",
+            "answers": [
+              { "text": "Starkare demokrati", "correct": false },
+              {
+                "text": "Mindre möjlighet att påverka politiken",
+                "correct": true
+              },
+              { "text": "Fler röster", "correct": false },
+              { "text": "Fler val", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad sprids ibland på sociala medier för att skapa konflikter?",
+            "answers": [
+              { "text": "Vetenskap", "correct": false },
+              { "text": "Falsk information", "correct": true },
+              { "text": "Vallokaler", "correct": false },
+              { "text": "Lagar", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka kan hotas i en demokrati?",
+            "answers": [
+              { "text": "Politiker", "correct": false },
+              { "text": "Journalister", "correct": false },
+              {
+                "text": "Personer som deltar i samhällsdebatten",
+                "correct": false
+              },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Varför är sann information viktig?",
+            "answers": [
+              { "text": "För att demokratin ska fungera", "correct": true },
+              { "text": "För att minska skolor", "correct": false },
+              { "text": "För att höja skatt", "correct": false },
+              { "text": "För att stoppa val", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad betyder segregation?",
+            "answers": [
+              { "text": "Att människor lever åtskilda", "correct": true },
+              { "text": "Att alla bor tillsammans", "correct": false },
+              { "text": "Att alla har samma jobb", "correct": false },
+              { "text": "Att alla tjänar lika mycket", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Segregation kan bero på:",
+            "answers": [
+              { "text": "Inkomst", "correct": false },
+              { "text": "Etnisk bakgrund", "correct": false },
+              { "text": "Ekonomi", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad betyder integration?",
+            "answers": [
+              { "text": "Att människor lever åtskilda", "correct": false },
+              {
+                "text": "Att människor med olika bakgrund lever tillsammans och känner sig delaktiga",
+                "correct": true
+              },
+              { "text": "Att bara svenskar får rösta", "correct": false },
+              { "text": "Att människor flyttar bort", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad kan segregation leda till?",
+            "answers": [
+              { "text": "Mindre kontakt mellan människor", "correct": false },
+              {
+                "text": "Mindre förtroende för myndigheter",
+                "correct": false
+              },
+              { "text": "Mindre politiskt engagemang", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Hur kan segregation påverka demokratin?",
+            "answers": [
+              { "text": "Den stärker demokratin", "correct": false },
+              { "text": "Den försvagar demokratin", "correct": true },
+              { "text": "Den påverkar inte demokratin", "correct": false },
+              { "text": "Den tar bort lagar", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad kan politiker föreslå för att minska segregation?",
+            "answers": [
+              { "text": "Språkutbildning", "correct": false },
+              { "text": "Olika typer av bostäder", "correct": false },
+              { "text": "Bättre integration", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad är syftet med integration?",
+            "answers": [
+              {
+                "text": "Att människor känner sig delaktiga i samhället",
+                "correct": true
+              },
+              {
+                "text": "Att människor lever mer åtskilda",
+                "correct": false
+              },
+              { "text": "Att minska antal kommuner", "correct": false },
+              { "text": "Att stoppa val", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad är en viktig rättighet i en demokrati?",
+            "answers": [
+              {
+                "text": "Yttrandefrihet",
+                "correct": true
+              },
+              {
+                "text": "Att köpa röster",
+                "correct": false
+              },
+              {
+                "text": "Att tvinga människor",
+                "correct": false
+              },
+              {
+                "text": "Att förbjuda partier",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vem omfattas av lagen i Sverige?",
+            "answers": [
+              {
+                "text": "Bara politiker",
+                "correct": false
+              },
+              {
+                "text": "Bara svenska medborgare",
+                "correct": false
+              },
+              {
+                "text": "Alla",
+                "correct": true
+              },
+              {
+                "text": "Bara domare",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilket av följande stärker demokratin?",
+            "answers": [
+              {
+                "text": "Många som röstar",
+                "correct": true
+              },
+              {
+                "text": "Falsk information",
+                "correct": false
+              },
+              {
+                "text": "Hot mot journalister",
+                "correct": false
+              },
+              {
+                "text": "Lågt valdeltagande",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vem kan påverka samhället i en demokrati?",
+            "answers": [
+              {
+                "text": "Bara politiker",
+                "correct": false
+              },
+              {
+                "text": "Bara journalister",
+                "correct": false
+              },
+              {
+                "text": "Alla människor",
+                "correct": true
+              },
+              {
+                "text": "Bara domare",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilket påstående är rätt?",
+            "answers": [
+              {
+                "text": "Demokrati betyder att folket styr",
+                "correct": true
+              },
+              {
+                "text": "Demokrati betyder att kungen styr",
+                "correct": false
+              },
+              {
+                "text": "Demokrati betyder att militären styr",
+                "correct": false
+              },
+              {
+                "text": "Demokrati betyder att domstolarna styr",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          }
+        ],
+        "arabic": [
+          {
+            "question": "ماذا تعني كلمة الديمقراطية؟",
+            "answers": [
+              { "text": "حكم الملك", "correct": false },
+              { "text": "حكم الشعب", "correct": true },
+              { "text": "حكم الحكومة", "correct": false },
+              { "text": "حكم المحاكم", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من أين جاءت كلمة الديمقراطية؟",
+            "answers": [
+              { "text": "اللاتينية", "correct": false },
+              { "text": "السويدية", "correct": false },
+              { "text": "اليونانية", "correct": true },
+              { "text": "الإنجليزية", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "من أين تأتي السلطة في الديمقراطية؟",
+            "answers": [
+              { "text": "الحكومة", "correct": false },
+              { "text": "الملك", "correct": false },
+              { "text": "الشعب", "correct": true },
+              { "text": "المحاكم", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كيف يؤثر المواطنون على السياسة في الديمقراطية؟",
+            "answers": [
+              { "text": "من خلال انتخابات حرة وعادلة", "correct": true },
+              { "text": "من خلال أن يقرر الملك", "correct": false },
+              { "text": "من خلال الجيش", "correct": false },
+              { "text": "من خلال المحاكم", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يجب أن يحدث لمن يملكون السلطة في الديمقراطية؟",
+            "answers": [
+              { "text": "يحكمون طوال حياتهم", "correct": false },
+              { "text": "يمكن تغييرهم", "correct": true },
+              { "text": "لا يمكن انتقادهم", "correct": false },
+              { "text": "يختارهم الملك", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا تعني الانتخابات الحرة؟",
+            "answers": [
+              { "text": "يجب على الجميع التصويت", "correct": false },
+              { "text": "يحصل الجميع على عدة أصوات", "correct": false },
+              {
+                "text": "لا يجوز إجبار أي شخص على التصويت لحزب معين",
+                "correct": true
+              },
+              { "text": "السياسيون فقط يصوتون", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم صوتًا يملك كل شخص لديه حق التصويت؟",
+            "answers": [
+              { "text": "صوتان", "correct": false },
+              { "text": "ثلاثة أصوات", "correct": false },
+              { "text": "صوت واحد", "correct": true },
+              { "text": "أربعة أصوات", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا يعني أن الانتخابات سرية؟",
+            "answers": [
+              { "text": "لا أحد يعرف موعد الانتخابات", "correct": false },
+              {
+                "text": "لا يحتاج الشخص إلى إخبار الآخرين كيف صوّت",
+                "correct": true
+              },
+              { "text": "السياسيون فقط يصوتون", "correct": false },
+              { "text": "لا يتم إعلان النتيجة", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "هل يجب التصويت في السويد؟",
+            "answers": [
+              { "text": "نعم", "correct": false },
+              { "text": "فقط أول مرة", "correct": false },
+              { "text": "فقط في انتخابات البلدية", "correct": false },
+              { "text": "لا", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "كم عدد الأحزاب التي يجب أن تكون موجودة للاختيار في الديمقراطية؟",
+            "answers": [
+              { "text": "حزب واحد", "correct": false },
+              { "text": "حزبان", "correct": false },
+              { "text": "عدة أحزاب", "correct": true },
+              { "text": "لا توجد أحزاب", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا تعني حرية التعبير؟",
+            "answers": [
+              { "text": "السياسيون فقط يمكنهم الكلام", "correct": false },
+              { "text": "يحق للجميع قول وكتابة ما يعتقدون", "correct": true },
+              { "text": "يجب على الجميع موافقة الحكومة", "correct": false },
+              { "text": "الصحفيون فقط يمكنهم الكلام", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما الذي يحق للناس فعله في الديمقراطية؟",
+            "answers": [
+              { "text": "منع الأحزاب الأخرى", "correct": false },
+              { "text": "إقناع الآخرين بأفكارهم السياسية", "correct": true },
+              { "text": "إجبار الآخرين على التصويت", "correct": false },
+              { "text": "شراء الأصوات", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يعني الأمن القانوني (Rättssäkerhet)؟",
+            "answers": [
+              { "text": "السياسيون يتحكمون بالمحاكم", "correct": false },
+              { "text": "الجميع متساوون أمام القانون", "correct": true },
+              { "text": "المواطنون فقط يتبعون القانون", "correct": false },
+              { "text": "الشرطة تقرر كل شيء", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يلزم قبل أن يتم الحكم على شخص؟",
+            "answers": [
+              { "text": "انتخابات", "correct": false },
+              { "text": "محاكمة عادلة", "correct": true },
+              { "text": "قرار من الحكومة", "correct": false },
+              { "text": "قرار من البلدية", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "على ماذا يعتمد التعليم في السويد؟",
+            "answers": [
+              { "text": "الدين", "correct": false },
+              { "text": "القيم الديمقراطية", "correct": true },
+              { "text": "قواعد الملك", "correct": false },
+              { "text": "التدريب العسكري", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يتعلم الطلاب في المدرسة الأساسية؟",
+            "answers": [
+              { "text": "كيف يصبحون ملوكًا", "correct": false },
+              { "text": "حقوقهم وكيف يعمل المجتمع", "correct": true },
+              { "text": "التاريخ فقط", "correct": false },
+              { "text": "الرياضيات فقط", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "متى تصبح الديمقراطية أقوى؟",
+            "answers": [
+              { "text": "عندما يصوت عدد قليل من الناس", "correct": false },
+              {
+                "text": "عندما يصوت الكثير من الناس ويشاركون",
+                "correct": true
+              },
+              { "text": "عندما يصوت السياسيون فقط", "correct": false },
+              { "text": "عندما تتوقف الانتخابات", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كيف يمكن للناس التأثير على المجتمع؟",
+            "answers": [
+              { "text": "التصويت في الانتخابات", "correct": false },
+              { "text": "التواصل مع السياسيين", "correct": false },
+              { "text": "التظاهر", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "في ماذا يمكن أن يصبح الشخص عضوًا للتأثير على السياسة؟",
+            "answers": [
+              { "text": "حزب سياسي", "correct": false },
+              { "text": "منظمة مصالح", "correct": false },
+              { "text": "جمعية", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ما هي حملة جمع التواقيع (Namninsamling)؟",
+            "answers": [
+              {
+                "text": "قائمة أسماء لإظهار الدعم لقضية معينة",
+                "correct": true
+              },
+              { "text": "جواز سفر", "correct": false },
+              { "text": "رخصة قيادة", "correct": false },
+              { "text": "قانون", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يمكن أن يكتب الشخص للتأثير على النقاش المجتمعي؟",
+            "answers": [
+              { "text": "مقالات رأي (Debattartiklar)", "correct": true },
+              { "text": "رخصة قيادة", "correct": false },
+              { "text": "أحكام قضائية", "correct": false },
+              { "text": "جواز سفر", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "كيف يمكن التأثير في مكان العمل؟",
+            "answers": [
+              { "text": "من خلال النقابات العمالية", "correct": true },
+              { "text": "من خلال الشرطة", "correct": false },
+              { "text": "من خلال المحكمة", "correct": false },
+              { "text": "من خلال الحكومة", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هو أحد التهديدات للديمقراطية؟",
+            "answers": [
+              { "text": "مشاركة انتخابية عالية", "correct": false },
+              {
+                "text": "انخفاض نسبة المشاركة في الانتخابات",
+                "correct": true
+              },
+              { "text": "انتخابات حرة", "correct": false },
+              { "text": "الجمعيات", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما سبب انخفاض المشاركة في الانتخابات؟",
+            "answers": [
+              { "text": "أن الناس لا يثقون بالسياسيين", "correct": true },
+              { "text": "أن الجميع راضون", "correct": false },
+              { "text": "وجود مدارس كثيرة", "correct": false },
+              { "text": "أن الجميع يصوت", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "إلى ماذا يمكن أن يؤدي انخفاض المشاركة الانتخابية؟",
+            "answers": [
+              { "text": "ديمقراطية أقوى", "correct": false },
+              { "text": "فرصة أقل للتأثير على السياسة", "correct": true },
+              { "text": "أصوات أكثر", "correct": false },
+              { "text": "انتخابات أكثر", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا ينتشر أحيانًا في وسائل التواصل الاجتماعي لإحداث صراعات؟",
+            "answers": [
+              { "text": "العلم", "correct": false },
+              { "text": "المعلومات الكاذبة", "correct": true },
+              { "text": "أماكن التصويت", "correct": false },
+              { "text": "القوانين", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من يمكن أن يتعرض للتهديد في الديمقراطية؟",
+            "answers": [
+              { "text": "السياسيون", "correct": false },
+              { "text": "الصحفيون", "correct": false },
+              {
+                "text": "الأشخاص المشاركون في النقاش المجتمعي",
+                "correct": false
+              },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "لماذا تعتبر المعلومات الصحيحة مهمة؟",
+            "answers": [
+              { "text": "لكي تعمل الديمقراطية", "correct": true },
+              { "text": "لتقليل عدد المدارس", "correct": false },
+              { "text": "لرفع الضرائب", "correct": false },
+              { "text": "لإيقاف الانتخابات", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يعني الفصل الاجتماعي (Segregation)؟",
+            "answers": [
+              { "text": "أن يعيش الناس منفصلين عن بعضهم", "correct": true },
+              { "text": "أن يعيش الجميع معًا", "correct": false },
+              { "text": "أن يكون للجميع نفس العمل", "correct": false },
+              { "text": "أن يحصل الجميع على نفس المال", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "يمكن أن يحدث الفصل الاجتماعي بسبب:",
+            "answers": [
+              { "text": "الدخل", "correct": false },
+              { "text": "الخلفية العرقية", "correct": false },
+              { "text": "الوضع الاقتصادي", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ماذا يعني الاندماج (Integration)؟",
+            "answers": [
+              { "text": "أن يعيش الناس منفصلين", "correct": false },
+              {
+                "text": "أن يعيش أشخاص من خلفيات مختلفة معًا ويشعروا بالمشاركة",
+                "correct": true
+              },
+              { "text": "أن السويديين فقط يصوتون", "correct": false },
+              { "text": "أن يغادر الناس المجتمع", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "إلى ماذا يمكن أن يؤدي الفصل الاجتماعي؟",
+            "answers": [
+              { "text": "تواصل أقل بين الناس", "correct": false },
+              { "text": "ثقة أقل بالمؤسسات", "correct": false },
+              { "text": "مشاركة سياسية أقل", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "كيف يمكن أن يؤثر الفصل الاجتماعي على الديمقراطية؟",
+            "answers": [
+              { "text": "يقوي الديمقراطية", "correct": false },
+              { "text": "يضعف الديمقراطية", "correct": true },
+              { "text": "لا يؤثر على الديمقراطية", "correct": false },
+              { "text": "يلغي القوانين", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يمكن للسياسيين اقتراحه لتقليل الفصل الاجتماعي؟",
+            "answers": [
+              { "text": "تعليم اللغة", "correct": false },
+              { "text": "أنواع مختلفة من السكن", "correct": false },
+              { "text": "تحسين الاندماج", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ما هو هدف الاندماج؟",
+            "answers": [
+              {
+                "text": "أن يشعر الناس بأنهم جزء من المجتمع",
+                "correct": true
+              },
+              { "text": "أن يعيش الناس منفصلين أكثر", "correct": false },
+              { "text": "تقليل عدد البلديات", "correct": false },
+              { "text": "إيقاف الانتخابات", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هو حق مهم في الديمقراطية؟",
+            "answers": [
+              {
+                "text": "حرية التعبير",
+                "correct": true
+              },
+              {
+                "text": "شراء الأصوات",
+                "correct": false
+              },
+              {
+                "text": "إجبار الناس",
+                "correct": false
+              },
+              {
+                "text": "منع الأحزاب",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "من يخضع للقانون في السويد؟",
+            "answers": [
+              {
+                "text": "السياسيون فقط",
+                "correct": false
+              },
+              {
+                "text": "المواطنون السويديون فقط",
+                "correct": false
+              },
+              {
+                "text": "الجميع",
+                "correct": true
+              },
+              {
+                "text": "القضاة فقط",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "أي مما يلي يقوي الديمقراطية؟",
+            "answers": [
+              {
+                "text": "كثرة الأشخاص الذين يصوتون",
+                "correct": true
+              },
+              {
+                "text": "المعلومات الكاذبة",
+                "correct": false
+              },
+              {
+                "text": "تهديد الصحفيين",
+                "correct": false
+              },
+              {
+                "text": "انخفاض نسبة المشاركة في الانتخابات",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "من يستطيع التأثير على المجتمع في الديمقراطية؟",
+            "answers": [
+              {
+                "text": "السياسيون فقط",
+                "correct": false
+              },
+              {
+                "text": "الصحفيون فقط",
+                "correct": false
+              },
+              {
+                "text": "جميع الناس",
+                "correct": true
+              },
+              {
+                "text": "القضاة فقط",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "أي عبارة صحيحة؟",
+            "answers": [
+              {
+                "text": "الديمقراطية تعني أن الشعب يحكم",
+                "correct": true
+              },
+              {
+                "text": "الديمقراطية تعني أن الملك يحكم",
+                "correct": false
+              },
+              {
+                "text": "الديمقراطية تعني أن الجيش يحكم",
+                "correct": false
+              },
+              {
+                "text": "الديمقراطية تعني أن المحاكم تحكم",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 3,
+      "lessonTitle": {
+        "swedish": "Kapitel tre: Sveriges politiska system",
+        "arabic": "الفصل الثالث – كيف تُحكم السويد"
+      },
+      "questions": {
+        "swedish": [
+          {
+            "question": "Hur många nivåer delas det politiska ansvaret i Sverige upp på?",
+            "answers": [
+              { "text": "2", "correct": false },
+              { "text": "3", "correct": true },
+              { "text": "4", "correct": false },
+              { "text": "5", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilka nivåer styr Sverige?",
+            "answers": [
+              { "text": "Staten, regionerna och kommunerna", "correct": true },
+              { "text": "Staten och EU", "correct": false },
+              { "text": "Kommunerna och domstolarna", "correct": false },
+              { "text": "Regionerna och riksdagen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad påverkar också Sverige utöver stat, region och kommun?",
+            "answers": [
+              { "text": "FN", "correct": false },
+              { "text": "NATO", "correct": false },
+              { "text": "Europeiska unionen (EU)", "correct": true },
+              { "text": "UNESCO", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad består staten av?",
+            "answers": [
+              { "text": "Riksdagen", "correct": false },
+              { "text": "Regeringen", "correct": false },
+              { "text": "Myndigheterna och domstolarna", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vilken typ av demokrati är Sverige?",
+            "answers": [
+              { "text": "Direktdemokrati", "correct": false },
+              {
+                "text": "Parlamentarisk representativ demokrati",
+                "correct": true
+              },
+              { "text": "Diktatur", "correct": false },
+              { "text": "Presidentstyre", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vem väljer ledamöterna till riksdagen?",
+            "answers": [
+              { "text": "Regeringen", "correct": false },
+              { "text": "Kungen", "correct": false },
+              { "text": "Folket", "correct": true },
+              { "text": "Kommunerna", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Hur många ledamöter finns det i riksdagen?",
+            "answers": [
+              { "text": "290", "correct": false },
+              { "text": "349", "correct": true },
+              { "text": "310", "correct": false },
+              { "text": "400", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Hur ofta väljs riksdagen?",
+            "answers": [
+              { "text": "Varje år", "correct": false },
+              { "text": "Vartannat år", "correct": false },
+              { "text": "Vart fjärde år", "correct": true },
+              { "text": "Vart femte år", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad representerar riksdagens ledamöter?",
+            "answers": [
+              { "text": "Endast regeringen", "correct": false },
+              { "text": "Partier och olika delar av landet", "correct": true },
+              { "text": "Bara kommunerna", "correct": false },
+              { "text": "Kungahuset", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad beslutar riksdagen om?",
+            "answers": [
+              { "text": "Lagar", "correct": false },
+              { "text": "Statens budget", "correct": false },
+              { "text": "Statsminister", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vem väljer statsministern?",
+            "answers": [
+              { "text": "Folket", "correct": false },
+              { "text": "Kungen", "correct": false },
+              { "text": "Riksdagen", "correct": true },
+              { "text": "Regeringen", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vem utser ministrarna?",
+            "answers": [
+              { "text": "Riksdagen", "correct": false },
+              { "text": "Statsministern", "correct": true },
+              { "text": "Kungen", "correct": false },
+              { "text": "Domstolen", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad kallas regeringens förslag om statens inkomster och utgifter?",
+            "answers": [
+              { "text": "Budgetproposition", "correct": true },
+              { "text": "Kommunbudget", "correct": false },
+              { "text": "Finansplan", "correct": false },
+              { "text": "Revisionsplan", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "När lämnar regeringen budgetpropositionen?",
+            "answers": [
+              { "text": "På våren", "correct": false },
+              { "text": "På sommaren", "correct": false },
+              { "text": "På hösten", "correct": true },
+              { "text": "På vintern", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad visar budgeten?",
+            "answers": [
+              { "text": "Regeringens prioriteringar", "correct": false },
+              { "text": "Statens inkomster", "correct": false },
+              { "text": "Statens utgifter", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad kallas de partier som inte stödjer regeringen?",
+            "answers": [
+              { "text": "Majoriteten", "correct": false },
+              { "text": "Oppositionen", "correct": true },
+              { "text": "Regionerna", "correct": false },
+              { "text": "Kommunerna", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad är oppositionens viktigaste uppgift?",
+            "answers": [
+              { "text": "Styra domstolarna", "correct": false },
+              { "text": "Granska regeringen", "correct": true },
+              { "text": "Välja kungen", "correct": false },
+              { "text": "Styra kommunerna", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad gör ledamöterna innan de röstar?",
+            "answers": [
+              { "text": "Debatterar", "correct": false },
+              { "text": "Diskuterar", "correct": false },
+              { "text": "Behandlar förslag", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Hur styr regeringen landet?",
+            "answers": [
+              { "text": "Med hjälp av myndigheter", "correct": true },
+              { "text": "Med hjälp av kommunerna", "correct": false },
+              { "text": "Med hjälp av EU", "correct": false },
+              { "text": "Med hjälp av domstolarna", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Hur många myndigheter finns det ungefär i Sverige?",
+            "answers": [
+              { "text": "Cirka 50", "correct": false },
+              { "text": "Cirka 100", "correct": false },
+              { "text": "Flera hundra", "correct": true },
+              { "text": "Cirka 1 000", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+
+          {
+            "question": "Vilken myndighet ansvarar för föräldrapenning?",
+            "answers": [
+              { "text": "Skatteverket", "correct": false },
+              { "text": "Försäkringskassan", "correct": true },
+              { "text": "Arbetsförmedlingen", "correct": false },
+              { "text": "Migrationsverket", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilken myndighet ansvarar för skatter?",
+            "answers": [
+              { "text": "Skatteverket", "correct": true },
+              { "text": "JO", "correct": false },
+              { "text": "Polisen", "correct": false },
+              { "text": "Regionen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vilken myndighet arbetar med arbetslösa?",
+            "answers": [
+              { "text": "Arbetsförmedlingen", "correct": true },
+              { "text": "Polisen", "correct": false },
+              { "text": "Domstolen", "correct": false },
+              { "text": "Kommunen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vilken myndighet ansvarar för migration?",
+            "answers": [
+              { "text": "Migrationsverket", "correct": true },
+              { "text": "Försäkringskassan", "correct": false },
+              { "text": "Regionen", "correct": false },
+              { "text": "Kommunen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad måste myndigheterna följa?",
+            "answers": [
+              { "text": "Lagen", "correct": false },
+              { "text": "Regeringens instruktioner", "correct": false },
+              { "text": "Båda", "correct": true },
+              { "text": "Inget av dem", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad betyder JO?",
+            "answers": [
+              { "text": "Justitieombudsmannen", "correct": true },
+              { "text": "Justitieordningen", "correct": false },
+              { "text": "Juridiska organisationen", "correct": false },
+              { "text": "Justitiekommittén", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad betyder JK?",
+            "answers": [
+              { "text": "Justitiekanslern", "correct": true },
+              { "text": "Justitiekommissionen", "correct": false },
+              { "text": "Juridiska kansliet", "correct": false },
+              { "text": "Justitiekontoret", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad gör JO och JK?",
+            "answers": [
+              { "text": "Kontrollerar andra myndigheter", "correct": true },
+              { "text": "Skriver lagar", "correct": false },
+              { "text": "Väljer regeringen", "correct": false },
+              { "text": "Driver skolor", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Hur många regioner finns det?",
+            "answers": [
+              { "text": "20", "correct": false },
+              { "text": "21", "correct": true },
+              { "text": "25", "correct": false },
+              { "text": "290", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad ansvarar regionerna främst för?",
+            "answers": [
+              { "text": "Hälso- och sjukvård", "correct": false },
+              { "text": "Kollektivtrafik", "correct": false },
+              { "text": "Länsmuseer", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vad heter regionens beslutande församling?",
+            "answers": [
+              { "text": "Regionfullmäktige", "correct": true },
+              { "text": "Kommunfullmäktige", "correct": false },
+              { "text": "Riksdagen", "correct": false },
+              { "text": "Regeringen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Hur många kommuner finns det?",
+            "answers": [
+              { "text": "21", "correct": false },
+              { "text": "290", "correct": true },
+              { "text": "349", "correct": false },
+              { "text": "25", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad heter kommunens beslutande församling?",
+            "answers": [
+              { "text": "Riksdagen", "correct": false },
+              { "text": "Kommunfullmäktige", "correct": true },
+              { "text": "Regionen", "correct": false },
+              { "text": "Domstolen", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vilken är Sveriges största kommun?",
+            "answers": [
+              { "text": "Göteborg", "correct": false },
+              { "text": "Malmö", "correct": false },
+              { "text": "Stockholm", "correct": true },
+              { "text": "Uppsala", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vilken är Sveriges minsta kommun?",
+            "answers": [
+              { "text": "Arjeplog", "correct": false },
+              { "text": "Dorotea", "correct": true },
+              { "text": "Kiruna", "correct": false },
+              { "text": "Pajala", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad ansvarar kulturnämnden för?",
+            "answers": [
+              { "text": "Sjukhus", "correct": false },
+              { "text": "Bibliotek", "correct": true },
+              { "text": "Skatter", "correct": false },
+              { "text": "Polis", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vad ansvarar utbildningsnämnden för?",
+            "answers": [
+              { "text": "Skolorna", "correct": true },
+              { "text": "Domstolarna", "correct": false },
+              { "text": "Polisen", "correct": false },
+              { "text": "Regeringen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad ansvarar kommunen för?",
+            "answers": [
+              { "text": "Vatten", "correct": false },
+              { "text": "Avlopp", "correct": false },
+              { "text": "Äldreomsorg", "correct": false },
+              { "text": "Alla ovanstående", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "Vilka beslut påverkar människors vardag mest?",
+            "answers": [
+              { "text": "Kommunens beslut", "correct": true },
+              { "text": "FN:s beslut", "correct": false },
+              { "text": "Kungens beslut", "correct": false },
+              { "text": "EU:s beslut", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vilket statsskick har Sverige?",
+            "answers": [
+              { "text": "Republik", "correct": false },
+              { "text": "Konstitutionell monarki", "correct": true },
+              { "text": "Diktatur", "correct": false },
+              { "text": "Presidentstyre", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+
+          {
+            "question": "Vad betyder konstitutionell monarki?",
+            "answers": [
+              {
+                "text": "Kungen styr landet",
+                "correct": false
+              },
+              {
+                "text": "Kungen har politisk makt",
+                "correct": false
+              },
+              {
+                "text": "Kungen är statschef men har ingen politisk makt",
+                "correct": true
+              },
+              {
+                "text": "Statsministern är kung",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vad är kungens viktigaste roll?",
+            "answers": [
+              {
+                "text": "Representera Sverige",
+                "correct": true
+              },
+              {
+                "text": "Skriva lagar",
+                "correct": false
+              },
+              {
+                "text": "Välja regeringen",
+                "correct": false
+              },
+              {
+                "text": "Bestämma budgeten",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad gör kungen vid statsbesök?",
+            "answers": [
+              {
+                "text": "Representerar Sverige",
+                "correct": true
+              },
+              {
+                "text": "Röstar i riksdagen",
+                "correct": false
+              },
+              {
+                "text": "Skriver lagar",
+                "correct": false
+              },
+              {
+                "text": "Leder regeringen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad gör kungen när andra statschefer kommer till Sverige?",
+            "answers": [
+              {
+                "text": "Tar emot dem",
+                "correct": true
+              },
+              {
+                "text": "Väljer dem",
+                "correct": false
+              },
+              {
+                "text": "Röstar med dem",
+                "correct": false
+              },
+              {
+                "text": "Skriver lagar",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vad heter Sveriges kung?",
+            "answers": [
+              {
+                "text": "Carl XVI Gustaf",
+                "correct": true
+              },
+              {
+                "text": "Carl XIV Johan",
+                "correct": false
+              },
+              {
+                "text": "Gustaf V",
+                "correct": false
+              },
+              {
+                "text": "Oscar II",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vem är kronprinsessa?",
+            "answers": [
+              {
+                "text": "Madeleine",
+                "correct": false
+              },
+              {
+                "text": "Sofia",
+                "correct": false
+              },
+              {
+                "text": "Victoria",
+                "correct": true
+              },
+              {
+                "text": "Estelle",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "Vem står efter Victoria i tronföljden?",
+            "answers": [
+              {
+                "text": "Carl Philip",
+                "correct": false
+              },
+              {
+                "text": "Estelle",
+                "correct": true
+              },
+              {
+                "text": "Madeleine",
+                "correct": false
+              },
+              {
+                "text": "Oscar",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vem stiftar lagarna i Sverige?",
+            "answers": [
+              {
+                "text": "Regeringen",
+                "correct": false
+              },
+              {
+                "text": "Riksdagen",
+                "correct": true
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              },
+              {
+                "text": "Kommunen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "Vem genomför riksdagens beslut?",
+            "answers": [
+              {
+                "text": "Regeringen",
+                "correct": true
+              },
+              {
+                "text": "Kungen",
+                "correct": false
+              },
+              {
+                "text": "JO",
+                "correct": false
+              },
+              {
+                "text": "Domstolarna",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "Vem genomför regeringens beslut i praktiken?",
+            "answers": [
+              {
+                "text": "Myndigheterna",
+                "correct": true
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              },
+              {
+                "text": "Kommunerna",
+                "correct": false
+              },
+              {
+                "text": "Kungahuset",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          }
+        ],
+        "arabic": [
+          {
+            "question": "كم عدد مستويات المسؤولية السياسية في Sverige؟",
+            "answers": [
+              { "text": "2", "correct": false },
+              { "text": "3", "correct": true },
+              { "text": "4", "correct": false },
+              { "text": "5", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي المستويات التي تحكم Sverige؟",
+            "answers": [
+              { "text": "الدولة، الأقاليم والبلديات", "correct": true },
+              { "text": "الدولة و EU", "correct": false },
+              { "text": "البلديات والمحاكم", "correct": false },
+              { "text": "الإقليم و Riksdagen", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما الذي يؤثر أيضًا على Sverige بالإضافة إلى الدولة والأقاليم والبلديات؟",
+            "answers": [
+              { "text": "FN", "correct": false },
+              { "text": "NATO", "correct": false },
+              { "text": "Europeiska unionen (EU)", "correct": true },
+              { "text": "UNESCO", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "مم تتكون الدولة؟",
+            "answers": [
+              { "text": "Riksdagen", "correct": false },
+              { "text": "Regeringen", "correct": false },
+              { "text": "Myndigheterna och domstolarna", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ما نوع الديمقراطية في Sverige؟",
+            "answers": [
+              { "text": "ديمقراطية مباشرة", "correct": false },
+              { "text": "ديمقراطية برلمانية تمثيلية", "correct": true },
+              { "text": "ديكتاتورية", "correct": false },
+              { "text": "نظام رئاسي", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من الذي ينتخب أعضاء Riksdagen؟",
+            "answers": [
+              { "text": "Regeringen", "correct": false },
+              { "text": "Kungen", "correct": false },
+              { "text": "الشعب", "correct": true },
+              { "text": "Kommunerna", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "كم عدد أعضاء Riksdagen؟",
+            "answers": [
+              { "text": "290", "correct": false },
+              { "text": "349", "correct": true },
+              { "text": "310", "correct": false },
+              { "text": "400", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "كل كم سنة يتم انتخاب Riksdagen؟",
+            "answers": [
+              { "text": "كل سنة", "correct": false },
+              { "text": "كل سنتين", "correct": false },
+              { "text": "كل أربع سنوات", "correct": true },
+              { "text": "كل خمس سنوات", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا يمثل أعضاء Riksdagen؟",
+            "answers": [
+              { "text": "الحكومة فقط", "correct": false },
+              { "text": "الأحزاب وأجزاء مختلفة من البلاد", "correct": true },
+              { "text": "البلديات فقط", "correct": false },
+              { "text": "العائلة المالكة", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "بماذا يقرر Riksdagen؟",
+            "answers": [
+              { "text": "القوانين", "correct": false },
+              { "text": "ميزانية الدولة", "correct": false },
+              { "text": "رئيس الوزراء", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "من الذي يختار رئيس الوزراء؟",
+            "answers": [
+              { "text": "الشعب", "correct": false },
+              { "text": "Kungen", "correct": false },
+              { "text": "Riksdagen", "correct": true },
+              { "text": "Regeringen", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "من الذي يعين الوزراء؟",
+            "answers": [
+              { "text": "Riksdagen", "correct": false },
+              { "text": "رئيس الوزراء", "correct": true },
+              { "text": "Kungen", "correct": false },
+              { "text": "المحكمة", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما اسم اقتراح الحكومة بشأن إيرادات الدولة ونفقاتها؟",
+            "answers": [
+              { "text": "Budgetproposition", "correct": true },
+              { "text": "ميزانية البلدية", "correct": false },
+              { "text": "الخطة المالية", "correct": false },
+              { "text": "خطة المراجعة", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "متى تقدم الحكومة Budgetproposition؟",
+            "answers": [
+              { "text": "في الربيع", "correct": false },
+              { "text": "في الصيف", "correct": false },
+              { "text": "في الخريف", "correct": true },
+              { "text": "في الشتاء", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا تُظهر الميزانية؟",
+            "answers": [
+              { "text": "أولويات الحكومة", "correct": false },
+              { "text": "إيرادات الدولة", "correct": false },
+              { "text": "نفقات الدولة", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ماذا تُسمى الأحزاب التي لا تدعم الحكومة؟",
+            "answers": [
+              { "text": "الأغلبية", "correct": false },
+              { "text": "Oppositionen", "correct": true },
+              { "text": "الأقاليم", "correct": false },
+              { "text": "البلديات", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي المهمة الرئيسية لـ Oppositionen؟",
+            "answers": [
+              { "text": "إدارة المحاكم", "correct": false },
+              { "text": "مراقبة الحكومة", "correct": true },
+              { "text": "اختيار الملك", "correct": false },
+              { "text": "إدارة البلديات", "correct": false }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا يفعل أعضاء Riksdagen قبل التصويت؟",
+            "answers": [
+              { "text": "يناقشون", "correct": false },
+              { "text": "يتحاورون", "correct": false },
+              { "text": "يدرسون المقترحات", "correct": false },
+              { "text": "جميع ما سبق", "correct": true }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "كيف تدير الحكومة البلاد؟",
+            "answers": [
+              { "text": "بمساعدة Myndigheterna", "correct": true },
+              { "text": "بمساعدة Kommunerna", "correct": false },
+              { "text": "بمساعدة EU", "correct": false },
+              { "text": "بمساعدة Domstolarna", "correct": false }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "كم عدد Myndigheterna تقريبًا في Sverige؟",
+            "answers": [
+              { "text": "حوالي 50", "correct": false },
+              { "text": "حوالي 100", "correct": false },
+              { "text": "عدة مئات", "correct": true },
+              { "text": "حوالي 1000", "correct": false }
+            ],
+            "correctAnswer": "C"
+          },
+
+          {
+            "question": "أي هيئة حكومية مسؤولة عن إعانة الوالدين (Föräldrapenning)؟",
+            "answers": [
+              {
+                "text": "Skatteverket",
+                "correct": false
+              },
+              {
+                "text": "Försäkringskassan",
+                "correct": true
+              },
+              {
+                "text": "Arbetsförmedlingen",
+                "correct": false
+              },
+              {
+                "text": "Migrationsverket",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "أي هيئة حكومية مسؤولة عن الضرائب؟",
+            "answers": [
+              {
+                "text": "Skatteverket",
+                "correct": true
+              },
+              {
+                "text": "JO",
+                "correct": false
+              },
+              {
+                "text": "Polisen",
+                "correct": false
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "أي هيئة حكومية تعمل مع العاطلين عن العمل؟",
+            "answers": [
+              {
+                "text": "Arbetsförmedlingen",
+                "correct": true
+              },
+              {
+                "text": "Polisen",
+                "correct": false
+              },
+              {
+                "text": "Domstolen",
+                "correct": false
+              },
+              {
+                "text": "Kommunen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "أي هيئة حكومية مسؤولة عن شؤون الهجرة؟",
+            "answers": [
+              {
+                "text": "Migrationsverket",
+                "correct": true
+              },
+              {
+                "text": "Försäkringskassan",
+                "correct": false
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              },
+              {
+                "text": "Kommunen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "بماذا يجب أن تلتزم الهيئات الحكومية؟",
+            "answers": [
+              {
+                "text": "القانون",
+                "correct": false
+              },
+              {
+                "text": "تعليمات الحكومة",
+                "correct": false
+              },
+              {
+                "text": "كلاهما",
+                "correct": true
+              },
+              {
+                "text": "لا شيء منهما",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ماذا يعني الاختصار JO؟",
+            "answers": [
+              {
+                "text": "Justitieombudsmannen",
+                "correct": true
+              },
+              {
+                "text": "Justitieordningen",
+                "correct": false
+              },
+              {
+                "text": "Juridiska organisationen",
+                "correct": false
+              },
+              {
+                "text": "Justitiekommittén",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يعني الاختصار JK؟",
+            "answers": [
+              {
+                "text": "Justitiekanslern",
+                "correct": true
+              },
+              {
+                "text": "Justitiekommissionen",
+                "correct": false
+              },
+              {
+                "text": "Juridiska kansliet",
+                "correct": false
+              },
+              {
+                "text": "Justitiekontoret",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما هي مهمة JO و JK؟",
+            "answers": [
+              {
+                "text": "مراقبة الهيئات الحكومية الأخرى",
+                "correct": true
+              },
+              {
+                "text": "كتابة القوانين",
+                "correct": false
+              },
+              {
+                "text": "اختيار الحكومة",
+                "correct": false
+              },
+              {
+                "text": "إدارة المدارس",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "كم عدد المناطق (Regioner) في السويد؟",
+            "answers": [
+              {
+                "text": "20",
+                "correct": false
+              },
+              {
+                "text": "21",
+                "correct": true
+              },
+              {
+                "text": "25",
+                "correct": false
+              },
+              {
+                "text": "290",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي المسؤولية الرئيسية للمناطق (Regioner)؟",
+            "answers": [
+              {
+                "text": "الرعاية الصحية",
+                "correct": false
+              },
+              {
+                "text": "المواصلات العامة",
+                "correct": false
+              },
+              {
+                "text": "المتاحف الإقليمية",
+                "correct": false
+              },
+              {
+                "text": "جميع ما سبق",
+                "correct": true
+              }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+            "question": "ما اسم المجلس الذي يتخذ القرارات في المنطقة؟",
+            "answers": [
+              {
+                "text": "Regionfullmäktige",
+                "correct": true
+              },
+              {
+                "text": "Kommunfullmäktige",
+                "correct": false
+              },
+              {
+                "text": "Riksdagen",
+                "correct": false
+              },
+              {
+                "text": "Regeringen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "كم عدد البلديات (Kommuner) في السويد؟",
+            "answers": [
+              {
+                "text": "21",
+                "correct": false
+              },
+              {
+                "text": "290",
+                "correct": true
+              },
+              {
+                "text": "349",
+                "correct": false
+              },
+              {
+                "text": "25",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما اسم المجلس الذي يتخذ القرارات في البلدية؟",
+            "answers": [
+              {
+                "text": "Riksdagen",
+                "correct": false
+              },
+              {
+                "text": "Kommunfullmäktige",
+                "correct": true
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              },
+              {
+                "text": "Domstolen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ما هي أكبر بلدية في السويد؟",
+            "answers": [
+              {
+                "text": "Göteborg",
+                "correct": false
+              },
+              {
+                "text": "Malmö",
+                "correct": false
+              },
+              {
+                "text": "Stockholm",
+                "correct": true
+              },
+              {
+                "text": "Uppsala",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هي أصغر بلدية في السويد؟",
+            "answers": [
+              {
+                "text": "Arjeplog",
+                "correct": false
+              },
+              {
+                "text": "Dorotea",
+                "correct": true
+              },
+              {
+                "text": "Kiruna",
+                "correct": false
+              },
+              {
+                "text": "Pajala",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "عن ماذا تكون لجنة الثقافة مسؤولة؟",
+            "answers": [
+              {
+                "text": "المستشفيات",
+                "correct": false
+              },
+              {
+                "text": "المكتبات",
+                "correct": true
+              },
+              {
+                "text": "الضرائب",
+                "correct": false
+              },
+              {
+                "text": "الشرطة",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "عن ماذا تكون لجنة التعليم مسؤولة؟",
+            "answers": [
+              {
+                "text": "المدارس",
+                "correct": true
+              },
+              {
+                "text": "المحاكم",
+                "correct": false
+              },
+              {
+                "text": "الشرطة",
+                "correct": false
+              },
+              {
+                "text": "الحكومة",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "عن ماذا تكون البلدية مسؤولة؟",
+            "answers": [
+              {
+                "text": "المياه",
+                "correct": false
+              },
+              {
+                "text": "الصرف الصحي",
+                "correct": false
+              },
+              {
+                "text": "رعاية المسنين",
+                "correct": false
+              },
+              {
+                "text": "جميع ما سبق",
+                "correct": true
+              }
+            ],
+            "correctAnswer": "D"
+          },
+          {
+  "question": "أي القرارات تؤثر أكثر على الحياة اليومية للناس؟",
+  "answers": [
+    {
+      "text": "قرارات البلدية",
+      "correct": true
+    },
+    {
+      "text": "قرارات الأمم المتحدة",
+      "correct": false
+    },
+    {
+      "text": "قرارات الملك",
+      "correct": false
+    },
+    {
+      "text": "قرارات الاتحاد الأوروبي",
+      "correct": false
+    }
+  ],
+  "correctAnswer": "A"
+},
+
+          {
+            "question": "ما هو نظام الحكم في السويد؟",
+            "answers": [
+              {
+                "text": "جمهورية",
+                "correct": false
+              },
+              {
+                "text": "ملكية دستورية",
+                "correct": true
+              },
+              {
+                "text": "ديكتاتورية",
+                "correct": false
+              },
+              {
+                "text": "نظام رئاسي",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "ماذا تعني الملكية الدستورية؟",
+            "answers": [
+              {
+                "text": "الملك يحكم البلاد",
+                "correct": false
+              },
+              {
+                "text": "للملك سلطة سياسية",
+                "correct": false
+              },
+              {
+                "text": "الملك هو رئيس الدولة لكنه لا يملك سلطة سياسية",
+                "correct": true
+              },
+              {
+                "text": "رئيس الوزراء هو الملك",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "ما هو الدور الرئيسي للملك؟",
+            "answers": [
+              {
+                "text": "تمثيل السويد",
+                "correct": true
+              },
+              {
+                "text": "سن القوانين",
+                "correct": false
+              },
+              {
+                "text": "اختيار الحكومة",
+                "correct": false
+              },
+              {
+                "text": "تحديد الميزانية",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يفعل الملك أثناء الزيارات الرسمية؟",
+            "answers": [
+              {
+                "text": "يمثل السويد",
+                "correct": true
+              },
+              {
+                "text": "يصوت في البرلمان",
+                "correct": false
+              },
+              {
+                "text": "يسن القوانين",
+                "correct": false
+              },
+              {
+                "text": "يقود الحكومة",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ماذا يفعل الملك عندما يزور رؤساء الدول السويد؟",
+            "answers": [
+              {
+                "text": "يستقبلهم",
+                "correct": true
+              },
+              {
+                "text": "ينتخبهم",
+                "correct": false
+              },
+              {
+                "text": "يصوت معهم",
+                "correct": false
+              },
+              {
+                "text": "يسن القوانين",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "ما اسم ملك السويد؟",
+            "answers": [
+              {
+                "text": "Carl XVI Gustaf",
+                "correct": true
+              },
+              {
+                "text": "Carl XIV Johan",
+                "correct": false
+              },
+              {
+                "text": "Gustaf V",
+                "correct": false
+              },
+              {
+                "text": "Oscar II",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "من هي ولية العهد؟",
+            "answers": [
+              {
+                "text": "Madeleine",
+                "correct": false
+              },
+              {
+                "text": "Sofia",
+                "correct": false
+              },
+              {
+                "text": "Victoria",
+                "correct": true
+              },
+              {
+                "text": "Estelle",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "C"
+          },
+          {
+            "question": "من يأتي بعد Victoria في ترتيب ولاية العرش؟",
+            "answers": [
+              {
+                "text": "Carl Philip",
+                "correct": false
+              },
+              {
+                "text": "Estelle",
+                "correct": true
+              },
+              {
+                "text": "Madeleine",
+                "correct": false
+              },
+              {
+                "text": "Oscar",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من يسن القوانين في السويد؟",
+            "answers": [
+              {
+                "text": "الحكومة",
+                "correct": false
+              },
+              {
+                "text": "Riksdagen",
+                "correct": true
+              },
+              {
+                "text": "Regionen",
+                "correct": false
+              },
+              {
+                "text": "Kommunen",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "B"
+          },
+          {
+            "question": "من ينفذ قرارات البرلمان؟",
+            "answers": [
+              {
+                "text": "الحكومة",
+                "correct": true
+              },
+              {
+                "text": "الملك",
+                "correct": false
+              },
+              {
+                "text": "JO",
+                "correct": false
+              },
+              {
+                "text": "المحاكم",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          },
+          {
+            "question": "من ينفذ قرارات الحكومة عمليًا؟",
+            "answers": [
+              {
+                "text": "الهيئات الحكومية",
+                "correct": true
+              },
+              {
+                "text": "المناطق",
+                "correct": false
+              },
+              {
+                "text": "البلديات",
+                "correct": false
+              },
+              {
+                "text": "العائلة المالكة",
+                "correct": false
+              }
+            ],
+            "correctAnswer": "A"
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 4,
+      "lessonTitle": {
+        "swedish": "Kapitel två: Sveriges demokratiska system",
+        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": {
+        "swedish": [],
+        "arabic": []
+      }
+    }
+  ]
+}

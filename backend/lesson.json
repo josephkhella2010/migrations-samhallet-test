@@ -1,0 +1,2106 @@
+{
+  "lessons": [
+    {
+      "lessonId": 1,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 1- Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Geografi",
+            "subtitle": "Var ligger Sverige?",
+            "text": "Sverige ligger i Norden, som är en del av norra Europa.\nNorden består av fem länder:",
+            "list": ["Sverige", "Norge", "Danmark", "Finland", "Island"],
+            "text2": "Sverige är det största landet i Norden."
+          },
+          {
+            "title": "Sveriges längd",
+            "subtitle": "",
+            "text": "Sverige är ett avlångt land.\nFrån Treriksröset (nordligaste punkten) till Smygehuk (sydligaste punkten) är det cirka 1 600 kilometer.\nDen nordligaste delen av Sverige ligger norr om Polcirkeln, vilket betyder att området tillhör Arktis."
+          },
+          {
+            "title": "Sveriges hav",
+            "subtitle": "",
+            "text": "Sverige har en mycket lång kust.\nÖstra kusten\nÖstersjön\nI Östersjön ligger Sveriges två största öar:",
+            "list": ["Gotland", "Öland"],
+            "text2": "Västra kusten\nSkagerrak\nKattegatt"
+          },
+          {
+            "title": "2. Sveriges klimat",
+            "subtitle": "",
+            "text": "Trots att Sverige ligger långt norrut har landet ett mildare klimat än många andra länder på samma breddgrad.\nVarför?\nDet beror på två havsströmmar:",
+            "list": ["Golfströmmen", "Nordatlantiska strömmen"],
+            "text2": "De transporterar varmt vatten från Mexikanska golfen över Atlanten mot Europa.\nDet varma havsvattnet:",
+            "list2": [
+              "värmer luften",
+              "vindarna för den varma och fuktiga luften till Sverige"
+            ],
+            "text3": "Därför blir vintrarna mildare än de annars skulle vara."
+          },
+          {
+            "title": "3. Sveriges natur",
+            "subtitle": "Istiden",
+            "text": "För ungefär 10 000 år sedan var Sverige täckt av flera kilometer tjock is.\nDen perioden kallas istiden.\nNär isen smälte bildades:",
+            "list": [
+              "tusentals sjöar",
+              "skärgårdar",
+              "slätter med odlingsbar jord",
+              "dagens fjäll"
+            ],
+            "text2": "Istiden har alltså format Sveriges landskap."
+          },
+          {
+            "title": "4. Fjäll",
+            "subtitle": "",
+            "text": "Längs gränsen mot Norge ligger bergskedjan Skanderna.\nDen kallas ofta fjällen.\nDär:",
+            "list": [
+              "klimatet är kallt",
+              "det blåser mycket",
+              "träd kan inte växa"
+            ],
+            "text2": "Landskapet består mest av:",
+            "list2": ["sten", "gräs", "låga växter"],
+            "text3": "Här ligger också Sveriges högsta berg:\nKebnekaise\ncirka 2 000 meter högt"
+          },
+          {
+            "title": "5. Skogar",
+            "subtitle": "",
+            "text": "Mer än hälften av Sveriges yta är täckt av skog.\nNorra Sverige\nEftersom klimatet är kallare växer mest:",
+            "list": ["gran", "tall"],
+            "text2": "Dessa kallas barrträd.\nSödra Sverige\nKlimatet är mildare.\nDär finns fler:",
+            "list2": ["ek", "björk", "bok"],
+            "text3": "Dessa är lövträd."
+          },
+          {
+            "title": "6. Sjöar",
+            "subtitle": "",
+            "text": "Sverige har väldigt många sjöar.\nDe tre största är:",
+            "list": ["Vänern", "Vättern", "Mälaren"],
+            "text2": "Sjöarna används bland annat som:",
+            "list2": ["dricksvatten", "fiske", "transporter", "rekreation"]
+          },
+          {
+            "title": "7. Älvar och vattendrag",
+            "subtitle": "",
+            "text": "Det finns hundratals:",
+            "list": ["älvar", "åar"],
+            "text2": "De största älvarna börjar i fjällen i norra Sverige och rinner mot havet.\nDe används bland annat till:",
+            "list2": ["vattenkraft", "elproduktion"]
+          },
+          {
+            "title": "8. Skärgårdar",
+            "subtitle": "",
+            "text": "En skärgård är ett område med många öar nära kusten.\nSverige har skärgårdar:",
+            "list": [
+              "längs östkusten",
+              "längs norra Sveriges kust",
+              "vid Småland",
+              "utanför Göteborg",
+              "i Bohuslän"
+            ],
+            "text2": "Sverige har cirka 250 000 öar.\nDet är fler öar än något annat land i världen."
+          },
+          {
+            "title": "9. Sveriges indelning",
+            "subtitle": "Tre landsdelar",
+            "text": "",
+            "list": [
+              "Götaland",
+              "södra Sverige",
+              "Svealand",
+              "mellersta Sverige",
+              "Norrland",
+              "norra Sverige"
+            ],
+            "text2": "Norrland täcker mer än hälften av Sveriges yta."
+          },
+          {
+            "title": "Landskap",
+            "subtitle": "",
+            "text": "Sverige har 25 landskap.\nFörr hade varje landskap egna lagar.\nIdag används de inte för att styra landet.\nMånga känner ändå stark anknytning till sitt landskap."
+          },
+          {
+            "title": "Län",
+            "subtitle": "",
+            "text": "Sverige har 21 län.\nLänen används av staten och regionerna för administration."
+          },
+          {
+            "title": "Kommuner",
+            "subtitle": "",
+            "text": "Sverige har 290 kommuner.\nKommunerna ansvarar bland annat för:",
+            "list": [
+              "skola",
+              "äldreomsorg",
+              "socialtjänst",
+              "vatten",
+              "avlopp",
+              "sophämtning"
+            ]
+          },
+          {
+            "title": "10. Befolkning",
+            "subtitle": "",
+            "text": "Sverige har nästan 11 miljoner invånare.\nBefolkningen är ojämnt fördelad.\nDe flesta bor:",
+            "list": ["i södra Sverige", "längs kusterna"],
+            "text2": "Ungefär 85 % av befolkningen bor i städer."
+          },
+          {
+            "title": "De tre största städerna",
+            "subtitle": "",
+            "text": "",
+            "list": ["Stockholm", "Göteborg", "Malmö"],
+            "text2": "I och omkring dessa tre städer bor ungefär 4 miljoner människor."
+          },
+          {
+            "title": "11. Naturresurser",
+            "subtitle": "",
+            "text": "Sverige är rikt på naturresurser.\nDe viktigaste är:",
+            "list": [
+              "järnmalm",
+              "andra mineraler",
+              "skog",
+              "vatten",
+              "jordbruksmark"
+            ]
+          },
+          {
+            "title": "12. Järnmalm och mineraler",
+            "subtitle": "",
+            "text": "Mineraler bryts i gruvor.\nDe största gruvorna finns i Norrbottens län.\nExempel:",
+            "list": ["Kiruna", "Malmberget"],
+            "text2": "I gruvorna bryts:",
+            "list2": ["järnmalm", "koppar", "zink", "bly", "guld"],
+            "text3": "Järn används för att tillverka stål.\nJärn- och stålindustrin har varit mycket viktig för Sveriges ekonomi under lång tid.\nJärnmalmen transporteras från gruvorna med tåg."
+          },
+          {
+            "title": "13. Vatten",
+            "subtitle": "",
+            "text": "Sverige har mycket god tillgång till vatten.\nVattnet används till:",
+            "list": ["dricksvatten", "jordbruk", "industri"],
+            "text2": "Vatten används också till att producera el.\nI vattenkraftverk används rinnande vatten för att skapa elektricitet.\nVattenkraft står för en stor del av Sveriges elproduktion."
+          },
+          {
+            "title": "14. Jordbruk",
+            "subtitle": "",
+            "text": "Jordbruket är anpassat efter klimatet.\nI norra Sverige är klimatet kallare.\nDärför odlas mindre.\nDet mesta jordbruket finns i södra Sverige."
+          },
+          {
+            "title": "15. Skogsbruk",
+            "subtitle": "",
+            "text": "Skogen är en av Sveriges viktigaste naturresurser.\nProdukter från skogen exporteras till många länder.\nViktiga produkter är:",
+            "list": ["cellulosa", "papper", "kartong", "trä"],
+            "text2": "Skogsindustrin är en av Sveriges viktigaste näringar."
+          },
+          {
+            "title": "16. Klimatförändringar",
+            "subtitle": "",
+            "text": "Jordens klimat har alltid förändrats.\nIdag sker uppvärmningen snabbare än tidigare.\nEnligt forskare och FN:s klimatpanel\nDen största orsaken är människans utsläpp av växthusgaser.\nUtsläppen kommer främst från:",
+            "list": ["transporter", "industrier", "jordbruk"],
+            "text2": "Konsekvenser\nNär jorden blir varmare:",
+            "list2": [
+              "isarna vid polerna smälter",
+              "havsnivån stiger",
+              "värmeböljor blir vanligare",
+              "kraftiga regn ökar",
+              "torka blir vanligare"
+            ],
+            "text3": "I Sverige kan klimatförändringarna leda till:",
+            "list3": [
+              "fler översvämningar",
+              "kraftigare regn",
+              "längre värmeperioder",
+              "torka",
+              "fler skogsbränder"
+            ]
+          },
+          {
+            "title": "17. Sveriges arbete mot klimatförändringarna",
+            "subtitle": "",
+            "text": "Sverige arbetar för att minska klimatförändringarnas konsekvenser.\nDet finns en klimatlag.\n\nKlimatmål\nÅr 2045 ska Sveriges utsläpp av växthusgaser vara så nära noll som möjligt.\nDet betyder att Sverige inte ska släppa ut mer växthusgaser än naturen kan ta upp."
+          },
+          {
+            "title": "Internationellt samarbete",
+            "subtitle": "",
+            "text": "Sverige samarbetar med andra länder för att utveckla och använda:",
+            "list": ["vindkraft", "vattenkraft", "solenergi"]
+          },
+          {
+            "title": "18. Hållbar utveckling",
+            "subtitle": "",
+            "text": "Hållbar utveckling betyder att vi använder naturresurser på ett sätt så att framtida generationer också kan leva bra.\nDen bygger på tre delar:",
+            "list": ["miljö", "samhälle", "ekonomi"]
+          },
+          {
+            "title": "Vem kan bidra?",
+            "subtitle": "Regeringar och internationella organisationer",
+            "text": "",
+            "list": ["stiftar lagar", "minskar utsläpp", "skyddar miljön"]
+          },
+          {
+            "title": "Företag",
+            "subtitle": "",
+            "text": "",
+            "list": [
+              "minskar sin klimatpåverkan",
+              "använder miljövänligare teknik"
+            ]
+          },
+          {
+            "title": "Individer",
+            "subtitle": "",
+            "text": "Kan bidra genom att:",
+            "list": [
+              "åka buss eller tåg",
+              "cykla eller gå",
+              "spara el och värme",
+              "sortera sopor",
+              "återvinna",
+              "minska matsvinn",
+              "leva mer hållbart",
+              "engagera sig politiskt"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. الجغرافيا",
+            "subtitle": "أين تقع السويد؟",
+            "text": "تقع السويد في منطقة الشمال الأوروبي، وهي جزء من شمال أوروبا.\nتتكون منطقة الشمال من خمس دول:",
+            "list": ["السويد", "النرويج", "الدنمارك", "فنلندا", "آيسلندا"],
+            "text2": "السويد هي أكبر دولة في منطقة الشمال."
+          },
+          {
+            "title": "طول السويد",
+            "subtitle": "",
+            "text": "السويد دولة طويلة وممتدة.\nتمتد من تريريكسروسيت (أقصى نقطة في الشمال) إلى سميغيهوك (أقصى نقطة في الجنوب) لمسافة تقارب 1600 كيلومتر.\nويقع الجزء الشمالي من السويد شمال الدائرة القطبية، مما يعني أنه ينتمي إلى المنطقة القطبية الشمالية."
+          },
+          {
+            "title": "بحار السويد",
+            "subtitle": "",
+            "text": "للسويد ساحل طويل جداً.\nالساحل الشرقي\nبحر البلطيق\nويقع في بحر البلطيق أكبر جزيرتين في السويد:",
+            "list": ["غوتلاند", "أولاند"],
+            "text2": "الساحل الغربي\nسكاغيراك\nكاتيغات"
+          },
+          {
+            "title": "2. مناخ السويد",
+            "subtitle": "",
+            "text": "على الرغم من أن السويد تقع في أقصى الشمال، فإن مناخها أكثر اعتدالاً من العديد من الدول الأخرى الواقعة على خط العرض نفسه.\nلماذا؟\nيرجع ذلك إلى تيارين بحريين:",
+            "list": ["تيار الخليج", "تيار شمال الأطلسي"],
+            "text2": "ينقلان المياه الدافئة من خليج المكسيك عبر المحيط الأطلسي إلى أوروبا.\nوتعمل المياه الدافئة على:",
+            "list2": [
+              "تدفئة الهواء",
+              "تحمل الرياح الهواء الدافئ والرطب إلى السويد"
+            ],
+            "text3": "ولذلك يكون الشتاء أكثر اعتدالاً مما كان سيكون عليه في الظروف الطبيعية."
+          },
+          {
+            "title": "3. طبيعة السويد",
+            "subtitle": "العصر الجليدي",
+            "text": "قبل حوالي 10 آلاف سنة كانت السويد مغطاة بطبقات من الجليد يبلغ سمكها عدة كيلومترات.\nوتسمى تلك الفترة بالعصر الجليدي.\nوعندما ذاب الجليد تشكلت:",
+            "list": [
+              "آلاف البحيرات",
+              "الأرخبيلات",
+              "السهول الصالحة للزراعة",
+              "الجبال الحالية"
+            ],
+            "text2": "لقد شكّل العصر الجليدي تضاريس السويد كما نعرفها اليوم."
+          },
+          {
+            "title": "4. الجبال",
+            "subtitle": "",
+            "text": "تقع سلسلة جبال سكاندرنا على طول الحدود مع النرويج.\nوتُعرف غالباً باسم الجبال.\nوهناك:",
+            "list": ["المناخ بارد", "الرياح قوية", "لا تستطيع الأشجار النمو"],
+            "text2": "وتتكون الطبيعة هناك بشكل رئيسي من:",
+            "list2": ["الصخور", "الأعشاب", "النباتات القصيرة"],
+            "text3": "وهناك أيضاً أعلى جبل في السويد:\nكيبنيكايسي\nبارتفاع يقارب 2000 متر."
+          },
+          {
+            "title": "5. الغابات",
+            "subtitle": "",
+            "text": "أكثر من نصف مساحة السويد مغطى بالغابات.\nفي شمال السويد\nوبسبب برودة المناخ تنمو بشكل أساسي:",
+            "list": ["شجرة التنوب", "شجرة الصنوبر"],
+            "text2": "وتسمى هذه الأشجار بالأشجار الصنوبرية.\nفي جنوب السويد\nالمناخ أكثر اعتدالاً.\nوهناك تنمو بكثرة:",
+            "list2": ["البلوط", "البتولا", "الزان"],
+            "text3": "وهذه تُسمى الأشجار متساقطة الأوراق."
+          },
+          {
+            "title": "6. البحيرات",
+            "subtitle": "",
+            "text": "يوجد في السويد عدد كبير جداً من البحيرات.\nوأكبر ثلاث بحيرات هي:",
+            "list": ["فينرن", "فيترن", "مالارين"],
+            "text2": "وتُستخدم البحيرات في عدة مجالات منها:",
+            "list2": ["مياه الشرب", "صيد الأسماك", "النقل", "الترفيه"]
+          },
+          {
+            "title": "7. الأنهار والمجاري المائية",
+            "subtitle": "",
+            "text": "يوجد في السويد مئات من:",
+            "list": ["الأنهار", "الجداول"],
+            "text2": "تبدأ أكبر الأنهار من الجبال في شمال السويد وتتجه نحو البحر.\nوتُستخدم في:",
+            "list2": ["الطاقة الكهرومائية", "إنتاج الكهرباء"]
+          },
+          {
+            "title": "8. الأرخبيلات",
+            "subtitle": "",
+            "text": "الأرخبيل هو منطقة تضم العديد من الجزر القريبة من الساحل.\nوتوجد الأرخبيلات في السويد:",
+            "list": [
+              "على الساحل الشرقي",
+              "على ساحل شمال السويد",
+              "عند سمولاند",
+              "خارج يوتيبوري",
+              "في بوهوسلان"
+            ],
+            "text2": "يوجد في السويد حوالي 250 ألف جزيرة.\nوهو أكبر عدد من الجزر في أي دولة في العالم."
+          },
+          {
+            "title": "9. التقسيم الجغرافي للسويد",
+            "subtitle": "الأقاليم الثلاثة",
+            "text": "",
+            "list": [
+              "يوتالاند",
+              "جنوب السويد",
+              "سفيالاند",
+              "وسط السويد",
+              "نورلاند",
+              "شمال السويد"
+            ],
+            "text2": "يغطي نورلاند أكثر من نصف مساحة السويد."
+          },
+          {
+            "title": "المقاطعات التاريخية",
+            "subtitle": "",
+            "text": "تضم السويد 25 مقاطعة تاريخية.\nوكان لكل مقاطعة في الماضي قوانينها الخاصة.\nأما اليوم فلا تُستخدم لإدارة الدولة.\nومع ذلك لا يزال كثير من الناس يشعرون بانتماء قوي إلى مقاطعتهم."
+          },
+          {
+            "title": "المحافظات",
+            "subtitle": "",
+            "text": "تضم السويد 21 محافظة.\nوتُستخدم المحافظات من قبل الدولة والأقاليم لأغراض الإدارة."
+          },
+          {
+            "title": "البلديات",
+            "subtitle": "",
+            "text": "يوجد في السويد 290 بلدية.\nوتتولى البلديات مسؤولية عدة خدمات منها:",
+            "list": [
+              "المدارس",
+              "رعاية كبار السن",
+              "الخدمات الاجتماعية",
+              "المياه",
+              "الصرف الصحي",
+              "جمع النفايات"
+            ]
+          },
+          {
+            "title": "10. السكان",
+            "subtitle": "",
+            "text": "يبلغ عدد سكان السويد حوالي 11 مليون نسمة.\nويتوزع السكان بشكل غير متساوٍ.\nويعيش معظمهم:",
+            "list": ["في جنوب السويد", "على طول السواحل"],
+            "text2": "ويعيش حوالي 85٪ من السكان في المدن."
+          },
+          {
+            "title": "أكبر ثلاث مدن",
+            "subtitle": "",
+            "text": "",
+            "list": ["ستوكهولم", "يوتيبوري", "مالمو"],
+            "text2": "يعيش في هذه المدن الثلاث وضواحيها حوالي 4 ملايين نسمة."
+          },
+          {
+            "title": "11. الموارد الطبيعية",
+            "subtitle": "",
+            "text": "تتميز السويد بغناها بالموارد الطبيعية.\nوأهمها:",
+            "list": [
+              "خام الحديد",
+              "معادن أخرى",
+              "الغابات",
+              "المياه",
+              "الأراضي الزراعية"
+            ]
+          },
+          {
+            "title": "12. خام الحديد والمعادن",
+            "subtitle": "",
+            "text": "تُستخرج المعادن من المناجم.\nوتوجد أكبر المناجم في محافظة نوربوتن.\nومن الأمثلة:",
+            "list": ["كيرونا", "مالمبيرييت"],
+            "text2": "وتُستخرج من المناجم:",
+            "list2": ["خام الحديد", "النحاس", "الزنك", "الرصاص", "الذهب"],
+            "text3": "يُستخدم الحديد في صناعة الفولاذ.\nوقد كانت صناعة الحديد والفولاذ من أهم ركائز الاقتصاد السويدي لفترة طويلة.\nويُنقل خام الحديد من المناجم بواسطة القطارات."
+          },
+
+          {
+            "title": "13. المياه",
+            "subtitle": "",
+            "text": "تتمتع السويد بوفرة كبيرة من المياه.\nوتُستخدم المياه في:",
+            "list": ["مياه الشرب", "الزراعة", "الصناعة"],
+            "text2": "وتُستخدم المياه أيضاً في إنتاج الكهرباء.\nوفي محطات الطاقة الكهرومائية يُستخدم الماء الجاري لتوليد الكهرباء.\nوتشكل الطاقة الكهرومائية جزءاً كبيراً من إنتاج الكهرباء في السويد."
+          },
+          {
+            "title": "14. الزراعة",
+            "subtitle": "",
+            "text": "تتكيف الزراعة مع المناخ.\nوفي شمال السويد يكون المناخ أبرد.\nولهذا السبب تكون الزراعة أقل هناك.\nأما معظم الزراعة فتوجد في جنوب السويد."
+          },
+          {
+            "title": "15. صناعة الغابات",
+            "subtitle": "",
+            "text": "تعد الغابات من أهم الموارد الطبيعية في السويد.\nوتُصدر منتجات الغابات إلى العديد من الدول.\nومن المنتجات المهمة:",
+            "list": ["السليلوز", "الورق", "الكرتون", "الخشب"],
+            "text2": "وتعد صناعة الغابات من أهم الصناعات في السويد."
+          },
+          {
+            "title": "16. التغيرات المناخية",
+            "subtitle": "",
+            "text": "لقد تغير مناخ الأرض دائماً عبر التاريخ.\nواليوم يحدث الاحترار بوتيرة أسرع من السابق.\nووفقاً للباحثين والهيئة الحكومية الدولية المعنية بتغير المناخ التابعة للأمم المتحدة، فإن السبب الرئيسي هو انبعاثات الغازات الدفيئة الناتجة عن الأنشطة البشرية.\nوتأتي هذه الانبعاثات بشكل رئيسي من:",
+            "list": ["وسائل النقل", "الصناعات", "الزراعة"],
+            "text2": "النتائج\nعندما ترتفع حرارة الأرض:",
+            "list2": [
+              "يذوب الجليد عند القطبين",
+              "يرتفع مستوى سطح البحر",
+              "تصبح موجات الحر أكثر شيوعاً",
+              "تزداد الأمطار الغزيرة",
+              "يصبح الجفاف أكثر شيوعاً"
+            ],
+            "text3": "في السويد، يمكن أن تؤدي التغيرات المناخية إلى:",
+            "list3": [
+              "زيادة الفيضانات",
+              "هطول أمطار أكثر غزارة",
+              "فترات حر أطول",
+              "الجفاف",
+              "زيادة حرائق الغابات"
+            ]
+          },
+          {
+            "title": "17. جهود السويد لمواجهة التغيرات المناخية",
+            "subtitle": "",
+            "text": "تعمل السويد على الحد من آثار التغيرات المناخية.\nولديها قانون خاص بالمناخ.\n\nأهداف المناخ\nبحلول عام 2045 يجب أن تصبح انبعاثات الغازات الدفيئة في السويد قريبة من الصفر قدر الإمكان.\nوهذا يعني ألا تطلق السويد غازات دفيئة أكثر مما تستطيع الطبيعة امتصاصه."
+          },
+          {
+            "title": "التعاون الدولي",
+            "subtitle": "",
+            "text": "تتعاون السويد مع دول أخرى لتطوير واستخدام:",
+            "list": ["طاقة الرياح", "الطاقة الكهرومائية", "الطاقة الشمسية"]
+          },
+          {
+            "title": "18. التنمية المستدامة",
+            "subtitle": "",
+            "text": "تعني التنمية المستدامة استخدام الموارد الطبيعية بطريقة تضمن أن تتمكن الأجيال القادمة أيضاً من العيش حياة جيدة.\nوتقوم على ثلاثة عناصر:",
+            "list": ["البيئة", "المجتمع", "الاقتصاد"]
+          },
+          {
+            "title": "من يمكنه المساهمة؟",
+            "subtitle": "الحكومات والمنظمات الدولية",
+            "text": "",
+            "list": ["سن القوانين", "خفض الانبعاثات", "حماية البيئة"]
+          },
+          {
+            "title": "الشركات",
+            "subtitle": "",
+            "text": "",
+            "list": [
+              "تقليل تأثيرها على المناخ",
+              "استخدام تقنيات أكثر صداقة للبيئة"
+            ]
+          },
+          {
+            "title": "الأفراد",
+            "subtitle": "",
+            "text": "يمكنهم المساهمة من خلال:",
+            "list": [
+              "استخدام الحافلات أو القطارات",
+              "ركوب الدراجة أو المشي",
+              "توفير الكهرباء والتدفئة",
+              "فرز النفايات",
+              "إعادة التدوير",
+              "تقليل هدر الطعام",
+              "اتباع أسلوب حياة أكثر استدامة",
+              "المشاركة في العمل السياسي"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 2,
+      "lessonTitle": {
+        "swedish": "Sveriges demokratiska system",
+        "arabic": "النظام الديمقراطي في السويد"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Demokrati – Folkstyre",
+            "subtitle": "Vad betyder demokrati?",
+            "text": "Demokrati är ett politiskt system där makten kommer från folket. Ordet demokrati kommer från grekiskan och betyder folkstyre.",
+            "text1": "I en demokrati väljer folket sina politiska representanter genom fria och rättvisa val.",
+            "text2": "Politikerna styr landet under en bestämd tid och kan sedan bytas ut i nästa val om väljarna vill.",
+            "text3": "Det betyder att ingen person eller grupp får behålla makten för alltid."
+          },
+          {
+            "title": "Vad krävs i en demokrati?",
+            "subtitle": "",
+            "text": "För att ett land ska vara demokratiskt måste:",
+            "list": [
+              "folket kunna rösta",
+              "det finnas flera politiska partier",
+              "människor kunna välja mellan olika politiska alternativ",
+              "valen vara fria och rättvisa",
+              "människor kunna uttrycka sina åsikter fritt",
+              "lagarna gälla lika för alla"
+            ]
+          },
+          {
+            "title": "2. Fria och rättvisa val",
+            "subtitle": "",
+            "text": "I Sverige hålls fria, rättvisa och hemliga val.",
+            "text1": "Det innebär att:",
+            "list": [
+              "Alla med rösträtt har en röst var",
+              "Samma värde på sin röst",
+              "Ingen får hota någon att rösta på ett visst parti",
+              "Ingen får tvinga någon att rösta",
+              "Ingen får köpa röster"
+            ],
+            "text2": "Ingen behöver berätta vilket parti man röstar på eller om man röstar eller inte.",
+            "text3": "Det är också tillåtet att inte rösta."
+          },
+          {
+            "title": "3. Politiska partier",
+            "subtitle": "",
+            "text": "I en demokrati måste det finnas flera politiska partier.",
+            "list": [
+              "egna idéer",
+              "egna förslag",
+              "olika lösningar på samhällsproblem"
+            ],
+            "text1": "Väljarna bestämmer vilket parti de vill stödja."
+          },
+          {
+            "title": "4. Yttrandefrihet",
+            "subtitle": "",
+            "text": "Alla människor har yttrandefrihet.",
+            "text1": "Det betyder att man har rätt att:",
+            "list": [
+              "säga vad man tycker",
+              "skriva vad man tycker",
+              "diskutera politik",
+              "kritisera politiker",
+              "försöka övertyga andra om sina idéer"
+            ],
+            "text2": "Yttrandefriheten är en av demokratins viktigaste rättigheter."
+          },
+          {
+            "title": "5. Rättssäkerhet",
+            "subtitle": "",
+            "text": "En annan viktig del av demokratin är rättssäkerhet.",
+            "list": [
+              "alla människor är lika inför lagen",
+              "samma lag gäller för alla",
+              "ingen står över lagen",
+              "ingen får dömas utan en rättvis rättegång"
+            ],
+            "text1": "Domstolarna ska vara opartiska och behandla alla lika."
+          },
+          {
+            "title": "6. En stark demokrati",
+            "subtitle": "",
+            "text": "Demokratin fungerar bäst när många människor deltar.",
+            "text1": "Den blir starkare när människor:",
+            "list": [
+              "röstar",
+              "lär sig om samhället",
+              "följer nyheter",
+              "engagerar sig politiskt",
+              "tar ansvar"
+            ],
+            "text2": "Om få människor deltar blir demokratin svagare."
+          },
+          {
+            "title": "7. Demokrati i skolan",
+            "subtitle": "",
+            "text": "Den svenska skolan bygger på demokratiska värderingar.",
+            "text1": "Eleverna lär sig:",
+            "list": [
+              "sina rättigheter",
+              "sina skyldigheter",
+              "hur samhället fungerar",
+              "varför demokrati är viktig",
+              "varför det är viktigt att rösta"
+            ],
+            "text2": "Skolan ska hjälpa eleverna att bli aktiva medborgare."
+          },
+          {
+            "title": "8. Hur kan man påverka samhället?",
+            "subtitle": "",
+            "text": "Det finns många sätt att påverka.",
+            "list": [
+              "Rösta",
+              "Gå med i ett politiskt parti",
+              "Bli medlem i en intresseorganisation",
+              "Starta en förening",
+              "Kontakta politiker",
+              "Demonstrera",
+              "Namninsamling",
+              "Diskutera politik",
+              "Kontakta journalister",
+              "Skriva debattartiklar",
+              "Påverka på arbetsplatsen",
+              "Kontakta kommunen"
+            ]
+          },
+          {
+            "title": "9. Hot mot demokratin",
+            "subtitle": "",
+            "text": "Demokratin fungerar inte automatiskt. Det finns flera hot.",
+            "text1": "Lågt valdeltagande:",
+            "list": [
+              "representeras inte alla grupper",
+              "färre människor påverkar politiken",
+              "demokratin blir svagare"
+            ],
+            "text2": "Falsk information kan skapa konflikter, påverka val och minska förtroendet för demokratin.",
+            "text3": "Hot och hat mot politiker, journalister och personer i samhällsdebatten försvagar demokratin."
+          },
+          {
+            "title": "10. Vad behövs för att skydda demokratin?",
+            "subtitle": "",
+            "text": "För att demokratin ska fungera behövs:",
+            "list": [
+              "många som röstar",
+              "fria medier",
+              "sann information",
+              "yttrandefrihet",
+              "rättssäkerhet",
+              "skydd för människor som deltar i debatten",
+              "möjlighet för alla att påverka samhället"
+            ]
+          },
+          {
+            "title": "11. Segregation",
+            "subtitle": "",
+            "text": "Segregation betyder att människor lever åtskilda.",
+            "list": ["pengar", "utbildning", "arbete", "etnisk bakgrund"],
+            "text1": "I ett segregerat samhälle träffar människor från olika grupper varandra mindre.",
+            "text2": "Segregation kan leda till sämre skolor, sämre service, mindre trygghet och mindre politiskt engagemang."
+          },
+          {
+            "title": "12. Integration",
+            "subtitle": "",
+            "text": "Integration betyder att människor med olika språk, kultur, religion, ekonomi och bakgrund lever tillsammans och känner sig delaktiga i samhället.",
+            "text1": "Integration handlar om att alla ska ha möjlighet att delta i samhället."
+          },
+          {
+            "title": "13. Hur kan integration förbättras?",
+            "subtitle": "",
+            "text": "Politiker föreslår bland annat:",
+            "list": [
+              "språkutbildning",
+              "bättre svenskundervisning",
+              "fler jobb",
+              "olika typer av bostäder i samma område",
+              "bättre möjligheter att delta i samhället"
+            ],
+            "text1": "Målet är att minska segregationen."
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. الديمقراطية – حكم الشعب",
+            "subtitle": "ماذا تعني الديمقراطية؟",
+            "text": "الديمقراطية هي نظام سياسي تأتي فيه السلطة من الشعب. كلمة ديمقراطية أصلها من اللغة اليونانية وتعني حكم الشعب.",
+            "text1": "في الديمقراطية يختار الشعب ممثليه السياسيين من خلال انتخابات حرة ونزيهة.",
+            "text2": "يحكم السياسيون البلاد لفترة محددة ويمكن تغييرهم في الانتخابات القادمة إذا أراد الناخبون ذلك.",
+            "text3": "وهذا يعني أنه لا يجوز لأي شخص أو مجموعة الاحتفاظ بالسلطة إلى الأبد."
+          },
+          {
+            "title": "ما الذي يتطلبه وجود الديمقراطية؟",
+            "subtitle": "",
+            "text": "لكي تكون الدولة ديمقراطية يجب أن:",
+            "list": [
+              "يستطيع الشعب التصويت",
+              "توجد عدة أحزاب سياسية",
+              "يستطيع الناس الاختيار بين بدائل سياسية مختلفة",
+              "تكون الانتخابات حرة ونزيهة",
+              "يستطيع الناس التعبير عن آرائهم بحرية",
+              "تطبق القوانين بالتساوي على الجميع"
+            ]
+          },
+          {
+            "title": "2. انتخابات حرة ونزيهة",
+            "subtitle": "",
+            "text": "في السويد تُجرى انتخابات حرة ونزيهة وسرية.",
+            "text1": "وهذا يعني أن:",
+            "list": [
+              "كل شخص لديه حق التصويت لديه صوت واحد",
+              "كل صوت له نفس القيمة",
+              "لا يجوز تهديد أي شخص للتصويت لحزب معين",
+              "لا يجوز إجبار أي شخص على التصويت",
+              "لا يجوز شراء الأصوات"
+            ],
+            "text2": "لا يحتاج أي شخص إلى إخبار الآخرين بأي حزب يصوت له أو إذا كان يصوت أم لا.",
+            "text3": "كما أنه من المسموح عدم التصويت."
+          },
+          {
+            "title": "3. الأحزاب السياسية",
+            "subtitle": "",
+            "text": "في الديمقراطية يجب أن توجد عدة أحزاب سياسية.",
+            "list": [
+              "أفكار خاصة بها",
+              "اقتراحات خاصة بها",
+              "حلول مختلفة لمشاكل المجتمع"
+            ],
+            "text1": "يقرر الناخبون الحزب الذي يريدون دعمه."
+          },
+          {
+            "title": "4. حرية التعبير",
+            "subtitle": "",
+            "text": "كل الناس لديهم حرية التعبير.",
+            "text1": "وهذا يعني أن من حق الشخص أن:",
+            "list": [
+              "يقول ما يعتقده",
+              "يكتب ما يعتقده",
+              "يناقش السياسة",
+              "ينتقد السياسيين",
+              "يحاول إقناع الآخرين بأفكاره"
+            ],
+            "text2": "حرية التعبير هي واحدة من أهم حقوق الديمقراطية."
+          },
+          {
+            "title": "5. سيادة القانون",
+            "subtitle": "",
+            "text": "جزء مهم آخر من الديمقراطية هو سيادة القانون.",
+            "list": [
+              "جميع الناس متساوون أمام القانون",
+              "القانون نفسه يطبق على الجميع",
+              "لا أحد فوق القانون",
+              "لا يجوز إدانة أي شخص دون محاكمة عادلة"
+            ],
+            "text1": "يجب أن تكون المحاكم محايدة وأن تعامل الجميع بالتساوي."
+          },
+          {
+            "title": "6. ديمقراطية قوية",
+            "subtitle": "",
+            "text": "تعمل الديمقراطية بشكل أفضل عندما يشارك الكثير من الناس.",
+            "text1": "تصبح أقوى عندما يقوم الناس بـ:",
+            "list": [
+              "التصويت",
+              "تعلم كيفية عمل المجتمع",
+              "متابعة الأخبار",
+              "المشاركة السياسية",
+              "تحمل المسؤولية"
+            ],
+            "text2": "إذا شارك عدد قليل من الناس تصبح الديمقراطية أضعف."
+          },
+          {
+            "title": "7. الديمقراطية في المدرسة",
+            "subtitle": "",
+            "text": "المدرسة السويدية تقوم على القيم الديمقراطية.",
+            "text1": "يتعلم الطلاب:",
+            "list": [
+              "حقوقهم",
+              "واجباتهم",
+              "كيف يعمل المجتمع",
+              "لماذا الديمقراطية مهمة",
+              "لماذا من المهم التصويت"
+            ],
+            "text2": "يجب أن تساعد المدرسة الطلاب ليصبحوا مواطنين فاعلين."
+          },
+          {
+            "title": "8. كيف يمكن التأثير على المجتمع؟",
+            "subtitle": "",
+            "text": "هناك طرق كثيرة للتأثير.",
+            "list": [
+              "التصويت",
+              "الانضمام إلى حزب سياسي",
+              "الانضمام إلى منظمة تهتم بقضية معينة",
+              "تأسيس جمعية",
+              "التواصل مع السياسيين",
+              "التظاهر",
+              "جمع التواقيع",
+              "مناقشة السياسة",
+              "التواصل مع الصحفيين",
+              "كتابة مقالات رأي",
+              "التأثير في مكان العمل",
+              "التواصل مع البلدية"
+            ]
+          },
+          {
+            "title": "9. تهديدات الديمقراطية",
+            "subtitle": "",
+            "text": "الديمقراطية لا تعمل بشكل تلقائي. توجد عدة تهديدات.",
+            "text1": "انخفاض نسبة المشاركة في الانتخابات:",
+            "list": [
+              "لا يتم تمثيل جميع المجموعات",
+              "عدد أقل من الناس يؤثرون على السياسة",
+              "تصبح الديمقراطية أضعف"
+            ],
+            "text2": "المعلومات الكاذبة يمكن أن تسبب النزاعات وتؤثر على الانتخابات وتقلل الثقة بالديمقراطية.",
+            "text3": "التهديدات والكراهية ضد السياسيين والصحفيين والأشخاص المشاركين في النقاش العام تضعف الديمقراطية."
+          },
+          {
+            "title": "10. ماذا نحتاج لحماية الديمقراطية؟",
+            "subtitle": "",
+            "text": "لكي تعمل الديمقراطية نحتاج إلى:",
+            "list": [
+              "الكثير من الناس الذين يصوتون",
+              "إعلام حر",
+              "معلومات صحيحة",
+              "حرية التعبير",
+              "سيادة القانون",
+              "حماية الأشخاص المشاركين في النقاش العام",
+              "إمكانية الجميع للتأثير على المجتمع"
+            ]
+          },
+          {
+            "title": "11. الفصل الاجتماعي",
+            "subtitle": "",
+            "text": "الفصل الاجتماعي يعني أن الناس يعيشون منفصلين عن بعضهم.",
+            "list": ["المال", "التعليم", "العمل", "الخلفية العرقية"],
+            "text1": "في المجتمع المنقسم يلتقي الناس من المجموعات المختلفة مع بعضهم بشكل أقل.",
+            "text2": "يمكن أن يؤدي الفصل الاجتماعي إلى مدارس أسوأ وخدمات أقل وأمان أقل ومشاركة سياسية أقل."
+          },
+          {
+            "title": "12. الاندماج",
+            "subtitle": "",
+            "text": "الاندماج يعني أن الأشخاص من لغات وثقافات وأديان واقتصادات وخلفيات مختلفة يعيشون معًا ويشعرون أنهم جزء من المجتمع.",
+            "text1": "الاندماج يعني أن الجميع يجب أن تتاح لهم فرصة المشاركة في المجتمع."
+          },
+          {
+            "title": "13. كيف يمكن تحسين الاندماج؟",
+            "subtitle": "",
+            "text": "يقترح السياسيون من بين أمور أخرى:",
+            "list": [
+              "تعليم اللغة",
+              "تحسين تعليم اللغة السويدية",
+              "المزيد من فرص العمل",
+              "أنواع مختلفة من السكن في نفس المنطقة",
+              "فرص أفضل للمشاركة في المجتمع"
+            ],
+            "text1": "الهدف هو تقليل الفصل الاجتماعي."
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 3,
+      "lessonTitle": {
+        "swedish": "Kapitel tre:  Sveriges politiska system",
+        "arabic": "الفصل الثالث – كيف تُحكم السويد"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Sveriges politiska system",
+            "subtitle": "Hur styrs Sverige?",
+            "text": "Sverige är en parlamentarisk representativ demokrati.",
+            "text1": "Det betyder att folket väljer politiker genom allmänna val.",
+            "text2": "Politikerna representerar folket och fattar beslut om lagar, budget och andra viktiga frågor.",
+            "text3": "Den politiska makten är uppdelad på flera nivåer:",
+            "list": [
+              "Staten (nationell nivå)",
+              "Regionerna (regional nivå)",
+              "Kommunerna (kommunal nivå)",
+              "Europeiska unionen (EU)"
+            ]
+          },
+          {
+            "title": "2. Staten",
+            "subtitle": "Vad är staten?",
+            "text": "Staten består av fyra viktiga delar.",
+            "list": ["Riksdagen", "Regeringen", "Myndigheterna", "Domstolarna"],
+            "text1": "Dessa samarbetar men har olika uppgifter."
+          },
+          {
+            "title": "3. Riksdagen",
+            "subtitle": "Sveriges högsta beslutande församling",
+            "text": "Riksdagen är Sveriges parlament och har 349 ledamöter.",
+            "text1": "Ledamöterna väljs av folket genom riksdagsval vart fjärde år.",
+            "text2": "De representerar:",
+            "list": ["olika politiska partier", "olika delar av Sverige"]
+          },
+          {
+            "title": "Riksdagens viktigaste uppgifter",
+            "subtitle": "",
+            "text": "Riksdagen:",
+            "list": [
+              "stiftar lagar",
+              "beslutar om statens budget",
+              "granskar regeringens arbete",
+              "väljer statsminister"
+            ],
+            "text1": "Riksdagen bestämmer hur staten ska styras och hur statens pengar ska användas."
+          },
+          {
+            "title": "4. Regeringen",
+            "subtitle": "Vad gör regeringen?",
+            "text": "När valet är klart väljer riksdagen en statsminister.",
+            "text1": "Statsministern får i uppdrag att bilda regering.",
+            "text2": "Statsministern väljer sina ministrar som tillsammans bildar regeringen.",
+            "text3": "Regeringens uppgifter är bland annat:",
+            "list": [
+              "styra landet",
+              "genomföra riksdagens beslut",
+              "föreslå nya lagar",
+              "ta fram budgeten",
+              "leda statliga myndigheter"
+            ]
+          },
+          {
+            "title": "5. Budgetpropositionen",
+            "subtitle": "Vad är budgeten?",
+            "text": "Varje höst lämnar regeringen ett förslag till riksdagen.",
+            "text1": "Det kallas budgetproposition.",
+            "text2": "Budgeten visar:",
+            "list": [
+              "statens inkomster",
+              "statens utgifter",
+              "regeringens politiska prioriteringar"
+            ],
+            "text3": "Riksdagen beslutar sedan om budgeten."
+          },
+          {
+            "title": "6. Oppositionen",
+            "subtitle": "Vad är oppositionen?",
+            "text": "De partier som inte stödjer regeringen kallas opposition.",
+            "text1": "Oppositionens uppgifter är att:",
+            "list": [
+              "granska regeringen",
+              "kritisera regeringens arbete",
+              "lägga fram egna politiska förslag",
+              "erbjuda ett alternativ till regeringens politik"
+            ],
+            "text2": "I riksdagen debatterar regeringen och oppositionen innan ledamöterna röstar."
+          },
+          {
+            "title": "7. Myndigheter",
+            "subtitle": "Vad är en myndighet?",
+            "text": "Myndigheter genomför de beslut som riksdagen och regeringen har fattat.",
+            "text1": "Det finns flera hundra myndigheter i Sverige.",
+            "text2": "De måste alltid:",
+            "list": ["följa lagen", "följa regeringens instruktioner"]
+          },
+          {
+            "title": "Exempel på viktiga myndigheter",
+            "subtitle": "",
+            "text": "Exempel på myndigheter:",
+            "list": [
+              "Arbetsförmedlingen",
+              "Försäkringskassan",
+              "Migrationsverket",
+              "Polismyndigheten",
+              "Skatteverket"
+            ],
+            "text1": "Om någon söker föräldrapenning är det Försäkringskassan som fattar beslut."
+          },
+          {
+            "title": "8. Myndigheter som kontrollerar andra myndigheter",
+            "subtitle": "",
+            "text": "För att myndigheter ska följa lagen finns kontrollmyndigheter.",
+            "text1": "Två viktiga är:",
+            "list": ["Justitieombudsmannen (JO)", "Justitiekanslern (JK)"],
+            "text2": "De kontrollerar att myndigheterna arbetar rätt och följer lagarna."
+          },
+          {
+            "title": "9. Regioner",
+            "subtitle": "Sveriges regioner",
+            "text": "Sverige är indelat i 21 regioner.",
+            "text1": "Invånarna väljer politiker i regionvalet.",
+            "text2": "Politikerna fattar beslut i regionfullmäktige."
+          },
+          {
+            "title": "Regionernas viktigaste ansvar",
+            "subtitle": "",
+            "text": "Regionerna ansvarar främst för:",
+            "list": [
+              "hälso- och sjukvård",
+              "sjukhus",
+              "vårdcentraler",
+              "kollektivtrafik",
+              "länsmuseer"
+            ]
+          },
+          {
+            "title": "10. Kommuner",
+            "subtitle": "Sveriges kommuner",
+            "text": "Sverige har 290 kommuner.",
+            "text1": "Kommunerna styrs av politiker som väljs i kommunvalet.",
+            "text2": "Besluten fattas i kommunfullmäktige.",
+            "text3": "De flesta kommunpolitiker arbetar med politik på fritiden och har vanliga jobb."
+          },
+          {
+            "title": "Största och minsta kommunen",
+            "subtitle": "",
+            "text": "Störst: Stockholm.",
+            "list": ["Sveriges huvudstad", "nästan 1 miljon invånare"],
+            "text1": "Minst: Dorotea.",
+            "list2": ["Västerbottens län", "färre än 3 000 invånare"]
+          },
+          {
+            "title": "11. Kommunernas nämnder",
+            "subtitle": "",
+            "text": "Kommunfullmäktige väljer ledamöter till olika nämnder.",
+            "text1": "Kulturnämnden ansvarar för:",
+            "list": ["bibliotek", "kultur"],
+            "text2": "Utbildningsnämnden ansvarar för:",
+            "list2": ["skolor", "utbildning"]
+          },
+          {
+            "title": "12. Kommunernas ansvar",
+            "subtitle": "",
+            "text": "Kommunerna ansvarar för många tjänster som människor använder varje dag.",
+            "list": [
+              "vatten",
+              "avlopp",
+              "sophämtning",
+              "äldreomsorg",
+              "barnomsorg",
+              "förskolor",
+              "grundskolor",
+              "vuxenutbildning",
+              "snöröjning",
+              "parker",
+              "gator"
+            ],
+            "text1": "Kommunens beslut påverkar människors vardag mycket direkt."
+          },
+          {
+            "title": "13. Sveriges statsskick",
+            "subtitle": "Konstitutionell monarki",
+            "text": "Sverige är en konstitutionell monarki.",
+            "text1": "Det betyder att landet har:",
+            "list": [
+              "en kung som statschef",
+              "demokratiskt valda politiker som styr landet"
+            ],
+            "text2": "Kungen har ingen politisk makt."
+          },
+          {
+            "title": "14. Kungens uppgifter",
+            "subtitle": "",
+            "text": "Kungen fungerar främst som en symbol för Sverige.",
+            "text1": "Han:",
+            "list": [
+              "representerar Sverige",
+              "gör statsbesök i andra länder",
+              "tar emot andra statschefer som besöker Sverige",
+              "deltar vid officiella ceremonier"
+            ]
+          },
+          {
+            "title": "15. Sveriges kungahus",
+            "subtitle": "",
+            "text": "Nuvarande kung är Carl XVI Gustaf.",
+            "text1": "Tronföljden är:",
+            "list": ["Kronprinsessan Victoria", "Prinsessan Estelle"],
+            "text2": "Victoria är kungens förstfödda barn och kommer att bli Sveriges nästa monark."
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. النظام السياسي في السويد",
+            "subtitle": "كيف تُدار السويد؟",
+            "text": "السويد هي ديمقراطية تمثيلية برلمانية.",
+            "text1": "هذا يعني أن الشعب ينتخب السياسيين عبر انتخابات عامة.",
+            "text2": "يمثل السياسيون الشعب ويتخذون قرارات حول القوانين والميزانية والقضايا المهمة الأخرى.",
+            "text3": "السلطة السياسية مقسمة إلى عدة مستويات:",
+            "list": [
+              "الدولة (المستوى الوطني)",
+              "المناطق (المستوى الإقليمي)",
+              "البلديات (المستوى المحلي)",
+              "الاتحاد الأوروبي (EU)"
+            ]
+          },
+          {
+            "title": "2. الدولة",
+            "subtitle": "ما هي الدولة؟",
+            "text": "تتكون الدولة من أربعة أجزاء مهمة.",
+            "list": ["البرلمان", "الحكومة", "الوكالات الحكومية", "المحاكم"],
+            "text1": "تعمل هذه الجهات معًا لكن لكل منها مهام مختلفة."
+          },
+          {
+            "title": "3. البرلمان",
+            "subtitle": "أعلى هيئة اتخاذ القرار في السويد",
+            "text": "البرلمان هو مجلس السويد ويضم 349 عضوًا.",
+            "text1": "يتم انتخاب الأعضاء من قبل الشعب في انتخابات تُجرى كل أربع سنوات.",
+            "text2": "يمثلون:",
+            "list": ["أحزاب سياسية مختلفة", "مناطق مختلفة من السويد"]
+          },
+          {
+            "title": "مهام البرلمان الرئيسية",
+            "subtitle": "",
+            "text": "البرلمان:",
+            "list": [
+              "يضع القوانين",
+              "يقرر ميزانية الدولة",
+              "يراقب عمل الحكومة",
+              "ينتخب رئيس الوزراء"
+            ],
+            "text1": "البرلمان يحدد كيف تُدار الدولة وكيف تُستخدم أموالها."
+          },
+          {
+            "title": "4. الحكومة",
+            "subtitle": "ماذا تفعل الحكومة؟",
+            "text": "بعد الانتخابات، يقوم البرلمان باختيار رئيس الوزراء.",
+            "text1": "يُكلف رئيس الوزراء بتشكيل الحكومة.",
+            "text2": "يختار رئيس الوزراء الوزراء الذين يشكلون الحكومة.",
+            "text3": "مهام الحكومة تشمل:",
+            "list": [
+              "إدارة البلاد",
+              "تنفيذ قرارات البرلمان",
+              "اقتراح قوانين جديدة",
+              "إعداد الميزانية",
+              "قيادة الوكالات الحكومية"
+            ]
+          },
+          {
+            "title": "5. ميزانية الدولة",
+            "subtitle": "ما هي الميزانية؟",
+            "text": "كل خريف تقدم الحكومة اقتراحًا للبرلمان.",
+            "text1": "يسمى هذا اقتراح الميزانية.",
+            "text2": "توضح الميزانية:",
+            "list": ["دخل الدولة", "نفقات الدولة", "أولويات الحكومة السياسية"],
+            "text3": "ثم يقرر البرلمان الميزانية."
+          },
+          {
+            "title": "6. المعارضة",
+            "subtitle": "ما هي المعارضة؟",
+            "text": "الأحزاب التي لا تدعم الحكومة تسمى المعارضة.",
+            "text1": "مهام المعارضة:",
+            "list": [
+              "مراقبة الحكومة",
+              "انتقاد عمل الحكومة",
+              "تقديم اقتراحات سياسية بديلة",
+              "تقديم بديل لسياسة الحكومة"
+            ],
+            "text2": "في البرلمان تتم مناقشات بين الحكومة والمعارضة قبل التصويت."
+          },
+          {
+            "title": "7. الوكالات الحكومية",
+            "subtitle": "ما هي الوكالة الحكومية؟",
+            "text": "الوكالات الحكومية تنفذ القرارات التي يتخذها البرلمان والحكومة.",
+            "text1": "يوجد مئات الوكالات في السويد.",
+            "text2": "يجب عليها دائمًا:",
+            "list": ["اتباع القانون", "اتباع تعليمات الحكومة"]
+          },
+          {
+            "title": "أمثلة على وكالات حكومية مهمة",
+            "subtitle": "",
+            "text": "أمثلة:",
+            "list": [
+              "مكتب العمل",
+              "مصلحة التأمينات",
+              "مصلحة الهجرة",
+              "الشرطة",
+              "مصلحة الضرائب"
+            ],
+            "text1": "إذا طلب شخص دعم إجازة الوالدين، فإن مصلحة التأمينات هي التي تقرر."
+          },
+          {
+            "title": "8. الجهات التي تراقب الوكالات",
+            "subtitle": "",
+            "text": "لمراقبة الوكالات والتأكد من التزامها بالقانون توجد جهات رقابية.",
+            "text1": "أهمها:",
+            "list": [
+              "أمين المظالم البرلماني (JO)",
+              "المستشار القانوني للدولة (JK)"
+            ],
+            "text2": "تتأكد هذه الجهات من أن الوكالات تعمل بشكل صحيح وتتبع القوانين."
+          },
+          {
+            "title": "9. المناطق (الجهات الإقليمية)",
+            "subtitle": "مناطق السويد",
+            "text": "تنقسم السويد إلى 21 منطقة.",
+            "text1": "ينتخب السكان سياسيين في انتخابات المناطق.",
+            "text2": "يتخذ السياسيون القرارات في مجلس المنطقة."
+          },
+          {
+            "title": "مسؤوليات المناطق",
+            "subtitle": "",
+            "text": "المناطق مسؤولة بشكل أساسي عن:",
+            "list": [
+              "الرعاية الصحية",
+              "المستشفيات",
+              "المراكز الصحية",
+              "النقل العام",
+              "المتاحف الإقليمية"
+            ]
+          },
+          {
+            "title": "10. البلديات",
+            "subtitle": "بلديات السويد",
+            "text": "في السويد 290 بلدية.",
+            "text1": "تُدار البلديات من قبل سياسيين يتم انتخابهم في الانتخابات البلدية.",
+            "text2": "تتخذ القرارات في مجلس البلدية.",
+            "text3": "معظم السياسيين يعملون في السياسة بشكل جزئي ولديهم وظائف أخرى."
+          },
+          {
+            "title": "أكبر وأصغر بلدية",
+            "subtitle": "",
+            "text": "الأكبر: ستوكهولم.",
+            "list": ["عاصمة السويد", "حوالي مليون نسمة"],
+            "text1": "الأصغر: دوروتيا.",
+            "list2": ["مقاطعة فاستربوتن", "أقل من 3000 نسمة"]
+          },
+          {
+            "title": "11. لجان البلديات",
+            "subtitle": "",
+            "text": "مجلس البلدية يختار أعضاء اللجان المختلفة.",
+            "text1": "لجنة الثقافة مسؤولة عن:",
+            "list": ["المكتبات", "الثقافة"],
+            "text2": "لجنة التعليم مسؤولة عن:",
+            "list2": ["المدارس", "التعليم"]
+          },
+          {
+            "title": "12. مسؤوليات البلديات",
+            "subtitle": "",
+            "text": "البلديات مسؤولة عن خدمات يومية مهمة.",
+            "list": [
+              "المياه",
+              "الصرف الصحي",
+              "جمع القمامة",
+              "رعاية كبار السن",
+              "رعاية الأطفال",
+              "رياض الأطفال",
+              "المدارس الأساسية",
+              "تعليم الكبار",
+              "إزالة الثلوج",
+              "الحدائق",
+              "الطرق"
+            ],
+            "text1": "قرارات البلدية تؤثر مباشرة على حياة الناس اليومية."
+          },
+          {
+            "title": "13. نظام الحكم في السويد",
+            "subtitle": "ملكية دستورية",
+            "text": "السويد هي ملكية دستورية.",
+            "text1": "هذا يعني أن البلاد لديها:",
+            "list": [
+              "ملك كرئيس للدولة",
+              "سياسيون منتخبون ديمقراطيًا يديرون البلاد"
+            ],
+            "text2": "الملك ليس لديه أي سلطة سياسية."
+          },
+          {
+            "title": "14. مهام الملك",
+            "subtitle": "",
+            "text": "الملك هو رمز للسويد.",
+            "text1": "يقوم بـ:",
+            "list": [
+              "تمثيل السويد",
+              "القيام بزيارات رسمية لدول أخرى",
+              "استقبال رؤساء الدول الزائرين",
+              "حضور المناسبات الرسمية"
+            ]
+          },
+          {
+            "title": "15. العائلة الملكية السويدية",
+            "subtitle": "",
+            "text": "الملك الحالي هو كارل السادس عشر غوستاف.",
+            "text1": "ترتيب وراثة العرش:",
+            "list": ["ولي العهد الأميرة فيكتوريا", "الأميرة إستل"],
+            "text2": "فيكتوريا هي الابنة الكبرى للملك وستصبح ملكة السويد القادمة."
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 4,
+      "lessonTitle": {
+        "swedish": "Kapitel Fyra: 4. Politiska val och partier",
+        "arabic": "الفصل الرابع – الانتخابات السياسية والأحزاب"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Politiska val i Sverige",
+            "subtitle": "Vad är ett politiskt val?",
+            "text": "Ett politiskt val är när medborgarna röstar för att välja politiker som ska styra Sverige på olika nivåer.",
+            "text2": "Genom val bestämmer folket vilka partier som ska fatta beslut om viktiga samhällsfrågor som lagar, skatter och skola.",
+            "text3": "Sverige har fria och hemliga val."
+          },
+          {
+            "title": "2. Vilka val finns i Sverige?",
+            "subtitle": "",
+            "text": "Det finns fyra viktiga val i Sverige:",
+            "list": ["Riksdagsval", "Regionval", "Kommunval", "EU-val"]
+          },
+          {
+            "title": "Riksdagsval",
+            "subtitle": "",
+            "text": "Väljer ledamöter till riksdagen som:",
+            "list": [
+              "stiftar lagar",
+              "beslutar om statens budget",
+              "granskar regeringens arbete",
+              "väljer statsminister"
+            ]
+          },
+          {
+            "title": "Regionval",
+            "subtitle": "",
+            "text": "Väljer politiker till regionfullmäktige som ansvarar för:",
+            "list": [
+              "sjukvård",
+              "sjukhus",
+              "vårdcentraler",
+              "kollektivtrafik",
+              "länsmuseer"
+            ]
+          },
+          {
+            "title": "Kommunval",
+            "subtitle": "",
+            "text": "Väljer politiker till kommunfullmäktige som ansvarar för:",
+            "list": [
+              "skola",
+              "äldreomsorg",
+              "barnomsorg",
+              "vatten",
+              "avlopp",
+              "sophämtning",
+              "parker",
+              "gator"
+            ]
+          },
+          {
+            "title": "EU-val",
+            "subtitle": "",
+            "text": "Svenska väljare väljer representanter till Europaparlamentet som fattar beslut inom EU.",
+            "text2": "EU-val hålls vart femte år."
+          },
+          {
+            "title": "3. Hur ofta hålls val?",
+            "subtitle": "",
+            "text": "Val i Sverige hålls regelbundet.",
+            "list": [
+              "Riksdagsval: vart fjärde år",
+              "Regionval: vart fjärde år",
+              "Kommunval: vart fjärde år",
+              "EU-val: vart femte år"
+            ]
+          },
+          {
+            "title": "4. Vem får rösta?",
+            "subtitle": "",
+            "text": "För att få rösta måste man vara 18 år.",
+            "text2": "Reglerna varierar beroende på valtyp.",
+            "list": [
+              "Riksdagsval: svensk medborgare + 18 år",
+              "Kommun/region: folkbokförd i Sverige",
+              "EU-val: EU-medborgare kan rösta i landet där de bor"
+            ]
+          },
+          {
+            "title": "5. Folkomröstning",
+            "subtitle": "",
+            "text": "En folkomröstning är när folket röstar direkt i en fråga.",
+            "text2": "Resultatet är rådgivande, inte bindande.",
+            "text3": "Exempel: Sverige röstade nej till euro år 2003."
+          },
+          {
+            "title": "6. Hur går det till att rösta?",
+            "subtitle": "",
+            "text": "Alla röstberättigade får ett röstkort hemskickat.",
+            "text2": "Man kan rösta i vallokal eller förtidsrösta.",
+            "text3": "Röstningen sker bakom en skärm och är hemlig."
+          },
+          {
+            "title": "7. Politiska partier",
+            "subtitle": "",
+            "text": "Ett politiskt parti är en grupp människor med liknande idéer om hur samhället ska styras.",
+            "text2": "Partier föreslår lagar och försöker vinna val."
+          },
+          {
+            "title": "8. Kan vem som helst bli medlem?",
+            "subtitle": "",
+            "text": "Ja, alla kan bli medlem i ett politiskt parti.",
+            "text2": "Man kan också starta ett eget parti."
+          },
+          {
+            "title": "9. Valkampanjer",
+            "subtitle": "",
+            "text": "Inför val försöker partier övertyga väljarna.",
+            "list": [
+              "debatter",
+              "reklam",
+              "möten",
+              "sociala medier",
+              "kampanjer"
+            ]
+          },
+          {
+            "title": "10. Proportionella val",
+            "subtitle": "",
+            "text": "Mandat i riksdagen fördelas efter hur många röster partierna får.",
+            "text2": "Om ett parti får 20 % av rösterna får det ungefär 20 % av platserna."
+          },
+          {
+            "title": "11. Majoritet",
+            "subtitle": "",
+            "text": "Partier måste ofta samarbeta för att få majoritet.",
+            "text2": "Majoritet betyder mer än hälften av rösterna."
+          },
+          {
+            "title": "12. Fyraprocentsspärren",
+            "subtitle": "",
+            "text": "Ett parti måste få minst 4 % av rösterna för att komma in i riksdagen.",
+            "text2": "Syftet är att skapa stabilitet i politiken."
+          },
+          {
+            "title": "13. Partier i Sveriges riksdag",
+            "subtitle": "",
+            "text": "Följande partier finns i riksdagen:",
+            "list": [
+              "Centerpartiet (C)",
+              "Kristdemokraterna (KD)",
+              "Liberalerna (L)",
+              "Miljöpartiet (MP)",
+              "Moderaterna (M)",
+              "Socialdemokraterna (S)",
+              "Sverigedemokraterna (SD)",
+              "Vänsterpartiet (V)"
+            ]
+          },
+          {
+            "title": "14. Lokala partier",
+            "subtitle": "",
+            "text": "I kommuner och regioner finns även lokala partier.",
+            "text2": "De fokuserar på lokala frågor och ställer inte alltid upp i riksdagsval."
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. الانتخابات السياسية في السويد",
+            "subtitle": "ما هو الانتخاب السياسي؟",
+            "text": "الانتخاب السياسي هو عندما يصوّت المواطنون لاختيار السياسيين الذين سيحكمون السويد على مستويات مختلفة.",
+            "text2": "من خلال الانتخابات يقرر الشعب أي الأحزاب ستتخذ قرارات حول القوانين والضرائب والمدرسة والقضايا المهمة.",
+            "text3": "في السويد توجد انتخابات حرة وسرية."
+          },
+          {
+            "title": "2. ما هي الانتخابات الموجودة في السويد؟",
+            "subtitle": "",
+            "text": "توجد أربعة أنواع مهمة من الانتخابات في السويد:",
+            "list": [
+              "انتخابات البرلمان",
+              "انتخابات المناطق",
+              "انتخابات البلديات",
+              "انتخابات البرلمان الأوروبي (الاتحاد الأوروبي)"
+            ]
+          },
+          {
+            "title": "انتخابات البرلمان",
+            "subtitle": "",
+            "text": "تُنتخب فيها أعضاء البرلمان الذين:",
+            "list": [
+              "يضعون القوانين",
+              "يقررون ميزانية الدولة",
+              "يراقبون عمل الحكومة",
+              "يختارون رئيس الوزراء"
+            ]
+          },
+          {
+            "title": "انتخابات المناطق",
+            "subtitle": "",
+            "text": "تنتخب فيها سياسيين في مجلس المنطقة الذين مسؤولون عن:",
+            "list": [
+              "الرعاية الصحية",
+              "المستشفيات",
+              "المراكز الصحية",
+              "النقل العام",
+              "المتاحف الإقليمية"
+            ]
+          },
+          {
+            "title": "انتخابات البلديات",
+            "subtitle": "",
+            "text": "تنتخب فيها سياسيين في مجلس البلدية الذين مسؤولون عن:",
+            "list": [
+              "المدارس",
+              "رعاية المسنين",
+              "رعاية الأطفال",
+              "المياه",
+              "الصرف الصحي",
+              "جمع القمامة",
+              "الحدائق",
+              "الطرق"
+            ]
+          },
+          {
+            "title": "انتخابات البرلمان الأوروبي",
+            "subtitle": "",
+            "text": "يختار الناخبون في السويد ممثلين إلى البرلمان الأوروبي الذي يتخذ قرارات داخل الاتحاد الأوروبي.",
+            "text2": "تُجرى انتخابات الاتحاد الأوروبي كل خمس سنوات."
+          },
+          {
+            "title": "3. كم مرة تُجرى الانتخابات؟",
+            "subtitle": "",
+            "text": "تُجرى الانتخابات في السويد بشكل منتظم.",
+            "list": [
+              "انتخابات البرلمان: كل أربع سنوات",
+              "انتخابات المناطق: كل أربع سنوات",
+              "انتخابات البلديات: كل أربع سنوات",
+              "انتخابات الاتحاد الأوروبي: كل خمس سنوات"
+            ]
+          },
+          {
+            "title": "4. من يحق له التصويت؟",
+            "subtitle": "",
+            "text": "يجب أن يكون عمر الشخص 18 سنة على الأقل للتصويت.",
+            "text2": "تختلف القواعد حسب نوع الانتخابات.",
+            "list": [
+              "انتخابات البرلمان: مواطن سويدي + 18 سنة",
+              "انتخابات البلدية والمنطقة: مقيم في السويد",
+              "انتخابات الاتحاد الأوروبي: يمكن لمواطني الاتحاد التصويت في بلد الإقامة"
+            ]
+          },
+          {
+            "title": "5. الاستفتاء الشعبي",
+            "subtitle": "",
+            "text": "الاستفتاء الشعبي هو عندما يصوّت الشعب مباشرة على قضية معينة.",
+            "text2": "النتيجة استشارية وليست ملزمة.",
+            "text3": "مثال: السويد صوتت ضد اليورو عام 2003."
+          },
+          {
+            "title": "6. كيف يتم التصويت؟",
+            "subtitle": "",
+            "text": "يتلقى جميع الناخبين بطاقة انتخاب بالبريد.",
+            "text2": "يمكن التصويت في مركز الاقتراع أو مسبقًا.",
+            "text3": "التصويت يتم خلف حاجز وهو سري."
+          },
+          {
+            "title": "7. الأحزاب السياسية",
+            "subtitle": "",
+            "text": "الحزب السياسي هو مجموعة أشخاص لديهم أفكار سياسية متشابهة حول كيفية حكم البلاد.",
+            "text2": "الأحزاب تقترح القوانين وتحاول الفوز في الانتخابات."
+          },
+          {
+            "title": "8. هل يمكن لأي شخص أن يصبح عضوًا؟",
+            "subtitle": "",
+            "text": "نعم، يمكن لأي شخص الانضمام إلى حزب سياسي.",
+            "text2": "يمكن أيضًا إنشاء حزب جديد."
+          },
+          {
+            "title": "9. الحملات الانتخابية",
+            "subtitle": "",
+            "text": "قبل الانتخابات تحاول الأحزاب إقناع الناخبين.",
+            "list": [
+              "مناظرات",
+              "إعلانات",
+              "اجتماعات",
+              "وسائل التواصل الاجتماعي",
+              "حملات"
+            ]
+          },
+          {
+            "title": "10. الانتخابات النسبية",
+            "subtitle": "",
+            "text": "يتم توزيع المقاعد حسب نسبة الأصوات التي يحصل عليها كل حزب.",
+            "text2": "إذا حصل حزب على 20٪ من الأصوات يحصل تقريبًا على 20٪ من المقاعد."
+          },
+          {
+            "title": "11. الأغلبية",
+            "subtitle": "",
+            "text": "غالبًا تحتاج الأحزاب إلى التعاون للحصول على الأغلبية.",
+            "text2": "الأغلبية تعني أكثر من نصف الأصوات."
+          },
+          {
+            "title": "12. حاجز 4٪",
+            "subtitle": "",
+            "text": "يجب أن يحصل الحزب على 4٪ على الأقل للدخول إلى البرلمان.",
+            "text2": "الهدف هو تقليل عدد الأحزاب الصغيرة."
+          },
+          {
+            "title": "13. الأحزاب في البرلمان السويدي",
+            "subtitle": "",
+            "text": "الأحزاب الموجودة في البرلمان هي:",
+            "list": [
+              "حزب الوسط (C)",
+              "الديمقراطيون المسيحيون (KD)",
+              "الليبراليون (L)",
+              "حزب البيئة (MP)",
+              "المعتدلون (M)",
+              "الحزب الاشتراكي الديمقراطي (S)",
+              "ديمقراطيو السويد (SD)",
+              "حزب اليسار (V)"
+            ]
+          },
+          {
+            "title": "14. الأحزاب المحلية",
+            "subtitle": "",
+            "text": "توجد أيضًا أحزاب محلية في البلديات والمناطق.",
+            "text2": "تركز على القضايا المحلية ولا تشارك دائمًا في انتخابات البرلمان."
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel fem: 5 – Lag och rätt",
+        "arabic": "الفصل الخامس – القانون والعدالة"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Lag och rätt i Sverige",
+            "subtitle": "Vad är lagar?",
+            "text": "Lagar är regler som alla människor i Sverige måste följa. De finns för att skydda människor, skapa ordning och trygghet, lösa konflikter och se till att samhället fungerar. Alla är lika inför lagen.",
+            "list": [
+              "Skydda människor",
+              "Skapa ordning och trygghet",
+              "Lösa konflikter",
+              "Samhället ska fungera",
+              "Alla är lika inför lagen"
+            ]
+          },
+          {
+            "title": "2. Sveriges grundlagar",
+            "subtitle": "Vilka är Sveriges grundlagar?",
+            "text": "Grundlagarna är Sveriges viktigaste lagar och skyddar demokratin och människors rättigheter. De är svårare att ändra än vanliga lagar.",
+            "list": [
+              "Regeringsformen",
+              "Tryckfrihetsförordningen",
+              "Yttrandefrihetsgrundlagen",
+              "Successionsordningen"
+            ]
+          },
+          {
+            "title": "3. Regeringsformen",
+            "subtitle": "Vad bestämmer regeringsformen?",
+            "text": "Regeringsformen är den viktigaste grundlagen och beskriver hur Sverige styrs och hur makten är uppdelad.",
+            "list": [
+              "Hur Sverige styrs",
+              "Riksdagens arbete",
+              "Regeringens arbete",
+              "Myndigheternas roll",
+              "Statschefens roll",
+              "Alla människors lika värde",
+              "Frihet och rättigheter",
+              "All offentlig makt utgår från folket"
+            ]
+          },
+          {
+            "title": "4. Tryckfrihetsförordningen",
+            "subtitle": "Vad skyddar den?",
+            "text": "Tryckfrihetsförordningen skyddar det fria ordet i tryckt form och ger rätt att publicera tryckta medier.",
+            "list": [
+              "Ge ut böcker",
+              "Ge ut tidningar",
+              "Ge ut tidskrifter",
+              "Skyddar yttranden i tryckt form",
+              "Ingen censur av tryckta medier"
+            ]
+          },
+          {
+            "title": "5. Yttrandefrihetsgrundlagen",
+            "subtitle": "Vad innebär yttrandefrihet?",
+            "text": "Yttrandefrihet betyder att alla får uttrycka sina åsikter, men vissa saker är förbjudna enligt lag.",
+            "list": [
+              "Radio",
+              "TV",
+              "Tidningar",
+              "Internet",
+              "Bildar föreningar",
+              "Demonstrerar",
+              "Får inte sprida hat",
+              "Får inte begå förtal",
+              "Får inte sprida hemlig information"
+            ]
+          },
+          {
+            "title": "6. Successionsordningen",
+            "subtitle": "Vad reglerar den?",
+            "text": "Successionsordningen bestämmer vem som ska bli kung eller drottning i Sverige.",
+            "list": ["Tronföljd", "Kung eller drottning efter nuvarande monark"]
+          },
+          {
+            "title": "7. Allemansrätten",
+            "subtitle": "Vad får man göra i naturen?",
+            "text": "Allemansrätten ger alla rätt att vara i naturen, men man måste visa hänsyn.",
+            "list": [
+              "Gå i naturen",
+              "Vandra",
+              "Cykla",
+              "Paddla",
+              "Tälta kort tid",
+              "Plocka bär",
+              "Plocka svamp",
+              "Plocka blommor",
+              "Inte störa",
+              "Inte förstöra",
+              "Inte gå på åkrar",
+              "Inte skräpa ner",
+              "Inte skada naturen"
+            ]
+          },
+          {
+            "title": "8. Rättsväsendet",
+            "subtitle": "Vilka myndigheter ingår?",
+            "text": "Rättsväsendet ser till att lagar följs och att brott utreds och döms.",
+            "list": [
+              "Polisen",
+              "Åklagarmyndigheten",
+              "Domstolar",
+              "Brottsoffermyndigheten",
+              "Kriminalvården"
+            ]
+          },
+          {
+            "title": "9. Rättssäkerhet",
+            "subtitle": "Vad betyder rättssäkerhet?",
+            "text": "Rättssäkerhet betyder att alla är lika inför lagen och har rätt till en rättvis rättegång.",
+            "list": [
+              "Alla är lika inför lagen",
+              "Rättvis rättegång",
+              "Ingen döms utan bevis",
+              "Domstolar är oberoende",
+              "Rätt till advokat",
+              "Rätt att överklaga"
+            ]
+          },
+          {
+            "title": "10. Domstolarna",
+            "subtitle": "Hur är domstolarna uppbyggda?",
+            "text": "Sverige har tre nivåer av domstolar som prövar brott och tvister.",
+            "list": ["Tingsrätten", "Hovrätten", "Högsta domstolen"]
+          },
+          {
+            "title": "11. Oskyldig tills motsatsen bevisats",
+            "subtitle": "Vad betyder principen?",
+            "text": "Alla är oskyldiga tills en domstol har bevisat att de är skyldiga.",
+            "list": [
+              "Oskyldig tills dömd",
+              "Bevis krävs",
+              "Domstol avgör skuld"
+            ]
+          },
+          {
+            "title": "12. Brottsutredning",
+            "subtitle": "Hur går en utredning till?",
+            "text": "Brottsutredning följer flera steg från anmälan till häktning.",
+            "list": [
+              "Polisanmälan",
+              "Förhör",
+              "Förundersökning",
+              "Anhållan",
+              "Häktning"
+            ]
+          },
+          {
+            "title": "13. Rättegång",
+            "subtitle": "Vad händer i en rättegång?",
+            "text": "Åklagaren försöker bevisa skuld medan försvarsadvokaten försvarar den åtalade.",
+            "list": [
+              "Åklagaren presenterar bevis",
+              "Försvarsadvokat försvarar",
+              "Domaren avgör",
+              "Nämndemän deltar",
+              "Domstol dömer"
+            ]
+          },
+          {
+            "title": "14. Domar",
+            "subtitle": "Vilka straff finns?",
+            "text": "Domstolen kan döma till olika påföljder beroende på brottet.",
+            "list": ["Böter", "Fängelse", "Frikännande"]
+          },
+          {
+            "title": "15. Överklaga",
+            "subtitle": "Vad innebär det?",
+            "text": "Om man inte är nöjd med domen kan man överklaga till en högre domstol.",
+            "list": ["Ny prövning", "Högre domstol", "Ändra dom"]
+          },
+          {
+            "title": "16. Straffmyndighet",
+            "subtitle": "När blir man straffmyndig?",
+            "text": "Man blir straffmyndig vid 15 år i Sverige.",
+            "list": [
+              "Straffmyndig vid 15 år",
+              "Barn under 15 döms inte",
+              "Socialtjänsten ansvarar för barn under 15",
+              "Förslag: 13 år vid allvarliga brott"
+            ]
+          },
+          {
+            "title": "17. Belastningsregister",
+            "subtitle": "Vad är det?",
+            "text": "Belastningsregistret innehåller personer som dömts för brott.",
+            "list": [
+              "Påverkar jobb",
+              "Påverkar körkort",
+              "Påverkar medborgarskap"
+            ]
+          }
+        ],
+
+        "arabic": [
+          {
+            "title": "1. القانون والنظام في السويد",
+            "subtitle": "ما هي القوانين؟",
+            "text": "القوانين هي قواعد يجب على جميع الناس في السويد اتباعها. توجد القوانين لحماية الناس، وخلق النظام والأمان، وحل النزاعات، وضمان عمل المجتمع بشكل جيد. لا أحد فوق القانون، والجميع متساوون أمامه.",
+            "list": [
+              "حماية الناس",
+              "خلق النظام والأمان",
+              "حل النزاعات",
+              "ضمان عمل المجتمع",
+              "الجميع متساوون أمام القانون"
+            ]
+          },
+          {
+            "title": "2. القوانين الأساسية في السويد",
+            "subtitle": "ما هي القوانين الأساسية؟",
+            "text": "القوانين الأساسية هي أهم القوانين في السويد، وهي أصعب في التغيير من القوانين العادية لأنها تحمي الديمقراطية وحقوق الإنسان.",
+            "list": [
+              "دستور الحكم (Regeringsformen)",
+              "قانون حرية الصحافة",
+              "قانون حرية التعبير",
+              "قانون وراثة العرش"
+            ]
+          },
+          {
+            "title": "3. دستور الحكم",
+            "subtitle": "ما الذي ينظمه دستور الحكم؟",
+            "text": "دستور الحكم هو أهم قانون أساسي ويحدد كيفية حكم السويد وكيف يتم توزيع السلطة.",
+            "list": [
+              "كيفية حكم السويد",
+              "عمل البرلمان",
+              "عمل الحكومة",
+              "دور السلطات الحكومية",
+              "دور رئيس الدولة",
+              "مساواة جميع الناس",
+              "الحرية والكرامة",
+              "كل السلطة العامة تأتي من الشعب"
+            ]
+          },
+          {
+            "title": "4. قانون حرية الصحافة",
+            "subtitle": "ماذا يحمي هذا القانون؟",
+            "text": "يحمي قانون حرية الصحافة حرية الكلمة في الشكل المطبوع ويمنح الحق في نشر المواد المطبوعة.",
+            "list": [
+              "نشر الكتب",
+              "نشر الصحف",
+              "نشر المجلات",
+              "حرية النشر المطبوع",
+              "منع الرقابة على المطبوعات"
+            ]
+          },
+          {
+            "title": "5. قانون حرية التعبير",
+            "subtitle": "ماذا تعني حرية التعبير؟",
+            "text": "حرية التعبير تعني أن لكل شخص الحق في التعبير عن أفكاره، ولكن هناك حدود يفرضها القانون.",
+            "list": [
+              "الراديو",
+              "التلفزيون",
+              "الصحف",
+              "الإنترنت",
+              "تكوين الجمعيات",
+              "المشاركة في الجمعيات",
+              "التظاهر",
+              "منع التشهير",
+              "منع خطاب الكراهية",
+              "منع نشر معلومات سرية"
+            ]
+          },
+          {
+            "title": "6. قانون الخلافة",
+            "subtitle": "ما الذي ينظمه هذا القانون؟",
+            "text": "يحدد قانون الخلافة من يصبح ملكًا أو ملكة بعد الحاكم الحالي.",
+            "list": ["تحديد الوريث للعرش", "الملك أو الملكة القادمة"]
+          },
+          {
+            "title": "7. حق الجميع في الطبيعة",
+            "subtitle": "ماذا يسمح به حق التجول؟",
+            "text": "حق الجميع في الطبيعة يسمح للناس بالتواجد في الطبيعة حتى لو كانت الأرض مملوكة لشخص آخر، مع ضرورة احترام الطبيعة.",
+            "list": [
+              "المشي",
+              "المشي الطويل",
+              "ركوب الدراجة",
+              "التجديف",
+              "التخييم لفترة قصيرة",
+              "جمع التوت",
+              "جمع الفطر",
+              "جمع الزهور العادية",
+              "عدم الإزعاج",
+              "عدم الإضرار",
+              "عدم دخول الأراضي الزراعية",
+              "عدم رمي القمامة",
+              "عدم إتلاف الطبيعة"
+            ]
+          },
+          {
+            "title": "8. نظام العدالة",
+            "subtitle": "ما هو نظام العدالة؟",
+            "text": "يتكون نظام العدالة من مؤسسات تعمل على تطبيق القانون والتحقيق في الجرائم.",
+            "list": [
+              "الشرطة",
+              "النيابة العامة",
+              "المحاكم",
+              "مكتب دعم ضحايا الجرائم",
+              "مصلحة السجون"
+            ]
+          },
+          {
+            "title": "9. سيادة القانون",
+            "subtitle": "ماذا تعني سيادة القانون؟",
+            "text": "سيادة القانون تعني أن الجميع متساوون أمام القانون ولهم الحق في محاكمة عادلة.",
+            "list": [
+              "الجميع متساوون أمام القانون",
+              "محاكمة عادلة",
+              "لا حكم بدون دليل",
+              "استقلال المحاكم",
+              "الحق في محامٍ",
+              "الحق في الاستئناف"
+            ]
+          },
+          {
+            "title": "10. المحاكم",
+            "subtitle": "كيف تعمل المحاكم؟",
+            "text": "في السويد توجد ثلاث درجات من المحاكم تنظر في القضايا الجنائية والمدنية.",
+            "list": ["محكمة البداية", "محكمة الاستئناف", "المحكمة العليا"]
+          },
+          {
+            "title": "11. بريء حتى تثبت إدانته",
+            "subtitle": "ما معنى هذا المبدأ؟",
+            "text": "كل شخص يعتبر بريئًا حتى تثبت المحكمة إدانته.",
+            "list": [
+              "البراءة حتى الإدانة",
+              "يجب وجود دليل",
+              "المحكمة تقرر الذنب"
+            ]
+          },
+          {
+            "title": "12. التحقيق الجنائي",
+            "subtitle": "كيف يتم التحقيق؟",
+            "text": "تمر التحقيقات الجنائية بعدة مراحل من البلاغ إلى التوقيف.",
+            "list": [
+              "تقديم بلاغ للشرطة",
+              "الاستجواب",
+              "جمع الأدلة",
+              "التوقيف",
+              "الاعتقال"
+            ]
+          },
+          {
+            "title": "13. المحاكمة",
+            "subtitle": "ماذا يحدث في المحكمة؟",
+            "text": "يعرض الادعاء الأدلة بينما يدافع المحامي عن المتهم، ويصدر القاضي الحكم.",
+            "list": [
+              "عرض الأدلة",
+              "الدفاع عن المتهم",
+              "قرار القاضي",
+              "مشاركة المحلفين"
+            ]
+          },
+          {
+            "title": "14. الأحكام",
+            "subtitle": "ما هي العقوبات؟",
+            "text": "يمكن للمحكمة إصدار عدة أنواع من الأحكام.",
+            "list": ["غرامة مالية", "السجن", "تبرئة"]
+          },
+          {
+            "title": "15. الاستئناف",
+            "subtitle": "ماذا يعني الاستئناف؟",
+            "text": "يمكن الطعن في الحكم لدى محكمة أعلى.",
+            "list": ["إعادة المحاكمة", "محكمة أعلى", "تغيير الحكم"]
+          },
+          {
+            "title": "16. المسؤولية الجنائية",
+            "subtitle": "متى يصبح الشخص مسؤولًا جنائيًا؟",
+            "text": "في السويد يصبح الشخص مسؤولًا جنائيًا عند سن 15 عامًا.",
+            "list": [
+              "المسؤولية من 15 سنة",
+              "الأطفال دون 15 لا يُحاكمون",
+              "الخدمات الاجتماعية مسؤولة عن الأطفال",
+              "اقتراح خفض السن إلى 13 في الجرائم الخطيرة"
+            ]
+          },
+          {
+            "title": "17. سجل السوابق الجنائية",
+            "subtitle": "ما هو السجل الجنائي؟",
+            "text": "السجل الجنائي يحتوي على الأشخاص الذين تمت إدانتهم بجرائم.",
+            "list": [
+              "يؤثر على الوظيفة",
+              "يؤثر على رخصة القيادة",
+              "يؤثر على الجنسية"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel ett: 3 Landet Sverige",
+        "arabic": "الفصل الأول: دولة السويد"
+      },
+      "sections": {
+        "swedish": [],
+        "arabic": []
+      }
+    }
+  ]
+}

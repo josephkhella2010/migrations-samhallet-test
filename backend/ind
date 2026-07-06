@@ -1,0 +1,270 @@
+/* {
+  "lessons": [
+    {
+      "lessonTitle": "Kapital ett: 1 Landet Sverige",
+      "lessonId": 1,
+      "sections": [
+        {
+          "title": "1. Geografi",
+          "subtitle": "Var ligger Sverige?",
+          "text": "Sverige ligger i Norden, som är en del av norra Europa.\nNorden består av fem länder:",
+          "list": ["Sverige", "Norge", "Danmark", "Finland", "Island"],
+          "text2": "Sverige är det största landet i Norden."
+        },
+        {
+          "title": "Sveriges längd",
+          "subtitle": "",
+          "text": "Sverige är ett avlångt land.\nFrån Treriksröset (nordligaste punkten) till Smygehuk (sydligaste punkten) är det cirka 1 600 kilometer.\nDen nordligaste delen av Sverige ligger norr om Polcirkeln, vilket betyder att området tillhör Arktis."
+        },
+        {
+          "title": "Sveriges hav",
+          "subtitle": "",
+          "text": "Sverige har en mycket lång kust.\nÖstra kusten\nÖstersjön\nI Östersjön ligger Sveriges två största öar:",
+          "list": ["Gotland", "Öland"],
+          "text2": "Västra kusten\nSkagerrak\nKattegatt"
+        },
+        {
+          "title": "2. Sveriges klimat",
+          "subtitle": "",
+          "text": "Trots att Sverige ligger långt norrut har landet ett mildare klimat än många andra länder på samma breddgrad.\nVarför?\nDet beror på två havsströmmar:",
+          "list": ["Golfströmmen", "Nordatlantiska strömmen"],
+          "text2": "De transporterar varmt vatten från Mexikanska golfen över Atlanten mot Europa.\nDet varma havsvattnet:",
+          "list2": [
+            "värmer luften",
+            "vindarna för den varma och fuktiga luften till Sverige"
+          ],
+          "text3": "Därför blir vintrarna mildare än de annars skulle vara."
+        },
+        {
+          "title": "3. Sveriges natur",
+          "subtitle": "Istiden",
+          "text": "För ungefär 10 000 år sedan var Sverige täckt av flera kilometer tjock is.\nDen perioden kallas istiden.\nNär isen smälte bildades:",
+          "list": [
+            "tusentals sjöar",
+            "skärgårdar",
+            "slätter med odlingsbar jord",
+            "dagens fjäll"
+          ],
+          "text2": "Istiden har alltså format Sveriges landskap."
+        },
+        {
+          "title": "4. Fjäll",
+          "subtitle": "",
+          "text": "Längs gränsen mot Norge ligger bergskedjan Skanderna.\nDen kallas ofta fjällen.\nDär:",
+          "list": [
+            "klimatet är kallt",
+            "det blåser mycket",
+            "träd kan inte växa"
+          ],
+          "text2": "Landskapet består mest av:",
+          "list2": ["sten", "gräs", "låga växter"],
+          "text3": "Här ligger också Sveriges högsta berg:\nKebnekaise\ncirka 2 000 meter högt"
+        },
+        {
+          "title": "5. Skogar",
+          "subtitle": "",
+          "text": "Mer än hälften av Sveriges yta är täckt av skog.\nNorra Sverige\nEftersom klimatet är kallare växer mest:",
+          "list": ["gran", "tall"],
+          "text2": "Dessa kallas barrträd.\nSödra Sverige\nKlimatet är mildare.\nDär finns fler:",
+          "list2": ["ek", "björk", "bok"],
+          "text3": "Dessa är lövträd."
+        },
+        {
+          "title": "6. Sjöar",
+          "subtitle": "",
+          "text": "Sverige har väldigt många sjöar.\nDe tre största är:",
+          "list": ["Vänern", "Vättern", "Mälaren"],
+          "text2": "Sjöarna används bland annat som:",
+          "list2": ["dricksvatten", "fiske", "transporter", "rekreation"]
+        },
+        {
+          "title": "7. Älvar och vattendrag",
+          "subtitle": "",
+          "text": "Det finns hundratals:",
+          "list": ["älvar", "åar"],
+          "text2": "De största älvarna börjar i fjällen i norra Sverige och rinner mot havet.\nDe används bland annat till:",
+          "list2": ["vattenkraft", "elproduktion"]
+        },
+        {
+          "title": "8. Skärgårdar",
+          "subtitle": "",
+          "text": "En skärgård är ett område med många öar nära kusten.\nSverige har skärgårdar:",
+          "list": [
+            "längs östkusten",
+            "längs norra Sveriges kust",
+            "vid Småland",
+            "utanför Göteborg",
+            "i Bohuslän"
+          ],
+          "text2": "Sverige har cirka 250 000 öar.\nDet är fler öar än något annat land i världen."
+        },
+        {
+          "title": "9. Sveriges indelning",
+          "subtitle": "Tre landsdelar",
+          "text": "",
+          "list": [
+            "Götaland",
+            "södra Sverige",
+            "Svealand",
+            "mellersta Sverige",
+            "Norrland",
+            "norra Sverige"
+          ],
+          "text2": "Norrland täcker mer än hälften av Sveriges yta."
+        },
+        {
+          "title": "Landskap",
+          "subtitle": "",
+          "text": "Sverige har 25 landskap.\nFörr hade varje landskap egna lagar.\nIdag används de inte för att styra landet.\nMånga känner ändå stark anknytning till sitt landskap."
+        },
+        {
+          "title": "Län",
+          "subtitle": "",
+          "text": "Sverige har 21 län.\nLänen används av staten och regionerna för administration."
+        },
+        {
+          "title": "Kommuner",
+          "subtitle": "",
+          "text": "Sverige har 290 kommuner.\nKommunerna ansvarar bland annat för:",
+          "list": [
+            "skola",
+            "äldreomsorg",
+            "socialtjänst",
+            "vatten",
+            "avlopp",
+            "sophämtning"
+          ]
+        },
+        {
+          "title": "10. Befolkning",
+          "subtitle": "",
+          "text": "Sverige har nästan 11 miljoner invånare.\nBefolkningen är ojämnt fördelad.\nDe flesta bor:",
+          "list": ["i södra Sverige", "längs kusterna"],
+          "text2": "Ungefär 85 % av befolkningen bor i städer."
+        },
+        {
+          "title": "De tre största städerna",
+          "subtitle": "",
+          "text": "",
+          "list": ["Stockholm", "Göteborg", "Malmö"],
+          "text2": "I och omkring dessa tre städer bor ungefär 4 miljoner människor."
+        },
+        {
+          "title": "11. Naturresurser",
+          "subtitle": "",
+          "text": "Sverige är rikt på naturresurser.\nDe viktigaste är:",
+          "list": [
+            "järnmalm",
+            "andra mineraler",
+            "skog",
+            "vatten",
+            "jordbruksmark"
+          ]
+        },
+        {
+          "title": "12. Järnmalm och mineraler",
+          "subtitle": "",
+          "text": "Mineraler bryts i gruvor.\nDe största gruvorna finns i Norrbottens län.\nExempel:",
+          "list": ["Kiruna", "Malmberget"],
+          "text2": "I gruvorna bryts:",
+          "list2": ["järnmalm", "koppar", "zink", "bly", "guld"],
+          "text3": "Järn används för att tillverka stål.\nJärn- och stålindustrin har varit mycket viktig för Sveriges ekonomi under lång tid.\nJärnmalmen transporteras från gruvorna med tåg."
+        },
+        {
+          "title": "13. Vatten",
+          "subtitle": "",
+          "text": "Sverige har mycket god tillgång till vatten.\nVattnet används till:",
+          "list": ["dricksvatten", "jordbruk", "industri"],
+          "text2": "Vatten används också till att producera el.\nI vattenkraftverk används rinnande vatten för att skapa elektricitet.\nVattenkraft står för en stor del av Sveriges elproduktion."
+        },
+        {
+          "title": "14. Jordbruk",
+          "subtitle": "",
+          "text": "Jordbruket är anpassat efter klimatet.\nI norra Sverige är klimatet kallare.\nDärför odlas mindre.\nDet mesta jordbruket finns i södra Sverige."
+        },
+        {
+          "title": "15. Skogsbruk",
+          "subtitle": "",
+          "text": "Skogen är en av Sveriges viktigaste naturresurser.\nProdukter från skogen exporteras till många länder.\nViktiga produkter är:",
+          "list": ["cellulosa", "papper", "kartong", "trä"],
+          "text2": "Skogsindustrin är en av Sveriges viktigaste näringar."
+        },
+        {
+          "title": "16. Klimatförändringar",
+          "subtitle": "",
+          "text": "Jordens klimat har alltid förändrats.\nIdag sker uppvärmningen snabbare än tidigare.\nEnligt forskare och FN:s klimatpanel\nDen största orsaken är människans utsläpp av växthusgaser.\nUtsläppen kommer främst från:",
+          "list": ["transporter", "industrier", "jordbruk"],
+          "text2": "Konsekvenser\nNär jorden blir varmare:",
+          "list2": [
+            "isarna vid polerna smälter",
+            "havsnivån stiger",
+            "värmeböljor blir vanligare",
+            "kraftiga regn ökar",
+            "torka blir vanligare"
+          ],
+          "text3": "I Sverige kan klimatförändringarna leda till:",
+          "list3": [
+            "fler översvämningar",
+            "kraftigare regn",
+            "längre värmeperioder",
+            "torka",
+            "fler skogsbränder"
+          ]
+        },
+        {
+          "title": "17. Sveriges arbete mot klimatförändringarna",
+          "subtitle": "",
+          "text": "Sverige arbetar för att minska klimatförändringarnas konsekvenser.\nDet finns en klimatlag.\n\nKlimatmål\nÅr 2045 ska Sveriges utsläpp av växthusgaser vara så nära noll som möjligt.\nDet betyder att Sverige inte ska släppa ut mer växthusgaser än naturen kan ta upp."
+        },
+        {
+          "title": "Internationellt samarbete",
+          "subtitle": "",
+          "text": "Sverige samarbetar med andra länder för att utveckla och använda:",
+          "list": ["vindkraft", "vattenkraft", "solenergi"]
+        },
+        {
+          "title": "18. Hållbar utveckling",
+          "subtitle": "",
+          "text": "Hållbar utveckling betyder att vi använder naturresurser på ett sätt så att framtida generationer också kan leva bra.\nDen bygger på tre delar:",
+          "list": ["miljö", "samhälle", "ekonomi"]
+        },
+        {
+          "title": "Vem kan bidra?",
+          "subtitle": "Regeringar och internationella organisationer",
+          "text": "",
+          "list": ["stiftar lagar", "minskar utsläpp", "skyddar miljön"]
+        },
+        {
+          "title": "Företag",
+          "subtitle": "",
+          "text": "",
+          "list": [
+            "minskar sin klimatpåverkan",
+            "använder miljövänligare teknik"
+          ]
+        },
+        {
+          "title": "Individer",
+          "subtitle": "",
+          "text": "Kan bidra genom att:",
+          "list": [
+            "åka buss eller tåg",
+            "cykla eller gå",
+            "spara el och värme",
+            "sortera sopor",
+            "återvinna",
+            "minska matsvinn",
+            "leva mer hållbart",
+            "engagera sig politiskt"
+          ]
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Sveriges demokratiska system",
+      "lessonId": 2,
+      "sections": []
+    }
+  ]
+}
+ */

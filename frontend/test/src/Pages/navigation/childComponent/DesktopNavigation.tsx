@@ -1,0 +1,221 @@
+import { createUseStyles } from "react-jss";
+import { useTranslation } from "../../../translation/context/useTranslation";
+import NavigationPageTranslation from "../../../translation/Translations/NavigationPageTranslation";
+import LanguageDropDown from "./LanguageDropDown";
+import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
+import { useDispatch } from "react-redux";
+
+const useStyles = createUseStyles({
+  desktopNavContainer: {
+    width: "100%",
+    background: "#1f2937",
+    color: "#fff",
+    height: 60,
+  },
+
+  desktopNavMainMenu: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    listStyle: "none",
+    margin: 0,
+    padding: "0 30px",
+    height: 60,
+    "& > li": {
+      wordBreak: "keep-all",
+      width: "150px",
+    },
+
+    "@media (max-width: 1200px)": {
+      padding: "0 20px",
+    },
+
+    "@media (max-width: 992px)": {
+      padding: "0 15px",
+    },
+  },
+
+  desktopNavSubMenuMainSection: {
+    display: "flex",
+    alignItems: "center",
+    gap: 40,
+
+    "@media (max-width: 992px)": {
+      gap: 20,
+    },
+    "@media (max-width: 768px)": {
+      width: "100%",
+      justifyContent: "space-between",
+      gap: 10,
+    },
+  },
+
+  desktopNavSubMenuMainContainer: {
+    display: "flex",
+    gap: 40,
+
+    "@media (max-width: 1200px)": {
+      gap: 25,
+    },
+
+    "@media (max-width: 992px)": {
+      gap: 15,
+    },
+
+    "@media (max-width: 768px)": {
+      width: "100%",
+      gap: 10,
+    },
+
+    "@media (max-width: 500px)": {
+      flexDirection: "column",
+      alignItems: "stretch",
+      width: "100%",
+    },
+  },
+
+  desktopNavSubMenu: {
+    position: "relative",
+    display: "flex",
+    alignItems: "center",
+    height: 60,
+    padding: "0 12px",
+    cursor: "pointer",
+    whiteSpace: "nowrap",
+
+    "&:hover $desktopNavSubList": {
+      display: "flex",
+      flexDirection: "column",
+    },
+
+    "@media (max-width: 992px)": {
+      fontSize: 14,
+      padding: "0 8px",
+    },
+
+    "@media (max-width: 768px)": {
+      justifyContent: "center",
+      width: "100%",
+      height: 45,
+    },
+  },
+
+  desktopNavSubList: {
+    display: "none",
+    position: "absolute",
+    top: 60,
+    left: 0,
+    background: "#ffffff",
+    color: "#222",
+    borderRadius: 8,
+    boxShadow: "0 8px 20px rgba(0,0,0,.15)",
+    listStyle: "none",
+    margin: 0,
+    padding: 10,
+    minWidth: 180,
+    zIndex: 1000,
+
+    "& li": {
+      padding: "10px 12px",
+      borderRadius: 6,
+      cursor: "pointer",
+    },
+
+    "& li:hover": {
+      background: "#f3f4f6",
+    },
+
+    "@media (max-width: 768px)": {
+      left: "50%",
+      transform: "translateX(-50%)",
+      minWidth: 160,
+    },
+  },
+});
+
+interface PropsType {
+  handleNavigate: (id: number | string) => void;
+  handleNavigateQuestion: (id: number | string) => void;
+  setLangDropDown: React.Dispatch<React.SetStateAction<string>>;
+  lessonsArr: number[];
+  langDropDown: string;
+  setShowLangDropDown: React.Dispatch<React.SetStateAction<boolean>>;
+  showLangDropDown: boolean;
+}
+export default function DesktopNavigation({
+  handleNavigate,
+  handleNavigateQuestion,
+  setLangDropDown,
+  lessonsArr,
+  langDropDown,
+  setShowLangDropDown,
+  showLangDropDown,
+}: PropsType) {
+  const classes = useStyles();
+  const { t } = useTranslation();
+  const dispatch = useDispatch();
+
+  /* functions */
+  /*  const handleNavigate = (id: number | string) => {
+    const lessonIdString = String(id);
+    navigate(`/lesson-detail/${lessonIdString}`);
+    console.log(typeof lessonIdString);
+  };
+  const handleNavigateQuestion = (id: number | string) => {
+    const lessonIdString = String(id);
+    navigate(`/question-detail/${lessonIdString}`);
+  }; */
+
+  return (
+    <div className={classes.desktopNavContainer}>
+      <ul className={classes.desktopNavMainMenu}>
+        <li>{t(NavigationPageTranslation.HomeTitle)}</li>
+
+        <div className={classes.desktopNavSubMenuMainSection}>
+          <div className={classes.desktopNavSubMenuMainContainer}>
+            <div className={classes.desktopNavSubMenu}>
+              <li>{t(NavigationPageTranslation.LinkOne)}</li>
+
+              <ul className={classes.desktopNavSubList}>
+                {lessonsArr.map((it) => (
+                  <li
+                    key={it}
+                    onClick={() => {
+                      handleNavigate(it);
+                    }}
+                  >
+                    {t(NavigationPageTranslation.SubLinkLektion)} {it}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div className={classes.desktopNavSubMenu}>
+              <li>{t(NavigationPageTranslation.LinkTwo)}</li>
+
+              <ul className={classes.desktopNavSubList}>
+                {lessonsArr.map((it) => (
+                  <li
+                    key={it}
+                    onClick={() => {
+                      handleNavigateQuestion(it);
+                      dispatch(clearAnswers());
+                    }}
+                  >
+                    {t(NavigationPageTranslation.SubLinkTest)} {it}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+          <LanguageDropDown
+            selectedLanguage={langDropDown}
+            showLangDropDown={showLangDropDown}
+            setLangDropDown={setLangDropDown}
+            setShowLangDropDown={setShowLangDropDown}
+          />
+        </div>
+      </ul>
+    </div>
+  );
+}
