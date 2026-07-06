@@ -397,11 +397,15 @@ const useStyle = createUseStyles({
     alignItems: "center",
     gap: 0,
     flexDirection: "column",
+    justifyContent: "center",
+  },
+  questionsContainer: {
+    width: "90%",
+    overflow: "hidden",
   },
   questionsMainSection: {
     display: "flex",
-    overflowX: "hidden",
-    width: "80%",
+    width: "100%",
     gap: "24px",
   },
   section: {
@@ -418,21 +422,19 @@ const useStyle = createUseStyles({
     margin: "0 0 20px",
     fontSize: 22,
     color: "#111827",
-    "@media (max-width: 500px)": {
+    "@media (max-width: 780px)": {
       fontSize: 18,
     },
   },
 
   answer: {
     display: "flex",
-    alignItems: "center",
-    gap: 12,
+    gap: 15,
     padding: "12px 15px",
     marginBottom: 12,
     borderRadius: 10,
     cursor: "pointer",
     transition: "0.2s",
-
     "&:hover": {
       background: "#eef2ff",
     },
@@ -443,19 +445,20 @@ const useStyle = createUseStyles({
     },
 
     "& p": {
-      "@media (max-width: 500px)": {
+      textAlign: "left",
+      "@media (max-width: 780px)": {
         fontSize: 15,
       },
     },
   },
   BtnContainer: {
     display: "flex",
+    justifyContent: "center",
     gap: "30px",
     "& button": {
       padding: "4px 10px",
       width: "60px",
       height: "30px",
-
       cursor: "pointer",
       borderRadius: "8px",
       border: "0.5px solid black",
@@ -576,135 +579,141 @@ export default function QuestionDetails() {
         </h1>
 
         <div className={classes.questionsWrapperSection}>
-          <div className={classes.questionsMainSection}>
-            {questions.map((item: QuestionInsideType, index: number) => {
-              const selectedAnswer = userAnswers[index];
-              const selected = selectedAnswer?.userAnswer;
-              const showResult = selected !== undefined;
+          <div className={classes.questionsContainer}>
+            <div className={classes.questionsMainSection}>
+              {questions.map((item: QuestionInsideType, index: number) => {
+                const selectedAnswer = userAnswers[index];
+                const selected = selectedAnswer?.userAnswer;
+                const showResult = selected !== undefined;
 
-              return (
-                <div
-                  key={index}
-                  className={classes.section}
+                return (
+                  <div
+                    key={index}
+                    className={classes.section}
+                    style={{
+                      transform: `translateX(calc(-${
+                        currentQuestionIndex * 100
+                      }% - ${currentQuestionIndex * gap}px))`,
+                      transition: "transform 0.5s ease-in-out",
+                    }}
+                  >
+                    <h2 className={classes.questionTitle}>
+                      {item.question[currentLanguage]}
+                    </h2>
+
+                    {item.answers.map((answer, i) => {
+                      const answerText =
+                        currentLanguage === "sv"
+                          ? answer.textSv
+                          : answer.textAr;
+
+                      const isSelected =
+                        selectedAnswer?.userAnswer === answerText;
+
+                      return (
+                        <label key={i} className={classes.answer}>
+                          <input
+                            type="radio"
+                            name={`question-${index}`}
+                            value={answerText}
+                            checked={isSelected}
+                            onChange={() =>
+                              handleUserAnswer(
+                                index,
+                                item,
+                                answerText,
+                                answer.correct,
+                              )
+                            }
+                            className={
+                              isSelected
+                                ? answer.correct
+                                  ? classes.correctAnswer
+                                  : classes.wrongAnswer
+                                : ""
+                            }
+                          />
+
+                          <p
+                            className={
+                              isSelected
+                                ? answer.correct
+                                  ? classes.correctAnswerPara
+                                  : classes.wrongAnswerPara
+                                : ""
+                            }
+                          >
+                            {answerText}
+                            {isSelected && (
+                              <span className={classes.CorrectOrWrongSpan}>
+                                {answer.correct
+                                  ? " ✅ Correct Answer"
+                                  : " ❌ Wrong Answer"}
+                              </span>
+                            )}
+                          </p>
+                        </label>
+                      );
+                    })}
+
+                    {showResult && (
+                      <p
+                        className={
+                          selectedAnswer?.isCorrect
+                            ? classes.correctAnswerPara
+                            : classes.wrongAnswerPara
+                        }
+                      >
+                        Correct Answer:{" "}
+                        {currentLanguage === "sv"
+                          ? item.correctAnswerSv
+                          : item.correctAnswerAr}
+                      </p>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+
+            {/* ================= BUTTONS ================= */}
+            <div className={classes.BtnContainer}>
+              <button
+                onClick={() => handleNext("prev")}
+                style={{
+                  visibility: currentQuestionIndex === 0 ? "hidden" : "visible",
+                }}
+              >
+                prev
+              </button>
+
+              {currentQuestionIndex < questions.length - 1 && (
+                <button
+                  onClick={() => handleNext("next")}
                   style={{
-                    transform: `translateX(calc(-${
-                      currentQuestionIndex * 100
-                    }% - ${currentQuestionIndex * gap}px))`,
-                    transition: "transform 0.5s ease-in-out",
+                    visibility: userAnswers[currentQuestionIndex]
+                      ?.isRadioChecked
+                      ? "visible"
+                      : "hidden",
                   }}
                 >
-                  <h2 className={classes.questionTitle}>
-                    {item.question[currentLanguage]}
-                  </h2>
+                  next
+                </button>
+              )}
 
-                  {item.answers.map((answer, i) => {
-                    const answerText =
-                      currentLanguage === "sv" ? answer.textSv : answer.textAr;
-
-                    const isSelected =
-                      selectedAnswer?.userAnswer === answerText;
-
-                    return (
-                      <label key={i} className={classes.answer}>
-                        <input
-                          type="radio"
-                          name={`question-${index}`}
-                          value={answerText}
-                          checked={isSelected}
-                          onChange={() =>
-                            handleUserAnswer(
-                              index,
-                              item,
-                              answerText,
-                              answer.correct,
-                            )
-                          }
-                          className={
-                            isSelected
-                              ? answer.correct
-                                ? classes.correctAnswer
-                                : classes.wrongAnswer
-                              : ""
-                          }
-                        />
-
-                        <p
-                          className={
-                            isSelected
-                              ? answer.correct
-                                ? classes.correctAnswerPara
-                                : classes.wrongAnswerPara
-                              : ""
-                          }
-                        >
-                          {answerText}
-                          {isSelected && (
-                            <span className={classes.CorrectOrWrongSpan}>
-                              {answer.correct
-                                ? " ✅ Correct Answer"
-                                : " ❌ Wrong Answer"}
-                            </span>
-                          )}
-                        </p>
-                      </label>
-                    );
-                  })}
-
-                  {showResult && (
-                    <p
-                      className={
-                        selectedAnswer?.isCorrect
-                          ? classes.correctAnswerPara
-                          : classes.wrongAnswerPara
-                      }
-                    >
-                      Correct Answer:{" "}
-                      {currentLanguage === "sv"
-                        ? item.correctAnswerSv
-                        : item.correctAnswerAr}
-                    </p>
-                  )}
-                </div>
-              );
-            })}
-          </div>
-
-          {/* ================= BUTTONS ================= */}
-          <div className={classes.BtnContainer}>
-            <button
-              onClick={() => handleNext("prev")}
-              style={{
-                visibility: currentQuestionIndex === 0 ? "hidden" : "visible",
-              }}
-            >
-              prev
-            </button>
-
-            {currentQuestionIndex < questions.length - 1 && (
-              <button
-                onClick={() => handleNext("next")}
-                style={{
-                  visibility: userAnswers[currentQuestionIndex]?.isRadioChecked
-                    ? "visible"
-                    : "hidden",
-                }}
-              >
-                next
-              </button>
-            )}
-
-            {currentQuestionIndex === questions.length - 1 && (
-              <button
-                onClick={() => navigate("/score")}
-                style={{
-                  visibility: userAnswers[currentQuestionIndex]?.isRadioChecked
-                    ? "visible"
-                    : "hidden",
-                }}
-              >
-                Score
-              </button>
-            )}
+              {currentQuestionIndex === questions.length - 1 && (
+                <button
+                  onClick={() => navigate("/score")}
+                  style={{
+                    visibility: userAnswers[currentQuestionIndex]
+                      ?.isRadioChecked
+                      ? "visible"
+                      : "hidden",
+                  }}
+                >
+                  Score
+                </button>
+              )}
+            </div>
           </div>
         </div>
       </div>
