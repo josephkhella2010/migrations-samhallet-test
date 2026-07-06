@@ -435,6 +435,7 @@ const useStyle = createUseStyles({
     borderRadius: 10,
     cursor: "pointer",
     transition: "0.2s",
+    alignItems: "flex-start",
     "&:hover": {
       background: "#eef2ff",
     },
@@ -442,10 +443,12 @@ const useStyle = createUseStyles({
     "& input": {
       cursor: "pointer",
       transform: "scale(1.2)",
+      marginTop: "2px",
     },
 
     "& p": {
       textAlign: "left",
+
       "@media (max-width: 780px)": {
         fontSize: 13,
       },
@@ -479,12 +482,18 @@ const useStyle = createUseStyles({
   },
   correctAnswerPara: {
     color: "green",
+    display: "flex",
+    flexDirection: "column",
+    gap: "7px",
   },
   wrongAnswerPara: {
     color: "red",
+    display: "flex",
+    flexDirection: "column",
+    gap: "7px",
   },
   CorrectOrWrongSpan: {
-    marginLeft: "50px",
+    //marginLeft: "50px",
   },
   disabledBtn: {
     pointerEvents: "none",
@@ -633,25 +642,26 @@ export default function QuestionDetails() {
                                 : ""
                             }
                           />
-
-                          <p
-                            className={
-                              isSelected
-                                ? answer.correct
-                                  ? classes.correctAnswerPara
-                                  : classes.wrongAnswerPara
-                                : ""
-                            }
-                          >
-                            {answerText}
-                            {isSelected && (
-                              <span className={classes.CorrectOrWrongSpan}>
-                                {answer.correct
-                                  ? " ✅ Correct Answer"
-                                  : " ❌ Wrong Answer"}
-                              </span>
-                            )}
-                          </p>
+                          <div>
+                            <p
+                              className={
+                                isSelected
+                                  ? answer.correct
+                                    ? classes.correctAnswerPara
+                                    : classes.wrongAnswerPara
+                                  : ""
+                              }
+                            >
+                              {answerText}
+                              {isSelected && (
+                                <span className={classes.CorrectOrWrongSpan}>
+                                  {answer.correct
+                                    ? " ✅ Correct Answer"
+                                    : " ❌ Wrong Answer"}
+                                </span>
+                              )}
+                            </p>
+                          </div>
                         </label>
                       );
                     })}
