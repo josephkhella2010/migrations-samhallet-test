@@ -58,6 +58,7 @@ const useStyles = createUseStyles({
     height: "1px",
     borderRadius: "7px",
   },
+  liLink: { cursor: "pointer" },
 });
 
 interface PropsType {
@@ -84,7 +85,7 @@ export default function HeaderMobileNavBar({
       <div className={classes.desktopNavContainer}>
         <ul className={classes.desktopNavMainMenu}>
           <div className={classes.desktopNavMainMenuLeftSection}>
-            <li onClick={() => navigate("/")}>
+            <li className={classes.liLink} onClick={() => navigate("/")}>
               {t(NavigationPageTranslation.HomeTitle)}
             </li>
             <LanguageDropDown

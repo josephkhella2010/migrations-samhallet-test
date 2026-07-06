@@ -132,6 +132,9 @@ const useStyles = createUseStyles({
       minWidth: 160,
     },
   },
+  liLink: {
+    cursor: "pointer",
+  },
 });
 
 interface PropsType {
@@ -171,14 +174,14 @@ export default function DesktopNavigation({
   return (
     <div className={classes.desktopNavContainer}>
       <ul className={classes.desktopNavMainMenu}>
-        <li>{t(NavigationPageTranslation.HomeTitle)}</li>
+        <li className={classes.liLink} onClick={() => navigate("/")}>
+          {t(NavigationPageTranslation.HomeTitle)}
+        </li>
 
         <div className={classes.desktopNavSubMenuMainSection}>
           <div className={classes.desktopNavSubMenuMainContainer}>
             <div className={classes.desktopNavSubMenu}>
-              <li onClick={() => navigate("/")}>
-                {t(NavigationPageTranslation.LinkOne)}
-              </li>
+              <li>{t(NavigationPageTranslation.LinkOne)}</li>
 
               <ul className={classes.desktopNavSubList}>
                 {lessonsArr.map((it) => (
