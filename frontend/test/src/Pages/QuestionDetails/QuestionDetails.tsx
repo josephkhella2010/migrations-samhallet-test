@@ -423,7 +423,7 @@ const useStyle = createUseStyles({
     fontSize: 22,
     color: "#111827",
     "@media (max-width: 780px)": {
-      fontSize: 18,
+      fontSize: 15,
     },
   },
 
@@ -447,7 +447,7 @@ const useStyle = createUseStyles({
     "& p": {
       textAlign: "left",
       "@media (max-width: 780px)": {
-        fontSize: 15,
+        fontSize: 10,
       },
     },
   },
