@@ -13,7 +13,7 @@ import type { LessonType } from "../../../utilities/Interfaces";
 
 async function FetchLessonApi(id: string) {
   const response = await axios.get<LessonType>(
-    `http://localhost:5100/api/lesson/${id}`,
+    `https://backend-service-migrations-samhallet-test.onrender.com/api/lesson/${id}`,
   );
 
   return response.data;

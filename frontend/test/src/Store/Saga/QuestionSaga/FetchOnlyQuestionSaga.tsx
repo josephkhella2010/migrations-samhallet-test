@@ -112,7 +112,7 @@ import type { LessonQuestionsType } from "../../../utilities/Interfaces";
 
 async function fetchQuestionApi(id: string): Promise<LessonQuestionsType> {
   const response = await axios.get<LessonQuestionsType>(
-    `http://localhost:5100/api/question/${id}`,
+    `https://backend-service-migrations-samhallet-test.onrender.com/api/question/${id}`,
   );
 
   return response.data;
