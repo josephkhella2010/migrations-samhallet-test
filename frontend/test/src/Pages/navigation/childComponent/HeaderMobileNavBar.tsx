@@ -2,6 +2,7 @@ import { createUseStyles } from "react-jss";
 import { useTranslation } from "../../../translation/context/useTranslation";
 import NavigationPageTranslation from "../../../translation/Translations/NavigationPageTranslation";
 import LanguageDropDown from "./LanguageDropDown";
+import { useNavigate } from "react-router-dom";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
@@ -76,13 +77,16 @@ export default function HeaderMobileNavBar({
 }: PropsType) {
   const classes = useStyles();
   const { t } = useTranslation();
+  const navigate = useNavigate();
 
   return (
     <div>
       <div className={classes.desktopNavContainer}>
         <ul className={classes.desktopNavMainMenu}>
           <div className={classes.desktopNavMainMenuLeftSection}>
-            <li>{t(NavigationPageTranslation.HomeTitle)}</li>
+            <li onClick={() => navigate("/")}>
+              {t(NavigationPageTranslation.HomeTitle)}
+            </li>
             <LanguageDropDown
               selectedLanguage={selectedLanguage}
               showLangDropDown={showLangDropDown}

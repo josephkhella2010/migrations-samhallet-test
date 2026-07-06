@@ -4,6 +4,7 @@ import NavigationPageTranslation from "../../../translation/Translations/Navigat
 import LanguageDropDown from "./LanguageDropDown";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useDispatch } from "react-redux";
+import { useNavigate } from "react-router-dom";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
@@ -154,6 +155,7 @@ export default function DesktopNavigation({
   const classes = useStyles();
   const { t } = useTranslation();
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   /* functions */
   /*  const handleNavigate = (id: number | string) => {
@@ -174,7 +176,9 @@ export default function DesktopNavigation({
         <div className={classes.desktopNavSubMenuMainSection}>
           <div className={classes.desktopNavSubMenuMainContainer}>
             <div className={classes.desktopNavSubMenu}>
-              <li>{t(NavigationPageTranslation.LinkOne)}</li>
+              <li onClick={() => navigate("/")}>
+                {t(NavigationPageTranslation.LinkOne)}
+              </li>
 
               <ul className={classes.desktopNavSubList}>
                 {lessonsArr.map((it) => (
