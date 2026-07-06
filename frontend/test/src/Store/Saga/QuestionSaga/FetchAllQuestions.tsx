@@ -58,7 +58,7 @@ import type {
 
 async function fetchQuestionsApi(): Promise<LessonQuestionsType[]> {
   const response = await axios.get<QuestionsResponseType>(
-    "http://localhost:5100/api/questions",
+    "https://backend-service-migrations-samhallet-test.onrender.com/api/questions",
   );
 
   return response.data.lessons;

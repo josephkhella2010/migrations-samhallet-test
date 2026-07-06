@@ -10,7 +10,9 @@ import { setLessons } from "../../Slice/LessonSlice/LessonSlice";
 import axios from "axios";
 
 async function FetchLessonsApi() {
-  const response = await axios.get(`http://localhost:5100/api/lessons`);
+  const response = await axios.get(
+    `https://backend-service-migrations-samhallet-test.onrender.com/api/lessons`,
+  );
 
   const { lessons } = response.data;
   return lessons;
