@@ -42,12 +42,11 @@ const useStyles = createUseStyles({
     gap: 40,
 
     "@media (max-width: 992px)": {
-      gap: 20,
+      gap: 30,
     },
     "@media (max-width: 768px)": {
       width: "100%",
       justifyContent: "space-between",
-      gap: 10,
     },
   },
 
@@ -60,12 +59,12 @@ const useStyles = createUseStyles({
     },
 
     "@media (max-width: 992px)": {
-      gap: 15,
+      gap: 30,
+      justifyContent: "flex-end",
     },
 
     "@media (max-width: 768px)": {
       width: "100%",
-      gap: 10,
     },
 
     "@media (max-width: 500px)": {
@@ -96,8 +95,6 @@ const useStyles = createUseStyles({
 
     "@media (max-width: 768px)": {
       justifyContent: "center",
-      width: "100%",
-      height: 45,
     },
   },
 

@@ -4853,92 +4853,92 @@
           "answers": [
             {
               "textSv": "A. Successionsordningen",
-              "textAr": "A. Successionsordningen",
+              "textAr": "A. قانون وراثة العرش",
               "correct": false
             },
             {
               "textSv": "B. Regeringsformen",
-              "textAr": "B. Regeringsformen",
+              "textAr": "B. الدستور (نظام الحكم)",
               "correct": true
             },
             {
               "textSv": "C. Tryckfrihetsförordningen",
-              "textAr": "C. Tryckfrihetsförordningen",
+              "textAr": "C. قانون حرية الصحافة",
               "correct": false
             },
             {
               "textSv": "D. Yttrandefrihetsgrundlagen",
-              "textAr": "D. Yttrandefrihetsgrundlagen",
+              "textAr": "D. القانون الأساسي لحرية التعبير",
               "correct": false
             }
           ],
           "correctAnswerSv": "B. Regeringsformen",
-          "correctAnswerAr": "B. Regeringsformen"
+          "correctAnswerAr": "B. الدستور (نظام الحكم)"
         },
         {
           "question": {
             "sv": "5. Vem stiftar lagar enligt regeringsformen?",
-            "ar": "5- من يسن القوانين وفقًا لـ Regeringsformen؟"
+            "ar": "5- من يسن القوانين وفقًا لـ الدستور؟"
           },
           "answers": [
             {
               "textSv": "A. Regeringen",
-              "textAr": "A. Regeringen",
+              "textAr": "A. الحكومة",
               "correct": false
             },
             {
               "textSv": "B. Kungen",
-              "textAr": "B. Kungen",
+              "textAr": "B. الملك",
               "correct": false
             },
             {
               "textSv": "C. Riksdagen",
-              "textAr": "C. Riksdagen",
+              "textAr": "C. البرلمان السويدي",
               "correct": true
             },
             {
               "textSv": "D. Domstolarna",
-              "textAr": "D. Domstolarna",
+              "textAr": "D. المحاكم",
               "correct": false
             }
           ],
           "correctAnswerSv": "C. Riksdagen",
-          "correctAnswerAr": "C. Riksdagen"
+          "correctAnswerAr": "C. البرلمان السويدي"
         },
         {
           "question": {
             "sv": "6. Vem styr landet enligt regeringsformen?",
-            "ar": "6- من يحكم البلاد وفقًا لـ Regeringsformen؟"
+            "ar": "6- من يحكم البلاد وفقًا لـ الدستور؟"
           },
           "answers": [
             {
               "textSv": "A. Riksdagen",
-              "textAr": "A. Riksdagen",
+              "textAr": "A. البرلمان السويدي",
               "correct": false
             },
             {
               "textSv": "B. Regeringen",
-              "textAr": "B. Regeringen",
+              "textAr": "B. الحكومة",
               "correct": true
             },
             {
               "textSv": "C. Polisen",
-              "textAr": "C. Polisen",
+              "textAr": "C. الشرطة",
               "correct": false
             },
             {
               "textSv": "D. Domstolarna",
-              "textAr": "D. Domstolarna",
+              "textAr": "D. المحاكم",
               "correct": false
             }
           ],
           "correctAnswerSv": "B. Regeringen",
-          "correctAnswerAr": "B. Regeringen"
+          "correctAnswerAr": "B. الحكومة"
         },
         {
           "question": {
             "sv": "7. Vad skyddar tryckfrihetsförordningen?",
-            "ar": "7- ماذا تحمي Tryckfrihetsförordningen؟"
+            "ar": "7- ماذا تحمي قانون حرية الصحافة؟"
           },
           "answers": [
             {
@@ -4958,7 +4958,7 @@
             },
             {
               "textSv": "D. Allemansrätten",
-              "textAr": "D. Allemansrätten",
+              "textAr": "D. حق التجول في الطبيعة",
               "correct": false
             }
           ],
@@ -4968,7 +4968,7 @@
         {
           "question": {
             "sv": "8. Vad ger yttrandefrihetsgrundlagen rätt till?",
-            "ar": "8- ما الحق الذي يمنحه Yttrandefrihetsgrundlagen؟"
+            "ar": "8- ما الحق الذي يمنحه القانون الأساسي لحرية التعبير؟"
           },
           "answers": [
             {
@@ -5069,7 +5069,7 @@
             },
             {
               "textSv": "B. Vem som blir kung eller drottning",
-              "textAr": "B. من يصبح Kung eller drottning",
+              "textAr": "B. الملك أو الملكة من يصبح ",
               "correct": true
             },
             {
@@ -5084,7 +5084,7 @@
             }
           ],
           "correctAnswerSv": "B. Vem som blir kung eller drottning",
-          "correctAnswerAr": "B. من يصبح Kung eller drottning"
+          "correctAnswerAr": "B. من يصبح الملك أو الملكة"
         },
         {
           "question": {
@@ -5094,7 +5094,7 @@
           "answers": [
             {
               "textSv": "A. I regeringsformen",
-              "textAr": "A. في قانون Regeringsformen",
+              "textAr": "A. في قانون نظام الحكم",
               "correct": true
             },
             {
@@ -5114,7 +5114,7 @@
             }
           ],
           "correctAnswerSv": "A. I regeringsformen",
-          "correctAnswerAr": "A. في قانون Regeringsformen"
+          "correctAnswerAr": "A. في قانون نظام الحكم"
         },
         {
           "question": {
@@ -5244,12 +5244,12 @@
           "answers": [
             {
               "textSv": "A. Polisen",
-              "textAr": "A. Polisen",
+              "textAr": "A. الشرطة",
               "correct": false
             },
             {
               "textSv": "B. Åklagarmyndigheten",
-              "textAr": "B. Åklagarmyndigheten",
+              "textAr": "B. النيابة العامة",
               "correct": true
             },
             {
@@ -5264,7 +5264,7 @@
             }
           ],
           "correctAnswerSv": "B. Åklagarmyndigheten",
-          "correctAnswerAr": "B. Åklagarmyndigheten"
+          "correctAnswerAr": "B. النيابة العامة"
         },
         {
           "question": {
@@ -5274,12 +5274,12 @@
           "answers": [
             {
               "textSv": "A. Domstolarna",
-              "textAr": "A. Domstolarna",
+              "textAr": "A. المحاكم",
               "correct": true
             },
             {
               "textSv": "B. Polisen",
-              "textAr": "B. Polisen",
+              "textAr": "B. الشرطة",
               "correct": false
             },
             {
@@ -5294,12 +5294,12 @@
             }
           ],
           "correctAnswerSv": "A. Domstolarna",
-          "correctAnswerAr": "A. Domstolarna"
+          "correctAnswerAr": "A. المحاكم"
         },
         {
           "question": {
             "sv": "19- Vad ansvarar Brottsoffermyndigheten för?",
-            "ar": "19- عن ماذا تكون Brottsoffermyndigheten مسؤولة؟"
+            "ar": "19- ما المسؤولية التي تتولاها هيئة دعم ضحايا الجرائم؟"
           },
           "answers": [
             {
@@ -5329,7 +5329,7 @@
         {
           "question": {
             "sv": "20- Vad ansvarar Kriminalvården för?",
-            "ar": "20- عن ماذا تكون Kriminalvården مسؤولة؟"
+            "ar": "20- ما المسؤولية التي تتولاها مصلحة السجون والرعاية الإصلاحية (Kriminalvården)؟"
           },
           "answers": [
             {
@@ -5485,37 +5485,37 @@
           "answers": [
             {
               "textSv": "A. Hovrätten",
-              "textAr": "A. Hovrätten",
+              "textAr": "A. محكمة الاستئناف",
               "correct": false
             },
             {
               "textSv": "B. Högsta domstolen",
-              "textAr": "B. Högsta domstolen",
+              "textAr": "B. المحكمة العليا",
               "correct": false
             },
             {
               "textSv": "C. Tingsrätten",
-              "textAr": "C. Tingsrätten",
+              "textAr": "C. المحكمة الابتدائية",
               "correct": true
             },
             {
               "textSv": "D. Europadomstolen",
-              "textAr": "D. Europadomstolen",
+              "textAr": "D. المحكمة الأوروبية لحقوق الإنسان",
               "correct": false
             }
           ],
           "correctAnswerSv": "C. Tingsrätten",
-          "correctAnswerAr": "C. Tingsrätten"
+          "correctAnswerAr": "C. المحكمة الابتدائية"
         },
         {
           "question": {
             "sv": "26- Vilken domstol prövar överklaganden från tingsrätten?",
-            "ar": "26- أي محكمة تنظر في الطعون القادمة من Tingsrätten؟"
+            "ar": "26- أي محكمة تنظر في الطعون المقدمة ضد أحكام المحكمة الابتدائية (Tingsrätten)؟"
           },
           "answers": [
             {
               "textSv": "A. Hovrätten",
-              "textAr": "A. Hovrätten",
+              "textAr": "A. محكمة الاستئناف",
               "correct": true
             },
             {
@@ -5535,7 +5535,7 @@
             }
           ],
           "correctAnswerSv": "A. Hovrätten",
-          "correctAnswerAr": "A. Hovrätten"
+          "correctAnswerAr": "A. محكمة الاستئناف"
         },
         {
           "question": {
@@ -5545,7 +5545,7 @@
           "answers": [
             {
               "textSv": "A. Högsta domstolen",
-              "textAr": "A. Högsta domstolen",
+              "textAr": "A. المحكمة العليا",
               "correct": true
             },
             {
@@ -5565,7 +5565,7 @@
             }
           ],
           "correctAnswerSv": "A. Högsta domstolen",
-          "correctAnswerAr": "A. Högsta domstolen"
+          "correctAnswerAr": "A. المحكمة العليا"
         },
         {
           "question": {
@@ -5796,7 +5796,7 @@
             },
             {
               "textSv": "C. Åklagaren",
-              "textAr": "C. Åklagaren",
+              "textAr": "C. المدعي العام",
               "correct": true
             },
             {
@@ -5806,7 +5806,7 @@
             }
           ],
           "correctAnswerSv": "C. Åklagaren",
-          "correctAnswerAr": "C. Åklagaren"
+          "correctAnswerAr": "C. المدعي العام"
         },
         {
           "question": {
