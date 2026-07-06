@@ -530,7 +530,6 @@ export default function QuestionDetails() {
 
   const handleUserAnswer = (
     index: number,
-    e: React.ChangeEvent<HTMLInputElement>,
     item: QuestionInsideType,
     answerText: string,
     isCorrect: boolean,
@@ -598,10 +597,9 @@ export default function QuestionDetails() {
                           name={`question-${index}`}
                           value={answerText}
                           checked={isSelected}
-                          onChange={(e) =>
+                          onChange={() =>
                             handleUserAnswer(
                               index,
-                              e,
                               item,
                               answerText,
                               answer.correct,
