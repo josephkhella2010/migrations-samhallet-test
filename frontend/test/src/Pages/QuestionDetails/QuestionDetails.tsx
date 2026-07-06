@@ -570,7 +570,9 @@ export default function QuestionDetails() {
     <div className={classes.page}>
       <div className={classes.questionContainer}>
         <h1 className={classes.lessonTitle}>
-          {question?.lessonTitle[currentLanguage] ?? `Lesson ${id}`}
+          {language === "sv"
+            ? question?.lessonTitle.swedish || `Lesson ${id}`
+            : question?.lessonTitle.arabic || `Lesson ${id}`}
         </h1>
 
         <div className={classes.questionsWrapperSection}>
