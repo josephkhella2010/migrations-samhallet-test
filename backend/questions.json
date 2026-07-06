@@ -1,0 +1,5980 @@
+{
+  "lessons": [
+    {
+      "lessonId": 1,
+      "lessonTitle": {
+        "sv": "Kapitel två: Sveriges demokratiska system",
+        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Var ligger Sverige?",
+            "ar": "أين تقع السويد؟ -1"
+          },
+          "answers": [
+            {
+              "textSv": "A. Södra Europa",
+              "textAr": "A. جنوب Europa",
+              "correct": false
+            },
+            {
+              "textSv": "B. Västra Europa",
+              "textAr": "B. غرب Europa",
+              "correct": false
+            },
+            {
+              "textSv": "C. Norden i norra Europa",
+              "textAr": "C. دول الشمال في شمال Europa",
+              "correct": true
+            },
+            {
+              "textSv": "D. Östra Europa",
+              "textAr": "D. شرق Europa",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Norden i norra Europa",
+          "correctAnswerAr": "C. دول الشمال i norra Europa"
+        },
+
+        {
+          "question": {
+            "sv": "2- Hur många länder finns i Norden?",
+            "ar": "كم عدد الدول في دول الشمال؟ -2"
+          },
+          "answers": [
+            { "textSv": "A. 3", "textAr": "A. 3", "correct": false },
+            { "textSv": "B. 4", "textAr": "B. 4", "correct": false },
+            { "textSv": "C. 5", "textAr": "C. 5", "correct": true },
+            { "textSv": "D. 6", "textAr": "D. 6", "correct": false }
+          ],
+          "correctAnswerSv": "C. 5",
+          "correctAnswerAr": "C. 5"
+        },
+
+        {
+          "question": {
+            "sv": "3- Vilket är det största landet i Norden?",
+            "ar": "ما هو أكبر بلد في دول الشمال؟ -3"
+          },
+          "answers": [
+            { "textSv": "A. Norge", "textAr": "A. Norge", "correct": false },
+            {
+              "textSv": "B. Finland",
+              "textAr": "B. Finland",
+              "correct": false
+            },
+            { "textSv": "C. Sverige", "textAr": "C. Sverige", "correct": true },
+            { "textSv": "D. Danmark", "textAr": "D. Danmark", "correct": false }
+          ],
+          "correctAnswerSv": "C. Sverige",
+          "correctAnswerAr": "C. Sverige"
+        },
+
+        {
+          "question": {
+            "sv": "4- Hur långt är Sverige från norr till söder?",
+            "ar": "كم يبلغ طول السويد من الشمال إلى الجنوب؟ -4"
+          },
+          "answers": [
+            { "textSv": "A. 800 km", "textAr": "A. 800 كم", "correct": false },
+            {
+              "textSv": "B. 1200 km",
+              "textAr": "B. 1200 كم",
+              "correct": false
+            },
+            { "textSv": "C. 1600 km", "textAr": "C. 1600 كم", "correct": true },
+            { "textSv": "D. 2000 km", "textAr": "D. 2000 كم", "correct": false }
+          ],
+          "correctAnswerSv": "C. 1600 km",
+          "correctAnswerAr": "C. 1600 كم"
+        },
+
+        {
+          "question": {
+            "sv": "5- Vad heter Sveriges nordligaste punkt?",
+            "ar": "ما اسم أقصى نقطة شمالية في السويد؟ -5"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kebnekaise",
+              "textAr": "A. Kebnekaise",
+              "correct": false
+            },
+            {
+              "textSv": "B. Smygehuk",
+              "textAr": "B. Smygehuk",
+              "correct": false
+            },
+            {
+              "textSv": "C. Treriksröset",
+              "textAr": "C. Treriksröset",
+              "correct": true
+            },
+            { "textSv": "D. Kiruna", "textAr": "D. Kiruna", "correct": false }
+          ],
+          "correctAnswerSv": "C. Treriksröset",
+          "correctAnswerAr": "C. Treriksröset"
+        },
+
+        {
+          "question": {
+            "sv": "6- Vad heter Sveriges sydligaste punkt?",
+            "ar": "ما اسم أقصى نقطة جنوبية في السويد؟ -6"
+          },
+          "answers": [
+            { "textSv": "A. Malmö", "textAr": "A. Malmö", "correct": false },
+            {
+              "textSv": "B. Smygehuk",
+              "textAr": "B. Smygehuk",
+              "correct": true
+            },
+            {
+              "textSv": "C. Gotland",
+              "textAr": "C. Gotland",
+              "correct": false
+            },
+            { "textSv": "D. Öland", "textAr": "D. Öland", "correct": false }
+          ],
+          "correctAnswerSv": "C. Smygehuk",
+          "correctAnswerAr": "C. Smygehuk"
+        },
+
+        {
+          "question": {
+            "sv": "7- Vilket hav ligger vid Sveriges östra kust?",
+            "ar": "أي بحر يقع على الساحل الشرقي للسويد؟ -7"
+          },
+          "answers": [
+            {
+              "textSv": "A. Nordsjön",
+              "textAr": "A. البحر الشمالي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Östersjön",
+              "textAr": "B. Östersjön",
+              "correct": true
+            },
+            {
+              "textSv": "C. Medelhavet",
+              "textAr": "C. البحر المتوسط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Svarta havet",
+              "textAr": "D. البحر الأسود",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Östersjön",
+          "correctAnswerAr": "C. Östersjön"
+        },
+
+        {
+          "question": {
+            "sv": "8- Vilka hav ligger vid västkusten?",
+            "ar": "ما هي البحار على الساحل الغربي للسويد؟ -8"
+          },
+          "answers": [
+            {
+              "textSv": "A. Östersjön och Bottenviken",
+              "textAr": "A. Östersjön och Bottenviken",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skagerrak och Kattegatt",
+              "textAr": "B. Skagerrak och Kattegatt",
+              "correct": true
+            },
+            {
+              "textSv": "C. Atlanten och Nordsjön",
+              "textAr": "C. Atlanten och Nordsjön",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bottenhavet och Östersjön",
+              "textAr": "D. Bottenhavet och Östersjön",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Skagerrak och Kattegatt",
+          "correctAnswerAr": "C. Skagerrak och Kattegatt"
+        },
+
+        {
+          "question": {
+            "sv": "9- Vilka är Sveriges två största öar?",
+            "ar": "ما هما أكبر جزيرتين في السويد؟ -9"
+          },
+          "answers": [
+            {
+              "textSv": "A. Gotland och Öland",
+              "textAr": "A. Gotland och Öland",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gotland och Bornholm",
+              "textAr": "B. Gotland och Bornholm",
+              "correct": false
+            },
+            {
+              "textSv": "C. Öland och Hisingen",
+              "textAr": "C. Öland och Hisingen",
+              "correct": false
+            },
+            {
+              "textSv": "D. Gotland och Ven",
+              "textAr": "D. Gotland och Ven",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Gotland och Öland",
+          "correctAnswerAr": "C. Gotland och Öland"
+        },
+
+        {
+          "question": {
+            "sv": "10- Varför har Sverige ett milt klimat?",
+            "ar": "لماذا تتمتع السويد بمناخ معتدل؟ -10"
+          },
+          "answers": [
+            { "textSv": "A. Sahara", "textAr": "A. Sahara", "correct": false },
+            {
+              "textSv": "B. Golfströmmen och Nordatlantiska strömmen",
+              "textAr": "B. Golfströmmen och Nordatlantiska strömmen",
+              "correct": true
+            },
+            {
+              "textSv": "C. Alperna",
+              "textAr": "C. Alperna",
+              "correct": false
+            },
+            {
+              "textSv": "D. Östersjön",
+              "textAr": "D. Östersjön",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Golfströmmen och Nordatlantiska strömmen",
+          "correctAnswerAr": "C. Golfströmmen och Nordatlantiska strömmen"
+        },
+        {
+          "question": {
+            "sv": "11- Varifrån kommer det varma vattnet i Golfströmmen?",
+            "ar": "من أين تأتي المياه الدافئة في تيار الخليج؟ -11"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arktis",
+              "textAr": "A. القطب الشمالي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Indiska oceanen",
+              "textAr": "B. المحيط الهندي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Mexikanska golfen",
+              "textAr": "C. خليج المكسيك",
+              "correct": true
+            },
+            {
+              "textSv": "D. Stilla havet",
+              "textAr": "D. المحيط الهادئ",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Mexikanska golfen",
+          "correctAnswerAr": "C. خليج المكسيك"
+        },
+        {
+          "question": {
+            "sv": "12- Vad kallades perioden då Sverige var täckt av is?",
+            "ar": "ماذا كانت تسمى الفترة التي كانت فيها السويد مغطاة بالجليد؟ -12"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bronsåldern",
+              "textAr": "A. العصر البرونزي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Istiden",
+              "textAr": "B. العصر الجليدي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Vikingatiden",
+              "textAr": "C. عصر الفايكنغ",
+              "correct": false
+            },
+            {
+              "textSv": "D. Medeltiden",
+              "textAr": "D. العصور الوسطى",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Istiden",
+          "correctAnswerAr": "B. العصر الجليدي"
+        },
+        {
+          "question": {
+            "sv": "13- För ungefär hur länge sedan smälte isen bort?",
+            "ar": "منذ حوالي كم سنة ذاب الجليد؟ -13"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1000 år",
+              "textAr": "A. 1000 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 5000 år",
+              "textAr": "B. 5000 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 10000 år",
+              "textAr": "C. 10000 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. 20000 år",
+              "textAr": "D. 20000 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 10000 år",
+          "correctAnswerAr": "C. 10000 سنة"
+        },
+        {
+          "question": {
+            "sv": "14- Vad skapade istiden?",
+            "ar": "ماذا نتج عن العصر الجليدي؟ -14"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vulkaner",
+              "textAr": "A. البراكين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sjöar, skärgårdar och slätter",
+              "textAr": "B. البحيرات والأرخبيلات والسهول",
+              "correct": true
+            },
+            {
+              "textSv": "C. Öknar",
+              "textAr": "C. الصحارى",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regnskogar",
+              "textAr": "D. الغابات المطيرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sjöar, skärgårdar och slätter",
+          "correctAnswerAr": "B. البحيرات والأرخبيلات والسهول"
+        },
+        {
+          "question": {
+            "sv": "15- Vad heter bergskedjan längs gränsen mot Norge?",
+            "ar": "ما اسم سلسلة الجبال الممتدة على الحدود مع النرويج؟ -15"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alperna",
+              "textAr": "A. Alperna",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skanderna",
+              "textAr": "B. Skanderna",
+              "correct": true
+            },
+            {
+              "textSv": "C. Himalaya",
+              "textAr": "C. Himalaya",
+              "correct": false
+            },
+            {
+              "textSv": "D. Anderna",
+              "textAr": "D. Anderna",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Skanderna",
+          "correctAnswerAr": "B. Skanderna"
+        },
+        {
+          "question": {
+            "sv": "16- Vad heter Sveriges högsta berg?",
+            "ar": "ما اسم أعلى جبل في السويد؟ -16"
+          },
+          "answers": [
+            {
+              "textSv": "A. Åreskutan",
+              "textAr": "A. Åreskutan",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kebnekaise",
+              "textAr": "B. Kebnekaise",
+              "correct": true
+            },
+            {
+              "textSv": "C. Helags",
+              "textAr": "C. Helags",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kebnekajse",
+              "textAr": "D. Kebnekajse",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kebnekaise",
+          "correctAnswerAr": "B. Kebnekaise"
+        },
+        {
+          "question": {
+            "sv": "17- Hur högt är Kebnekaise ungefär?",
+            "ar": " 17- ما هو الارتفاع التقريبي لجبل Kebnekaise؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1000 meter",
+              "textAr": "A. 1000 متر",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1500 meter",
+              "textAr": "B. 1500 متر",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2000 meter",
+              "textAr": "C. 2000 متر",
+              "correct": true
+            },
+            {
+              "textSv": "D. 3000 meter",
+              "textAr": "D. 3000 متر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 2000 meter",
+          "correctAnswerAr": "C. 2000 متر"
+        },
+        {
+          "question": {
+            "sv": "18- Hur stor del av Sveriges yta täcks av skog?",
+            "ar": "كم تبلغ نسبة مساحة السويد التي تغطيها الغابات؟ -18"
+          },
+          "answers": [
+            {
+              "textSv": "A. En fjärdedel",
+              "textAr": "A. ربع المساحة",
+              "correct": false
+            },
+            {
+              "textSv": "B. En tredjedel",
+              "textAr": "B. ثلث المساحة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Mer än hälften",
+              "textAr": "C. أكثر من النصف",
+              "correct": true
+            },
+            {
+              "textSv": "D. Hela landet",
+              "textAr": "D. كامل البلاد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Mer än hälften",
+          "correctAnswerAr": "C. أكثر من النصف"
+        },
+        {
+          "question": {
+            "sv": "19- Vilka träd är vanligast i norra Sverige?",
+            "ar": "ما هي الأشجار الأكثر انتشارًا في شمال السويد؟ -19"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ek och bok",
+              "textAr": "A. البلوط والزان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Gran och tall",
+              "textAr": "B. التنوب والصنوبر",
+              "correct": true
+            },
+            {
+              "textSv": "C. Björk och ek",
+              "textAr": "C. البتولا والبلوط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bok och lönn",
+              "textAr": "D. الزان والقيقب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Gran och tall",
+          "correctAnswerAr": "B. التنوب والصنوبر"
+        },
+        {
+          "question": {
+            "sv": "20- Vilka är Sveriges tre största sjöar?",
+            "ar": "ما هي أكبر ثلاث بحيرات في السويد؟ -20"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vänern, Vättern och Mälaren",
+              "textAr": "A. Vänern, Vättern och Mälaren",
+              "correct": true
+            },
+            {
+              "textSv": "B. Vänern, Siljan och Mälaren",
+              "textAr": "B. Vänern, Siljan och Mälaren",
+              "correct": false
+            },
+            {
+              "textSv": "C. Hjälmaren, Vänern och Vättern",
+              "textAr": "C. Hjälmaren, Vänern och Vättern",
+              "correct": false
+            },
+            {
+              "textSv": "D. Mälaren, Siljan och Storsjön",
+              "textAr": "D. Mälaren, Siljan och Storsjön",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Vänern, Vättern och Mälaren",
+          "correctAnswerAr": "A. Vänern, Vättern och Mälaren"
+        },
+        {
+          "question": {
+            "sv": "21- Vad är en skärgård?",
+            "ar": "ما هي الأرخبيل؟ -21"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett högt berg",
+              "textAr": "A. جبل مرتفع",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett område med många öar",
+              "textAr": "B. منطقة فيها العديد من الجزر",
+              "correct": true
+            },
+            {
+              "textSv": "C. En stor sjö",
+              "textAr": "C. بحيرة كبيرة",
+              "correct": false
+            },
+            { "textSv": "D. En skog", "textAr": "D. غابة", "correct": false }
+          ],
+          "correctAnswerSv": "B. Ett område med många öar",
+          "correctAnswerAr": "B. منطقة فيها العديد من الجزر"
+        },
+
+        {
+          "question": {
+            "sv": "22- Hur många öar finns det ungefär i Sverige?",
+            "ar": "كم عدد الجزر تقريبًا في السويد؟ -22"
+          },
+          "answers": [
+            { "textSv": "A. 50 000", "textAr": "A. 50 000", "correct": false },
+            {
+              "textSv": "B. 100 000",
+              "textAr": "B. 100 000",
+              "correct": false
+            },
+            { "textSv": "C. 250 000", "textAr": "C. 250 000", "correct": true },
+            { "textSv": "D. 500 000", "textAr": "D. 500 000", "correct": false }
+          ],
+          "correctAnswerSv": "C. 250 000",
+          "correctAnswerAr": "C. 250 000"
+        },
+
+        {
+          "question": {
+            "sv": "23- Vilka är Sveriges tre landsdelar?",
+            "ar": "ما هي الأقاليم الثلاثة في السويد؟ -23"
+          },
+          "answers": [
+            {
+              "textSv": "A. Norrland, Halland och Skåne",
+              "textAr": "A. Norrland, Halland och Skåne",
+              "correct": false
+            },
+            {
+              "textSv": "B. Götaland, Svealand och Norrland",
+              "textAr": "B. Götaland, Svealand och Norrland",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bohuslän, Småland och Lappland",
+              "textAr": "C. Bohuslän, Småland och Lappland",
+              "correct": false
+            },
+            {
+              "textSv": "D. Stockholm, Göteborg och Malmö",
+              "textAr": "D. Stockholm, Göteborg och Malmö",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Götaland, Svealand och Norrland",
+          "correctAnswerAr": "B. Götaland, Svealand och Norrland"
+        },
+
+        {
+          "question": {
+            "sv": "24- Hur många landskap finns i Sverige?",
+            "ar": "كم عدد المقاطعات التاريخية في السويد؟ -24"
+          },
+          "answers": [
+            { "textSv": "A. 20", "textAr": "A. 20", "correct": false },
+            { "textSv": "B. 21", "textAr": "B. 21", "correct": false },
+            { "textSv": "C. 25", "textAr": "C. 25", "correct": true },
+            { "textSv": "D. 290", "textAr": "D. 290", "correct": false }
+          ],
+          "correctAnswerSv": "C. 25",
+          "correctAnswerAr": "C. 25"
+        },
+
+        {
+          "question": {
+            "sv": "25- Hur många län finns det i Sverige?",
+            "ar": "كم عدد المحافظات في السويد؟ -25"
+          },
+          "answers": [
+            { "textSv": "A. 20", "textAr": "A. 20", "correct": false },
+            { "textSv": "B. 21", "textAr": "B. 21", "correct": true },
+            { "textSv": "C. 25", "textAr": "C. 25", "correct": false },
+            { "textSv": "D. 290", "textAr": "D. 290", "correct": false }
+          ],
+          "correctAnswerSv": "B. 21",
+          "correctAnswerAr": "B. 21"
+        },
+
+        {
+          "question": {
+            "sv": "26- Hur många kommuner finns det i Sverige?",
+            "ar": "كم عدد البلديات في السويد؟ -26"
+          },
+          "answers": [
+            { "textSv": "A. 200", "textAr": "A. 200", "correct": false },
+            { "textSv": "B. 250", "textAr": "B. 250", "correct": false },
+            { "textSv": "C. 290", "textAr": "C. 290", "correct": true },
+            { "textSv": "D. 310", "textAr": "D. 310", "correct": false }
+          ],
+          "correctAnswerSv": "C. 290",
+          "correctAnswerAr": "C. 290"
+        },
+
+        {
+          "question": {
+            "sv": "27- Hur många invånare har Sverige?",
+            "ar": "كم عدد سكان السويد؟ -27"
+          },
+          "answers": [
+            {
+              "textSv": "A. 8 miljoner",
+              "textAr": "A. 8 مليون",
+              "correct": false
+            },
+            {
+              "textSv": "B. 9 miljoner",
+              "textAr": "B. 9 مليون",
+              "correct": false
+            },
+            {
+              "textSv": "C. 11 miljoner",
+              "textAr": "C. 11 مليون",
+              "correct": true
+            },
+            {
+              "textSv": "D. 13 miljoner",
+              "textAr": "D. 13 مليون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 11 miljoner",
+          "correctAnswerAr": "C. 11 مليون"
+        },
+
+        {
+          "question": {
+            "sv": "28- Hur stor del av befolkningen bor i städer?",
+            "ar": "كم نسبة السكان الذين يعيشون في المدن؟ -28"
+          },
+          "answers": [
+            { "textSv": "A. 50%", "textAr": "A. 50٪", "correct": false },
+            { "textSv": "B. 65%", "textAr": "B. 65٪", "correct": false },
+            { "textSv": "C. 85%", "textAr": "C. 85٪", "correct": true },
+            { "textSv": "D. 95%", "textAr": "D. 95٪", "correct": false }
+          ],
+          "correctAnswerSv": "C. 85%",
+          "correctAnswerAr": "C. 85٪"
+        },
+
+        {
+          "question": {
+            "sv": "29- Vilka är Sveriges tre största städer?",
+            "ar": "ما هي أكبر ثلاث مدن في السويد؟ -29"
+          },
+          "answers": [
+            {
+              "textSv": "A. Stockholm, Uppsala och Malmö",
+              "textAr": "A. Stockholm, Uppsala och Malmö",
+              "correct": false
+            },
+            {
+              "textSv": "B. Stockholm, Göteborg och Malmö",
+              "textAr": "B. Stockholm, Göteborg och Malmö",
+              "correct": true
+            },
+            {
+              "textSv": "C. Göteborg, Umeå och Malmö",
+              "textAr": "C. Göteborg, Umeå och Malmö",
+              "correct": false
+            },
+            {
+              "textSv": "D. Stockholm, Linköping och Göteborg",
+              "textAr": "D. Stockholm, Linköping och Göteborg",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Stockholm, Göteborg och Malmö",
+          "correctAnswerAr": "B. Stockholm, Göteborg och Malmö"
+        },
+
+        {
+          "question": {
+            "sv": "30- Vilka naturresurser är viktiga i Sverige?",
+            "ar": "ما هي الموارد الطبيعية المهمة في السويد؟ -30"
+          },
+          "answers": [
+            {
+              "textSv": "A. Olja och gas",
+              "textAr": "A. نفط وغاز",
+              "correct": false
+            },
+            {
+              "textSv": "B. Guld och diamanter",
+              "textAr": "B. ذهب وألماس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Järnmalm, skog, vatten och jordbruksmark",
+              "textAr": "C. خام الحديد، الغابات، المياه والأراضي الزراعية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kol och olja",
+              "textAr": "D. فحم ونفط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Järnmalm, skog, vatten och jordbruksmark",
+          "correctAnswerAr": "C. خام الحديد، الغابات، المياه والأراضي الزراعية"
+        },
+
+        {
+          "question": {
+            "sv": "31- Var finns de största järnmalmsgruvorna?",
+            "ar": "أين توجد أكبر مناجم خام الحديد؟ -31"
+          },
+          "answers": [
+            { "textSv": "A. Skåne", "textAr": "A. Skåne", "correct": false },
+            {
+              "textSv": "B. Stockholm",
+              "textAr": "B. Stockholm",
+              "correct": false
+            },
+            {
+              "textSv": "C. Norrbotten",
+              "textAr": "C. Norrbotten",
+              "correct": true
+            },
+            { "textSv": "D. Gotland", "textAr": "D. Gotland", "correct": false }
+          ],
+          "correctAnswerSv": "C. Norrbotten",
+          "correctAnswerAr": "C. Norrbotten"
+        },
+
+        {
+          "question": {
+            "sv": "32- Vilka orter har stora gruvor?",
+            "ar": "ما هي المدن التي فيها مناجم كبيرة؟ -32"
+          },
+          "answers": [
+            {
+              "textSv": "A. Malmö och Lund",
+              "textAr": "A. Malmö och Lund",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kiruna och Malmberget",
+              "textAr": "B. Kiruna och Malmberget",
+              "correct": true
+            },
+            {
+              "textSv": "C. Göteborg och Borås",
+              "textAr": "C. Göteborg och Borås",
+              "correct": false
+            },
+            {
+              "textSv": "D. Uppsala och Gävle",
+              "textAr": "D. Uppsala och Gävle",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kiruna och Malmberget",
+          "correctAnswerAr": "B. Kiruna och Malmberget"
+        },
+
+        {
+          "question": {
+            "sv": "33- Vad används järn till?",
+            "ar": "في ماذا يُستخدم الحديد؟ -33"
+          },
+          "answers": [
+            { "textSv": "A. Glas", "textAr": "A. زجاج", "correct": false },
+            {
+              "textSv": "B. Stål",
+              "textAr": "B. صناعة الصلب",
+              "correct": true
+            },
+            { "textSv": "C. Plast", "textAr": "C. بلاستيك", "correct": false },
+            { "textSv": "D. Papper", "textAr": "D. ورق", "correct": false }
+          ],
+          "correctAnswerSv": "B. Stål",
+          "correctAnswerAr": "B. Stål"
+        },
+
+        {
+          "question": {
+            "sv": "34- Vad används vattenkraft till?",
+            "ar": "في ماذا تُستخدم الطاقة المائية؟ -34"
+          },
+          "answers": [
+            {
+              "textSv": "A. Värma hus",
+              "textAr": "A. تدفئة المنازل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Producera el",
+              "textAr": "B. إنتاج الكهرباء",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bygga vägar",
+              "textAr": "C. بناء الطرق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rena luft",
+              "textAr": "D. تنقية الهواء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Producera el",
+          "correctAnswerAr": "B. إنتاج الكهرباء"
+        },
+
+        {
+          "question": {
+            "sv": "35- Var finns det mesta jordbruket?",
+            "ar": "أين يوجد معظم الزراعة؟ -35"
+          },
+          "answers": [
+            {
+              "textSv": "A. Norra Sverige",
+              "textAr": "A. شمال السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Södra Sverige",
+              "textAr": "B. جنوب السويد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Lappland",
+              "textAr": "C. Lappland",
+              "correct": false
+            },
+            { "textSv": "D. Fjällen", "textAr": "D. الجبال", "correct": false }
+          ],
+          "correctAnswerSv": "B. Södra Sverige",
+          "correctAnswerAr": "B. Södra Sverige"
+        },
+
+        {
+          "question": {
+            "sv": "36- Vilka produkter kommer från skogen?",
+            "ar": "ما هي المنتجات التي تأتي من الغابات؟ -36"
+          },
+          "answers": [
+            {
+              "textSv": "A. Papper, kartong och trä",
+              "textAr": "A. ورق، كرتون وخشب",
+              "correct": true
+            },
+            { "textSv": "B. Olja", "textAr": "B. نفط", "correct": false },
+            { "textSv": "C. Gas", "textAr": "C. غاز", "correct": false },
+            { "textSv": "D. Kol", "textAr": "D. فحم", "correct": false }
+          ],
+          "correctAnswerSv": "A. Papper, kartong och trä",
+          "correctAnswerAr": "A. ورق، كرتون وخشب"
+        },
+
+        {
+          "question": {
+            "sv": "37- Vad är den största orsaken till klimatförändringarna?",
+            "ar": "ما هو السبب الرئيسي للتغير المناخي؟ -37"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vulkaner",
+              "textAr": "A. البراكين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Jordbävningar",
+              "textAr": "B. الزلازل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Utsläpp av växthusgaser",
+              "textAr": "C. انبعاث الغازات الدفيئة",
+              "correct": true
+            },
+            { "textSv": "D. Månen", "textAr": "D. القمر", "correct": false }
+          ],
+          "correctAnswerSv": "C. Utsläpp av växthusgaser",
+          "correctAnswerAr": "C. انبعاث الغازات الدفيئة"
+        },
+
+        {
+          "question": {
+            "sv": "38- Vad kan klimatförändringarna leda till i Sverige?",
+            "ar": "ماذا يمكن أن يؤدي إليه تغير المناخ في السويد؟ -38"
+          },
+          "answers": [
+            {
+              "textSv": "A. Översvämningar och skogsbränder",
+              "textAr": "A. فيضانات وحرائق الغابات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Vulkaner",
+              "textAr": "B. براكين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Jordbävningar",
+              "textAr": "C. زلازل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Mindre regn alltid",
+              "textAr": "D. أقل أمطار دائماً",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Översvämningar och skogsbränder",
+          "correctAnswerAr": "A. فيضانات وحرائق الغابات"
+        },
+
+        {
+          "question": {
+            "sv": "39- Vad är Sveriges klimatmål?",
+            "ar": "ما هو هدف السويد المناخي؟ -39"
+          },
+          "answers": [
+            {
+              "textSv": "A. Noll utsläpp 2030",
+              "textAr": "A. صفر انبعاثات 2030",
+              "correct": false
+            },
+            {
+              "textSv": "B. Nära noll utsläpp 2045",
+              "textAr": "B. قريب من الصفر 2045",
+              "correct": true
+            },
+            {
+              "textSv": "C. Noll utsläpp 2050",
+              "textAr": "C. صفر 2050",
+              "correct": false
+            },
+            {
+              "textSv": "D. Inga utsläpp 2100",
+              "textAr": "D. بدون انبعاثات 2100",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Nära noll utsläpp 2045",
+          "correctAnswerAr": "B. قريب من الصفر 2045"
+        },
+
+        {
+          "question": {
+            "sv": "40- Vad betyder hållbar utveckling?",
+            "ar": "ماذا يعني التنمية المستدامة؟ -40"
+          },
+          "answers": [
+            {
+              "textSv": "A. Överutnyttja resurser",
+              "textAr": "A. استغلال الموارد بشكل مفرط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara ekonomi",
+              "textAr": "B. الاقتصاد فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Använda resurser så framtida generationer klarar sig",
+              "textAr": "C. استخدام الموارد بحيث تستفيد الأجيال القادمة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara skogsskydd",
+              "textAr": "D. حماية الغابات فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Använda resurser så framtida generationer klarar sig",
+          "correctAnswerAr": "C. استخدام الموارد بحيث تستفيد الأجيال القادمة"
+        },
+
+        {
+          "question": {
+            "sv": "41- Hur kan du bidra till en hållbar utveckling?",
+            "ar": "كيف يمكنك المساهمة في التنمية المستدامة؟ -41"
+          },
+          "answers": [
+            {
+              "textSv": "A. Slänga sopor i naturen",
+              "textAr": "A. رمي النفايات في الطبيعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Använda mer el",
+              "textAr": "B. استخدام كهرباء أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Åka kollektivt och återvinna",
+              "textAr": "C. استخدام النقل العام وإعادة التدوير",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bränna avfall hemma",
+              "textAr": "D. حرق النفايات في المنزل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Åka kollektivt och återvinna",
+          "correctAnswerAr": "C. استخدام النقل العام وإعادة التدوير"
+        }
+      ]
+    },
+    {
+      "lessonId": 2,
+      "lessonTitle": {
+        "sv": "Kapitel två: Sveriges demokratiska system",
+        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad betyder ordet demokrati?",
+            "ar": "ماذا تعني كلمة الديمقراطية؟ -1"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungastyre",
+              "textAr": "A. حكم الملك",
+              "correct": false
+            },
+            {
+              "textSv": "B. Folkstyre",
+              "textAr": "B. حكم الشعب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Regeringsstyre",
+              "textAr": "C. حكم الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolsstyre",
+              "textAr": "D. حكم المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Folkstyre",
+          "correctAnswerAr": "B. حكم الشعب"
+        },
+
+        {
+          "question": {
+            "sv": "2- Varifrån kommer ordet demokrati?",
+            "ar": "من أين تأتي كلمة الديمقراطية؟ -2"
+          },
+          "answers": [
+            { "textSv": "A. Latin", "textAr": "A. لاتينية", "correct": false },
+            {
+              "textSv": "B. Svenska",
+              "textAr": "B. السويدية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Grekiska",
+              "textAr": "C. اليونانية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Engelska",
+              "textAr": "D. الإنجليزية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Grekiska",
+          "correctAnswerAr": "C. اليونانية"
+        },
+
+        {
+          "question": {
+            "sv": "3- Vem utgår makten från i en demokrati?",
+            "ar": "من أين تأتي السلطة في الديمقراطية؟ -3"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. الحكومة",
+              "correct": false
+            },
+            { "textSv": "B. Kungen", "textAr": "B. الملك", "correct": false },
+            { "textSv": "C. Folket", "textAr": "C. الشعب", "correct": true },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Folket",
+          "correctAnswerAr": "C. الشعب"
+        },
+
+        {
+          "question": {
+            "sv": "4- Hur påverkar medborgarna politiken i en demokrati?",
+            "ar": "كيف يؤثر المواطنون على السياسة في الديمقراطية؟ -4"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom fria och rättvisa val",
+              "textAr": "A. من خلال انتخابات حرة ونزيهة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Genom att kungen bestämmer",
+              "textAr": "B. عبر الملك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Genom militären",
+              "textAr": "C. عبر الجيش",
+              "correct": false
+            },
+            {
+              "textSv": "D. Genom domstolarna",
+              "textAr": "D. عبر المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Genom fria och rättvisa val",
+          "correctAnswerAr": "A. من خلال انتخابات حرة ونزيهة"
+        },
+
+        {
+          "question": {
+            "sv": "5- Vad ska kunna hända med dem som har makten i en demokrati?",
+            "ar": "ماذا يجب أن يحدث لمن لديهم السلطة في الديمقراطية؟ -5"
+          },
+          "answers": [
+            {
+              "textSv": "A. De ska styra hela livet",
+              "textAr": "A. يحكمون مدى الحياة",
+              "correct": false
+            },
+            {
+              "textSv": "B. De ska kunna bytas ut",
+              "textAr": "B. يمكن استبدالهم",
+              "correct": true
+            },
+            {
+              "textSv": "C. De får inte kritiseras",
+              "textAr": "C. لا يمكن انتقادهم",
+              "correct": false
+            },
+            {
+              "textSv": "D. De väljs av kungen",
+              "textAr": "D. يتم اختيارهم من الملك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. De ska kunna bytas ut",
+          "correctAnswerAr": "B. يمكن استبدالهم"
+        },
+
+        {
+          "question": {
+            "sv": "6- Vad innebär fria val?",
+            "ar": "ماذا تعني الانتخابات الحرة؟ -6"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla måste rösta",
+              "textAr": "A. الجميع يجب أن يصوت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla får flera röster",
+              "textAr": "B. لكل شخص عدة أصوات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ingen får tvingas att rösta",
+              "textAr": "C. لا أحد يُجبر على التصويت",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara politiker får rösta",
+              "textAr": "D. فقط السياسيين يصوتون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Ingen får tvingas att rösta",
+          "correctAnswerAr": "C. لا أحد يُجبر على التصويت"
+        },
+
+        {
+          "question": {
+            "sv": "7- Hur många röster har varje person med rösträtt?",
+            "ar": "كم عدد الأصوات التي يملكها كل شخص لديه حق التصويت؟ -7"
+          },
+          "answers": [
+            { "textSv": "A. Två", "textAr": "A. اثنان", "correct": false },
+            { "textSv": "B. Tre", "textAr": "B. ثلاثة", "correct": false },
+            { "textSv": "C. En", "textAr": "C. واحد", "correct": true },
+            { "textSv": "D. Fyra", "textAr": "D. أربعة", "correct": false }
+          ],
+          "correctAnswerSv": "C. En",
+          "correctAnswerAr": "C. واحد"
+        },
+
+        {
+          "question": {
+            "sv": "8- Vad betyder att valen är hemliga?",
+            "ar": "ماذا يعني أن الانتخابات سرية؟ -8"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ingen vet när valet hålls",
+              "textAr": "A. لا أحد يعرف متى يتم التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ingen behöver berätta hur man röstar",
+              "textAr": "B. لا أحد يجب أن يخبر كيف صوت",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara politiker får rösta",
+              "textAr": "C. فقط السياسيون يصوتون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Resultatet visas inte",
+              "textAr": "D. لا يتم عرض النتائج",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ingen behöver berätta hur man röstar",
+          "correctAnswerAr": "B. لا أحد يجب أن يخبر كيف صوت"
+        },
+
+        {
+          "question": {
+            "sv": "9- Måste man rösta i Sverige?",
+            "ar": "هل يجب التصويت في السويد؟ -9"
+          },
+          "answers": [
+            { "textSv": "A. Ja", "textAr": "A. نعم", "correct": false },
+            {
+              "textSv": "B. Bara första gången",
+              "textAr": "B. فقط المرة الأولى",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara kommunval",
+              "textAr": "C. فقط الانتخابات البلدية",
+              "correct": false
+            },
+            { "textSv": "D. Nej", "textAr": "D. لا", "correct": true }
+          ],
+          "correctAnswerSv": "D. Nej",
+          "correctAnswerAr": "D. لا"
+        },
+
+        {
+          "question": {
+            "sv": "10- Hur många partier ska finnas att välja mellan i en demokrati?",
+            "ar": "كم عدد الأحزاب التي يجب أن تكون في الديمقراطية؟ -10"
+          },
+          "answers": [
+            { "textSv": "A. Ett", "textAr": "A. واحد", "correct": false },
+            { "textSv": "B. Två", "textAr": "B. اثنان", "correct": false },
+            { "textSv": "C. Flera", "textAr": "C. عدة", "correct": true },
+            { "textSv": "D. Inga", "textAr": "D. لا يوجد", "correct": false }
+          ],
+          "correctAnswerSv": "C. Flera",
+          "correctAnswerAr": "C. عدة"
+        },
+
+        {
+          "question": {
+            "sv": "11- Vad betyder yttrandefrihet?",
+            "ar": "ماذا يعني حرية التعبير؟ -11"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara politiker får tala",
+              "textAr": "A. فقط السياسيون يتكلمون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla får säga vad de tycker",
+              "textAr": "B. الجميع يمكنه قول رأيه",
+              "correct": true
+            },
+            {
+              "textSv": "C. Man måste hålla med regeringen",
+              "textAr": "C. يجب الموافقة على الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara journalister får prata",
+              "textAr": "D. فقط الصحفيون يتحدثون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Alla får säga vad de tycker",
+          "correctAnswerAr": "B. الجميع يمكنه قول رأيه"
+        },
+
+        {
+          "question": {
+            "sv": "12- Vad har människor rätt att göra i en demokrati?",
+            "ar": "ما الذي يحق للناس فعله في الديمقراطية؟ -12"
+          },
+          "answers": [
+            {
+              "textSv": "A. Förbjuda andra partier",
+              "textAr": "A. منع الأحزاب الأخرى",
+              "correct": false
+            },
+            {
+              "textSv": "B. Övertyga andra om sina idéer",
+              "textAr": "B. إقناع الآخرين بأفكارهم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Tvinga andra att rösta",
+              "textAr": "C. إجبار الآخرين على التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Köpa röster",
+              "textAr": "D. شراء الأصوات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Övertyga andra om sina idéer",
+          "correctAnswerAr": "B. إقناع الآخرين بأفكارهم"
+        },
+
+        {
+          "question": {
+            "sv": "13- Vad betyder rättssäkerhet?",
+            "ar": "ماذا يعني سيادة القانون؟ -13"
+          },
+          "answers": [
+            {
+              "textSv": "A. Politiker bestämmer över domstolar",
+              "textAr": "A. السياسيون يتحكمون بالمحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla är lika inför lagen",
+              "textAr": "B. الجميع متساوون أمام القانون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara medborgare följer lagen",
+              "textAr": "C. فقط المواطنين يتبعون القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisen bestämmer allt",
+              "textAr": "D. الشرطة تتحكم بكل شيء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Alla är lika inför lagen",
+          "correctAnswerAr": "B. الجميع متساوون أمام القانون"
+        },
+
+        {
+          "question": {
+            "sv": "14- Vad krävs innan någon kan dömas?",
+            "ar": "ماذا يلزم قبل إدانة شخص؟ -14"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett val",
+              "textAr": "A. انتخابات",
+              "correct": false
+            },
+            {
+              "textSv": "B. En rättvis rättegång",
+              "textAr": "B. محاكمة عادلة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Beslut av regeringen",
+              "textAr": "C. قرار من الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Beslut av kommunen",
+              "textAr": "D. قرار من البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En rättvis rättegång",
+          "correctAnswerAr": "B. محاكمة عادلة"
+        },
+
+        {
+          "question": {
+            "sv": "15- Vad bygger utbildningen i Sverige på?",
+            "ar": "على ماذا يعتمد التعليم في السويد؟ -15"
+          },
+          "answers": [
+            { "textSv": "A. Religion", "textAr": "A. الدين", "correct": false },
+            {
+              "textSv": "B. Demokratiska värderingar",
+              "textAr": "B. القيم الديمقراطية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kungens regler",
+              "textAr": "C. قوانين الملك",
+              "correct": false
+            },
+            {
+              "textSv": "D. Militär utbildning",
+              "textAr": "D. التعليم العسكري",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Demokratiska värderingar",
+          "correctAnswerAr": "B. القيم الديمقراطية"
+        },
+
+        {
+          "question": {
+            "sv": "16- Vad lär sig eleverna i grundskolan?",
+            "ar": "ماذا يتعلم الطلاب في المدرسة الأساسية؟ -16"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bli kung",
+              "textAr": "A. أن يصبحوا ملوكًا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Rättigheter och samhälle",
+              "textAr": "B. الحقوق والمجتمع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara historia",
+              "textAr": "C. التاريخ فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara matematik",
+              "textAr": "D. الرياضيات فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Rättigheter och samhälle",
+          "correctAnswerAr": "B. الحقوق والمجتمع"
+        },
+
+        {
+          "question": {
+            "sv": "17- När blir demokratin starkare?",
+            "ar": "متى تصبح الديمقراطية أقوى؟ -17"
+          },
+          "answers": [
+            {
+              "textSv": "A. Färre röstar",
+              "textAr": "A. قلة التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Många röstar och engagerar sig",
+              "textAr": "B. عندما يصوت ويشارك الكثيرون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara politiker röstar",
+              "textAr": "C. فقط السياسيون يصوتون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Val stoppas",
+              "textAr": "D. إيقاف الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Många röstar och engagerar sig",
+          "correctAnswerAr": "B. عندما يصوت ويشارك الكثيرون"
+        },
+
+        {
+          "question": {
+            "sv": "18- Hur kan man påverka samhället?",
+            "ar": "كيف يمكن التأثير على المجتمع؟ -18"
+          },
+          "answers": [
+            { "textSv": "A. Rösta", "textAr": "A. التصويت", "correct": false },
+            {
+              "textSv": "B. Kontakta politiker",
+              "textAr": "B. التواصل مع السياسيين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Demonstrera",
+              "textAr": "C. التظاهر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "19- Vad kan man bli medlem i för att påverka politiken?",
+            "ar": "في ماذا يمكن أن تصبح عضوًا للتأثير على السياسة؟  -19"
+          },
+          "answers": [
+            {
+              "textSv": "A. Politiskt parti",
+              "textAr": "A. حزب سياسي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Intresseorganisation",
+              "textAr": "B. منظمة مصالح",
+              "correct": false
+            },
+            { "textSv": "C. Förening", "textAr": "C. جمعية", "correct": false },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "20- Vad är en namninsamling?",
+            "ar": "ما هي عريضة التوقيعات؟ -20"
+          },
+          "answers": [
+            {
+              "textSv": "A. Lista med namn som visar stöd",
+              "textAr": "A. قائمة أسماء لدعم فكرة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett pass",
+              "textAr": "B. جواز سفر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett körkort",
+              "textAr": "C. رخصة قيادة",
+              "correct": false
+            },
+            { "textSv": "D. En lag", "textAr": "D. قانون", "correct": false }
+          ],
+          "correctAnswerSv": "A. Lista med namn som visar stöd",
+          "correctAnswerAr": "A. قائمة أسماء لدعم فكرة"
+        },
+        {
+          "question": {
+            "sv": "21- Vad kan man skriva för att påverka samhällsdebatten?",
+            "ar": "ماذا يمكن أن تكتب للتأثير على النقاش المجتمعي؟ -21"
+          },
+          "answers": [
+            {
+              "textSv": "A. Debattartiklar",
+              "textAr": "A. مقالات رأي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Körkort",
+              "textAr": "B. رخصة قيادة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Domar",
+              "textAr": "C. أحكام قضائية",
+              "correct": false
+            },
+            { "textSv": "D. Pass", "textAr": "D. جواز سفر", "correct": false }
+          ],
+          "correctAnswerSv": "A. Debattartiklar",
+          "correctAnswerAr": "A. مقالات رأي"
+        },
+
+        {
+          "question": {
+            "sv": "22- Hur kan man påverka på sin arbetsplats?",
+            "ar": "كيف يمكن التأثير في مكان العمل؟ -22"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fackföreningar",
+              "textAr": "A. النقابات العمالية",
+              "correct": true
+            },
+            { "textSv": "B. Polisen", "textAr": "B. الشرطة", "correct": false },
+            {
+              "textSv": "C. Domstolen",
+              "textAr": "C. المحكمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regeringen",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Fackföreningar",
+          "correctAnswerAr": "A. النقابات العمالية"
+        },
+
+        {
+          "question": {
+            "sv": "23- Vad är ett hot mot demokratin?",
+            "ar": "ما هو تهديد للديمقراطية؟ -23"
+          },
+          "answers": [
+            {
+              "textSv": "A. Högt valdeltagande",
+              "textAr": "A. مشاركة عالية في التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Lågt valdeltagande",
+              "textAr": "B. مشاركة منخفضة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Fria val",
+              "textAr": "C. انتخابات حرة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Föreningar",
+              "textAr": "D. جمعيات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Lågt valdeltagande",
+          "correctAnswerAr": "B. مشاركة منخفضة"
+        },
+
+        {
+          "question": {
+            "sv": "24- Vad kan lågt valdeltagande bero på?",
+            "ar": "بماذا يمكن أن يكون سبب قلة التصويت؟ -24"
+          },
+          "answers": [
+            {
+              "textSv": "A. Misstro mot politiker",
+              "textAr": "A. عدم الثقة في السياسيين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla är nöjda",
+              "textAr": "B. الجميع راضٍ",
+              "correct": false
+            },
+            {
+              "textSv": "C. Många skolor",
+              "textAr": "C. كثرة المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla röstar",
+              "textAr": "D. الجميع يصوت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Misstro mot politiker",
+          "correctAnswerAr": "A. عدم الثقة في السياسيين"
+        },
+
+        {
+          "question": {
+            "sv": "25- Vad kan lågt valdeltagande leda till?",
+            "ar": "إلى ماذا يمكن أن يؤدي انخفاض التصويت؟ -25"
+          },
+          "answers": [
+            {
+              "textSv": "A. Starkare demokrati",
+              "textAr": "A. ديمقراطية أقوى",
+              "correct": false
+            },
+            {
+              "textSv": "B. Mindre påverkan",
+              "textAr": "B. تأثير أقل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Fler röster",
+              "textAr": "C. أصوات أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Fler val",
+              "textAr": "D. انتخابات أكثر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Mindre påverkan",
+          "correctAnswerAr": "B. تأثير أقل"
+        },
+
+        {
+          "question": {
+            "sv": "26- Vad sprids ibland på sociala medier?",
+            "ar": "ماذا يتم نشره أحيانًا على وسائل التواصل؟ -26"
+          },
+          "answers": [
+            { "textSv": "A. Vetenskap", "textAr": "A. علم", "correct": false },
+            {
+              "textSv": "B. Falsk information",
+              "textAr": "B. معلومات كاذبة",
+              "correct": true
+            },
+            { "textSv": "C. Lagar", "textAr": "C. قوانين", "correct": false },
+            {
+              "textSv": "D. Vallokaler",
+              "textAr": "D. مراكز اقتراع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Falsk information",
+          "correctAnswerAr": "B. معلومات كاذبة"
+        },
+
+        {
+          "question": {
+            "sv": "27- Vilka kan hotas i en demokrati?",
+            "ar": "من يمكن أن يتعرض للتهديد في الديمقراطية؟ -27"
+          },
+          "answers": [
+            {
+              "textSv": "A. Politiker",
+              "textAr": "A. السياسيون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Journalister",
+              "textAr": "B. الصحفيون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Samhällsdebatt",
+              "textAr": "C. المشاركون في النقاش",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "28- Varför är sann information viktig?",
+            "ar": "لماذا المعلومات الصحيحة مهمة؟ -28"
+          },
+          "answers": [
+            {
+              "textSv": "A. Demokratin fungerar",
+              "textAr": "A. حتى تعمل الديمقراطية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Minska skolor",
+              "textAr": "B. تقليل المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Höja skatt",
+              "textAr": "C. رفع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Stoppa val",
+              "textAr": "D. إيقاف الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Demokratin fungerar",
+          "correctAnswerAr": "A. حتى تعمل الديمقراطية"
+        },
+
+        {
+          "question": {
+            "sv": "29- Vad betyder segregation?",
+            "ar": "ماذا يعني الفصل الاجتماعي؟ -29"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att människor lever åtskilda",
+              "textAr": "A. يعيش الناس منفصلين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla bor tillsammans",
+              "textAr": "B. الجميع يعيشون معًا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Samma jobb",
+              "textAr": "C. نفس الوظائف",
+              "correct": false
+            },
+            {
+              "textSv": "D. Samma lön",
+              "textAr": "D. نفس الرواتب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att människor lever åtskilda",
+          "correctAnswerAr": "A. يعيش الناس منفصلين"
+        },
+
+        {
+          "question": {
+            "sv": "30- Segregation kan bero på:",
+            "ar": "ما أسباب الفصل الاجتماعي؟ -30"
+          },
+          "answers": [
+            { "textSv": "A. Inkomst", "textAr": "A. الدخل", "correct": false },
+            {
+              "textSv": "B. Etnisk bakgrund",
+              "textAr": "B. الخلفية العرقية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ekonomi",
+              "textAr": "C. الاقتصاد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "31- Vad betyder integration?",
+            "ar": "ماذا يعني الاندماج؟ -31"
+          },
+          "answers": [
+            {
+              "textSv": "A. Åtskilda grupper",
+              "textAr": "A. مجموعات منفصلة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Olika bakgrunder lever tillsammans",
+              "textAr": "B. يعيش الناس معًا باختلاف خلفياتهم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara svenskar",
+              "textAr": "C. فقط السويديون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Flytta bort",
+              "textAr": "D. الهجرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Olika bakgrunder lever tillsammans",
+          "correctAnswerAr": "B. يعيش الناس معًا باختلاف خلفياتهم"
+        },
+
+        {
+          "question": {
+            "sv": "32- Vad kan segregation leda till?",
+            "ar": "ماذا يمكن أن يؤدي إليه الفصل الاجتماعي؟ -32"
+          },
+          "answers": [
+            {
+              "textSv": "A. Mindre kontakt",
+              "textAr": "A. تواصل أقل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Mindre förtroende",
+              "textAr": "B. ثقة أقل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Mindre engagemang",
+              "textAr": "C. مشاركة أقل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "33- Hur påverkar segregation demokratin?",
+            "ar": "كيف يؤثر الفصل على الديمقراطية؟ -33"
+          },
+          "answers": [
+            {
+              "textSv": "A. Stärker demokrati",
+              "textAr": "A. يقوي الديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försvagar demokrati",
+              "textAr": "B. يضعف الديمقراطية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ingen påverkan",
+              "textAr": "C. لا تأثير",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tar bort lagar",
+              "textAr": "D. يزيل القوانين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Försvagar demokrati",
+          "correctAnswerAr": "B. يضعف الديمقراطية"
+        },
+
+        {
+          "question": {
+            "sv": "34- Vad kan minska segregation?",
+            "ar": "ما الذي يمكن أن يقلل الفصل؟ -34"
+          },
+          "answers": [
+            {
+              "textSv": "A. Språkutbildning",
+              "textAr": "A. تعليم اللغة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Blandade bostäder",
+              "textAr": "B. مساكن مختلطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Integration",
+              "textAr": "C. الاندماج",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "35- Vad är syftet med integration?",
+            "ar": "ما هدف الاندماج؟ -35"
+          },
+          "answers": [
+            {
+              "textSv": "A. Delaktighet i samhället",
+              "textAr": "A. المشاركة في المجتمع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Separation",
+              "textAr": "B. الفصل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Minska kommuner",
+              "textAr": "C. تقليل البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Stoppa val",
+              "textAr": "D. إيقاف الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Delaktighet i samhället",
+          "correctAnswerAr": "A. المشاركة في المجتمع"
+        },
+
+        {
+          "question": {
+            "sv": "36- Vad är en viktig rättighet i en demokrati?",
+            "ar": "ما هي أهم حقوق الديمقراطية؟ -36"
+          },
+          "answers": [
+            {
+              "textSv": "A. Yttrandefrihet",
+              "textAr": "A. حرية التعبير",
+              "correct": true
+            },
+            {
+              "textSv": "B. Köpa röster",
+              "textAr": "B. شراء الأصوات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Tvinga människor",
+              "textAr": "C. إجبار الناس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Förbjuda partier",
+              "textAr": "D. منع الأحزاب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Yttrandefrihet",
+          "correctAnswerAr": "A. حرية التعبير"
+        },
+
+        {
+          "question": {
+            "sv": "37- Vem omfattas av lagen i Sverige?",
+            "ar": "من يخضع للقانون في السويد؟ -37"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara politiker",
+              "textAr": "A. فقط السياسيون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara medborgare",
+              "textAr": "B. فقط المواطنين",
+              "correct": false
+            },
+            { "textSv": "C. Alla", "textAr": "C. الجميع", "correct": true },
+            {
+              "textSv": "D. Bara domare",
+              "textAr": "D. فقط القضاة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Alla",
+          "correctAnswerAr": "C. الجميع"
+        },
+
+        {
+          "question": {
+            "sv": "38- Vilket stärker demokratin?",
+            "ar": "ما الذي يقوي الديمقراطية؟ -38"
+          },
+          "answers": [
+            {
+              "textSv": "A. Många röstar",
+              "textAr": "A. مشاركة كبيرة في التصويت",
+              "correct": true
+            },
+            {
+              "textSv": "B. Falsk information",
+              "textAr": "B. معلومات كاذبة",
+              "correct": false
+            },
+            { "textSv": "C. Hot", "textAr": "C. تهديدات", "correct": false },
+            {
+              "textSv": "D. Lågt valdeltagande",
+              "textAr": "D. مشاركة منخفضة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Många röstar",
+          "correctAnswerAr": "A. مشاركة كبيرة في التصويت"
+        },
+
+        {
+          "question": {
+            "sv": "39- Vem kan påverka samhället?",
+            "ar": "من يمكنه التأثير على المجتمع؟ -39"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara politiker",
+              "textAr": "A. فقط السياسيون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara journalister",
+              "textAr": "B. فقط الصحفيون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla människor",
+              "textAr": "C. جميع الناس",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara domare",
+              "textAr": "D. فقط القضاة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Alla människor",
+          "correctAnswerAr": "C. جميع الناس"
+        },
+
+        {
+          "question": {
+            "sv": "40- Vilket påstående är rätt?",
+            "ar": "أيّ عبارة صحيحة؟ -40"
+          },
+          "answers": [
+            {
+              "textSv": "A. Demokrati betyder att folket styr",
+              "textAr": "A. الديمقراطية تعني أن الشعب يحكم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Demokrati betyder att kungen styr",
+              "textAr": "B. الديمقراطية تعني أن الملك يحكم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Demokrati betyder att militären styr",
+              "textAr": "C. الديمقراطية تعني أن الجيش يحكم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Demokrati betyder att domstolarna styr",
+              "textAr": "D. الديمقراطية تعني أن المحاكم تحكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Demokrati betyder att folket styr",
+          "correctAnswerAr": "A. الديمقراطية تعني أن الشعب يحكم"
+        }
+      ]
+    },
+    {
+      "lessonId": 3,
+      "lessonTitle": {
+        "sv": "Kapitel 3 – Hur Sverige styrs",
+        "ar": "الفصل الثالث – كيف تُحكم السويد"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Hur många nivåer delas det politiska ansvaret i Sverige upp på?",
+            "ar": "إلى كم مستوى يُقسم المسؤول السياسي في السويد؟ -1"
+          },
+          "answers": [
+            { "textSv": "A. 2", "textAr": "A. 2", "correct": false },
+            { "textSv": "B. 3", "textAr": "B. 3", "correct": true },
+            { "textSv": "C. 4", "textAr": "C. 4", "correct": false },
+            { "textSv": "D. 5", "textAr": "D. 5", "correct": false }
+          ],
+          "correctAnswerSv": "B. 3",
+          "correctAnswerAr": "B. ثلاثة مستويات"
+        },
+
+        {
+          "question": {
+            "sv": "2- Vilka nivåer styr Sverige?",
+            "ar": "ما هي المستويات التي تحكم السويد؟ -2"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten, regionerna och kommunerna",
+              "textAr": "A. الدولة والمناطق والبلديات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Staten och EU",
+              "textAr": "B. الدولة والاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunerna och domstolarna",
+              "textAr": "C. البلديات والمحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regionen och riksdagen",
+              "textAr": "D. المنطقة والبرلمان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten, regionerna och kommunerna",
+          "correctAnswerAr": "A. الدولة والمناطق والبلديات"
+        },
+
+        {
+          "question": {
+            "sv": "3- Vad påverkar också Sverige utöver stat, region och kommun?",
+            "ar": "ما الذي يؤثر على السويد أيضًا إضافة إلى الدولة والمنطقة والبلدية؟ -3"
+          },
+          "answers": [
+            {
+              "textSv": "A. FN",
+              "textAr": "A. الأمم المتحدة",
+              "correct": false
+            },
+            { "textSv": "B. NATO", "textAr": "B. الناتو", "correct": false },
+            {
+              "textSv": "C. Europeiska unionen (EU)",
+              "textAr": "C. الاتحاد الأوروبي (EU)",
+              "correct": true
+            },
+            { "textSv": "D. UNESCO", "textAr": "D. اليونسكو", "correct": false }
+          ],
+          "correctAnswerSv": "C. Europeiska unionen (EU)",
+          "correctAnswerAr": "C. الاتحاد الأوروبي (EU)"
+        },
+
+        {
+          "question": {
+            "sv": "4- Vad består staten av?",
+            "ar": "مما تتكون الدولة؟ -4"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringen",
+              "textAr": "B. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Myndigheterna och domstolarna",
+              "textAr": "C. السلطات والمحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "5- Vilken typ av demokrati är Sverige?",
+            "ar": "أي نوع من الديمقراطية هي السويد؟ -5"
+          },
+          "answers": [
+            {
+              "textSv": "A. Direktdemokrati",
+              "textAr": "A. ديمقراطية مباشرة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Parlamentarisk representativ demokrati",
+              "textAr": "B. ديمقراطية برلمانية تمثيلية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Diktatur",
+              "textAr": "C. دكتاتورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Presidentstyre",
+              "textAr": "D. حكم رئاسي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Parlamentarisk representativ demokrati",
+          "correctAnswerAr": "B. ديمقراطية برلمانية تمثيلية"
+        },
+
+        {
+          "question": {
+            "sv": "6- Vem väljer ledamöterna till riksdagen?",
+            "ar": "من يختار أعضاء البرلمان؟ -6"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. الحكومة",
+              "correct": false
+            },
+            { "textSv": "B. Kungen", "textAr": "B. الملك", "correct": false },
+            { "textSv": "C. Folket", "textAr": "C. الشعب", "correct": true },
+            {
+              "textSv": "D. Kommunerna",
+              "textAr": "D. البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Folket",
+          "correctAnswerAr": "C. الشعب"
+        },
+
+        {
+          "question": {
+            "sv": "7- Hur många ledamöter finns det i riksdagen?",
+            "ar": "كم عدد أعضاء البرلمان؟ -7"
+          },
+          "answers": [
+            { "textSv": "A. 290", "textAr": "A. 290", "correct": false },
+            { "textSv": "B. 349", "textAr": "B. 349", "correct": true },
+            { "textSv": "C. 310", "textAr": "C. 310", "correct": false },
+            { "textSv": "D. 400", "textAr": "D. 400", "correct": false }
+          ],
+          "correctAnswerSv": "B. 349",
+          "correctAnswerAr": "B. 349"
+        },
+
+        {
+          "question": {
+            "sv": "8- Hur ofta väljs riksdagen?",
+            "ar": "كل كم سنة يتم انتخاب البرلمان؟ -8"
+          },
+          "answers": [
+            {
+              "textSv": "A. Varje år",
+              "textAr": "A. كل سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vartannat år",
+              "textAr": "B. كل سنتين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Vart fjärde år",
+              "textAr": "C. كل أربع سنوات",
+              "correct": true
+            },
+            {
+              "textSv": "D. Vart femte år",
+              "textAr": "D. كل خمس سنوات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Vart fjärde år",
+          "correctAnswerAr": "C. كل أربع سنوات"
+        },
+
+        {
+          "question": {
+            "sv": "9- Vad representerar riksdagens ledamöter?",
+            "ar": "ماذا يمثل أعضاء البرلمان؟ -9"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast regeringen",
+              "textAr": "A. الحكومة فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Partier och olika delar av landet",
+              "textAr": "B. الأحزاب ومناطق البلاد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara kommunerna",
+              "textAr": "C. البلديات فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kungahuset",
+              "textAr": "D. العائلة الملكية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Partier och olika delar av landet",
+          "correctAnswerAr": "B. الأحزاب ومناطق البلاد"
+        },
+
+        {
+          "question": {
+            "sv": "10- Vad beslutar riksdagen om?",
+            "ar": "بماذا يقرر البرلمان؟ -10"
+          },
+          "answers": [
+            { "textSv": "A. Lagar", "textAr": "A. القوانين", "correct": false },
+            {
+              "textSv": "B. Statens budget",
+              "textAr": "B. ميزانية الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Statsminister",
+              "textAr": "C. رئيس الوزراء",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "11- Vem väljer statsministern?",
+            "ar": "من يختار رئيس الوزراء؟ -11"
+          },
+          "answers": [
+            { "textSv": "A. Folket", "textAr": "A. الشعب", "correct": false },
+            { "textSv": "B. Kungen", "textAr": "B. الملك", "correct": false },
+            {
+              "textSv": "C. Riksdagen",
+              "textAr": "C. البرلمان",
+              "correct": true
+            },
+            {
+              "textSv": "D. Regeringen",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Riksdagen",
+          "correctAnswerAr": "C. البرلمان"
+        },
+
+        {
+          "question": {
+            "sv": "12- Vem utser ministrarna?",
+            "ar": "من يعين الوزراء؟ -12"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Statsministern",
+              "textAr": "B. رئيس الوزراء",
+              "correct": true
+            },
+            { "textSv": "C. Kungen", "textAr": "C. الملك", "correct": false },
+            {
+              "textSv": "D. Domstolen",
+              "textAr": "D. المحكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Statsministern",
+          "correctAnswerAr": "B. رئيس الوزراء"
+        },
+
+        {
+          "question": {
+            "sv": "13- Vad kallas regeringens förslag om budget?",
+            "ar": "ما اسم اقتراح الحكومة للميزانية؟ -13"
+          },
+          "answers": [
+            {
+              "textSv": "A. Budgetproposition",
+              "textAr": "A. مقترح الميزانية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kommunbudget",
+              "textAr": "B. ميزانية البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Finansplan",
+              "textAr": "C. خطة مالية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Revisionsplan",
+              "textAr": "D. خطة مراجعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Budgetproposition",
+          "correctAnswerAr": "A. مقترح الميزانية"
+        },
+
+        {
+          "question": {
+            "sv": "14- När lämnar regeringen budgeten?",
+            "ar": "متى تقدم الحكومة الميزانية؟ -14"
+          },
+          "answers": [
+            { "textSv": "A. Våren", "textAr": "A. الربيع", "correct": false },
+            { "textSv": "B. Sommaren", "textAr": "B. الصيف", "correct": false },
+            { "textSv": "C. Hösten", "textAr": "C. الخريف", "correct": true },
+            { "textSv": "D. Vintern", "textAr": "D. الشتاء", "correct": false }
+          ],
+          "correctAnswerSv": "C. Hösten",
+          "correctAnswerAr": "C. الخريف"
+        },
+
+        {
+          "question": {
+            "sv": "15- Vad visar budgeten?",
+            "ar": "ماذا تظهر الميزانية؟ -15"
+          },
+          "answers": [
+            {
+              "textSv": "A. Prioriteringar",
+              "textAr": "A. الأولويات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Inkomster",
+              "textAr": "B. الإيرادات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Utgifter",
+              "textAr": "C. المصاريف",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "16- Vad kallas de partier som inte stödjer regeringen?",
+            "ar": "ما اسم الأحزاب التي لا تدعم الحكومة؟ -16"
+          },
+          "answers": [
+            {
+              "textSv": "A. Majoriteten",
+              "textAr": "A. الأغلبية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Oppositionen",
+              "textAr": "B. المعارضة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Regionerna",
+              "textAr": "C. المناطق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunerna",
+              "textAr": "D. البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Oppositionen",
+          "correctAnswerAr": "B. المعارضة"
+        },
+
+        {
+          "question": {
+            "sv": "17- Vad är oppositionens uppgift?",
+            "ar": "ما هي مهمة المعارضة؟ -17"
+          },
+          "answers": [
+            {
+              "textSv": "A. Styra domstolar",
+              "textAr": "A. إدارة المحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Granska regeringen",
+              "textAr": "B. مراقبة الحكومة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Välja kungen",
+              "textAr": "C. اختيار الملك",
+              "correct": false
+            },
+            {
+              "textSv": "D. Styra kommuner",
+              "textAr": "D. إدارة البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Granska regeringen",
+          "correctAnswerAr": "B. مراقبة الحكومة"
+        },
+
+        {
+          "question": {
+            "sv": "18- Vad gör ledamöter innan de röstar?",
+            "ar": "ماذا يفعل الأعضاء قبل التصويت؟ -18"
+          },
+          "answers": [
+            {
+              "textSv": "A. Debatterar",
+              "textAr": "A. يناقشون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Diskuterar",
+              "textAr": "B. يتناقشون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Behandlar förslag",
+              "textAr": "C. يدرسون المقترحات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "19- Hur styr regeringen landet?",
+            "ar": "كيف تدير الحكومة البلاد؟  -19"
+          },
+          "answers": [
+            {
+              "textSv": "A. Myndigheter",
+              "textAr": "A. السلطات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kommuner",
+              "textAr": "B. البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "C. EU",
+              "textAr": "C. الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolar",
+              "textAr": "D. المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Myndigheter",
+          "correctAnswerAr": "A. السلطات"
+        },
+
+        {
+          "question": {
+            "sv": "20- Hur många myndigheter finns det ungefär?",
+            "ar": "كم عدد الهيئات الحكومية تقريبًا؟ -20"
+          },
+          "answers": [
+            { "textSv": "A. 50", "textAr": "A. 50", "correct": false },
+            { "textSv": "B. 100", "textAr": "B. 100", "correct": false },
+            {
+              "textSv": "C. Flera hundra",
+              "textAr": "C. مئات عديدة",
+              "correct": true
+            },
+            { "textSv": "D. 1000", "textAr": "D. 1000", "correct": false }
+          ],
+          "correctAnswerSv": "C. Flera hundra",
+          "correctAnswerAr": "C. مئات عديدة"
+        },
+        {
+          "question": {
+            "sv": "21- Vilken myndighet ansvarar för föräldrapenning?",
+            "ar": "أي هيئة مسؤولة عن دعم إجازة الوالدين؟ -21"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. وكالة التأمينات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. مصلحة الهجرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Försäkringskassan",
+          "correctAnswerAr": "B. وكالة التأمينات الاجتماعية"
+        },
+
+        {
+          "question": {
+            "sv": "22- Vilken myndighet ansvarar för skatter?",
+            "ar": "أي هيئة مسؤولة عن الضرائب؟ -22"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "B. JO",
+              "textAr": "B. أمين المظالم",
+              "correct": false
+            },
+            { "textSv": "C. Polisen", "textAr": "C. الشرطة", "correct": false },
+            {
+              "textSv": "D. Regionen",
+              "textAr": "D. المنطقة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skatteverket",
+          "correctAnswerAr": "A. مصلحة الضرائب"
+        },
+
+        {
+          "question": {
+            "sv": "23- Vilken myndighet arbetar med arbetslösa?",
+            "ar": "أي هيئة تعمل مع العاطلين عن العمل؟ -23"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsförmedlingen",
+              "textAr": "A. مكتب العمل",
+              "correct": true
+            },
+            { "textSv": "B. Polisen", "textAr": "B. الشرطة", "correct": false },
+            {
+              "textSv": "C. Domstolen",
+              "textAr": "C. المحكمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsförmedlingen",
+          "correctAnswerAr": "A. مكتب العمل"
+        },
+
+        {
+          "question": {
+            "sv": "24- Vilken myndighet ansvarar för migration?",
+            "ar": "أي هيئة مسؤولة عن الهجرة؟ -24"
+          },
+          "answers": [
+            {
+              "textSv": "A. Migrationsverket",
+              "textAr": "A. مصلحة الهجرة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. وكالة التأمينات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Regionen",
+              "textAr": "C. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Migrationsverket",
+          "correctAnswerAr": "A. مصلحة الهجرة"
+        },
+
+        {
+          "question": {
+            "sv": "25- Vad måste myndigheterna följa?",
+            "ar": "ماذا يجب على السلطات اتباعه؟ -25"
+          },
+          "answers": [
+            { "textSv": "A. Lagen", "textAr": "A. القانون", "correct": false },
+            {
+              "textSv": "B. Regeringens instruktioner",
+              "textAr": "B. تعليمات الحكومة",
+              "correct": false
+            },
+            { "textSv": "C. Båda", "textAr": "C. كلاهما", "correct": true },
+            { "textSv": "D. Inget", "textAr": "D. لا شيء", "correct": false }
+          ],
+          "correctAnswerSv": "C. Båda",
+          "correctAnswerAr": "C. كلاهما"
+        },
+
+        {
+          "question": {
+            "sv": "26- Vad betyder JO?",
+            "ar": "26- ماذا يعني JO ؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Justitieombudsmannen",
+              "textAr": "A. أمين المظالم القضائي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Justitieordningen",
+              "textAr": "B. النظام القضائي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Juridiska organisationen",
+              "textAr": "C. المنظمة القانونية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Justitiekommittén",
+              "textAr": "D. لجنة العدالة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Justitieombudsmannen",
+          "correctAnswerAr": "A. أمين المظالم القضائي"
+        },
+
+        {
+          "question": {
+            "sv": "27- Vad betyder JK?",
+            "ar": "27- ماذا يعني JK؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Justitiekanslern",
+              "textAr": "A. مستشار العدل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Justitiekommissionen",
+              "textAr": "B. لجنة العدالة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Juridiska kansliet",
+              "textAr": "C. المكتب القانوني",
+              "correct": false
+            },
+            {
+              "textSv": "D. Justitiekontoret",
+              "textAr": "D. مكتب العدالة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Justitiekanslern",
+          "correctAnswerAr": "A. مستشار العدل"
+        },
+
+        {
+          "question": {
+            "sv": "28- Vad gör JO och JK?",
+            "ar": "ماذا يفعل -28JO و JK؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kontrollerar myndigheter",
+              "textAr": "A. يراقبون السلطات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skriver lagar",
+              "textAr": "B. يكتبون القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Väljer regeringen",
+              "textAr": "C. يختارون الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Driver skolor",
+              "textAr": "D. يديرون المدارس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kontrollerar myndigheter",
+          "correctAnswerAr": "A. يراقبون السلطات"
+        },
+
+        {
+          "question": {
+            "sv": "29- Hur många regioner finns det?",
+            "ar": "كم عدد المناطق في السويد؟ -29"
+          },
+          "answers": [
+            { "textSv": "A. 20", "textAr": "A. 20", "correct": false },
+            { "textSv": "B. 21", "textAr": "B. 21", "correct": true },
+            { "textSv": "C. 25", "textAr": "C. 25", "correct": false },
+            { "textSv": "D. 290", "textAr": "D. 290", "correct": false }
+          ],
+          "correctAnswerSv": "B. 21",
+          "correctAnswerAr": "B. 21"
+        },
+
+        {
+          "question": {
+            "sv": "30- Vad ansvarar regionerna främst för?",
+            "ar": "بماذا تهتم المناطق بشكل أساسي؟ -30"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hälso- och sjukvård",
+              "textAr": "A. الرعاية الصحية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kollektivtrafik",
+              "textAr": "B. النقل العام",
+              "correct": false
+            },
+            {
+              "textSv": "C. Länsmuseer",
+              "textAr": "C. المتاحف",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "31- Vad heter regionens beslutande församling?",
+            "ar": "ما اسم الهيئة التي تتخذ القرار في المنطقة؟ -31"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regionfullmäktige",
+              "textAr": "A. مجلس المنطقة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kommunfullmäktige",
+              "textAr": "B. مجلس البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Riksdagen",
+              "textAr": "C. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regeringen",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Regionfullmäktige",
+          "correctAnswerAr": "A. مجلس المنطقة"
+        },
+
+        {
+          "question": {
+            "sv": "32- Hur många kommuner finns det?",
+            "ar": "كم عدد البلديات؟ -32"
+          },
+          "answers": [
+            { "textSv": "A. 21", "textAr": "A. 21", "correct": false },
+            { "textSv": "B. 290", "textAr": "B. 290", "correct": true },
+            { "textSv": "C. 349", "textAr": "C. 349", "correct": false },
+            { "textSv": "D. 25", "textAr": "D. 25", "correct": false }
+          ],
+          "correctAnswerSv": "B. 290",
+          "correctAnswerAr": "B. 290"
+        },
+
+        {
+          "question": {
+            "sv": "33- Vad heter kommunens beslutande församling?",
+            "ar": "ما اسم مجلس البلدية؟ -33"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kommunfullmäktige",
+              "textAr": "B. مجلس البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Regionen",
+              "textAr": "C. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolen",
+              "textAr": "D. المحكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kommunfullmäktige",
+          "correctAnswerAr": "B. مجلس البلدية"
+        },
+
+        {
+          "question": {
+            "sv": "34- Vilken är Sveriges största kommun?",
+            "ar": "ما هي أكبر بلدية في السويد؟ -34"
+          },
+          "answers": [
+            {
+              "textSv": "A. Göteborg",
+              "textAr": "A. Göteborg",
+              "correct": false
+            },
+            { "textSv": "B. Malmö", "textAr": "B. Malmö", "correct": false },
+            {
+              "textSv": "C. Stockholm",
+              "textAr": "C. Stockholm",
+              "correct": true
+            },
+            { "textSv": "D. Uppsala", "textAr": "D. Uppsala", "correct": false }
+          ],
+          "correctAnswerSv": "C. Stockholm",
+          "correctAnswerAr": "C. Stockholm"
+        },
+
+        {
+          "question": {
+            "sv": "35- Vilken är Sveriges minsta kommun?",
+            "ar": "ما هي أصغر بلدية في السويد؟ -35"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arjeplog",
+              "textAr": "A. Arjeplog",
+              "correct": false
+            },
+            { "textSv": "B. Dorotea", "textAr": "B. Dorotea", "correct": true },
+            { "textSv": "C. Kiruna", "textAr": "C. Kiruna", "correct": false },
+            { "textSv": "D. Pajala", "textAr": "D. Pajala", "correct": false }
+          ],
+          "correctAnswerSv": "B. Dorotea",
+          "correctAnswerAr": "B. Dorotea"
+        },
+
+        {
+          "question": {
+            "sv": "36- Vad ansvarar kulturnämnden för?",
+            "ar": "بماذا تهتم لجنة الثقافة؟ -36"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sjukhus",
+              "textAr": "A. المستشفيات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bibliotek",
+              "textAr": "B. المكتبات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatter",
+              "textAr": "C. الضرائب",
+              "correct": false
+            },
+            { "textSv": "D. Polis", "textAr": "D. الشرطة", "correct": false }
+          ],
+          "correctAnswerSv": "B. Bibliotek",
+          "correctAnswerAr": "B. المكتبات"
+        },
+
+        {
+          "question": {
+            "sv": "37- Vad ansvarar utbildningsnämnden för?",
+            "ar": "بماذا تهتم لجنة التعليم؟ -37"
+          },
+          "answers": [
+            { "textSv": "A. Skolor", "textAr": "A. المدارس", "correct": true },
+            {
+              "textSv": "B. Domstolar",
+              "textAr": "B. المحاكم",
+              "correct": false
+            },
+            { "textSv": "C. Polis", "textAr": "C. الشرطة", "correct": false },
+            {
+              "textSv": "D. Regering",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skolor",
+          "correctAnswerAr": "A. المدارس"
+        },
+
+        {
+          "question": {
+            "sv": "38- Vad ansvarar kommunen för?",
+            "ar": "بماذا تهتم البلدية؟ -38"
+          },
+          "answers": [
+            { "textSv": "A. Vatten", "textAr": "A. المياه", "correct": false },
+            {
+              "textSv": "B. Avlopp",
+              "textAr": "B. الصرف الصحي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Äldreomsorg",
+              "textAr": "C. رعاية المسنين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+
+        {
+          "question": {
+            "sv": "39- Vilka beslut påverkar vardagen mest?",
+            "ar": "أي القرارات تؤثر على الحياة اليومية أكثر؟ -39"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunens beslut",
+              "textAr": "A. قرارات البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "B. FN",
+              "textAr": "B. الأمم المتحدة",
+              "correct": false
+            },
+            { "textSv": "C. Kungen", "textAr": "C. الملك", "correct": false },
+            {
+              "textSv": "D. EU",
+              "textAr": "D. الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kommunens beslut",
+          "correctAnswerAr": "A. قرارات البلدية"
+        },
+
+        {
+          "question": {
+            "sv": "40- Vilket statsskick har Sverige?",
+            "ar": "ما هو نظام الحكم في السويد؟ -40"
+          },
+          "answers": [
+            {
+              "textSv": "A. Republik",
+              "textAr": "A. جمهورية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Konstitutionell monarki",
+              "textAr": "B. ملكية دستورية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Diktatur",
+              "textAr": "C. دكتاتورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Presidentstyre",
+              "textAr": "D. نظام رئاسي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Konstitutionell monarki",
+          "correctAnswerAr": "B. ملكية دستورية"
+        },
+
+        {
+          "question": {
+            "sv": "41- Vad betyder konstitutionell monarki?",
+            "ar": "ماذا يعني النظام الملكي الدستوري؟ -41"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungen styr landet",
+              "textAr": "A. الملك يحكم البلاد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kungen har politisk makt",
+              "textAr": "B. الملك لديه سلطة سياسية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kungen är statschef men har ingen politisk makt",
+              "textAr": "C. الملك رئيس دولة لكن بلا سلطة سياسية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Statsministern är kung",
+              "textAr": "D. رئيس الوزراء هو الملك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Kungen är statschef men har ingen politisk makt",
+          "correctAnswerAr": "C. الملك رئيس دولة لكن بلا سلطة سياسية"
+        },
+        {
+          "question": {
+            "sv": "42- Vad är kungens viktigaste roll? ",
+            "ar": "ما هو الدور الأساسي للملك؟ -42"
+          },
+          "answers": [
+            {
+              "textSv": "A. Representera Sverige",
+              "textAr": "A. تمثيل السويد",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skriva lagar",
+              "textAr": "B. كتابة القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Välja regeringen",
+              "textAr": "C. اختيار الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bestämma budgeten",
+              "textAr": "D. تحديد الميزانية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Representera Sverige",
+          "correctAnswerAr": "A. تمثيل Sverige"
+        },
+
+        {
+          "question": {
+            "sv": "43- Vad gör kungen vid statsbesök?",
+            "ar": "ماذا يفعل الملك أثناء الزيارات الرسمية؟ -43"
+          },
+          "answers": [
+            {
+              "textSv": "A. Representerar Sverige",
+              "textAr": "A. يمثل السويد",
+              "correct": true
+            },
+            {
+              "textSv": "B. Röstar i riksdagen",
+              "textAr": "B. يصوت في البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skriver lagar",
+              "textAr": "C. يكتب القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Leder regeringen",
+              "textAr": "D. يقود الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Representerar Sverige",
+          "correctAnswerAr": "A. يمثل Sverige"
+        },
+
+        {
+          "question": {
+            "sv": "44- Vad gör kungen när andra statschefer kommer till Sverige?",
+            "ar": "ماذا يفعل الملك عند زيارة رؤساء دول آخرين للسويد؟ -44"
+          },
+          "answers": [
+            {
+              "textSv": "A. Tar emot dem",
+              "textAr": "A. يستقبلهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Väljer dem",
+              "textAr": "B. يختارهم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Röstar med dem",
+              "textAr": "C. يصوت معهم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skriver lagar",
+              "textAr": "D. يكتب القوانين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Tar emot dem",
+          "correctAnswerAr": "A. يستقبلهم"
+        },
+
+        {
+          "question": {
+            "sv": "45- Vad heter Sveriges kung?",
+            "ar": "ما اسم ملك السويد؟ -45"
+          },
+          "answers": [
+            {
+              "textSv": "A. Carl XVI Gustaf",
+              "textAr": "A. Carl XVI Gustaf",
+              "correct": true
+            },
+            {
+              "textSv": "B. Carl XIV Johan",
+              "textAr": "B. Carl XIV Johan",
+              "correct": false
+            },
+            {
+              "textSv": "C. Gustaf V",
+              "textAr": "C. Gustaf V",
+              "correct": false
+            },
+            {
+              "textSv": "D. Oscar II",
+              "textAr": "D. Oscar II",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Carl XVI Gustaf",
+          "correctAnswerAr": "A. Carl XVI Gustaf"
+        },
+
+        {
+          "question": {
+            "sv": "46- Vem är kronprinsessa?",
+            "ar": "من هي وليّة العهد؟ -46"
+          },
+          "answers": [
+            {
+              "textSv": "A. Madeleine",
+              "textAr": "A. Madeleine",
+              "correct": false
+            },
+            { "textSv": "B. Sofia", "textAr": "B. Sofia", "correct": false },
+            {
+              "textSv": "C. Victoria",
+              "textAr": "C. Victoria",
+              "correct": true
+            },
+            { "textSv": "D. Estelle", "textAr": "D. Estelle", "correct": false }
+          ],
+          "correctAnswerSv": "C. Victoria",
+          "correctAnswerAr": "C. Victoria"
+        },
+
+        {
+          "question": {
+            "sv": "47- Vem står efter Victoria i tronföljden?",
+            "ar": "من يأتي بعد فيكتوريا في ترتيب العرش؟ -47"
+          },
+          "answers": [
+            {
+              "textSv": "A. Carl Philip",
+              "textAr": "A. Carl Philip",
+              "correct": false
+            },
+            { "textSv": "B. Estelle", "textAr": "B. Estelle", "correct": true },
+            {
+              "textSv": "C. Madeleine",
+              "textAr": "C. Madeleine",
+              "correct": false
+            },
+            { "textSv": "D. Oscar", "textAr": "D. Oscar", "correct": false }
+          ],
+          "correctAnswerSv": "B. Estelle",
+          "correctAnswerAr": "B. Estelle"
+        },
+
+        {
+          "question": {
+            "sv": "48- Vem stiftar lagarna i Sverige?",
+            "ar": "من يسن القوانين في السويد؟ -48"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Riksdagen",
+              "textAr": "B. البرلمان",
+              "correct": true
+            },
+            {
+              "textSv": "C. Regionen",
+              "textAr": "C. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Riksdagen",
+          "correctAnswerAr": "B. البرلمان"
+        },
+
+        {
+          "question": {
+            "sv": "49- Vem genomför riksdagens beslut?",
+            "ar": "من ينفذ قرارات البرلمان؟ -49"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. الحكومة",
+              "correct": true
+            },
+            { "textSv": "B. Kungen", "textAr": "B. الملك", "correct": false },
+            {
+              "textSv": "C. JO",
+              "textAr": "C. أمين المظالم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Regeringen",
+          "correctAnswerAr": "A. الحكومة"
+        },
+
+        {
+          "question": {
+            "sv": "50- Vem genomför regeringens beslut i praktiken?",
+            "ar": "من ينفذ قرارات الحكومة عمليًا؟ -50"
+          },
+          "answers": [
+            {
+              "textSv": "A. Myndigheterna",
+              "textAr": "A. السلطات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Regionen",
+              "textAr": "B. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunerna",
+              "textAr": "C. البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kungahuset",
+              "textAr": "D. العائلة الملكية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Myndigheterna",
+          "correctAnswerAr": "A. السلطات"
+        }
+      ]
+    },
+    {
+      "lessonId": 4,
+      "lessonTitle": {
+        "sv": "Kapitel Fyra: 4 – Politiska val och partier",
+        "ar": "الفصل الرابع – الانتخابات السياسية والأحزاب"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad är ett politiskt val?",
+            "ar": "1- ما هو انتخاب سياسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En fotbollstävling",
+              "textAr": "A. مسابقة كرة قدم",
+              "correct": false
+            },
+            {
+              "textSv": "B. När medborgarna väljer politiker",
+              "textAr": "B. عندما يختار المواطنون السياسيين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett domstolsbeslut",
+              "textAr": "C. قرار محكمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. En folkräkning",
+              "textAr": "D. تعداد سكاني",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. När medborgarna väljer politiker",
+          "correctAnswerAr": "B. عندما يختار المواطنون السياسيين"
+        },
+        {
+          "question": {
+            "sv": "2- Hur väljer folket sina representanter i Sverige?",
+            "ar": "2- كيف يختار الشعب ممثليه في Sweden؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom lotteri",
+              "textAr": "A. بالقرعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Genom fria och hemliga val",
+              "textAr": "B. من خلال انتخابات حرة وسرية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Genom kungen",
+              "textAr": "C. من خلال الملك",
+              "correct": false
+            },
+            {
+              "textSv": "D. Genom domstolen",
+              "textAr": "D. من خلال المحكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Genom fria och hemliga val",
+          "correctAnswerAr": "B. من خلال انتخابات حرة وسرية"
+        },
+        {
+          "question": {
+            "sv": "3- Hur ofta hålls riksdagsval?",
+            "ar": "3- كم مرة تُجرى انتخابات البرلمان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Varje år",
+              "textAr": "A. كل سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vart tredje år",
+              "textAr": "B. كل ثلاث سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Vart fjärde år",
+              "textAr": "C. كل أربع سنوات",
+              "correct": true
+            },
+            {
+              "textSv": "D. Vart femte år",
+              "textAr": "D. كل خمس سنوات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Vart fjärde år",
+          "correctAnswerAr": "C. كل أربع سنوات"
+        },
+        {
+          "question": {
+            "sv": "4- Hur ofta hålls kommun- och regionval?",
+            "ar": "4- كم مرة تُجرى انتخابات البلديات والمناطق؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vart femte år",
+              "textAr": "A. كل خمس سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vart fjärde år",
+              "textAr": "B. كل أربع سنوات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Vart sjätte år",
+              "textAr": "C. كل ست سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Varje år",
+              "textAr": "D. كل سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Vart fjärde år",
+          "correctAnswerAr": "B. كل أربع سنوات"
+        },
+        {
+          "question": {
+            "sv": "5- Hur ofta hålls EU-val?",
+            "ar": "5- كم مرة تُجرى انتخابات EU؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vart tredje år",
+              "textAr": "A. كل ثلاث سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vart fjärde år",
+              "textAr": "B. كل أربع سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Vart femte år",
+              "textAr": "C. كل خمس سنوات",
+              "correct": true
+            },
+            {
+              "textSv": "D. Vart sjätte år",
+              "textAr": "D. كل ست سنوات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Vart femte år",
+          "correctAnswerAr": "C. كل خمس سنوات"
+        },
+        {
+          "question": {
+            "sv": "6- Hur gammal måste man vara för att rösta?",
+            "ar": "6- كم يجب أن يكون العمر للتصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 16 år",
+              "textAr": "A. 16 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 17 år",
+              "textAr": "B. 17 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 18 år",
+              "textAr": "C. 18 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. 20 år",
+              "textAr": "D. 20 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 18 år",
+          "correctAnswerAr": "C. 18 سنة"
+        },
+        {
+          "question": {
+            "sv": "7- Vem får rösta i riksdagsvalet?",
+            "ar": "7- من يحق له التصويت في انتخابات البرلمان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla som bor i Sverige",
+              "textAr": "A. جميع من يعيشون في السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Svenska medborgare som fyllt 18 år",
+              "textAr": "B. المواطنون السويديون الذين بلغوا 18 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Alla i Norden",
+              "textAr": "C. جميع سكان دول الشمال",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara politiker",
+              "textAr": "D. فقط السياسيون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Svenska medborgare som fyllt 18 år",
+          "correctAnswerAr": "B. المواطنون السويديون الذين بلغوا 18 سنة"
+        },
+        {
+          "question": {
+            "sv": "8- Vad krävs för att rösta i kommunvalet?",
+            "ar": "8- ما المطلوب للتصويت في البلديات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Svenskt pass",
+              "textAr": "A. جواز سفر سويدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Folkbokföring och rätt bosättningskrav",
+              "textAr": "B. التسجيل السكاني والإقامة الصحيحة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Körkort",
+              "textAr": "C. رخصة قيادة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbete",
+              "textAr": "D. وظيفة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Folkbokföring och rätt bosättningskrav",
+          "correctAnswerAr": "B. التسجيل السكاني والإقامة الصحيحة"
+        },
+        {
+          "question": {
+            "sv": "9- Vad är ett röstkort?",
+            "ar": "9- ما هي بطاقة التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett id-kort",
+              "textAr": "A. بطاقة هوية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett kort med information om var man ska rösta",
+              "textAr": "B. بطاقة تحتوي على مكان التصويت",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett bankkort",
+              "textAr": "C. بطاقة بنكية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett medlemskort",
+              "textAr": "D. بطاقة عضوية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett kort med information om var man ska rösta",
+          "correctAnswerAr": "B. بطاقة تحتوي على مكان التصويت"
+        },
+        {
+          "question": {
+            "sv": "10- Kan man rösta före valdagen?",
+            "ar": "10- هل يمكن التصويت قبل يوم الانتخابات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Nej",
+              "textAr": "A. لا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ja, genom förtidsröstning",
+              "textAr": "B. نعم، عبر التصويت المبكر",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara utomlands",
+              "textAr": "C. فقط في الخارج",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara i Stockholm",
+              "textAr": "D. فقط في ستوكهولم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ja, genom förtidsröstning",
+          "correctAnswerAr": "B. نعم، عبر التصويت المبكر"
+        },
+        {
+          "question": {
+            "sv": "11- Varför röstar man bakom en skärm?",
+            "ar": "11- لماذا نصوت خلف حاجز؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att valet är hemligt",
+              "textAr": "A. لأن التصويت سري",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att det är mörkt",
+              "textAr": "B. لأن المكان مظلم",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att skriva namn",
+              "textAr": "C. لكتابة الأسماء",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att visa legitimation",
+              "textAr": "D. لإظهار الهوية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att valet är hemligt",
+          "correctAnswerAr": "A. لأن التصويت سري"
+        },
+        {
+          "question": {
+            "sv": "12- Vad finns i vallokalen?",
+            "ar": "12- ماذا يوجد في مركز الاقتراع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara ett parti",
+              "textAr": "A. حزب واحد فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Valsedlar till alla partier",
+              "textAr": "B. أوراق تصويت لجميع الأحزاب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Passkontroll",
+              "textAr": "C. مراقبة جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisförhör",
+              "textAr": "D. تحقيق شرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Valsedlar till alla partier",
+          "correctAnswerAr": "B. أوراق تصويت لجميع الأحزاب"
+        },
+        {
+          "question": {
+            "sv": "13- Vad är en folkomröstning?",
+            "ar": "13- ما هي الاستفتاء؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett riksdagsval",
+              "textAr": "A. انتخابات البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. När folket röstar om en särskild fråga",
+              "textAr": "B. عندما يصوت الشعب على قضية معينة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett kommunmöte",
+              "textAr": "C. اجتماع بلدي",
+              "correct": false
+            },
+            {
+              "textSv": "D. En domstolsförhandling",
+              "textAr": "D. جلسة محكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. När folket röstar om en särskild fråga",
+          "correctAnswerAr": "B. عندما يصوت الشعب على قضية معينة"
+        },
+        {
+          "question": {
+            "sv": "14- Är en folkomröstning bindande?",
+            "ar": "14- هل الاستفتاء ملزم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Nej, den är rådgivande",
+              "textAr": "B. لا، هو استشاري",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara ibland",
+              "textAr": "C. أحيانًا فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara för kommuner",
+              "textAr": "D. فقط للبلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Nej, den är rådgivande",
+          "correctAnswerAr": "B. لا، هو استشاري"
+        },
+        {
+          "question": {
+            "sv": "15- Vad handlade folkomröstningen 2003 om?",
+            "ar": "15- عن ماذا كان الاستفتاء عام 2003؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. NATO",
+              "textAr": "A. الناتو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Euron",
+              "textAr": "B. اليورو",
+              "correct": true
+            },
+            {
+              "textSv": "C. EU-medlemskap",
+              "textAr": "C. عضوية EU",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skatten",
+              "textAr": "D. الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Euron",
+          "correctAnswerAr": "B. اليورو"
+        },
+        {
+          "question": {
+            "sv": "16- Hur röstade Sverige 2003?",
+            "ar": "16- كيف صوتت السويد عام 2003؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja till euron",
+              "textAr": "A. نعم لليورو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Nej till euron",
+              "textAr": "B. لا لليورو",
+              "correct": true
+            },
+            {
+              "textSv": "C. Valet ställdes in",
+              "textAr": "C. تم إلغاء التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen röstade",
+              "textAr": "D. لم يصوت أحد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Nej till euron",
+          "correctAnswerAr": "B. لا لليورو"
+        },
+        {
+          "question": {
+            "sv": "17- Vilken valuta har Sverige?",
+            "ar": "17- ما هي عملة السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Euro",
+              "textAr": "A. يورو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Dollar",
+              "textAr": "B. دولار",
+              "correct": false
+            },
+            {
+              "textSv": "C. Svenska kronan",
+              "textAr": "C. الكرونة السويدية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Pund",
+              "textAr": "D. جنيه",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Svenska kronan",
+          "correctAnswerAr": "C. الكرونة السويدية"
+        },
+        {
+          "question": {
+            "sv": "18- Vad är ett politiskt parti?",
+            "ar": "18- ما هو الحزب السياسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett företag",
+              "textAr": "A. شركة",
+              "correct": false
+            },
+            {
+              "textSv": "B. En grupp människor med gemensamma politiska idéer",
+              "textAr": "B. مجموعة من الأشخاص لديهم أفكار سياسية مشتركة",
+              "correct": true
+            },
+            {
+              "textSv": "C. En myndighet",
+              "textAr": "C. هيئة حكومية",
+              "correct": false
+            },
+            {
+              "textSv": "D. En domstol",
+              "textAr": "D. محكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En grupp människor med gemensamma politiska idéer",
+          "correctAnswerAr": "B. مجموعة من الأشخاص لديهم أفكار سياسية مشتركة"
+        },
+        {
+          "question": {
+            "sv": "19- Vad försöker partierna göra?",
+            "ar": "19- ماذا تحاول الأحزاب أن تفعل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samla skatt",
+              "textAr": "A. جمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Få väljarnas stöd",
+              "textAr": "B. الحصول على دعم الناخبين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Dela ut pass",
+              "textAr": "C. توزيع جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bygga vägar",
+              "textAr": "D. بناء الطرق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Få väljarnas stöd",
+          "correctAnswerAr": "B. الحصول على دعم الناخبين"
+        },
+        {
+          "question": {
+            "sv": "20- Vad föreslår politiska partier?",
+            "ar": "20- ماذا تقترح الأحزاب السياسية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Lagar och lösningar",
+              "textAr": "A. قوانين وحلول",
+              "correct": true
+            },
+            {
+              "textSv": "B. Domar",
+              "textAr": "B. أحكام قضائية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Pass",
+              "textAr": "C. جوازات سفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Körkort",
+              "textAr": "D. رخص قيادة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Lagar och lösningar",
+          "correctAnswerAr": "A. قوانين وحلول"
+        },
+        {
+          "question": {
+            "sv": "21- Kan vem som helst bli medlem i ett parti?",
+            "ar": "21- هل يمكن لأي شخص أن يصبح عضوًا في حزب سياسي؟"
+          },
+          "answers": [
+            { "textSv": "A. Nej", "textAr": "A. لا", "correct": false },
+            { "textSv": "B. Ja", "textAr": "B. نعم", "correct": true },
+            {
+              "textSv": "C. Bara politiker",
+              "textAr": "C. فقط السياسيون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara riksdagsledamöter",
+              "textAr": "D. فقط أعضاء البرلمان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ja",
+          "correctAnswerAr": "B. نعم"
+        },
+        {
+          "question": {
+            "sv": "22. Kan man starta ett eget parti?",
+            "ar": "22- هل يمكن إنشاء حزب سياسي خاص؟"
+          },
+          "answers": [
+            { "textSv": "A. Nej", "textAr": "A. لا", "correct": false },
+            { "textSv": "B. Ja", "textAr": "B. نعم", "correct": true },
+            {
+              "textSv": "C. Bara regeringen",
+              "textAr": "C. فقط الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara riksdagen",
+              "textAr": "D. فقط البرلمان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ja",
+          "correctAnswerAr": "B. نعم"
+        },
+        {
+          "question": {
+            "sv": "23. Vad gör partierna före valet?",
+            "ar": "23- ماذا تفعل الأحزاب قبل الانتخابات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Valkampanjer",
+              "textAr": "A. حملات انتخابية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Domstolsbesök",
+              "textAr": "B. زيارة المحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Folkräkning",
+              "textAr": "C. تعداد السكان",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skattekontroll",
+              "textAr": "D. مراقبة الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Valkampanjer",
+          "correctAnswerAr": "A. حملات انتخابية"
+        },
+        {
+          "question": {
+            "sv": "24. Hur försöker partierna vinna väljare?",
+            "ar": "24- كيف تحاول الأحزاب كسب الناخبين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Debatter och kampanjer",
+              "textAr": "A. مناظرات وحملات",
+              "correct": true
+            },
+            { "textSv": "B. Militär", "textAr": "B. الجيش", "correct": false },
+            {
+              "textSv": "C. Domstolar",
+              "textAr": "C. المحاكم",
+              "correct": false
+            },
+            { "textSv": "D. Polisen", "textAr": "D. الشرطة", "correct": false }
+          ],
+          "correctAnswerSv": "A. Debatter och kampanjer",
+          "correctAnswerAr": "A. مناظرات وحملات"
+        },
+        {
+          "question": {
+            "sv": "25. Vad betyder proportionella val?",
+            "ar": "25- ماذا تعني الانتخابات النسبية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla partier får lika många platser",
+              "textAr": "A. جميع الأحزاب تحصل على نفس عدد المقاعد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Platserna fördelas efter antalet röster",
+              "textAr": "B. يتم توزيع المقاعد حسب عدد الأصوات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara största partiet får platser",
+              "textAr": "C. الحزب الأكبر فقط يحصل على المقاعد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kungen bestämmer",
+              "textAr": "D. الملك يقرر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Platserna fördelas efter antalet röster",
+          "correctAnswerAr": "B. يتم توزيع المقاعد حسب عدد الأصوات"
+        },
+        {
+          "question": {
+            "sv": "26. Om ett parti får 20 % av rösterna får det ungefär:",
+            "ar": "26- إذا حصل حزب على 20٪ من الأصوات، فإنه يحصل تقريبًا على:"
+          },
+          "answers": [
+            {
+              "textSv": "A. 10 % av platserna",
+              "textAr": "A. 10٪ من المقاعد",
+              "correct": false
+            },
+            {
+              "textSv": "B. 20 % av platserna",
+              "textAr": "B. 20٪ من المقاعد",
+              "correct": true
+            },
+            {
+              "textSv": "C. 50 % av platserna",
+              "textAr": "C. 50٪ من المقاعد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla platser",
+              "textAr": "D. جميع المقاعد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 20 % av platserna",
+          "correctAnswerAr": "B. 20٪ من المقاعد"
+        },
+        {
+          "question": {
+            "sv": "27. Varför samarbetar partier ofta?",
+            "ar": "27- لماذا تتعاون الأحزاب غالبًا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att få majoritet",
+              "textAr": "A. للحصول على الأغلبية",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att minska antalet väljare",
+              "textAr": "B. لتقليل عدد الناخبين",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att ändra grundlagen",
+              "textAr": "C. لتغيير الدستور",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att slippa val",
+              "textAr": "D. لتجنب الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att få majoritet",
+          "correctAnswerAr": "A. للحصول على الأغلبية"
+        },
+        {
+          "question": {
+            "sv": "28. Vad betyder majoritet?",
+            "ar": "28- ماذا تعني الأغلبية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Färre än hälften",
+              "textAr": "A. أقل من النصف",
+              "correct": false
+            },
+            {
+              "textSv": "B. Exakt hälften",
+              "textAr": "B. نصف بالضبط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Mer än hälften",
+              "textAr": "C. أكثر من النصف",
+              "correct": true
+            },
+            {
+              "textSv": "D. Tio procent",
+              "textAr": "D. عشرة بالمئة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Mer än hälften",
+          "correctAnswerAr": "C. أكثر من النصف"
+        },
+        {
+          "question": {
+            "sv": "29. Hur många procent krävs för att komma in i riksdagen?",
+            "ar": "29- كم النسبة المطلوبة للدخول إلى البرلمان؟"
+          },
+          "answers": [
+            { "textSv": "A. 2 %", "textAr": "A. 2٪", "correct": false },
+            { "textSv": "B. 3 %", "textAr": "B. 3٪", "correct": false },
+            { "textSv": "C. 4 %", "textAr": "C. 4٪", "correct": true },
+            { "textSv": "D. 5 %", "textAr": "D. 5٪", "correct": false }
+          ],
+          "correctAnswerSv": "C. 4 %",
+          "correctAnswerAr": "C. 4٪"
+        },
+        {
+          "question": {
+            "sv": "30. Varför finns 4-procentsspärren?",
+            "ar": "30- لماذا يوجد حاجز 4٪؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att skapa stabila majoriteter",
+              "textAr": "A. لإنشاء أغلبية مستقرة",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att minska valdeltagandet",
+              "textAr": "B. لتقليل المشاركة في التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att minska kommuner",
+              "textAr": "C. لتقليل البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att höja skatten",
+              "textAr": "D. لرفع الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att skapa stabila majoriteter",
+          "correctAnswerAr": "A. لإنشاء أغلبية مستقرة"
+        },
+        {
+          "question": {
+            "sv": "31. Hur många partier sitter i riksdagen (fram till valet 2026)?",
+            "ar": "31- كم عدد الأحزاب في البرلمان (حتى انتخابات 2026)؟"
+          },
+          "answers": [
+            { "textSv": "A. 6", "textAr": "A. 6", "correct": false },
+            { "textSv": "B. 7", "textAr": "B. 7", "correct": false },
+            { "textSv": "C. 8", "textAr": "C. 8", "correct": true },
+            { "textSv": "D. 9", "textAr": "D. 9", "correct": false }
+          ],
+          "correctAnswerSv": "C. 8",
+          "correctAnswerAr": "C. 8"
+        },
+        {
+          "question": {
+            "sv": "32. Vad betyder EU?",
+            "ar": "32- ماذا تعني EU؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Europeiska unionen",
+              "textAr": "A. الاتحاد الأوروبي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Europeiska universitetet",
+              "textAr": "B. الجامعة الأوروبية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Europas utskott",
+              "textAr": "C. لجان أوروبا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Europeiska utrikesrådet",
+              "textAr": "D. المجلس الخارجي الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Europeiska unionen",
+          "correctAnswerAr": "A. الاتحاد الأوروبي"
+        },
+        {
+          "question": {
+            "sv": "33. Vem röstar till Europaparlamentet i Sverige?",
+            "ar": "33- من يصوت في البرلمان الأوروبي في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. EU-medborgare i landet där de är folkbokförda",
+              "textAr": "A. مواطنو الاتحاد الأوروبي المقيمون في بلدهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara svenska politiker",
+              "textAr": "B. فقط السياسيون السويديون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara regeringen",
+              "textAr": "C. فقط الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara ministrar",
+              "textAr": "D. فقط الوزراء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A",
+          "correctAnswerAr": "A"
+        },
+        {
+          "question": {
+            "sv": "34. Vad används valsedlar till?",
+            "ar": "34- ما الذي تُستخدم من أجله أوراق التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att rösta på ett parti",
+              "textAr": "A. التصويت لحزب",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att skriva lagar",
+              "textAr": "B. كتابة القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att betala skatt",
+              "textAr": "C. دفع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att registrera bostad",
+              "textAr": "D. تسجيل السكن",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att rösta på ett parti",
+          "correctAnswerAr": "A. التصويت لحزب"
+        },
+        {
+          "question": {
+            "sv": "35. Vad är syftet med valkampanjer?",
+            "ar": "35- ما الهدف من الحملات الانتخابية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att övertyga väljarna",
+              "textAr": "A. إقناع الناخبين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att samla skatter",
+              "textAr": "B. جمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att ändra lagen",
+              "textAr": "C. تغيير القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att utse domare",
+              "textAr": "D. تعيين القضاة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att övertyga väljarna",
+          "correctAnswerAr": "A. إقناع الناخبين"
+        },
+        {
+          "question": {
+            "sv": "36. Var finns ibland lokala partier?",
+            "ar": "36- أين توجد أحيانًا أحزاب محلية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara i riksdagen",
+              "textAr": "A. فقط في البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. I kommuner och regioner",
+              "textAr": "B. في البلديات والمناطق",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara i EU",
+              "textAr": "C. فقط في الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara i regeringen",
+              "textAr": "D. فقط في الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. I kommuner och regioner",
+          "correctAnswerAr": "B. في البلديات والمناطق"
+        },
+        {
+          "question": {
+            "sv": "37. Vad arbetar lokala partier med?",
+            "ar": "37- بماذا تعمل الأحزاب المحلية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Internationella frågor",
+              "textAr": "A. قضايا دولية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Frågor som gäller den egna kommunen eller regionen",
+              "textAr": "B. قضايا تخص البلدية أو المنطقة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara EU-frågor",
+              "textAr": "C. فقط قضايا الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kungahuset",
+              "textAr": "D. العائلة الملكية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Frågor som gäller den egna kommunen eller regionen",
+          "correctAnswerAr": "B. قضايا تخص البلدية أو المنطقة"
+        },
+        {
+          "question": {
+            "sv": "38. Vad är ett röstbås?",
+            "ar": "38- ما هو كشك التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En plats där man röstar i hemlighet",
+              "textAr": "A. مكان للتصويت بسرية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett mötesrum",
+              "textAr": "B. غرفة اجتماعات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett väntrum",
+              "textAr": "C. غرفة انتظار",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett klassrum",
+              "textAr": "D. فصل دراسي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En plats där man röstar i hemlighet",
+          "correctAnswerAr": "A. مكان للتصويت بسرية"
+        },
+        {
+          "question": {
+            "sv": "39. Vad är syftet med hemliga val?",
+            "ar": "39- ما الهدف من الانتخابات السرية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att skydda väljarnas val",
+              "textAr": "A. حماية اختيار الناخب",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att göra valet längre",
+              "textAr": "B. جعل الانتخابات أطول",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att minska antalet väljare",
+              "textAr": "C. تقليل عدد الناخبين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att hjälpa partierna",
+              "textAr": "D. مساعدة الأحزاب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att skydda väljarnas val",
+          "correctAnswerAr": "A. حماية اختيار الناخب"
+        },
+        {
+          "question": {
+            "sv": "40. Vilket påstående är rätt?",
+            "ar": "40- أي عبارة صحيحة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla val hålls vart femte år.",
+              "textAr": "A. جميع الانتخابات كل خمس سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara svenska medborgare får rösta i alla val.",
+              "textAr": "B. فقط المواطنين السويديين يمكنهم التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige har proportionella val och fria, hemliga val.",
+              "textAr": "C. لدى السويد انتخابات نسبية وحرة وسرية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kungen bestämmer vilka partier som kommer in i riksdagen.",
+              "textAr": "D. الملك يقرر الأحزاب في البرلمان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sverige har proportionella val och fria, hemliga val.",
+          "correctAnswerAr": "C. لدى السويد انتخابات نسبية وحرة وسرية"
+        }
+      ]
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel fem: 5 – Lag och rätt",
+        "arabic": "الفصل الخامس – القانون والعدالة"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1. Vad är syftet med lagar?",
+            "ar": "1- ما هو الهدف من القوانين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att göra livet svårare",
+              "textAr": "A. جعل الحياة أكثر صعوبة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att skydda människor och få samhället att fungera",
+              "textAr": "B. حماية الناس وجعل المجتمع يعمل بشكل جيد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att hjälpa politiska partier",
+              "textAr": "C. مساعدة الأحزاب السياسية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att höja skatterna",
+              "textAr": "D. رفع الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att skydda människor och få samhället att fungera",
+          "correctAnswerAr": "B. حماية الناس وجعل المجتمع يعمل بشكل جيد"
+        },
+        {
+          "question": {
+            "sv": "2. Vad betyder rättssäkerhet?",
+            "ar": "2- ماذا يعني الأمن القانوني؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att polisen bestämmer allt",
+              "textAr": "A. أن الشرطة تقرر كل شيء",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att alla behandlas lika inför lagen och har rätt till en rättvis rättegång",
+              "textAr": "B. أن الجميع يعاملون بالتساوي أمام القانون ولهم الحق في محاكمة عادلة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att bara svenska medborgare följer lagen",
+              "textAr": "C. أن المواطنين السويديين فقط يلتزمون بالقانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att regeringen dömer brottslingar",
+              "textAr": "D. أن الحكومة تحكم على المجرمين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att alla behandlas lika inför lagen och har rätt till en rättvis rättegång",
+          "correctAnswerAr": "B. أن الجميع يعاملون بالتساوي أمام القانون ولهم الحق في محاكمة عادلة"
+        },
+        {
+          "question": {
+            "sv": "3. Hur många grundlagar har Sverige?",
+            "ar": "3- كم عدد القوانين الأساسية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2",
+              "textAr": "A. 2",
+              "correct": false
+            },
+            {
+              "textSv": "B. 3",
+              "textAr": "B. 3",
+              "correct": false
+            },
+            {
+              "textSv": "C. 4",
+              "textAr": "C. 4",
+              "correct": true
+            },
+            {
+              "textSv": "D. 5",
+              "textAr": "D. 5",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 4",
+          "correctAnswerAr": "C. 4"
+        },
+        {
+          "question": {
+            "sv": "4. Vilken grundlag säger att all offentlig makt utgår från folket?",
+            "ar": "4- أي قانون أساسي ينص على أن جميع السلطات العامة تستمد سلطتها من الشعب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Successionsordningen",
+              "textAr": "A. Successionsordningen",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringsformen",
+              "textAr": "B. Regeringsformen",
+              "correct": true
+            },
+            {
+              "textSv": "C. Tryckfrihetsförordningen",
+              "textAr": "C. Tryckfrihetsförordningen",
+              "correct": false
+            },
+            {
+              "textSv": "D. Yttrandefrihetsgrundlagen",
+              "textAr": "D. Yttrandefrihetsgrundlagen",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regeringsformen",
+          "correctAnswerAr": "B. Regeringsformen"
+        },
+        {
+          "question": {
+            "sv": "5. Vem stiftar lagar enligt regeringsformen?",
+            "ar": "5- من يسن القوانين وفقًا لـ Regeringsformen؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. Regeringen",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kungen",
+              "textAr": "B. Kungen",
+              "correct": false
+            },
+            {
+              "textSv": "C. Riksdagen",
+              "textAr": "C. Riksdagen",
+              "correct": true
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. Domstolarna",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Riksdagen",
+          "correctAnswerAr": "C. Riksdagen"
+        },
+        {
+          "question": {
+            "sv": "6. Vem styr landet enligt regeringsformen?",
+            "ar": "6- من يحكم البلاد وفقًا لـ Regeringsformen؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. Riksdagen",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringen",
+              "textAr": "B. Regeringen",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. Polisen",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. Domstolarna",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regeringen",
+          "correctAnswerAr": "B. Regeringen"
+        },
+        {
+          "question": {
+            "sv": "7. Vad skyddar tryckfrihetsförordningen?",
+            "ar": "7- ماذا تحمي Tryckfrihetsförordningen؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätten att rösta",
+              "textAr": "A. حق التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Det fria ordet i tryckt form",
+              "textAr": "B. حرية التعبير في المطبوعات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Religionsfriheten",
+              "textAr": "C. حرية الدين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Allemansrätten",
+              "textAr": "D. Allemansrätten",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Det fria ordet i tryckt form",
+          "correctAnswerAr": "B. حرية التعبير في المطبوعات"
+        },
+        {
+          "question": {
+            "sv": "8. Vad ger yttrandefrihetsgrundlagen rätt till?",
+            "ar": "8- ما الحق الذي يمنحه Yttrandefrihetsgrundlagen؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att uttrycka sina åsikter fritt",
+              "textAr": "A. التعبير عن الآراء بحرية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att rösta två gånger",
+              "textAr": "B. التصويت مرتين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bryta mot lagen",
+              "textAr": "C. مخالفة القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att slippa betala skatt",
+              "textAr": "D. عدم دفع الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att uttrycka sina åsikter fritt",
+          "correctAnswerAr": "A. التعبير عن الآراء بحرية"
+        },
+        {
+          "question": {
+            "sv": "9. Vilket av följande är förbjudet?",
+            "ar": "9- أي مما يلي ممنوع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skriva en bok",
+              "textAr": "A. كتابة كتاب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Demonstrera",
+              "textAr": "B. التظاهر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Förtal",
+              "textAr": "C. التشهير",
+              "correct": true
+            },
+            {
+              "textSv": "D. Starta en förening",
+              "textAr": "D. تأسيس جمعية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Förtal",
+          "correctAnswerAr": "C. التشهير"
+        },
+        {
+          "question": {
+            "sv": "10. Vad är hets mot folkgrupp?",
+            "ar": "10- ما هو التحريض ضد مجموعة من الناس؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett skyddat yttrande",
+              "textAr": "A. تعبير محمي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett brott",
+              "textAr": "B. جريمة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett politiskt parti",
+              "textAr": "C. حزب سياسي",
+              "correct": false
+            },
+            {
+              "textSv": "D. En myndighet",
+              "textAr": "D. جهة حكومية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett brott",
+          "correctAnswerAr": "B. جريمة"
+        },
+
+        {
+          "question": {
+            "sv": "11- Vad bestämmer successionsordningen?",
+            "ar": "11- ماذا يحدد قانون تعاقب العرش؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hur val går till",
+              "textAr": "A. كيف تُجرى الانتخابات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vem som blir kung eller drottning",
+              "textAr": "B. من يصبح Kung eller drottning",
+              "correct": true
+            },
+            {
+              "textSv": "C. Hur domstolar arbetar",
+              "textAr": "C. كيف تعمل المحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Hur kommuner styrs",
+              "textAr": "D. كيف تُدار البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Vem som blir kung eller drottning",
+          "correctAnswerAr": "B. من يصبح Kung eller drottning"
+        },
+        {
+          "question": {
+            "sv": "12- Var är allemansrätten skyddad?",
+            "ar": "12- أين يتم حماية حق التجول الحر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. I regeringsformen",
+              "textAr": "A. في قانون Regeringsformen",
+              "correct": true
+            },
+            {
+              "textSv": "B. I kommunallagen",
+              "textAr": "B. في قانون البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "C. I skollagen",
+              "textAr": "C. في قانون التعليم",
+              "correct": false
+            },
+            {
+              "textSv": "D. I vallagen",
+              "textAr": "D. في قانون الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. I regeringsformen",
+          "correctAnswerAr": "A. في قانون Regeringsformen"
+        },
+        {
+          "question": {
+            "sv": "13- Vad får man göra enligt allemansrätten?",
+            "ar": "13- ماذا يُسمح لك أن تفعل وفقًا لحق التجول الحر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Gå i naturen",
+              "textAr": "A. التجول في الطبيعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Plocka bär och svamp",
+              "textAr": "B. قطف التوت والفطر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Tälta och paddla",
+              "textAr": "C. التخييم والتجديف",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+        {
+          "question": {
+            "sv": "14- Vad får man inte göra enligt allemansrätten?",
+            "ar": "14- ما الذي لا يُسمح لك بفعله وفقًا لحق التجول الحر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Plocka blåbär",
+              "textAr": "A. قطف التوت الأزرق",
+              "correct": false
+            },
+            {
+              "textSv": "B. Gå på bondens åker",
+              "textAr": "B. السير في حقل المزارع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Vandra i skogen",
+              "textAr": "C. المشي في الغابة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Cykla på en stig",
+              "textAr": "D. ركوب الدراجة على ممر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Gå på bondens åker",
+          "correctAnswerAr": "B. السير في حقل المزارع"
+        },
+        {
+          "question": {
+            "sv": "15- Vad får man inte göra i naturen?",
+            "ar": "15- ما الذي لا يجوز فعله في الطبيعة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kasta skräp",
+              "textAr": "A. رمي النفايات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Plocka bär",
+              "textAr": "B. قطف التوت",
+              "correct": false
+            },
+            {
+              "textSv": "C. Gå",
+              "textAr": "C. المشي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Paddla",
+              "textAr": "D. التجديف",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kasta skräp",
+          "correctAnswerAr": "A. رمي النفايات"
+        },
+        {
+          "question": {
+            "sv": "16- Vilken myndighet utreder brott?",
+            "ar": "16- أي جهة تحقق في الجرائم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. Skatteverket",
+              "correct": false
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. Polisen",
+              "correct": true
+            },
+            {
+              "textSv": "C. Försäkringskassan",
+              "textAr": "C. Försäkringskassan",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. Migrationsverket",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Polisen",
+          "correctAnswerAr": "B. Polisen"
+        },
+        {
+          "question": {
+            "sv": "17- Vem avgör om någon ska åtalas?",
+            "ar": "17- من يقرر ما إذا كان سيتم توجيه اتهام إلى شخص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. Polisen",
+              "correct": false
+            },
+            {
+              "textSv": "B. Åklagarmyndigheten",
+              "textAr": "B. Åklagarmyndigheten",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kommunen",
+              "textAr": "C. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regeringen",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Åklagarmyndigheten",
+          "correctAnswerAr": "B. Åklagarmyndigheten"
+        },
+        {
+          "question": {
+            "sv": "18- Vem dömer i brottmål?",
+            "ar": "18- من يصدر الأحكام في القضايا الجنائية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domstolarna",
+              "textAr": "A. Domstolarna",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. Polisen",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunen",
+              "textAr": "C. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regeringen",
+              "textAr": "D. الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Domstolarna",
+          "correctAnswerAr": "A. Domstolarna"
+        },
+        {
+          "question": {
+            "sv": "19- Vad ansvarar Brottsoffermyndigheten för?",
+            "ar": "19- عن ماذا تكون Brottsoffermyndigheten مسؤولة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Personer som utsatts för brott",
+              "textAr": "A. الأشخاص الذين تعرضوا لجرائم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Pass",
+              "textAr": "B. جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatter",
+              "textAr": "C. الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Val",
+              "textAr": "D. الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Personer som utsatts för brott",
+          "correctAnswerAr": "A. الأشخاص الذين تعرضوا لجرائم"
+        },
+        {
+          "question": {
+            "sv": "20- Vad ansvarar Kriminalvården för?",
+            "ar": "20- عن ماذا تكون Kriminalvården مسؤولة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skolor",
+              "textAr": "A. المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fängelser och verkställighet av straff",
+              "textAr": "B. السجون وتنفيذ العقوبات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Val",
+              "textAr": "C. الانتخابات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sjukhus",
+              "textAr": "D. المستشفيات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Fängelser och verkställighet av straff",
+          "correctAnswerAr": "B. السجون وتنفيذ العقوبات"
+        },
+
+        {
+          "question": {
+            "sv": "21- Vad innebär rättssäkerhet?",
+            "ar": "21- ماذا يعني الأمن القانوني؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla behandlas lika inför lagen",
+              "textAr": "A. يُعامل الجميع على قدم المساواة أمام القانون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara politiker följer lagen",
+              "textAr": "B. السياسيون فقط يتبعون القانون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Domare följer regeringen",
+              "textAr": "C. القضاة يتبعون الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen får försvara sig",
+              "textAr": "D. لا يحق لأحد الدفاع عن نفسه",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Alla behandlas lika inför lagen",
+          "correctAnswerAr": "A. يُعامل الجميع على قدم المساواة أمام القانون"
+        },
+        {
+          "question": {
+            "sv": "22- Är domstolarna oberoende?",
+            "ar": "22- هل المحاكم مستقلة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara ibland",
+              "textAr": "C. أحيانًا فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast i vissa mål",
+              "textAr": "D. فقط في بعض القضايا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ja",
+          "correctAnswerAr": "A. نعم"
+        },
+        {
+          "question": {
+            "sv": "23- Har den åtalade rätt till en advokat?",
+            "ar": "23- هل للمتهم الحق في محامٍ؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara vuxna",
+              "textAr": "C. البالغون فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara svenskar",
+              "textAr": "D. السويديون فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ja",
+          "correctAnswerAr": "A. نعم"
+        },
+        {
+          "question": {
+            "sv": "24- Vad betyder att överklaga en dom?",
+            "ar": "24- ماذا يعني استئناف الحكم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att be en högre domstol pröva fallet igen",
+              "textAr": "A. طلب إعادة النظر في القضية من محكمة أعلى",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att betala böter",
+              "textAr": "B. دفع غرامة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att erkänna brottet",
+              "textAr": "C. الاعتراف بالجريمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att lämna landet",
+              "textAr": "D. مغادرة البلاد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att be en högre domstol pröva fallet igen",
+          "correctAnswerAr": "A. طلب إعادة النظر في القضية من محكمة أعلى"
+        },
+        {
+          "question": {
+            "sv": "25- Vilken är den första domstolen?",
+            "ar": "25- ما هي أول محكمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hovrätten",
+              "textAr": "A. Hovrätten",
+              "correct": false
+            },
+            {
+              "textSv": "B. Högsta domstolen",
+              "textAr": "B. Högsta domstolen",
+              "correct": false
+            },
+            {
+              "textSv": "C. Tingsrätten",
+              "textAr": "C. Tingsrätten",
+              "correct": true
+            },
+            {
+              "textSv": "D. Europadomstolen",
+              "textAr": "D. Europadomstolen",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Tingsrätten",
+          "correctAnswerAr": "C. Tingsrätten"
+        },
+        {
+          "question": {
+            "sv": "26- Vilken domstol prövar överklaganden från tingsrätten?",
+            "ar": "26- أي محكمة تنظر في الطعون القادمة من Tingsrätten؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hovrätten",
+              "textAr": "A. Hovrätten",
+              "correct": true
+            },
+            {
+              "textSv": "B. Regeringen",
+              "textAr": "B. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Hovrätten",
+          "correctAnswerAr": "A. Hovrätten"
+        },
+        {
+          "question": {
+            "sv": "27- Vad betyder HD?",
+            "ar": "27- ماذا يعني HD؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Högsta domstolen",
+              "textAr": "A. Högsta domstolen",
+              "correct": true
+            },
+            {
+              "textSv": "B. Högsta departementet",
+              "textAr": "B. أعلى وزارة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Huvuddomstolen",
+              "textAr": "C. المحكمة الرئيسية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Huvuddepartementet",
+              "textAr": "D. الإدارة الرئيسية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Högsta domstolen",
+          "correctAnswerAr": "A. Högsta domstolen"
+        },
+        {
+          "question": {
+            "sv": "28- Hur ska en misstänkt person betraktas innan dom?",
+            "ar": "28- كيف يجب اعتبار الشخص المشتبه به قبل صدور الحكم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Som skyldig",
+              "textAr": "A. مذنب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Som oskyldig",
+              "textAr": "B. بريء",
+              "correct": true
+            },
+            {
+              "textSv": "C. Som vittne",
+              "textAr": "C. شاهد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Som polis",
+              "textAr": "D. شرطي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Som oskyldig",
+          "correctAnswerAr": "B. بريء"
+        },
+        {
+          "question": {
+            "sv": "29- Vad gör polisen?",
+            "ar": "29- ماذا تفعل الشرطة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Förebygger och utreder brott",
+              "textAr": "A. تمنع الجرائم وتحقق فيها",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skriver lagar",
+              "textAr": "B. تضع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Dömer brottslingar",
+              "textAr": "C. تصدر الأحكام على المجرمين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Beslutar om skatter",
+              "textAr": "D. تقرر الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Förebygger och utreder brott",
+          "correctAnswerAr": "A. تمنع الجرائم وتحقق فيها"
+        },
+        {
+          "question": {
+            "sv": "30- Vilka handlingar utfärdar polisen?",
+            "ar": "30- ما هي الوثائق التي تصدرها الشرطة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pass och nationella id-kort",
+              "textAr": "A. جوازات السفر وبطاقات الهوية الوطنية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Körkort",
+              "textAr": "B. رخص القيادة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Visum",
+              "textAr": "C. تأشيرات الدخول",
+              "correct": false
+            },
+            {
+              "textSv": "D. Uppehållstillstånd",
+              "textAr": "D. تصاريح الإقامة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pass och nationella id-kort",
+          "correctAnswerAr": "A. جوازات السفر وبطاقات الهوية الوطنية"
+        },
+
+        {
+          "question": {
+            "sv": "31- Vad är första steget i en brottsutredning?",
+            "ar": "31- ما هي الخطوة الأولى في التحقيق الجنائي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rättegång",
+              "textAr": "A. المحاكمة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Polisanmälan",
+              "textAr": "B. البلاغ إلى الشرطة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Dom",
+              "textAr": "C. الحكم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Häktning",
+              "textAr": "D. الحبس الاحتياطي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Polisanmälan",
+          "correctAnswerAr": "B. البلاغ إلى الشرطة"
+        },
+        {
+          "question": {
+            "sv": "32- Vad gör polisen under förundersökningen?",
+            "ar": "32- ماذا تفعل الشرطة أثناء التحقيق الأولي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samlar bevis och förhör vittnen",
+              "textAr": "A. تجمع الأدلة وتستجوب الشهود",
+              "correct": true
+            },
+            {
+              "textSv": "B. Dömer den misstänkte",
+              "textAr": "B. تصدر الحكم على المشتبه به",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skriver lagar",
+              "textAr": "C. تضع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bestämmer straff",
+              "textAr": "D. تحدد العقوبة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samlar bevis och förhör vittnen",
+          "correctAnswerAr": "A. تجمع الأدلة وتستجوب الشهود"
+        },
+        {
+          "question": {
+            "sv": "33- Hur länge kan en anhållen person hållas inlåst?",
+            "ar": "33- كم يمكن احتجاز الشخص المقبوض عليه؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 24 timmar",
+              "textAr": "A. 24 ساعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 48 timmar",
+              "textAr": "B. 48 ساعة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Upp till 72 timmar",
+              "textAr": "C. حتى 72 ساعة",
+              "correct": true
+            },
+            {
+              "textSv": "D. En vecka",
+              "textAr": "D. أسبوع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Upp till 72 timmar",
+          "correctAnswerAr": "C. حتى 72 ساعة"
+        },
+        {
+          "question": {
+            "sv": "34- Vem beslutar om häktning?",
+            "ar": "34- من يقرر الحبس الاحتياطي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Domstolen",
+              "textAr": "B. المحكمة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Regeringen",
+              "textAr": "C. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Domstolen",
+          "correctAnswerAr": "B. المحكمة"
+        },
+        {
+          "question": {
+            "sv": "35- Vem försöker bevisa att den åtalade är skyldig?",
+            "ar": "35- من يحاول إثبات أن المتهم مذنب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domaren",
+              "textAr": "A. القاضي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försvarsadvokaten",
+              "textAr": "B. محامي الدفاع",
+              "correct": false
+            },
+            {
+              "textSv": "C. Åklagaren",
+              "textAr": "C. Åklagaren",
+              "correct": true
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Åklagaren",
+          "correctAnswerAr": "C. Åklagaren"
+        },
+        {
+          "question": {
+            "sv": "36- Vad gör försvarsadvokaten?",
+            "ar": "36- ماذا يفعل محامي الدفاع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försvarar den åtalade",
+              "textAr": "A. يدافع عن المتهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Dömer den åtalade",
+              "textAr": "B. يصدر الحكم على المتهم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skriver lagar",
+              "textAr": "C. يضع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Leder polisen",
+              "textAr": "D. يقود الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Försvarar den åtalade",
+          "correctAnswerAr": "A. يدافع عن المتهم"
+        },
+        {
+          "question": {
+            "sv": "37- Vilka straff kan domstolen döma till?",
+            "ar": "37- ما هي العقوبات التي يمكن أن تحكم بها المحكمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Böter eller fängelse",
+              "textAr": "A. غرامة أو السجن",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara böter",
+              "textAr": "B. غرامة فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara fängelse",
+              "textAr": "C. السجن فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Utvisning i alla fall",
+              "textAr": "D. الترحيل في جميع الحالات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Böter eller fängelse",
+          "correctAnswerAr": "A. غرامة أو السجن"
+        },
+        {
+          "question": {
+            "sv": "38- Från vilken ålder är man straffmyndig i Sverige?",
+            "ar": "38- من أي عمر يصبح الشخص مسؤولًا جنائيًا في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 13 år",
+              "textAr": "A. 13 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 14 år",
+              "textAr": "B. 14 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 15 år",
+              "textAr": "C. 15 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. 18 år",
+              "textAr": "D. 18 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 15 år",
+          "correctAnswerAr": "C. 15 سنة"
+        },
+        {
+          "question": {
+            "sv": "39- Vad händer om ett barn under 15 år begår ett brott?",
+            "ar": "39- ماذا يحدث إذا ارتكب طفل دون 15 عامًا جريمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Socialtjänsten ansvarar för åtgärderna",
+              "textAr": "A. تتولى الخدمات الاجتماعية الإجراءات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Barnet skickas direkt till fängelse",
+              "textAr": "B. يُرسل الطفل مباشرة إلى السجن",
+              "correct": false
+            },
+            {
+              "textSv": "C. Riksdagen dömer barnet",
+              "textAr": "C. يحكم البرلمان على الطفل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen skriver en lag",
+              "textAr": "D. تضع البلدية قانونًا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Socialtjänsten ansvarar för åtgärderna",
+          "correctAnswerAr": "A. تتولى الخدمات الاجتماعية الإجراءات"
+        },
+        {
+          "question": {
+            "sv": "40- Vad kan ett belastningsregister göra svårare?",
+            "ar": "40- ماذا يمكن أن يجعل السجل الجنائي أكثر صعوبة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att få jobb, körkort eller medborgarskap",
+              "textAr": "A. الحصول على عمل أو رخصة قيادة أو الجنسية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att gå i skolan",
+              "textAr": "B. الذهاب إلى المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att rösta",
+              "textAr": "C. التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att få ett personnummer",
+              "textAr": "D. الحصول على رقم شخصي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att få jobb, körkort eller medborgarskap",
+          "correctAnswerAr": "A. الحصول على عمل أو رخصة قيادة أو الجنسية"
+        }
+      ]
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel två: Sveriges demokratiska system",
+        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 5,
+      "lessonTitle": {
+        "swedish": "Kapitel två: Sveriges demokratiska system",
+        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": []
+    }
+  ]
+}
