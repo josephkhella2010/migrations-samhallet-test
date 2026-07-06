@@ -388,6 +388,9 @@ const useStyle = createUseStyles({
     color: "#1f2937",
     borderBottom: "2px solid #e5e7eb",
     paddingBottom: 15,
+    "@media (max-width: 500px)": {
+      fontSize: 20,
+    },
   },
   questionsWrapperSection: {
     display: "flex",
@@ -415,6 +418,9 @@ const useStyle = createUseStyles({
     margin: "0 0 20px",
     fontSize: 22,
     color: "#111827",
+    "@media (max-width: 500px)": {
+      fontSize: 18,
+    },
   },
 
   answer: {
@@ -434,6 +440,12 @@ const useStyle = createUseStyles({
     "& input": {
       cursor: "pointer",
       transform: "scale(1.2)",
+    },
+
+    "& p": {
+      "@media (max-width: 500px)": {
+        fontSize: 15,
+      },
     },
   },
   BtnContainer: {
