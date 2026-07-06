@@ -26,6 +26,9 @@ const useStyles = createUseStyles({
     color: "#1f2937",
     marginBottom: "40px",
     textAlign: "center" as const,
+    "@media (max-width: 500px)": {
+      fontSize: 22,
+    },
   },
 
   section: {
@@ -38,6 +41,9 @@ const useStyles = createUseStyles({
     color: "#0f172a",
     marginBottom: "18px",
     wordBreak: "break-word",
+    "@media (max-width: 500px)": {
+      fontSize: 20,
+    },
   },
 
   subtitle: {
