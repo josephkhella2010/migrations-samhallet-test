@@ -461,7 +461,7 @@ const useStyle = createUseStyles({
     gap: "30px",
     "& button": {
       padding: "4px 10px",
-      width: "60px",
+      mixWidth: "60px",
       height: "30px",
       cursor: "pointer",
       borderRadius: "8px",
@@ -695,7 +695,7 @@ export default function QuestionDetails() {
                   visibility: currentQuestionIndex === 0 ? "hidden" : "visible",
                 }}
               >
-                prev
+                Föregående
               </button>
 
               {currentQuestionIndex < questions.length - 1 && (
@@ -708,7 +708,7 @@ export default function QuestionDetails() {
                       : "hidden",
                   }}
                 >
-                  next
+                  Nästa
                 </button>
               )}
 

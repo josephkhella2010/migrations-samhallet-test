@@ -137,3 +137,9 @@ export interface LanguageDropDownType {
   url: string;
 }
 export type LanguageType = "sv" | "ar";
+
+export interface QuestionArrType {
+  sv: string;
+  ar: string;
+  number: number;
+}

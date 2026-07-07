@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 const useStyles = createUseStyles({
   desktopNavContainer: {
     width: "100%",
-    background: "#1f2937",
+    background: "#3d1466",
     color: "#fff",
     height: 60,
   },

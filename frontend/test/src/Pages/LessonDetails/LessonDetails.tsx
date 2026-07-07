@@ -6,7 +6,7 @@ import type { SectionInsideType } from "../../utilities/Interfaces";
 import { createUseStyles } from "react-jss";
 
 const useStyles = createUseStyles({
-  Maincontainer: {
+  mainContainer: {
     padding: "70px 30px",
   },
   container: {
@@ -104,7 +104,7 @@ export default function LessonDetails() {
   }, [dispatch, id]);
 
   return (
-    <div className={classes.Maincontainer}>
+    <div className={classes.mainContainer}>
       <div className={classes.container}>
         <h1 className={classes.lessonTitle}>
           {language === "sv"

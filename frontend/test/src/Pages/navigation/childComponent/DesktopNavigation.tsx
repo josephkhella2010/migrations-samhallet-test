@@ -5,11 +5,12 @@ import LanguageDropDown from "./LanguageDropDown";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
+import { questionArr } from "../../../utilities/Array";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
     width: "100%",
-    background: "#1f2937",
+    background: "#3d1466",
     color: "#fff",
     height: 60,
   },
@@ -156,6 +157,7 @@ export default function DesktopNavigation({
   const { t } = useTranslation();
   const dispatch = useDispatch();
   const navigate = useNavigate();
+  const lang = localStorage.getItem("lang");
 
   /* functions */
   /*  const handleNavigate = (id: number | string) => {
@@ -209,6 +211,25 @@ export default function DesktopNavigation({
                     {t(NavigationPageTranslation.SubLinkTest)} {it}
                   </li>
                 ))}
+              </ul>
+            </div>
+            <div className={classes.desktopNavSubMenu}>
+              <li>overiga fragor</li>
+
+              <ul className={classes.desktopNavSubList}>
+                {questionArr.map((it) => {
+                  return (
+                    <li
+                      key={it.number}
+                      onClick={() => {
+                        handleNavigateQuestion(it.number);
+                        dispatch(clearAnswers());
+                      }}
+                    >
+                      {lang === "sv" ? it.sv : it.ar}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           </div>

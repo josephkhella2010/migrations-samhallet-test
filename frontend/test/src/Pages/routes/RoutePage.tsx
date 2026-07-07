@@ -5,13 +5,22 @@ import NavigationContainer from "../navigation/NavigationContainer";
 import LessonDetails from "../LessonDetails/LessonDetails";
 import QuestionDetails from "../QuestionDetails/QuestionDetails";
 import ScorePage from "../scorePage/ScorePage";
+import type { RootState } from "../../Store/store";
+import { useSelector } from "react-redux";
+import LoadingPage from "../LoadingPage/LoadingPage";
 
 export default function RoutesPage() {
+  const { isLoading } = useSelector(
+    (state: RootState) => state.LoadAndErrorSlice,
+  );
   return (
     <div>
       <Router>
         <ToastContainer />
         <NavigationContainer />
+
+        {isLoading && <LoadingPage />}
+
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/lesson-detail/:id" element={<LessonDetails />} />
