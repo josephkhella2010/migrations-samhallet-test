@@ -3,7 +3,7 @@
     {
       "lessonId": 1,
       "lessonTitle": {
-        "sv": "Kapitel två: Sveriges demokratiska system",
+        "sv": "Kapitel Ett: 1- Sveriges demokratiska system",
         "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
       },
       "questions": [
@@ -1095,7 +1095,7 @@
     {
       "lessonId": 2,
       "lessonTitle": {
-        "sv": "Kapitel två: Sveriges demokratiska system",
+        "sv": "Kapitel Två: 2-  Sveriges demokratiska system",
         "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
       },
       "questions": [
@@ -2246,7 +2246,7 @@
     {
       "lessonId": 3,
       "lessonTitle": {
-        "sv": "Kapitel 3 – Hur Sverige styrs",
+        "sv": "Kapitel Tre: 3 – Hur Sverige styrs",
         "ar": "الفصل الثالث – كيف تُحكم السويد"
       },
       "questions": [
@@ -4751,8 +4751,8 @@
     {
       "lessonId": 5,
       "lessonTitle": {
-        "swedish": "Kapitel fem: 5 – Lag och rätt",
-        "arabic": "الفصل الخامس – القانون والعدالة"
+        "sv": "Kapitel fem: 5 – Lag och rätt",
+        "ar": "الفصل الخامس – القانون والعدالة"
       },
       "questions": [
         {
