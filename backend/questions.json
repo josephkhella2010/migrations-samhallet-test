@@ -6906,8 +6906,8 @@
     {
       "lessonId": 13,
       "lessonTitle": {
-        "sv": "Kapitel sex: 6- Medier i Sverige",
-        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+        "sv": "Övriga frågor 1",
+        "ar": "أسئلة إضافية 1"
       },
       "questions": [
         {
@@ -8293,6 +8293,126 @@
           ],
           "correctAnswerSv": "B. Svenska",
           "correctAnswerAr": "B. السويدية"
+        },
+        {
+          "question": {
+            "sv": "47. Vad innebär rösträtt?",
+            "ar": "47. ماذا يعني حق التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla får bli statsminister",
+              "textAr": "A. أن يصبح الجميع رئيساً للوزراء",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att medborgare får rösta i val",
+              "textAr": "B. أن يحق للمواطنين التصويت في الانتخابات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att bara politiker får rösta",
+              "textAr": "C. أن السياسيين فقط يحق لهم التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att alla måste rösta",
+              "textAr": "D. أن الجميع ملزمون بالتصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att medborgare får rösta i val",
+          "correctAnswerAr": "B. أن يحق للمواطنين التصويت في الانتخابات"
+        },
+        {
+          "question": {
+            "sv": "48. Vilken myndighet ansvarar för pensioner?",
+            "ar": "48. أي جهة حكومية مسؤولة عن المعاشات التقاعدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsförmedlingen",
+              "textAr": "A. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Pensionsmyndigheten",
+              "textAr": "C. هيئة المعاشات التقاعدية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. مصلحة الهجرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Pensionsmyndigheten",
+          "correctAnswerAr": "C. هيئة المعاشات التقاعدية"
+        },
+        {
+          "question": {
+            "sv": "49. Vad är syftet med utbildning i Sverige?",
+            "ar": "49. ما الهدف من التعليم في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att bara få ett jobb",
+              "textAr": "A. الحصول على وظيفة فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att ge kunskap och lika möjligheter för alla",
+              "textAr": "B. توفير المعرفة وفرص متساوية للجميع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att lära sig ett yrke direkt",
+              "textAr": "C. تعلم مهنة مباشرة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att betala mindre skatt",
+              "textAr": "D. دفع ضرائب أقل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att ge kunskap och lika möjligheter för alla",
+          "correctAnswerAr": "B. توفير المعرفة وفرص متساوية للجميع"
+        },
+        {
+          "question": {
+            "sv": "50. Vilken skolform är obligatorisk i Sverige?",
+            "ar": "50. أي مرحلة دراسية إلزامية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Gymnasiet",
+              "textAr": "A. المرحلة الثانوية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Universitetet",
+              "textAr": "B. الجامعة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Grundskolan",
+              "textAr": "C. المدرسة الأساسية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Förskolan",
+              "textAr": "D. مرحلة ما قبل المدرسة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Grundskolan",
+          "correctAnswerAr": "C. المدرسة الأساسية"
         },
 
         {
