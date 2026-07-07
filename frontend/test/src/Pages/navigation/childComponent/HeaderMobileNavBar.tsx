@@ -14,6 +14,7 @@ const useStyles = createUseStyles({
     position: "fixed",
     top: "0px",
     left: "0px",
+    zIndex: 9999,
   },
 
   desktopNavMainMenu: {
