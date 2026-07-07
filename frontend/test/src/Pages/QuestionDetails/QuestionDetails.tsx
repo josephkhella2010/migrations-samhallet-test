@@ -388,8 +388,9 @@ const useStyle = createUseStyles({
     color: "#1f2937",
     borderBottom: "2px solid #e5e7eb",
     paddingBottom: 15,
-    "@media (max-width: 500px)": {
-      fontSize: 20,
+    textTransform: "capitalize",
+    "@media (max-width: 780px)": {
+      fontSize: 18,
     },
   },
   questionsWrapperSection: {
