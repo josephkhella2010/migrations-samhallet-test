@@ -5960,19 +5960,12 @@
         }
       ]
     },
+
     {
       "lessonId": 6,
       "lessonTitle": {
         "swedish": "Kapitel sex: 6- Medier i Sverige",
         "arabic": "الفصل السادس :6- وسائل الإعلام في السويد"
-      },
-      "questions": []
-    },
-    {
-      "lessonId": 5,
-      "lessonTitle": {
-        "swedish": "Kapitel två: Sveriges demokratiska system",
-        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
       },
       "questions": [
         {
@@ -6879,7 +6872,7 @@
       ]
     },
     {
-      "lessonId": 5,
+      "lessonId": 7,
       "lessonTitle": {
         "swedish": "Kapitel två: Sveriges demokratiska system",
         "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
@@ -6887,7 +6880,7 @@
       "questions": []
     },
     {
-      "lessonId": 5,
+      "lessonId": 8,
       "lessonTitle": {
         "swedish": "Kapitel två: Sveriges demokratiska system",
         "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
@@ -6895,10 +6888,18 @@
       "questions": []
     },
     {
-      "lessonId": 5,
+      "lessonId": 9,
       "lessonTitle": {
         "swedish": "Kapitel två: Sveriges demokratiska system",
         "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "swedish": "Kapitel sex: 6- Medier i Sverige",
+        "arabic": "الفصل السادس :6- وسائل الإعلام في السويد"
       },
       "questions": []
     }
