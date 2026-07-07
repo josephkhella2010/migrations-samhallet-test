@@ -5960,19 +5960,946 @@
         }
       ]
     },
+
     {
-      "lessonId": 5,
+      "lessonId": 6,
       "lessonTitle": {
-        "swedish": "Kapitel två: Sveriges demokratiska system",
-        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad är medier?",
+            "ar": "1- ما هي وسائل الإعلام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Myndigheter som fattar beslut",
+              "textAr": "A. جهات حكومية تتخذ القرارات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kanaler som sprider information, nyheter och underhållning",
+              "textAr": "B. قنوات تنشر المعلومات والأخبار والترفيه",
+              "correct": true
+            },
+            {
+              "textSv": "C. Företag som säljer produkter",
+              "textAr": "C. شركات تبيع المنتجات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Organisationer som samlar in skatt",
+              "textAr": "D. منظمات تجمع الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kanaler som sprider information, nyheter och underhållning",
+          "correctAnswerAr": "B. قنوات تنشر المعلومات والأخبار والترفيه"
+        },
+        {
+          "question": {
+            "sv": "2- Vilket av följande är ett exempel på ett medium?",
+            "ar": "2- أي مما يلي مثال على وسيلة إعلام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domstol",
+              "textAr": "A. محكمة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sjukhus",
+              "textAr": "B. مستشفى",
+              "correct": false
+            },
+            {
+              "textSv": "C. Radio",
+              "textAr": "C. الراديو",
+              "correct": true
+            },
+            {
+              "textSv": "D. Polis",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Radio",
+          "correctAnswerAr": "C. الراديو"
+        },
+        {
+          "question": {
+            "sv": "3- Vad innebär fria medier?",
+            "ar": "3- ماذا يعني الإعلام الحر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten bestämmer vad som får publiceras",
+              "textAr": "A. الدولة تقرر ما يمكن نشره",
+              "correct": false
+            },
+            {
+              "textSv": "B. Medier får publicera utan statlig kontroll av innehållet",
+              "textAr": "B. يمكن لوسائل الإعلام النشر دون رقابة حكومية على المحتوى",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara journalister får uttrycka sina åsikter",
+              "textAr": "C. الصحفيون فقط يمكنهم التعبير عن آرائهم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast statliga medier är tillåtna",
+              "textAr": "D. يُسمح فقط بوسائل الإعلام الحكومية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Medier får publicera utan statlig kontroll av innehållet",
+          "correctAnswerAr": "B. يمكن لوسائل الإعلام النشر دون رقابة حكومية على المحتوى"
+        },
+        {
+          "question": {
+            "sv": "4- Vilken grundlag skyddar tryckfriheten?",
+            "ar": "4- أي قانون أساسي يحمي حرية الصحافة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringsformen",
+              "textAr": "A. قانون الحكم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Tryckfrihetsförordningen",
+              "textAr": "B. قانون حرية الصحافة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kommunallagen",
+              "textAr": "C. قانون البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skollagen",
+              "textAr": "D. قانون التعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Tryckfrihetsförordningen",
+          "correctAnswerAr": "B. قانون حرية الصحافة"
+        },
+        {
+          "question": {
+            "sv": "5- Varför är fria medier viktiga för demokratin?",
+            "ar": "5- لماذا تعتبر وسائل الإعلام الحرة مهمة للديمقراطية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. De hjälper människor att få information",
+              "textAr": "A. تساعد الناس على الحصول على المعلومات",
+              "correct": true
+            },
+            {
+              "textSv": "B. De ersätter riksdagen",
+              "textAr": "B. تحل محل البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. De bestämmer lagar",
+              "textAr": "C. تضع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. De styr myndigheter",
+              "textAr": "D. تدير الجهات الحكومية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. De hjälper människor att få information",
+          "correctAnswerAr": "A. تساعد الناس على الحصول على المعلومات"
+        },
+        {
+          "question": {
+            "sv": "6- Vilken av följande är en uppgift för medierna?",
+            "ar": "6- أي مما يلي يُعد مهمة لوسائل الإعلام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Dela ut bidrag",
+              "textAr": "A. توزيع الإعانات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Rapportera nyheter",
+              "textAr": "B. نقل الأخبار",
+              "correct": true
+            },
+            {
+              "textSv": "C. Döma brottslingar",
+              "textAr": "C. الحكم على المجرمين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skriva lagar",
+              "textAr": "D. سن القوانين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Rapportera nyheter",
+          "correctAnswerAr": "B. نقل الأخبار"
+        },
+        {
+          "question": {
+            "sv": "7- Vad betyder att medier granskar makthavare?",
+            "ar": "7- ماذا يعني أن وسائل الإعلام تراقب أصحاب السلطة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. De kontrollerar hur personer med makt använder sitt ansvar",
+              "textAr": "A. تراقب كيفية استخدام أصحاب السلطة لمسؤولياتهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. De väljer politiker",
+              "textAr": "B. تختار السياسيين",
+              "correct": false
+            },
+            {
+              "textSv": "C. De bestämmer skatter",
+              "textAr": "C. تحدد الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. De driver myndigheter",
+              "textAr": "D. تدير الجهات الحكومية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. De kontrollerar hur personer med makt använder sitt ansvar",
+          "correctAnswerAr": "A. تراقب كيفية استخدام أصحاب السلطة لمسؤولياتهم"
+        },
+        {
+          "question": {
+            "sv": "8- Vem granskar ofta politiker och myndigheter?",
+            "ar": "8- من الذي يراقب السياسيين والسلطات غالبًا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Lärare",
+              "textAr": "A. المعلمون",
+              "correct": false
+            },
+            {
+              "textSv": "B. Journalister",
+              "textAr": "B. الصحفيون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Domare",
+              "textAr": "C. القضاة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Advokater",
+              "textAr": "D. المحامون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Journalister",
+          "correctAnswerAr": "B. الصحفيون"
+        },
+        {
+          "question": {
+            "sv": "9- Vad är offentlighetsprincipen?",
+            "ar": "9- ما هو مبدأ العلنية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla dokument är hemliga",
+              "textAr": "A. جميع الوثائق سرية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Rätten att ta del av allmänna handlingar",
+              "textAr": "B. الحق في الاطلاع على الوثائق العامة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Rätten att rösta",
+              "textAr": "C. الحق في التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätten att starta företag",
+              "textAr": "D. الحق في تأسيس شركة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Rätten att ta del av allmänna handlingar",
+          "correctAnswerAr": "B. الحق في الاطلاع على الوثائق العامة"
+        },
+        {
+          "question": {
+            "sv": "10- Vad kan journalister begära ut från myndigheter?",
+            "ar": "10- ماذا يمكن للصحفيين أن يطلبوا من الجهات الحكومية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hemliga militärplaner",
+              "textAr": "A. خطط عسكرية سرية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Allmänna handlingar som inte omfattas av sekretess",
+              "textAr": "B. الوثائق العامة غير الخاضعة للسرية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Privata dagböcker",
+              "textAr": "C. مذكرات شخصية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bankkonton",
+              "textAr": "D. الحسابات البنكية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Allmänna handlingar som inte omfattas av sekretess",
+          "correctAnswerAr": "B. الوثائق العامة غير الخاضعة للسرية"
+        },
+
+        {
+          "question": {
+            "sv": "11- Vad leder offentlighetsprincipen till?",
+            "ar": "11- ماذا يؤدي إليه مبدأ العلنية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Mindre insyn",
+              "textAr": "A. تقليل الشفافية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ökad öppenhet i samhället",
+              "textAr": "B. زيادة الانفتاح والشفافية في المجتمع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Färre journalister",
+              "textAr": "C. عدد أقل من الصحفيين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Färre myndigheter",
+              "textAr": "D. عدد أقل من السلطات الحكومية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ökad öppenhet i samhället",
+          "correctAnswerAr": "B. زيادة الانفتاح والشفافية في المجتمع"
+        },
+        {
+          "question": {
+            "sv": "12- Varför ger staten stöd till vissa medier?",
+            "ar": "12- لماذا تقدم الدولة دعمًا لبعض وسائل الإعلام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att bestämma innehållet",
+              "textAr": "A. لتحديد محتوى الإعلام",
+              "correct": false
+            },
+            {
+              "textSv": "B. För att främja mångfald av nyhetskällor",
+              "textAr": "B. لتعزيز تنوع مصادر الأخبار",
+              "correct": true
+            },
+            {
+              "textSv": "C. För att minska antalet tidningar",
+              "textAr": "C. لتقليل عدد الصحف",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att skapa reklam",
+              "textAr": "D. لإنشاء إعلانات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. För att främja mångfald av nyhetskällor",
+          "correctAnswerAr": "B. لتعزيز تنوع مصادر الأخبار"
+        },
+        {
+          "question": {
+            "sv": "13- Vad är meddelarskydd?",
+            "ar": "13- ما هي حماية المبلّغين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skydd för personer som lämnar uppgifter till medier",
+              "textAr": "A. حماية الأشخاص الذين يقدمون معلومات لوسائل الإعلام",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skydd för mobiltelefoner",
+              "textAr": "B. حماية الهواتف المحمولة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skydd för reklam",
+              "textAr": "C. حماية الإعلانات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skydd för internet",
+              "textAr": "D. حماية الإنترنت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skydd för personer som lämnar uppgifter till medier",
+          "correctAnswerAr": "A. حماية الأشخاص الذين يقدمون معلومات لوسائل الإعلام"
+        },
+        {
+          "question": {
+            "sv": "14- Vad innebär anonymitetsskydd?",
+            "ar": "14- ماذا تعني حماية الهوية المجهولة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att man måste uppge sitt namn",
+              "textAr": "A. يجب ذكر الاسم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att man kan vara anonym när man lämnar uppgifter till medier",
+              "textAr": "B. يمكن للشخص أن يبقى مجهول الهوية عند تقديم معلومات للإعلام",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att journalister arbetar anonymt",
+              "textAr": "C. أن الصحفيين يعملون بشكل مجهول",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att myndigheter är anonyma",
+              "textAr": "D. أن السلطات الحكومية مجهولة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att man kan vara anonym när man lämnar uppgifter till medier",
+          "correctAnswerAr": "B. يمكن للشخص أن يبقى مجهول الهوية عند تقديم معلومات للإعلام"
+        },
+        {
+          "question": {
+            "sv": "15- Vem är juridiskt ansvarig för innehållet i en tidning?",
+            "ar": "15- من المسؤول قانونيًا عن محتوى الصحيفة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Reportern",
+              "textAr": "A. الصحفي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Läsaren",
+              "textAr": "B. القارئ",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ansvarig utgivare",
+              "textAr": "C. رئيس التحرير المسؤول",
+              "correct": true
+            },
+            {
+              "textSv": "D. Statsministern",
+              "textAr": "D. رئيس الوزراء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Ansvarig utgivare",
+          "correctAnswerAr": "C. رئيس التحرير المسؤول"
+        },
+        {
+          "question": {
+            "sv": "16- Vad ska en ansvarig utgivare se till?",
+            "ar": "16- ماذا يجب أن يتأكد منه المسؤول عن النشر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att innehållet följer lagen",
+              "textAr": "A. أن المحتوى يتبع القانون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att sälja fler tidningar",
+              "textAr": "B. بيع المزيد من الصحف",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att skriva artiklar",
+              "textAr": "C. كتابة المقالات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att skapa reklam",
+              "textAr": "D. إنشاء الإعلانات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att innehållet följer lagen",
+          "correctAnswerAr": "A. أن المحتوى يتبع القانون"
+        },
+        {
+          "question": {
+            "sv": "17- Vad är förtal?",
+            "ar": "17- ما هو التشهير؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att sprida osanna uppgifter som skadar någon",
+              "textAr": "A. نشر معلومات غير صحيحة تضر بشخص ما",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att skriva nyheter",
+              "textAr": "B. كتابة الأخبار",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att rösta",
+              "textAr": "C. التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att annonsera",
+              "textAr": "D. الإعلان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att sprida osanna uppgifter som skadar någon",
+          "correctAnswerAr": "A. نشر معلومات غير صحيحة تضر بشخص ما"
+        },
+        {
+          "question": {
+            "sv": "18- Varför använder journalister flera källor?",
+            "ar": "18- لماذا يستخدم الصحفيون عدة مصادر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att fylla ut artikeln",
+              "textAr": "A. لزيادة طول المقال",
+              "correct": false
+            },
+            {
+              "textSv": "B. För att kontrollera att informationen är korrekt",
+              "textAr": "B. للتأكد من أن المعلومات صحيحة",
+              "correct": true
+            },
+            {
+              "textSv": "C. För att tjäna pengar",
+              "textAr": "C. لكسب المال",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att skapa reklam",
+              "textAr": "D. لإنشاء إعلانات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. För att kontrollera att informationen är korrekt",
+          "correctAnswerAr": "B. للتأكد من أن المعلومات صحيحة"
+        },
+        {
+          "question": {
+            "sv": "19- Vad betyder oberoende källor?",
+            "ar": "19- ماذا تعني المصادر المستقلة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Källor som inte påverkar varandra",
+              "textAr": "A. مصادر لا تؤثر على بعضها البعض",
+              "correct": true
+            },
+            {
+              "textSv": "B. Källor från samma person",
+              "textAr": "B. مصادر من نفس الشخص",
+              "correct": false
+            },
+            {
+              "textSv": "C. Källor från sociala medier",
+              "textAr": "C. مصادر من وسائل التواصل الاجتماعي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Källor från staten",
+              "textAr": "D. مصادر من الدولة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Källor som inte påverkar varandra",
+          "correctAnswerAr": "A. مصادر لا تؤثر على بعضها البعض"
+        },
+        {
+          "question": {
+            "sv": "20- Vilken typ av medium är Instagram?",
+            "ar": "20- أي نوع من وسائل الإعلام هو إنستغرام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Dagstidning",
+              "textAr": "A. صحيفة يومية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Radio",
+              "textAr": "B. راديو",
+              "correct": false
+            },
+            {
+              "textSv": "C. Socialt medium",
+              "textAr": "C. وسيلة تواصل اجتماعي",
+              "correct": true
+            },
+            {
+              "textSv": "D. Tidskrift",
+              "textAr": "D. مجلة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Socialt medium",
+          "correctAnswerAr": "C. وسيلة تواصل اجتماعي"
+        },
+        {
+          "question": {
+            "sv": "21- Hur finansieras privata medier oftast?",
+            "ar": "21- كيف يتم تمويل وسائل الإعلام الخاصة غالبًا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom skatt",
+              "textAr": "A. عن طريق الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Genom reklam och prenumerationer",
+              "textAr": "B. عن طريق الإعلانات والاشتراكات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Genom böter",
+              "textAr": "C. عن طريق الغرامات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Genom kommunbidrag",
+              "textAr": "D. عن طريق دعم البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Genom reklam och prenumerationer",
+          "correctAnswerAr": "B. عن طريق الإعلانات والاشتراكات"
+        },
+        {
+          "question": {
+            "sv": "22- Vad är en prenumeration?",
+            "ar": "22- ما هو الاشتراك؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett lån",
+              "textAr": "A. قرض",
+              "correct": false
+            },
+            {
+              "textSv": "B. En regelbunden betalning för att få tillgång till innehåll",
+              "textAr": "B. دفع منتظم للحصول على محتوى",
+              "correct": true
+            },
+            {
+              "textSv": "C. En skatt",
+              "textAr": "C. ضريبة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett bidrag",
+              "textAr": "D. إعانة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En regelbunden betalning för att få tillgång till innehåll",
+          "correctAnswerAr": "B. دفع منتظم للحصول على محتوى"
+        },
+        {
+          "question": {
+            "sv": "23- Vad är en fördel med digitala tidningar?",
+            "ar": "23- ما هي ميزة الصحف الرقمية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. De uppdateras snabbt",
+              "textAr": "A. يتم تحديثها بسرعة",
+              "correct": true
+            },
+            {
+              "textSv": "B. De kan inte ändras",
+              "textAr": "B. لا يمكن تغييرها",
+              "correct": false
+            },
+            {
+              "textSv": "C. De kräver ingen internetuppkoppling",
+              "textAr": "C. لا تحتاج إلى اتصال بالإنترنت",
+              "correct": false
+            },
+            {
+              "textSv": "D. De publiceras bara en gång per vecka",
+              "textAr": "D. تُنشر مرة واحدة في الأسبوع فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. De uppdateras snabbt",
+          "correctAnswerAr": "A. يتم تحديثها بسرعة"
+        },
+        {
+          "question": {
+            "sv": "24- Vad betyder Public Service?",
+            "ar": "24- ماذا يعني الإعلام العام (Public Service)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Medier med särskilt samhällsuppdrag",
+              "textAr": "A. وسائل إعلام لديها مهمة خاصة لخدمة المجتمع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Privata företag",
+              "textAr": "B. شركات خاصة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Reklambyråer",
+              "textAr": "C. وكالات إعلانات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sociala medier",
+              "textAr": "D. وسائل التواصل الاجتماعي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Medier med särskilt samhällsuppdrag",
+          "correctAnswerAr": "A. وسائل إعلام لديها مهمة خاصة لخدمة المجتمع"
+        },
+        {
+          "question": {
+            "sv": "25- Vilket företag tillhör Public Service?",
+            "ar": "25- أي شركة تنتمي إلى الإعلام العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. TV4",
+              "textAr": "A. TV4",
+              "correct": false
+            },
+            {
+              "textSv": "B. Aftonbladet",
+              "textAr": "B. أفتونبلادت",
+              "correct": false
+            },
+            {
+              "textSv": "C. SVT",
+              "textAr": "C. التلفزيون السويدي SVT",
+              "correct": true
+            },
+            {
+              "textSv": "D. Expressen",
+              "textAr": "D. إكسبرسن",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. SVT",
+          "correctAnswerAr": "C. التلفزيون السويدي SVT"
+        },
+        {
+          "question": {
+            "sv": "26- Hur finansieras Public Service?",
+            "ar": "26- كيف يتم تمويل الإعلام العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Reklam",
+              "textAr": "A. الإعلانات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Prenumerationer",
+              "textAr": "B. الاشتراكات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatt",
+              "textAr": "C. الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "D. Donationer",
+              "textAr": "D. التبرعات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Skatt",
+          "correctAnswerAr": "C. الضرائب"
+        },
+        {
+          "question": {
+            "sv": "27- Får Public Service ha reklam?",
+            "ar": "27- هل يسمح للإعلام العام بعرض الإعلانات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja, obegränsat",
+              "textAr": "A. نعم، بدون حدود",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara på helger",
+              "textAr": "B. فقط في عطلة نهاية الأسبوع",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nej",
+              "textAr": "C. لا",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara under sportprogram",
+              "textAr": "D. فقط أثناء البرامج الرياضية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nej",
+          "correctAnswerAr": "C. لا"
+        },
+        {
+          "question": {
+            "sv": "28- Vad är syftet med Public Service?",
+            "ar": "28- ما هدف الإعلام العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att ge saklig information till alla",
+              "textAr": "A. تقديم معلومات موضوعية للجميع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att sälja produkter",
+              "textAr": "B. بيع المنتجات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att skapa reklam",
+              "textAr": "C. إنشاء الإعلانات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att gynna politiska partier",
+              "textAr": "D. دعم الأحزاب السياسية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att ge saklig information till alla",
+          "correctAnswerAr": "A. تقديم معلومات موضوعية للجميع"
+        },
+        {
+          "question": {
+            "sv": "29- Vad kännetecknar sociala medier?",
+            "ar": "29- ما الذي يميز وسائل التواصل الاجتماعي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast journalister får publicera",
+              "textAr": "A. الصحفيون فقط يمكنهم النشر",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla kan skapa innehåll",
+              "textAr": "B. يمكن للجميع إنشاء محتوى",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara myndigheter får använda dem",
+              "textAr": "C. فقط السلطات يمكنها استخدامها",
+              "correct": false
+            },
+            {
+              "textSv": "D. Inga bilder får publiceras",
+              "textAr": "D. لا يمكن نشر الصور",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Alla kan skapa innehåll",
+          "correctAnswerAr": "B. يمكن للجميع إنشاء محتوى"
+        },
+        {
+          "question": {
+            "sv": "30- Vad betyder källkritik?",
+            "ar": "30- ماذا يعني نقد المصادر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att kontrollera om information är sann och trovärdig",
+              "textAr": "A. التحقق مما إذا كانت المعلومات صحيحة وموثوقة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att tro på allt man läser",
+              "textAr": "B. تصديق كل ما نقرأه",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara läsa sociala medier",
+              "textAr": "C. قراءة وسائل التواصل فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att ignorera nyheter",
+              "textAr": "D. تجاهل الأخبار",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att kontrollera om information är sann och trovärdig",
+          "correctAnswerAr": "A. التحقق مما إذا كانت المعلومات صحيحة وموثوقة"
+        }
+      ]
+    },
+    {
+      "lessonId": 7,
+      "lessonTitle": {
+        "sv": "Kapitel två: Sveriges demokratiska system",
+        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
       },
       "questions": []
     },
     {
-      "lessonId": 5,
+      "lessonId": 8,
       "lessonTitle": {
-        "swedish": "Kapitel två: Sveriges demokratiska system",
-        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "sv": "Kapitel två: Sveriges demokratiska system",
+        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 9,
+      "lessonTitle": {
+        "sv": "Kapitel två: Sveriges demokratiska system",
+        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
       },
       "questions": []
     }
