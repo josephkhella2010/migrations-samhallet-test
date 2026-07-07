@@ -2026,14 +2026,484 @@
       }
     },
     {
-      "lessonId": 5,
+      "lessonId": 6,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel sex: 6- Mediernas roll",
+        "arabic": "الفصل السادس: دور وسائل الإعلام"
       },
       "sections": {
-        "swedish": [],
-        "arabic": []
+        "swedish": [
+          {
+            "title": "1. Mediernas roll",
+            "subtitle": "Vad är medier?",
+            "text": "Medier är kanaler som sprider nyheter, kunskap, information och underhållning till människor i samhället.",
+            "list": [
+              "tidningar",
+              "radio",
+              "tv",
+              "film",
+              "internet",
+              "sociala medier"
+            ]
+          },
+          {
+            "title": "2. Fria medier",
+            "subtitle": "Varför är fria medier viktiga?",
+            "text": "I Sverige är medierna fria. Staten får inte bestämma vad medierna ska publicera eller vilka åsikter som får spridas.",
+            "list": [
+              "skyddas av tryckfrihetsförordningen",
+              "skyddas av yttrandefrihetsgrundlagen",
+              "gör det möjligt att sprida åsikter fritt",
+              "stärker demokratin",
+              "ger människor tillgång till information"
+            ]
+          },
+          {
+            "title": "3. Mediernas uppgifter",
+            "subtitle": "Vad gör medierna?",
+            "text": "Medierna har flera viktiga funktioner i samhället.",
+            "list": [
+              "rapportera nyheter",
+              "sprida information",
+              "förmedla kunskap",
+              "skapa debatt och diskussion",
+              "granska makthavare",
+              "erbjuda underhållning"
+            ]
+          },
+          {
+            "title": "4. Journalisternas roll",
+            "subtitle": "Varför behövs journalister?",
+            "text": "Journalister granskar politiker och andra personer med makt för att säkerställa öppenhet och ansvar.",
+            "list": [
+              "granskar politiker",
+              "granskar myndigheter",
+              "granskar makthavare",
+              "informerar allmänheten",
+              "undersöker viktiga samhällsfrågor"
+            ]
+          },
+          {
+            "title": "5. Offentlighetsprincipen",
+            "subtitle": "Vad innebär offentlighetsprincipen?",
+            "text": "Offentlighetsprincipen ger människor rätt att ta del av allmänna handlingar hos myndigheter om de inte är sekretessbelagda.",
+            "list": [
+              "myndigheters handlingar är offentliga",
+              "journalister kan granska beslut",
+              "e-post kan begäras ut",
+              "ökar insynen i samhället",
+              "stärker demokratin"
+            ]
+          },
+          {
+            "title": "6. Stöd till medier",
+            "subtitle": "Varför ger staten stöd till medier?",
+            "text": "Staten ger ekonomiskt stöd till nyhetsmedier för att det ska finnas många olika nyhetskällor.",
+            "list": [
+              "stöd till dagstidningar",
+              "stöd till nyhetsmedier",
+              "främjar mångfald",
+              "ökar tillgången till information",
+              "stärker demokratin"
+            ]
+          },
+          {
+            "title": "7. Meddelarskydd",
+            "subtitle": "Skydd för personer som lämnar uppgifter",
+            "text": "Personer får lämna information till medier utan att straffas och har rätt att vara anonyma.",
+            "list": [
+              "rätt att lämna uppgifter",
+              "skydd mot bestraffning",
+              "rätt att vara anonym",
+              "stödjer granskande journalistik"
+            ]
+          },
+          {
+            "title": "8. Ansvarig utgivare",
+            "subtitle": "Vem ansvarar för innehållet?",
+            "text": "Tidningar, radio och tv har en ansvarig utgivare som är juridiskt ansvarig för det som publiceras.",
+            "list": [
+              "ansvarar för publicerat innehåll",
+              "måste följa lagen",
+              "ansvarar för att undvika förtal",
+              "ansvarar för att undvika kränkningar"
+            ]
+          },
+          {
+            "title": "9. Källkontroll",
+            "subtitle": "Hur arbetar journalister?",
+            "text": "Journalister ska kontrollera information innan den publiceras.",
+            "list": [
+              "använda flera källor",
+              "använda oberoende källor",
+              "kontrollera fakta",
+              "bedöma källornas trovärdighet"
+            ]
+          },
+          {
+            "title": "10. Olika slags medier",
+            "subtitle": "Vilka typer av medier finns?",
+            "text": "Det finns många olika medier i Sverige som sprider information och underhållning.",
+            "list": [
+              "dagstidningar",
+              "tidskrifter",
+              "radio",
+              "tv",
+              "webbplatser",
+              "sociala medier"
+            ]
+          },
+          {
+            "title": "11. Privat- och reklamfinansierade medier",
+            "subtitle": "Hur finansieras privata medier?",
+            "text": "Privata medier drivs ofta av företag och får inkomster från reklam och prenumerationer.",
+            "list": [
+              "reklamintäkter",
+              "prenumerationer",
+              "försäljning av tidningar",
+              "digitala abonnemang"
+            ]
+          },
+          {
+            "title": "12. Tidningar på internet",
+            "subtitle": "Digitala nyheter",
+            "text": "De flesta svenska tidningar finns idag på internet och uppdateras flera gånger varje dag.",
+            "list": [
+              "webbversioner",
+              "snabba nyhetsuppdateringar",
+              "digitala artiklar",
+              "tillgängliga online"
+            ]
+          },
+          {
+            "title": "13. Public Service",
+            "subtitle": "Vad är Public Service?",
+            "text": "Public Service är medieföretag med ett särskilt samhällsuppdrag att ge saklig och opartisk information.",
+            "list": [
+              "Sveriges Radio (SR)",
+              "Sveriges Television (SVT)",
+              "Utbildningsradion (UR)"
+            ]
+          },
+          {
+            "title": "14. Public Service uppdrag",
+            "subtitle": "Vad ska Public Service göra?",
+            "text": "Public Service ska erbjuda ett brett utbud av program och vara oberoende från politiska och ekonomiska intressen.",
+            "list": [
+              "nyheter",
+              "sport",
+              "underhållning",
+              "kultur",
+              "utbildning",
+              "olika perspektiv"
+            ]
+          },
+          {
+            "title": "15. Finansiering av Public Service",
+            "subtitle": "Hur finansieras Public Service?",
+            "text": "Public Service finansieras genom skatt och får inte finansieras med reklam.",
+            "list": [
+              "avgift via skatten",
+              "ingen reklam",
+              "oberoende finansiering",
+              "tillgängligt för alla"
+            ]
+          },
+          {
+            "title": "16. Syftet med Public Service",
+            "subtitle": "Varför finns Public Service?",
+            "text": "Syftet är att alla människor i Sverige ska få tillgång till saklig information oavsett ekonomi eller bostadsort.",
+            "list": [
+              "lika tillgång till information",
+              "sakliga nyheter",
+              "nationell tillgänglighet",
+              "stöd för demokratin"
+            ]
+          },
+          {
+            "title": "17. Webb och sociala medier",
+            "subtitle": "Hur fungerar sociala medier?",
+            "text": "Alla kan skapa och sprida innehåll på internet och i sociala medier.",
+            "list": [
+              "alla kan publicera",
+              "snabb informationsspridning",
+              "inga traditionella redaktörer",
+              "användargenererat innehåll"
+            ]
+          },
+          {
+            "title": "18. Risker med sociala medier",
+            "subtitle": "Vilka problem kan uppstå?",
+            "text": "Information på sociala medier kontrolleras inte alltid på samma sätt som i traditionella medier.",
+            "list": [
+              "falska uppgifter",
+              "desinformation",
+              "ryktesspridning",
+              "vilseledande innehåll"
+            ]
+          },
+          {
+            "title": "19. Källkritik",
+            "subtitle": "Vad betyder källkritik?",
+            "text": "Källkritik innebär att granska och kontrollera om information är sann och trovärdig.",
+            "list": [
+              "ifrågasätta information",
+              "kontrollera fakta",
+              "jämföra flera källor",
+              "bedöma trovärdighet",
+              "undvika falsk information"
+            ]
+          },
+          {
+            "title": "20. Informationskällor",
+            "subtitle": "Varifrån kan information komma?",
+            "text": "Information kan hämtas från många olika typer av källor.",
+            "list": [
+              "tidningar",
+              "böcker",
+              "webbplatser",
+              "sociala medier",
+              "radio",
+              "tv"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. دور وسائل الإعلام",
+            "subtitle": "ما هي وسائل الإعلام؟",
+            "text": "وسائل الإعلام هي قنوات تنشر الأخبار والمعرفة والمعلومات والترفيه إلى الناس في المجتمع.",
+            "list": [
+              "الصحف",
+              "الراديو",
+              "التلفزيون",
+              "الأفلام",
+              "الإنترنت",
+              "وسائل التواصل الاجتماعي"
+            ]
+          },
+          {
+            "title": "2. الإعلام الحر",
+            "subtitle": "لماذا الإعلام الحر مهم؟",
+            "text": "في السويد وسائل الإعلام حرة، ولا يحق للدولة أن تقرر ما الذي يجب نشره أو أي الآراء يُسمح بنشرها.",
+            "list": [
+              "تحميه حرية الصحافة",
+              "تحميه حرية التعبير",
+              "يسمح بنشر الآراء بحرية",
+              "يعزز الديمقراطية",
+              "يوفر المعلومات للجميع"
+            ]
+          },
+          {
+            "title": "3. مهام وسائل الإعلام",
+            "subtitle": "ماذا تفعل وسائل الإعلام؟",
+            "text": "لوسائل الإعلام عدة وظائف مهمة في المجتمع.",
+            "list": [
+              "نقل الأخبار",
+              "نشر المعلومات",
+              "تقديم المعرفة",
+              "إتاحة النقاش والحوار",
+              "مراقبة أصحاب السلطة",
+              "تقديم الترفيه"
+            ]
+          },
+          {
+            "title": "4. دور الصحفيين",
+            "subtitle": "لماذا نحتاج إلى الصحفيين؟",
+            "text": "يقوم الصحفيون بمراقبة السياسيين وأصحاب النفوذ لضمان الشفافية والمساءلة.",
+            "list": [
+              "مراقبة السياسيين",
+              "مراقبة السلطات",
+              "مراقبة أصحاب النفوذ",
+              "إعلام الجمهور",
+              "التحقيق في القضايا المجتمعية المهمة"
+            ]
+          },
+          {
+            "title": "5. مبدأ العلنية",
+            "subtitle": "ماذا يعني مبدأ العلنية؟",
+            "text": "يمنح مبدأ العلنية الناس الحق في الاطلاع على الوثائق الرسمية لدى الجهات الحكومية ما لم تكن سرية.",
+            "list": [
+              "الوثائق الحكومية متاحة للعامة",
+              "يمكن للصحفيين مراجعة القرارات",
+              "يمكن طلب رسائل البريد الإلكتروني الرسمية",
+              "يزيد من الشفافية",
+              "يعزز الديمقراطية"
+            ]
+          },
+          {
+            "title": "6. دعم وسائل الإعلام",
+            "subtitle": "لماذا تدعم الدولة وسائل الإعلام؟",
+            "text": "تقدم الدولة دعماً مالياً لوسائل الإعلام الإخبارية لضمان وجود مصادر إخبارية متنوعة.",
+            "list": [
+              "دعم الصحف اليومية",
+              "دعم وسائل الإعلام الإخبارية",
+              "تعزيز التنوع الإعلامي",
+              "زيادة الوصول إلى المعلومات",
+              "تعزيز الديمقراطية"
+            ]
+          },
+          {
+            "title": "7. حماية المبلّغين",
+            "subtitle": "حماية من يقدمون المعلومات",
+            "text": "يحق للأشخاص تقديم معلومات لوسائل الإعلام دون التعرض للعقاب، كما يحق لهم إخفاء هويتهم.",
+            "list": [
+              "الحق في تقديم المعلومات",
+              "الحماية من العقوبات",
+              "الحق في عدم كشف الهوية",
+              "دعم الصحافة الاستقصائية"
+            ]
+          },
+          {
+            "title": "8. المسؤول عن النشر",
+            "subtitle": "من المسؤول عن المحتوى؟",
+            "text": "لكل صحيفة أو محطة إذاعية أو قناة تلفزيونية مسؤول قانوني عن كل ما يتم نشره.",
+            "list": [
+              "مسؤول عن المحتوى المنشور",
+              "يجب أن يلتزم بالقانون",
+              "يتحمل مسؤولية القذف والتشهير",
+              "يتحمل مسؤولية الانتهاكات القانونية"
+            ]
+          },
+          {
+            "title": "9. التحقق من المصادر",
+            "subtitle": "كيف يعمل الصحفيون؟",
+            "text": "يجب على الصحفيين التحقق من المعلومات قبل نشرها.",
+            "list": [
+              "استخدام عدة مصادر",
+              "استخدام مصادر مستقلة",
+              "التحقق من الحقائق",
+              "تقييم مصداقية المصادر"
+            ]
+          },
+          {
+            "title": "10. أنواع وسائل الإعلام",
+            "subtitle": "ما أنواع وسائل الإعلام الموجودة؟",
+            "text": "توجد أنواع عديدة من وسائل الإعلام في السويد لنقل المعلومات والترفيه.",
+            "list": [
+              "الصحف اليومية",
+              "المجلات",
+              "الراديو",
+              "التلفزيون",
+              "المواقع الإلكترونية",
+              "وسائل التواصل الاجتماعي"
+            ]
+          },
+          {
+            "title": "11. وسائل الإعلام الخاصة والممولة بالإعلانات",
+            "subtitle": "كيف يتم تمويلها؟",
+            "text": "غالباً ما تديرها شركات خاصة وتحصل على دخلها من الإعلانات والاشتراكات.",
+            "list": [
+              "إيرادات الإعلانات",
+              "الاشتراكات",
+              "بيع الصحف",
+              "الاشتراكات الرقمية"
+            ]
+          },
+          {
+            "title": "12. الصحف على الإنترنت",
+            "subtitle": "الأخبار الرقمية",
+            "text": "معظم الصحف السويدية متاحة على الإنترنت ويتم تحديثها عدة مرات يومياً.",
+            "list": [
+              "نسخ إلكترونية",
+              "تحديثات سريعة للأخبار",
+              "مقالات رقمية",
+              "متاحة عبر الإنترنت"
+            ]
+          },
+          {
+            "title": "13. الخدمة العامة",
+            "subtitle": "ما هي الخدمة العامة الإعلامية؟",
+            "text": "الخدمة العامة هي مؤسسات إعلامية لها مهمة خاصة تتمثل في تقديم معلومات موضوعية ومحايدة.",
+            "list": [
+              "راديو السويد (SR)",
+              "تلفزيون السويد (SVT)",
+              "إذاعة التعليم (UR)"
+            ]
+          },
+          {
+            "title": "14. مهمة الخدمة العامة",
+            "subtitle": "ماذا يجب أن تقدم؟",
+            "text": "يجب أن تقدم الخدمة العامة مجموعة واسعة من البرامج وأن تكون مستقلة عن المصالح السياسية والاقتصادية.",
+            "list": [
+              "الأخبار",
+              "الرياضة",
+              "الترفيه",
+              "الثقافة",
+              "التعليم",
+              "عرض وجهات نظر مختلفة"
+            ]
+          },
+          {
+            "title": "15. تمويل الخدمة العامة",
+            "subtitle": "كيف يتم تمويلها؟",
+            "text": "يتم تمويل الخدمة العامة من الضرائب ولا يسمح لها بعرض الإعلانات التجارية.",
+            "list": [
+              "تمويل عبر الضرائب",
+              "بدون إعلانات",
+              "تمويل مستقل",
+              "متاحة للجميع"
+            ]
+          },
+          {
+            "title": "16. هدف الخدمة العامة",
+            "subtitle": "لماذا توجد الخدمة العامة؟",
+            "text": "الهدف هو أن يحصل جميع سكان السويد على معلومات موثوقة بغض النظر عن مكان السكن أو الوضع الاقتصادي.",
+            "list": [
+              "معلومات متاحة للجميع",
+              "أخبار موضوعية",
+              "الوصول إلى جميع أنحاء البلاد",
+              "دعم الديمقراطية"
+            ]
+          },
+          {
+            "title": "17. الإنترنت ووسائل التواصل الاجتماعي",
+            "subtitle": "كيف تعمل وسائل التواصل الاجتماعي؟",
+            "text": "يمكن لأي شخص إنشاء ونشر المحتوى على الإنترنت ووسائل التواصل الاجتماعي.",
+            "list": [
+              "الجميع يستطيع النشر",
+              "انتشار سريع للمعلومات",
+              "لا توجد رقابة تحريرية تقليدية",
+              "محتوى ينشئه المستخدمون"
+            ]
+          },
+          {
+            "title": "18. مخاطر وسائل التواصل الاجتماعي",
+            "subtitle": "ما المشكلات التي قد تظهر؟",
+            "text": "المعلومات على وسائل التواصل الاجتماعي لا تخضع دائماً لنفس مستوى التحقق الموجود في وسائل الإعلام التقليدية.",
+            "list": [
+              "معلومات كاذبة",
+              "التضليل الإعلامي",
+              "نشر الشائعات",
+              "محتوى مضلل"
+            ]
+          },
+          {
+            "title": "19. النقد والتحقق من المصادر",
+            "subtitle": "ما معنى التفكير النقدي تجاه المصادر؟",
+            "text": "يعني التحقق من صحة المعلومات ومصداقيتها قبل تصديقها أو نشرها.",
+            "list": [
+              "التشكيك في المعلومات",
+              "التحقق من الحقائق",
+              "مقارنة مصادر متعددة",
+              "تقييم المصداقية",
+              "تجنب المعلومات الكاذبة"
+            ]
+          },
+          {
+            "title": "20. مصادر المعلومات",
+            "subtitle": "من أين تأتي المعلومات؟",
+            "text": "يمكن الحصول على المعلومات من أنواع مختلفة من المصادر.",
+            "list": [
+              "الصحف",
+              "الكتب",
+              "المواقع الإلكترونية",
+              "وسائل التواصل الاجتماعي",
+              "الراديو",
+              "التلفزيون"
+            ]
+          }
+        ]
       }
     },
     {
