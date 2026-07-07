@@ -14,6 +14,7 @@ const useStyles = createUseStyles({
     position: "absolute",
     top: "0px",
     left: "0px",
+    zIndex: "400",
   },
   spinnerSection: {
     width: "100%",

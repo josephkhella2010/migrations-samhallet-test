@@ -11,14 +11,18 @@ const NavigationPageTranslation = {
     sv: "Lektions Tester",
     ar: "اختبارات الدروس",
   },
-  SubLinkLektion:{
-    sv:"Lektion",
-    ar:"الدرس رقم"
+  SubLinkLektion: {
+    sv: "Lektion",
+    ar: "الدرس رقم",
   },
-    SubLinkTest:{
-    sv:"Test för Lektion",
-    ar:"اختبار الدرس رقم"
-  }
+  SubLinkTest: {
+    sv: "Test för Lektion",
+    ar: "اختبار الدرس رقم",
+  },
+  SubLinkThree: {
+    sv: "Övriga frågor",
+    ar: "أسئلة إضافية",
+  },
 };
 
 export default NavigationPageTranslation;

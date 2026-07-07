@@ -6,6 +6,7 @@ import { useDispatch } from "react-redux";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { questionArr } from "../../../utilities/Array";
 
 const useStyles = createUseStyles({
   mainMobileNavContainer: {
@@ -113,6 +114,7 @@ interface PropsType {
 interface ShowSubMenuType {
   lessonSubMenu: boolean;
   testSubMenu: boolean;
+  testSubMenuTwo: boolean;
 }
 
 export default function MobileNavigation({
@@ -129,9 +131,11 @@ export default function MobileNavigation({
   const { t } = useTranslation();
   const dispatch = useDispatch();
   const navigate = useNavigate();
+  const lang = localStorage.getItem("lang");
   const [showSubMenu, setShowSubMenu] = useState<ShowSubMenuType>({
     lessonSubMenu: false,
     testSubMenu: false,
+    testSubMenuTwo: false,
   });
 
   /* functions */
@@ -242,6 +246,50 @@ export default function MobileNavigation({
                     }}
                   >
                     {t(NavigationPageTranslation.SubLinkTest)} {lesson}
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/*  addtion test */}
+            {/* Additional questions */}
+            <div
+              className={classes.desktopNavSubMenu}
+              onClick={() => {
+                setShowSubMenu((prev) => ({
+                  ...prev,
+                  testSubMenuTwo: !prev.testSubMenuTwo,
+                }));
+              }}
+            >
+              <div className={classes.desktopNavSubTitle}>
+                {t(NavigationPageTranslation.SubLinkThree)}
+              </div>
+
+              <div
+                className={`${classes.desktopNavSubMainList} ${
+                  showSubMenu.testSubMenuTwo ? classes.showSubmenu : ""
+                }`}
+              >
+                {questionArr.map((item) => (
+                  <div
+                    key={item.number}
+                    className={classes.subItem}
+                    onClick={(e) => {
+                      e.stopPropagation();
+
+                      handleNavigateQuestion(item.number);
+                      dispatch(clearAnswers());
+
+                      setShowSubMenu((prev) => ({
+                        ...prev,
+                        testSubMenuTwo: false,
+                      }));
+
+                      setShowMobileHeader(false);
+                    }}
+                  >
+                    {lang === "sv" ? item.sv : item.ar}
                   </div>
                 ))}
               </div>

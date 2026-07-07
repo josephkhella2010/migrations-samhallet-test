@@ -6,13 +6,16 @@ import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { questionArr } from "../../../utilities/Array";
+import { useEffect } from "react";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
     width: "100%",
-    background: "#3d1466",
+    background: "#39195a",
     color: "#fff",
     height: 60,
+    position: "fixed",
+    top: "0px",
   },
 
   desktopNavMainMenu: {
@@ -23,6 +26,7 @@ const useStyles = createUseStyles({
     margin: 0,
     padding: "0 30px",
     height: 60,
+
     "& > li": {
       wordBreak: "keep-all",
       width: "150px",
@@ -133,6 +137,9 @@ const useStyles = createUseStyles({
   liLink: {
     cursor: "pointer",
   },
+  opacity: {
+    background: "#290949cd",
+  },
 });
 
 interface PropsType {
@@ -160,15 +167,22 @@ export default function DesktopNavigation({
   const lang = localStorage.getItem("lang");
 
   /* functions */
-  /*  const handleNavigate = (id: number | string) => {
-    const lessonIdString = String(id);
-    navigate(`/lesson-detail/${lessonIdString}`);
-    console.log(typeof lessonIdString);
-  };
-  const handleNavigateQuestion = (id: number | string) => {
-    const lessonIdString = String(id);
-    navigate(`/question-detail/${lessonIdString}`);
-  }; */
+
+  useEffect(() => {
+    const navbar = document.querySelector(`.${classes.desktopNavContainer}`);
+    const handleScroll = () => {
+      if (!navbar) return;
+      if (window.scrollY > 60) {
+        navbar.classList.add(classes.opacity);
+      } else {
+        navbar.classList.remove(classes.opacity);
+      }
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  });
 
   return (
     <div className={classes.desktopNavContainer}>

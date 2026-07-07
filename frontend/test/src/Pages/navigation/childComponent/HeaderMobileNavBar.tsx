@@ -3,6 +3,7 @@ import { useTranslation } from "../../../translation/context/useTranslation";
 import NavigationPageTranslation from "../../../translation/Translations/NavigationPageTranslation";
 import LanguageDropDown from "./LanguageDropDown";
 import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
@@ -10,6 +11,9 @@ const useStyles = createUseStyles({
     background: "#3d1466",
     color: "#fff",
     height: 60,
+    position: "fixed",
+    top: "0px",
+    left: "0px",
   },
 
   desktopNavMainMenu: {
@@ -59,6 +63,9 @@ const useStyles = createUseStyles({
     borderRadius: "7px",
   },
   liLink: { cursor: "pointer" },
+  opacity: {
+    background: "#290949cd",
+  },
 });
 
 interface PropsType {
@@ -79,6 +86,23 @@ export default function HeaderMobileNavBar({
   const classes = useStyles();
   const { t } = useTranslation();
   const navigate = useNavigate();
+
+  /* function */
+  useEffect(() => {
+    const navbar = document.querySelector(`.${classes.desktopNavContainer}`);
+    const handleScroll = () => {
+      if (!navbar) return;
+      if (window.scrollY > 60) {
+        navbar.classList.add(classes.opacity);
+      } else {
+        navbar.classList.remove(classes.opacity);
+      }
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  });
 
   return (
     <div>
