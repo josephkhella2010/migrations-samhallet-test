@@ -10,6 +10,7 @@ const useStyles = createUseStyles({
     alignItems: "center",
     width: "50px",
     color: "black",
+    zIndex: 999999,
   },
 
   selectedLanguage: {
@@ -34,7 +35,7 @@ const useStyles = createUseStyles({
     border: "1px solid #ddd",
     borderRadius: "8px",
     width: "120px",
-    zIndex: 100,
+    zIndex: 9999,
     overflow: "hidden",
     fontWeight: "500",
   },
@@ -80,7 +81,6 @@ export default function LanguageDropDown({
 }: LangDropDownType) {
   const classes = useStyles();
   const dispatch = useDispatch();
-
 
   return (
     <div className={classes.languageDropDownContainer}>
