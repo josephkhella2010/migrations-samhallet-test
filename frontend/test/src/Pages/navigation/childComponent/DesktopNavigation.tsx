@@ -15,7 +15,9 @@ const useStyles = createUseStyles({
     color: "#fff",
     height: 60,
     position: "fixed",
-    top: "0px",
+    top: 0,
+    left: 0,
+    zIndex: 9999,
   },
 
   desktopNavMainMenu: {
@@ -87,6 +89,7 @@ const useStyles = createUseStyles({
     padding: "0 12px",
     cursor: "pointer",
     whiteSpace: "nowrap",
+    zIndex: 100,
 
     "&:hover $desktopNavSubList": {
       display: "flex",
@@ -106,9 +109,9 @@ const useStyles = createUseStyles({
   desktopNavSubList: {
     display: "none",
     position: "absolute",
-    top: 60,
+    top: "60px",
     left: 0,
-    background: "#ffffff",
+    background: "#fff",
     color: "#222",
     borderRadius: 8,
     boxShadow: "0 8px 20px rgba(0,0,0,.15)",
@@ -116,7 +119,7 @@ const useStyles = createUseStyles({
     margin: 0,
     padding: 10,
     minWidth: 180,
-    zIndex: 1000,
+    zIndex: 10000,
 
     "& li": {
       padding: "10px 12px",
