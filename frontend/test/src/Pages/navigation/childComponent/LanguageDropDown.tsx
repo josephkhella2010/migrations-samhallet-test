@@ -2,6 +2,7 @@ import { createUseStyles } from "react-jss";
 import { languageDropDown } from "../../../utilities/Array";
 import { useDispatch } from "react-redux";
 import { setLang } from "../../../Store/Slice/LessonSlice/LanguageSlice";
+import { useEffect, useRef } from "react";
 
 const useStyles = createUseStyles({
   languageDropDownContainer: {
@@ -81,13 +82,32 @@ export default function LanguageDropDown({
 }: LangDropDownType) {
   const classes = useStyles();
   const dispatch = useDispatch();
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  /* function */
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
+        setShowLangDropDown(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [setShowLangDropDown]);
 
   return (
-    <div className={classes.languageDropDownContainer}>
+    <div className={classes.languageDropDownContainer} ref={dropdownRef}>
       <span
         className={classes.selectedLanguage}
-        onClick={() => {
-          setShowLangDropDown(true);
+        onClick={(e) => {
+          e.stopPropagation();
+          setShowLangDropDown((prev) => !prev);
         }}
       >
         {selectedLanguage}
@@ -100,7 +120,8 @@ export default function LanguageDropDown({
               <div
                 key={index}
                 className={classes.dropdownItem}
-                onClick={() => {
+                onClick={(e) => {
+                  e.stopPropagation();
                   setLangDropDown(lang.title);
                   dispatch(setLang(lang.name as "sv" | "ar"));
                   setShowLangDropDown(false);

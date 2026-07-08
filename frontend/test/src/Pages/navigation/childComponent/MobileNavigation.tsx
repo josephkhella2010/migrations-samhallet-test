@@ -277,15 +277,12 @@ export default function MobileNavigation({
                     className={classes.subItem}
                     onClick={(e) => {
                       e.stopPropagation();
-
                       handleNavigateQuestion(item.number);
                       dispatch(clearAnswers());
-
                       setShowSubMenu((prev) => ({
                         ...prev,
                         testSubMenuTwo: false,
                       }));
-
                       setShowMobileHeader(false);
                     }}
                   >
