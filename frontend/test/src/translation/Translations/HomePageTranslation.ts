@@ -128,6 +128,19 @@ const homePageTranslation = {
     sv: "Vänta medan data laddas",
     ar: "يرجى الانتظار بينما يتم تحميل البيانات.",
   },
+  prevBtn: {
+    sv: "Föregående",
+    ar: "السابق",
+  },
+  nextBtn: {
+    sv: "Nästa",
+    ar: "التالي",
+  },
+
+  scoreBtn: {
+    sv: "Resultat",
+    ar: "النتيجة",
+  },
 };
 
 export default homePageTranslation;
