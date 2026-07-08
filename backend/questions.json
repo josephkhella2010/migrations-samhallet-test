@@ -10721,8 +10721,8 @@
               "correct": false
             },
             {
-              "textSv": "B. Islam",
-              "textAr": "B. الإسلام",
+              "textSv": "B. kristendom",
+              "textAr": "B. المسيحية",
               "correct": true
             },
             {
@@ -10736,8 +10736,8 @@
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. Islam",
-          "correctAnswerAr": "B. الإسلام"
+          "correctAnswerSv": "B. kristendom",
+          "correctAnswerAr": "B. المسيحية"
         },
         {
           "question": {
@@ -11232,8 +11232,8 @@
               "correct": false
             },
             {
-              "textSv": "B. Islam",
-              "textAr": "B. الإسلام",
+              "textSv": "B. kristendom",
+              "textAr": "B. المسيحية",
               "correct": true
             },
             {
@@ -11247,8 +11247,8 @@
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. Islam",
-          "correctAnswerAr": "B. الإسلام"
+          "correctAnswerSv": "B. kristendom",
+          "correctAnswerAr": "B. المسيحية"
         },
         {
           "question": {
