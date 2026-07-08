@@ -2,6 +2,8 @@ import { useEffect } from "react";
 import { createUseStyles } from "react-jss";
 import { useSelector } from "react-redux";
 import type { RootState } from "../../Store/store";
+import homePageTranslation from "../../translation/Translations/HomePageTranslation";
+import { useTranslation } from "../../translation/context/useTranslation";
 
 const useStyles = createUseStyles({
   loadingContainer: {
@@ -10,7 +12,7 @@ const useStyles = createUseStyles({
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    background: "#36273c96",
+    background: "#6d6570d4",
     position: "absolute",
     top: "0px",
     left: "0px",
@@ -23,15 +25,17 @@ const useStyles = createUseStyles({
     justifyContent: "center",
     alignItems: "center",
   },
-
-  spinner: {
-    maxWidth: 200,
-    maxHeight: 200,
-    position: "relative",
-    textAlign: "center",
+  spinnerContent: {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
+    flexDirection: "column",
+    gap: "50px",
+  },
+
+  spinner: {
+    position: "relative",
+    marginBottom: "30px",
   },
 
   circle: {
@@ -51,10 +55,17 @@ const useStyles = createUseStyles({
       opacity: 1,
     },
   },
+  Text: {
+    color: "white",
+    fontWeight: "bold",
+    fontFamily: "cursive",
+  },
 });
 
 export default function LoadingPage() {
   const classes = useStyles();
+  const { t } = useTranslation();
+
   const { isLoading } = useSelector(
     (state: RootState) => state.LoadAndErrorSlice,
   );
@@ -81,22 +92,25 @@ export default function LoadingPage() {
   return (
     <div className={classes.loadingContainer}>
       <div className={classes.spinnerSection}>
-        <div className={classes.spinner}>
-          {Array.from({ length: 12 }).map((_, index) => {
-            const angle = index * 30;
-            const radius = 34;
+        <div className={classes.spinnerContent}>
+          <div className={classes.spinner}>
+            {Array.from({ length: 12 }).map((_, index) => {
+              const angle = index * 30;
+              const radius = 34;
 
-            return (
-              <span
-                key={index}
-                className={classes.circle}
-                style={{
-                  transform: `rotate(${angle}deg) translate(${radius}px)`,
-                  animationDelay: `${index * 0.1}s`,
-                }}
-              />
-            );
-          })}
+              return (
+                <span
+                  key={index}
+                  className={classes.circle}
+                  style={{
+                    transform: `rotate(${angle}deg) translate(${radius}px)`,
+                    animationDelay: `${index * 0.1}s`,
+                  }}
+                />
+              );
+            })}
+          </div>
+          <p className={classes.Text}>{t(homePageTranslation.LoadingText)}</p>
         </div>
       </div>
     </div>

@@ -231,8 +231,7 @@ export default function DesktopNavigation({
               </ul>
             </div>
             <div className={classes.desktopNavSubMenu}>
-              <li>overiga fragor</li>
-
+              <li>{t(NavigationPageTranslation.SubLinkThree)} </li>
               <ul className={classes.desktopNavSubList}>
                 {questionArr.map((it) => {
                   return (
