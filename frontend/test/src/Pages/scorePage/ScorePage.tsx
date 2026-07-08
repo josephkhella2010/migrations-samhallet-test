@@ -4,12 +4,14 @@ import { createUseStyles } from "react-jss";
 import { useNavigate } from "react-router-dom";
 import { clearAnswers } from "../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useEffect, useState } from "react";
+import ScorePageTranslation from "../../translation/Translations/ScorePageTranslation";
+import { useTranslation } from "../../translation/context/useTranslation";
 
 const useStyle = createUseStyles({
   page: {
     maxWidth: 900,
     margin: "40px auto",
-    padding: 30,
+    padding: "160px 30px",
     fontFamily: "Arial, sans-serif",
   },
 
@@ -49,10 +51,15 @@ const useStyle = createUseStyles({
 
   fail: {
     color: "#d32f2f",
-    fontWeight: "bold",
+    fontWeight: "500",
     fontSize: 20,
     textAlign: "center",
     margin: "20px 0",
+    "& strong": {
+      fontSize: 24,
+      fontWeight: "bolder",
+      color: "#c30606",
+    },
   },
 
   button: {
@@ -130,6 +137,7 @@ export default function ScorePage() {
   const classes = useStyle();
   const navigate = useNavigate();
   const dispatch = useDispatch();
+  const { t } = useTranslation();
   const { userAnswers } = useSelector(
     (state: RootState) => state.userAnswersSlice,
   );
@@ -177,28 +185,30 @@ export default function ScorePage() {
 
   return (
     <div className={classes.page}>
-      <h1 className={classes.title}>Quiz Result</h1>
+      <h1 className={classes.title}>
+        {t(ScorePageTranslation.ScorePageTitle)}
+      </h1>
 
       <div className={classes.summary}>
         <div className={classes.card}>
-          <h3>Correct</h3>
+          <h3>{t(ScorePageTranslation.ScorePageCorrect)}</h3>
           <div className={classes.value}>{TotalCorrectAnswer}</div>
         </div>
 
         <div className={classes.card}>
-          <h3>Wrong</h3>
+          <h3>{t(ScorePageTranslation.ScorePageWrong)}</h3>
           <div className={classes.value}>{TotalWrongAnswer}</div>
         </div>
 
         <div className={classes.card}>
-          <h3>Score</h3>
+          <h3>{t(ScorePageTranslation.ScorePageYourScore)}</h3>
           <div className={classes.value}>
             {yourScore} / {maxScore}
           </div>
         </div>
 
         <div className={classes.card}>
-          <h3>Percentage</h3>
+          <h3>{t(ScorePageTranslation.Percentage)}</h3>
           <div className={classes.value}>{Math.round(Number(percentage))}%</div>
           <div
             className={classes.circle}
@@ -218,12 +228,16 @@ export default function ScorePage() {
 
       {Number(percentage) < 85 ? (
         <p className={classes.fail}>
-          ❌ Unfortunately, you failed. Please try again. U should get 85% at
-          lease To Pass. You Should have Max{" "}
-          {Number(totalQuestion) - Number(minCorrectAnswers)} answer Wrong
+          {t(ScorePageTranslation.ScorePageFailMessage)}
+          {"  "}
+          <strong>
+            {" "}
+            {Number(totalQuestion) - Number(minCorrectAnswers)}
+          </strong>{" "}
+          {t(ScorePageTranslation.ScorePageFailMessageTwo)}{" "}
         </p>
       ) : (
-        <p className={classes.pass}>🎉 Congratulations! You passed the quiz.</p>
+        <p className={classes.pass}>{t(ScorePageTranslation.grattisText)}</p>
       )}
 
       <button
@@ -233,28 +247,34 @@ export default function ScorePage() {
           dispatch(clearAnswers());
         }}
       >
-        Try Again
+        {t(ScorePageTranslation.TryAgainBtn)}
       </button>
 
       <div className={classes.answers}>
-        <h2>Answer Review</h2>
+        <h2>{t(ScorePageTranslation.ReviewText)}</h2>
 
         {userAnswers.map((result, index) => (
           <div key={index} className={classes.answerCard}>
             <h3>{result.questionTitle}</h3>
 
             <p>
-              <strong>Your Answer:</strong> {result.userAnswer}
+              <strong>{t(ScorePageTranslation.YourAnswer)}</strong>{" "}
+              {result.userAnswer}
             </p>
 
             {result.isCorrect ? (
-              <p className={classes.correct}>✔ Correct Answer</p>
+              <p className={classes.correct}>
+                {t(ScorePageTranslation.CorrectAnswerText)}
+              </p>
             ) : (
               <>
-                <p className={classes.wrong}>✖ Wrong Answer</p>
+                <p className={classes.wrong}>
+                  {t(ScorePageTranslation.WrongAnswerText)}
+                </p>
                 <p>
                   <strong style={{ color: "green" }}>
-                    Correct Answer: {"  "}
+                    {t(ScorePageTranslation.CorrectAnswerTwo)}
+                    {"  "}
                     {result.correctAnswer} .{" "}
                   </strong>{" "}
                 </p>
