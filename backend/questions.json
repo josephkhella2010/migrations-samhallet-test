@@ -9617,6 +9617,1852 @@
           "correctAnswerAr": "B. حماية الديمقراطية وحقوق وحريات الإنسان"
         }
       ]
+    },
+    {
+      "lessonId": 14,
+      "lessonTitle": {
+        "sv": "Övriga frågor 2",
+        "ar": "أسئلة إضافية 2"
+      },
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vem utser Sveriges statsminister?",
+            "ar": "1- من يعين رئيس الوزراء في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungen",
+              "textAr": "A. الملك",
+              "correct": false
+            },
+            {
+              "textSv": "B. Riksdagen",
+              "textAr": "B. البرلمان السويدي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Riksdagen",
+          "correctAnswerAr": "B. البرلمان السويدي"
+        },
+        {
+          "question": {
+            "sv": "2- Vilken myndighet ansvarar för migration och uppehållstillstånd?",
+            "ar": "2- أي هيئة مسؤولة عن الهجرة وتصاريح الإقامة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Migrationsverket",
+              "textAr": "B. مصلحة الهجرة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "D. CSN",
+              "textAr": "D. هيئة دعم الطلاب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Migrationsverket",
+          "correctAnswerAr": "B. مصلحة الهجرة"
+        },
+        {
+          "question": {
+            "sv": "3- Vad ansvarar Arbetsmiljöverket för?",
+            "ar": "3- ما مسؤولية هيئة بيئة العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsmiljön på arbetsplatser",
+              "textAr": "A. بيئة العمل في أماكن العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skolor",
+              "textAr": "B. المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Pass",
+              "textAr": "C. جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Pensioner",
+              "textAr": "D. المعاشات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsmiljön på arbetsplatser",
+          "correctAnswerAr": "A. بيئة العمل في أماكن العمل"
+        },
+        {
+          "question": {
+            "sv": "4- Vad betyder offentlighetsprincipen?",
+            "ar": "4- ماذا يعني مبدأ العلنية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att myndigheters handlingar i många fall är offentliga",
+              "textAr": "A. أن وثائق السلطات الحكومية تكون علنية في كثير من الحالات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att alla möten är hemliga",
+              "textAr": "B. أن جميع الاجتماعات سرية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara journalister får läsa lagar",
+              "textAr": "C. أن الصحفيين فقط يمكنهم قراءة القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att regeringen inte får skriva dokument",
+              "textAr": "D. أن الحكومة لا تستطيع كتابة الوثائق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att myndigheters handlingar i många fall är offentliga",
+          "correctAnswerAr": "A. أن وثائق السلطات الحكومية تكون علنية في كثير من الحالات"
+        },
+        {
+          "question": {
+            "sv": "5- Vilken myndighet ansvarar för Sveriges statistik?",
+            "ar": "5- أي هيئة مسؤولة عن الإحصاءات الرسمية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. SCB",
+              "textAr": "A. هيئة الإحصاء السويدية (SCB)",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. مصلحة الهجرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. SCB",
+          "correctAnswerAr": "A. هيئة الإحصاء السويدية (SCB)"
+        },
+        {
+          "question": {
+            "sv": "6- Vad är en fackförening?",
+            "ar": "6- ما هي النقابة العمالية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En organisation som företräder arbetstagare",
+              "textAr": "A. منظمة تمثل العاملين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett politiskt parti",
+              "textAr": "B. حزب سياسي",
+              "correct": false
+            },
+            {
+              "textSv": "C. En domstol",
+              "textAr": "C. محكمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. En kommun",
+              "textAr": "D. بلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En organisation som företräder arbetstagare",
+          "correctAnswerAr": "A. منظمة تمثل العاملين"
+        },
+        {
+          "question": {
+            "sv": "7- Vad är syftet med ett kollektivavtal?",
+            "ar": "7- ما الهدف من الاتفاقية الجماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att reglera löner och arbetsvillkor",
+              "textAr": "A. تنظيم الأجور وظروف العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bestämma skatten",
+              "textAr": "B. تحديد الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att välja regering",
+              "textAr": "C. انتخاب الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att ge körkort",
+              "textAr": "D. إصدار رخص القيادة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att reglera löner och arbetsvillkor",
+          "correctAnswerAr": "A. تنظيم الأجور وظروف العمل"
+        },
+        {
+          "question": {
+            "sv": "8- Vad är CSN?",
+            "ar": "8- ما هو CSN؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En myndighet som ger studiestöd",
+              "textAr": "A. هيئة تقدم الدعم المالي للطلاب",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett sjukhus",
+              "textAr": "B. مستشفى",
+              "correct": false
+            },
+            {
+              "textSv": "C. En domstol",
+              "textAr": "C. محكمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett universitet",
+              "textAr": "D. جامعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En myndighet som ger studiestöd",
+          "correctAnswerAr": "A. هيئة تقدم الدعم المالي للطلاب"
+        },
+        {
+          "question": {
+            "sv": "9- Vad betyder hållbar utveckling?",
+            "ar": "9- ماذا تعني التنمية المستدامة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att ta hand om miljön och resurser för framtiden",
+              "textAr": "A. الحفاظ على البيئة والموارد للأجيال القادمة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bygga fler vägar",
+              "textAr": "B. بناء المزيد من الطرق",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att använda mer energi",
+              "textAr": "C. استخدام المزيد من الطاقة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att minska antalet skolor",
+              "textAr": "D. تقليل عدد المدارس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att ta hand om miljön och resurser för framtiden",
+          "correctAnswerAr": "A. الحفاظ على البيئة والموارد للأجيال القادمة"
+        },
+        {
+          "question": {
+            "sv": "10- Vem väljer ledamöterna i riksdagen?",
+            "ar": "10- من ينتخب أعضاء البرلمان السويدي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringen",
+              "textAr": "A. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Svenska folket genom val",
+              "textAr": "B. الشعب السويدي من خلال الانتخابات",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kungen",
+              "textAr": "C. الملك",
+              "correct": false
+            },
+            {
+              "textSv": "D. EU",
+              "textAr": "D. الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Svenska folket genom val",
+          "correctAnswerAr": "B. الشعب السويدي من خلال الانتخابات"
+        },
+
+        {
+          "question": {
+            "sv": "11- Vad är syftet med kommunalskatt?",
+            "ar": "11- ما الهدف من ضريبة البلدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att finansiera kommunens verksamhet",
+              "textAr": "A. تمويل خدمات البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att betala kungens lön",
+              "textAr": "B. دفع راتب الملك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att finansiera EU",
+              "textAr": "C. تمويل الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bygga privata företag",
+              "textAr": "D. بناء شركات خاصة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att finansiera kommunens verksamhet",
+          "correctAnswerAr": "A. تمويل خدمات البلدية"
+        },
+        {
+          "question": {
+            "sv": "12- Vilken myndighet ansvarar för studiestöd?",
+            "ar": "12- أي هيئة مسؤولة عن دعم الطلاب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. صندوق التأمينات الاجتماعية",
+              "correct": false
+            },
+            {
+              "textSv": "B. CSN",
+              "textAr": "B. هيئة دعم الطلاب (CSN)",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. CSN",
+          "correctAnswerAr": "B. هيئة دعم الطلاب (CSN)"
+        },
+        {
+          "question": {
+            "sv": "13- Vad är ett personnummer?",
+            "ar": "13- ما هو الرقم الشخصي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett telefonnummer",
+              "textAr": "A. رقم هاتف",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett unikt identitetsnummer",
+              "textAr": "B. رقم تعريف شخصي فريد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett passnummer",
+              "textAr": "C. رقم جواز السفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett bankkonto",
+              "textAr": "D. حساب مصرفي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett unikt identitetsnummer",
+          "correctAnswerAr": "B. رقم تعريف شخصي فريد"
+        },
+        {
+          "question": {
+            "sv": "14- Vad är syftet med socialtjänsten?",
+            "ar": "14- ما هو هدف الخدمات الاجتماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att hjälpa människor som behöver stöd",
+              "textAr": "A. مساعدة الأشخاص الذين يحتاجون إلى الدعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att utfärda pass",
+              "textAr": "B. إصدار جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att samla in skatt",
+              "textAr": "C. جمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bygga vägar",
+              "textAr": "D. بناء الطرق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att hjälpa människor som behöver stöd",
+          "correctAnswerAr": "A. مساعدة الأشخاص الذين يحتاجون إلى الدعم"
+        },
+        {
+          "question": {
+            "sv": "15- Vad betyder sekretess hos myndigheter?",
+            "ar": "15- ماذا تعني السرية لدى الجهات الحكومية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att vissa uppgifter skyddas enligt lag",
+              "textAr": "A. أن بعض المعلومات محمية بموجب القانون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att alla dokument är offentliga",
+              "textAr": "B. أن جميع الوثائق علنية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att myndigheter inte får skriva dokument",
+              "textAr": "C. أن السلطات لا تستطيع كتابة الوثائق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bara politiker får läsa dokument",
+              "textAr": "D. أن السياسيين فقط يمكنهم قراءة الوثائق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att vissa uppgifter skyddas enligt lag",
+          "correctAnswerAr": "A. أن بعض المعلومات محمية بموجب القانون"
+        },
+        {
+          "question": {
+            "sv": "16- Vad krävs för att få svenskt körkort?",
+            "ar": "16- ماذا يلزم للحصول على رخصة قيادة سويدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att klara teori- och körprov",
+              "textAr": "A. اجتياز الاختبار النظري والعملي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att fylla 15 år",
+              "textAr": "B. بلوغ 15 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bli svensk medborgare",
+              "textAr": "C. أن تصبح مواطناً سويدياً",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att rösta i val",
+              "textAr": "D. التصويت في الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att klara teori- och körprov",
+          "correctAnswerAr": "A. اجتياز الاختبار النظري والعملي"
+        },
+        {
+          "question": {
+            "sv": "17- Vad är syftet med miljöskydd?",
+            "ar": "17- ما الهدف من حماية البيئة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att skydda natur och människors hälsa",
+              "textAr": "A. حماية الطبيعة وصحة الإنسان",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att öka skatterna",
+              "textAr": "B. زيادة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att minska skolor",
+              "textAr": "C. تقليل عدد المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bygga fler parkeringsplatser",
+              "textAr": "D. بناء المزيد من مواقف السيارات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att skydda natur och människors hälsa",
+          "correctAnswerAr": "A. حماية الطبيعة وصحة الإنسان"
+        },
+        {
+          "question": {
+            "sv": "18- Vad är en folkomröstning?",
+            "ar": "18- ما هو الاستفتاء الشعبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. När medborgarna röstar om en särskild fråga",
+              "textAr": "A. عندما يصوت المواطنون على قضية معينة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett val av statsminister",
+              "textAr": "B. انتخاب رئيس الوزراء",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett kommunmöte",
+              "textAr": "C. اجتماع بلدي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett domstolsbeslut",
+              "textAr": "D. قرار محكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. När medborgarna röstar om en särskild fråga",
+          "correctAnswerAr": "A. عندما يصوت المواطنون على قضية معينة"
+        },
+        {
+          "question": {
+            "sv": "19- Vad gör Konsumentverket?",
+            "ar": "19- ماذا تفعل هيئة حماية المستهلك؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skyddar konsumenternas rättigheter",
+              "textAr": "A. تحمي حقوق المستهلكين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Samlar in skatt",
+              "textAr": "B. تجمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Driver sjukhus",
+              "textAr": "C. تدير المستشفيات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Utfärdar pass",
+              "textAr": "D. تصدر جوازات السفر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skyddar konsumenternas rättigheter",
+          "correctAnswerAr": "A. تحمي حقوق المستهلكين"
+        },
+        {
+          "question": {
+            "sv": "20- Vad innebär att följa Sveriges lagar?",
+            "ar": "20- ماذا يعني الالتزام بقوانين السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att respektera lagar och regler",
+              "textAr": "A. احترام القوانين والأنظمة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bara följa kommunens regler",
+              "textAr": "B. اتباع قوانين البلدية فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara betala skatt",
+              "textAr": "C. دفع الضرائب فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att rösta varje år",
+              "textAr": "D. التصويت كل سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att respektera lagar och regler",
+          "correctAnswerAr": "A. احترام القوانين والأنظمة"
+        },
+
+        {
+          "question": {
+            "sv": "21- Hur många nationella minoriteter finns i Sverige?",
+            "ar": "21- كم عدد الأقليات القومية الموجودة في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 3",
+              "textAr": "A. 3",
+              "correct": false
+            },
+            {
+              "textSv": "B. 4",
+              "textAr": "B. 4",
+              "correct": false
+            },
+            {
+              "textSv": "C. 5",
+              "textAr": "C. 5",
+              "correct": true
+            },
+            {
+              "textSv": "D. 6",
+              "textAr": "D. 6",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 5",
+          "correctAnswerAr": "C. 5"
+        },
+        {
+          "question": {
+            "sv": "22- Vilken grupp är Sveriges urfolk?",
+            "ar": "22- ما هي مجموعة السكان الأصليين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Romer",
+              "textAr": "A. الروما",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sverigefinnar",
+              "textAr": "B. الفنلنديون السويديون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Judar",
+              "textAr": "C. اليهود",
+              "correct": false
+            },
+            {
+              "textSv": "D. Samer",
+              "textAr": "D. الساميون",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Samer",
+          "correctAnswerAr": "D. الساميون"
+        },
+        {
+          "question": {
+            "sv": "23- Vilket av följande är en nationell minoritet i Sverige?",
+            "ar": "23- أي من التالي يعتبر أقلية قومية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samer",
+              "textAr": "A. الساميون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Tyskar",
+              "textAr": "B. الألمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. Fransmän",
+              "textAr": "C. الفرنسيون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Holländare",
+              "textAr": "D. الهولنديون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samer",
+          "correctAnswerAr": "A. الساميون"
+        },
+        {
+          "question": {
+            "sv": "24- Vad heter samernas folkvalda parlament?",
+            "ar": "24- ماذا يسمى البرلمان المنتخب للشعب السامي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان السويدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kommunfullmäktige",
+              "textAr": "B. المجلس البلدي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sametinget",
+              "textAr": "C. البرلمان السامي",
+              "correct": true
+            },
+            {
+              "textSv": "D. Regionfullmäktige",
+              "textAr": "D. مجلس المنطقة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sametinget",
+          "correctAnswerAr": "C. البرلمان السامي"
+        },
+        {
+          "question": {
+            "sv": "25- Vilket språk är ett nationellt minoritetsspråk?",
+            "ar": "25- أي لغة هي لغة أقلية قومية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Engelska",
+              "textAr": "A. الإنجليزية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Tyska",
+              "textAr": "B. الألمانية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Finska",
+              "textAr": "C. الفنلندية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Spanska",
+              "textAr": "D. الإسبانية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Finska",
+          "correctAnswerAr": "C. الفنلندية"
+        },
+        {
+          "question": {
+            "sv": "26- Vad betyder HBTQI?",
+            "ar": "26- ماذا يعني HBTQI؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En myndighet",
+              "textAr": "A. هيئة حكومية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett politiskt parti",
+              "textAr": "B. حزب سياسي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett samlingsbegrepp för olika sexuella läggningar och könsidentiteter",
+              "textAr": "C. مصطلح شامل لمختلف التوجهات الجنسية والهويات الجندرية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Ett utbildningsprogram",
+              "textAr": "D. برنامج تعليمي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Ett samlingsbegrepp för olika sexuella läggningar och könsidentiteter",
+          "correctAnswerAr": "C. مصطلح شامل لمختلف التوجهات الجنسية والهويات الجندرية"
+        },
+        {
+          "question": {
+            "sv": "27- Har HBTQI-personer samma rättigheter som andra i Sverige?",
+            "ar": "27- هل لدى أشخاص HBTQI نفس الحقوق مثل الآخرين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara vissa rättigheter",
+              "textAr": "C. فقط بعض الحقوق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara om de är gifta",
+              "textAr": "D. فقط إذا كانوا متزوجين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ja",
+          "correctAnswerAr": "A. نعم"
+        },
+        {
+          "question": {
+            "sv": "28- Vilken rättighet har personer med funktionsnedsättning?",
+            "ar": "28- ما هو الحق الذي يملكه الأشخاص ذوو الإعاقة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skydd mot diskriminering",
+              "textAr": "A. الحماية من التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "B. Färre rättigheter än andra",
+              "textAr": "B. حقوق أقل من الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ingen rätt till arbete",
+              "textAr": "C. لا يوجد حق في العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen rätt till utbildning",
+              "textAr": "D. لا يوجد حق في التعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skydd mot diskriminering",
+          "correctAnswerAr": "A. الحماية من التمييز"
+        },
+        {
+          "question": {
+            "sv": "29- Vad står DO för?",
+            "ar": "29- ماذا يعني الاختصار DO؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domstolsorganisationen",
+              "textAr": "A. منظمة المحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Diskrimineringsombudsmannen",
+              "textAr": "B. أمين مظالم التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "C. Demokratiombudet",
+              "textAr": "C. أمين الديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domarombudsmannen",
+              "textAr": "D. أمين القضاة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Diskrimineringsombudsmannen",
+          "correctAnswerAr": "B. أمين مظالم التمييز"
+        },
+        {
+          "question": {
+            "sv": "30- Vad är ett hatbrott?",
+            "ar": "30- ما هي جريمة الكراهية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett brott mot staten",
+              "textAr": "A. جريمة ضد الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett brott som begås mot någon på grund av exempelvis religion, etnicitet eller sexuell läggning",
+              "textAr": "B. جريمة تُرتكب ضد شخص بسبب الدين أو العرق أو التوجه الجنسي مثلًا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett trafikbrott",
+              "textAr": "C. جريمة مرورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett ekonomiskt brott",
+              "textAr": "D. جريمة اقتصادية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett brott som begås mot någon på grund av exempelvis religion, etnicitet eller sexuell läggning",
+          "correctAnswerAr": "B. جريمة تُرتكب ضد شخص بسبب الدين أو العرق أو التوجه الجنسي مثلًا"
+        },
+
+        {
+          "question": {
+            "sv": "31- Vad är en mänsklig rättighet?",
+            "ar": "31- ما هو حق من حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En rättighet som bara vissa personer har",
+              "textAr": "A. حق يمتلكه بعض الأشخاص فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. En grundläggande rättighet som alla människor har",
+              "textAr": "B. حق أساسي يمتلكه جميع الناس",
+              "correct": true
+            },
+            {
+              "textSv": "C. En rättighet som staten kan ta bort när som helst",
+              "textAr": "C. حق يمكن للدولة إزالته في أي وقت",
+              "correct": false
+            },
+            {
+              "textSv": "D. En rättighet bara för vuxna",
+              "textAr": "D. حق للبالغين فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En grundläggande rättighet som alla människor har",
+          "correctAnswerAr": "B. حق أساسي يمتلكه جميع الناس"
+        },
+        {
+          "question": {
+            "sv": "32- Vilket land gäller mänskliga rättigheter för?",
+            "ar": "32- في أي دولة تنطبق حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bara Sverige",
+              "textAr": "A. السويد فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara Europa",
+              "textAr": "B. أوروبا فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla länder i världen",
+              "textAr": "C. جميع دول العالم",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara rika länder",
+              "textAr": "D. الدول الغنية فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Alla länder i världen",
+          "correctAnswerAr": "C. جميع دول العالم"
+        },
+        {
+          "question": {
+            "sv": "33- Vad är yttrandefrihet?",
+            "ar": "33- ما هي حرية التعبير؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätten att säga vad man tycker",
+              "textAr": "A. الحق في التعبير عن الرأي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Rätten att alltid få rätt",
+              "textAr": "B. الحق في أن تكون دائمًا على صواب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Rätten att bestämma över andra",
+              "textAr": "C. الحق في التحكم بالآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätten att bryta mot lagen",
+              "textAr": "D. الحق في مخالفة القانون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rätten att säga vad man tycker",
+          "correctAnswerAr": "A. الحق في التعبير عن الرأي"
+        },
+        {
+          "question": {
+            "sv": "34- Vad är religionsfrihet?",
+            "ar": "34- ما هي حرية الدين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla måste ha samma religion",
+              "textAr": "A. أن يكون للجميع نفس الدين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att få välja religion eller inte ha någon religion",
+              "textAr": "B. اختيار الدين أو عدم اتباع أي دين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att staten bestämmer religion",
+              "textAr": "C. أن تحدد الدولة الدين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att religion är förbjudet",
+              "textAr": "D. أن الدين ممنوع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att få välja religion eller inte ha någon religion",
+          "correctAnswerAr": "B. اختيار الدين أو عدم اتباع أي دين"
+        },
+        {
+          "question": {
+            "sv": "35- Vad innebär rösträtt?",
+            "ar": "35- ماذا يعني حق التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätten att delta i val",
+              "textAr": "A. الحق في المشاركة في الانتخابات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Rätten att bestämma över alla",
+              "textAr": "B. الحق في التحكم بالجميع",
+              "correct": false
+            },
+            {
+              "textSv": "C. Rätten att slippa följa lagen",
+              "textAr": "C. الحق في عدم اتباع القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätten att få pengar från staten",
+              "textAr": "D. الحق في الحصول على المال من الدولة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rätten att delta i val",
+          "correctAnswerAr": "A. الحق في المشاركة في الانتخابات"
+        },
+
+        {
+          "question": {
+            "sv": "36- Vad innebär religionsfrihet i Sverige?",
+            "ar": "36- ماذا تعني حرية الدين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla måste ha samma religion",
+              "textAr": "A. يجب أن يكون للجميع نفس الدين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla får välja religion eller avstå från religion",
+              "textAr": "B. يحق للجميع اختيار الدين أو عدم اتباع دين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Staten bestämmer vilken religion man ska ha",
+              "textAr": "C. الدولة تحدد الدين الذي يجب اتباعه",
+              "correct": false
+            },
+            {
+              "textSv": "D. Religion är förbjudet",
+              "textAr": "D. الدين ممنوع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Alla får välja religion eller avstå från religion",
+          "correctAnswerAr": "B. يحق للجميع اختيار الدين أو عدم اتباع دين"
+        },
+        {
+          "question": {
+            "sv": "37- Vad betyder allas lika värde?",
+            "ar": "37- ماذا يعني أن جميع الناس لهم نفس القيمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla människor är värda lika mycket",
+              "textAr": "A. جميع الناس لهم نفس القيمة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara vuxna har värde",
+              "textAr": "B. البالغون فقط لهم قيمة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Rika människor är mer värda",
+              "textAr": "C. الأغنياء أكثر قيمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Staten bestämmer människors värde",
+              "textAr": "D. الدولة تحدد قيمة الناس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Alla människor är värda lika mycket",
+          "correctAnswerAr": "A. جميع الناس لهم نفس القيمة"
+        },
+        {
+          "question": {
+            "sv": "38- Vad är demokrati?",
+            "ar": "38- ما هي الديمقراطية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett system där folket kan påverka beslut",
+              "textAr": "A. نظام يستطيع فيه الشعب التأثير على القرارات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett system där en person bestämmer allt",
+              "textAr": "B. نظام يقرر فيه شخص واحد كل شيء",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett system utan lagar",
+              "textAr": "C. نظام بدون قوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett system där ingen får rösta",
+              "textAr": "D. نظام لا يسمح لأحد بالتصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ett system där folket kan påverka beslut",
+          "correctAnswerAr": "A. نظام يستطيع فيه الشعب التأثير على القرارات"
+        },
+        {
+          "question": {
+            "sv": "39- Vilken myndighet arbetar mot diskriminering i Sverige?",
+            "ar": "39- أي هيئة تعمل ضد التمييز في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Diskrimineringsombudsmannen (DO)",
+              "textAr": "A. أمين مظالم التمييز (DO)",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skolan",
+              "textAr": "C. المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Banken",
+              "textAr": "D. البنك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Diskrimineringsombudsmannen (DO)",
+          "correctAnswerAr": "A. أمين مظالم التمييز (DO)"
+        },
+        {
+          "question": {
+            "sv": "40- Vad är barns rättigheter?",
+            "ar": "40- ما هي حقوق الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rättigheter som skyddar barn och deras behov",
+              "textAr": "A. حقوق تحمي الأطفال واحتياجاتهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Rättigheter bara för vuxna",
+              "textAr": "B. حقوق للبالغين فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Regler som barn inte behöver följa",
+              "textAr": "C. قواعد لا يحتاج الأطفال إلى اتباعها",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rättigheter som gäller bara i skolan",
+              "textAr": "D. حقوق تنطبق فقط في المدرسة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rättigheter som skyddar barn och deras behov",
+          "correctAnswerAr": "A. حقوق تحمي الأطفال واحتياجاتهم"
+        },
+        {
+          "question": {
+            "sv": "41- Vad är skolans ansvar enligt barnets rättigheter?",
+            "ar": "41- ما مسؤولية المدرسة حسب حقوق الطفل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att ge barn utbildning och trygghet",
+              "textAr": "A. توفير التعليم والأمان للأطفال",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bestämma barnets framtid helt",
+              "textAr": "B. تحديد مستقبل الطفل بالكامل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att hindra barn från att uttrycka sig",
+              "textAr": "C. منع الأطفال من التعبير عن أنفسهم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att behandla barn olika",
+              "textAr": "D. معاملة الأطفال بشكل مختلف",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att ge barn utbildning och trygghet",
+          "correctAnswerAr": "A. توفير التعليم والأمان للأطفال"
+        },
+        {
+          "question": {
+            "sv": "42- Vad innebär rättvisa?",
+            "ar": "42- ماذا تعني العدالة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att människor behandlas på ett rättvist sätt",
+              "textAr": "A. معاملة الناس بطريقة عادلة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att vissa får fler rättigheter",
+              "textAr": "B. أن يحصل بعض الأشخاص على حقوق أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara rika får hjälp",
+              "textAr": "C. أن يحصل الأغنياء فقط على المساعدة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att lagen inte gäller alla",
+              "textAr": "D. أن القانون لا ينطبق على الجميع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att människor behandlas på ett rättvist sätt",
+          "correctAnswerAr": "A. معاملة الناس بطريقة عادلة"
+        },
+        {
+          "question": {
+            "sv": "43- Vad betyder integritet?",
+            "ar": "43- ماذا تعني الخصوصية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätten till ett privat liv",
+              "textAr": "A. الحق في حياة خاصة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Rätten att bestämma över andra",
+              "textAr": "B. الحق في التحكم بالآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Rätten att bryta mot lagen",
+              "textAr": "C. الحق في مخالفة القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätten att ta andras saker",
+              "textAr": "D. الحق في أخذ أشياء الآخرين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rätten till ett privat liv",
+          "correctAnswerAr": "A. الحق في حياة خاصة"
+        },
+        {
+          "question": {
+            "sv": "44- Vad skyddar lagen mot diskriminering?",
+            "ar": "44- مما يحمي قانون التمييز؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Orättvis behandling",
+              "textAr": "A. المعاملة غير العادلة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla lagar",
+              "textAr": "B. جميع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla konflikter",
+              "textAr": "C. جميع النزاعات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla sjukdomar",
+              "textAr": "D. جميع الأمراض",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Orättvis behandling",
+          "correctAnswerAr": "A. المعاملة غير العادلة"
+        },
+        {
+          "question": {
+            "sv": "45- Vad är ett exempel på diskrimineringsgrund?",
+            "ar": "45- ما مثال على سبب من أسباب التمييز؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kön eller religion",
+              "textAr": "A. الجنس أو الدين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Favoritmat",
+              "textAr": "B. الطعام المفضل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Hårfärg som hobby",
+              "textAr": "C. لون الشعر كهواية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Musiksmak",
+              "textAr": "D. الذوق الموسيقي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kön eller religion",
+          "correctAnswerAr": "A. الجنس أو الدين"
+        },
+        {
+          "question": {
+            "sv": "46- Vilken rättighet har människor med funktionsnedsättning?",
+            "ar": "46- ما هو الحق الذي يمتلكه الأشخاص ذوو الإعاقة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samma rättigheter och möjligheter som andra",
+              "textAr": "A. نفس الحقوق والفرص مثل الآخرين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Färre rättigheter",
+              "textAr": "B. حقوق أقل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ingen rätt till utbildning",
+              "textAr": "C. لا يوجد حق في التعليم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen rätt att arbeta",
+              "textAr": "D. لا يوجد حق في العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samma rättigheter och möjligheter som andra",
+          "correctAnswerAr": "A. نفس الحقوق والفرص مثل الآخرين"
+        },
+
+        {
+          "question": {
+            "sv": "47- Vad innebär mänsklig värdighet?",
+            "ar": "47- ماذا تعني الكرامة الإنسانية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla människor ska behandlas med respekt",
+              "textAr": "A. أن يعامل جميع الناس باحترام",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att vissa människor är viktigare än andra",
+              "textAr": "B. أن بعض الناس أهم من الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara vuxna har värde",
+              "textAr": "C. أن البالغين فقط لهم قيمة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att staten bestämmer människors värde",
+              "textAr": "D. أن الدولة تحدد قيمة الناس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att alla människor ska behandlas med respekt",
+          "correctAnswerAr": "A. أن يعامل جميع الناس باحترام"
+        },
+        {
+          "question": {
+            "sv": "48- Vad betyder likabehandling?",
+            "ar": "48- ماذا تعني المعاملة المتساوية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla ska behandlas på samma rättvisa sätt",
+              "textAr": "A. أن يعامل الجميع بطريقة عادلة ومتساوية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bara vissa grupper får hjälp",
+              "textAr": "B. أن تحصل مجموعات معينة فقط على المساعدة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att människor inte har rättigheter",
+              "textAr": "C. أن الناس ليس لديهم حقوق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att lagen gäller olika för olika personer",
+              "textAr": "D. أن القانون يطبق بشكل مختلف على الأشخاص",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att alla ska behandlas på samma rättvisa sätt",
+          "correctAnswerAr": "A. أن يعامل الجميع بطريقة عادلة ومتساوية"
+        },
+        {
+          "question": {
+            "sv": "49- Vad är ett exempel på en mänsklig rättighet?",
+            "ar": "49- ما مثال على أحد حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätten till utbildning",
+              "textAr": "A. الحق في التعليم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Rätten att skada andra",
+              "textAr": "B. الحق في إيذاء الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Rätten att bryta mot lagen",
+              "textAr": "C. الحق في مخالفة القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätten att diskriminera",
+              "textAr": "D. الحق في التمييز ضد الآخرين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rätten till utbildning",
+          "correctAnswerAr": "A. الحق في التعليم"
+        },
+        {
+          "question": {
+            "sv": "50- Vad är FN:s roll när det gäller mänskliga rättigheter?",
+            "ar": "50- ما دور الأمم المتحدة فيما يتعلق بحقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att arbeta för att skydda mänskliga rättigheter",
+              "textAr": "A. العمل على حماية حقوق الإنسان",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bestämma över alla människor",
+              "textAr": "B. التحكم بجميع الناس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att ta bort alla lagar",
+              "textAr": "C. إزالة جميع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att förbjuda utbildning",
+              "textAr": "D. منع التعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att arbeta för att skydda mänskliga rättigheter",
+          "correctAnswerAr": "A. العمل على حماية حقوق الإنسان"
+        },
+        {
+          "question": {
+            "sv": "51- Vad innebär barns rätt att komma till tals?",
+            "ar": "51- ماذا يعني حق الأطفال في التعبير عن رأيهم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Barn ska få säga vad de tycker",
+              "textAr": "A. يجب أن يُسمح للأطفال بالتعبير عن رأيهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Barn får aldrig prata",
+              "textAr": "B. لا يسمح للأطفال بالكلام",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara vuxna får bestämma allt",
+              "textAr": "C. البالغون فقط يقررون كل شيء",
+              "correct": false
+            },
+            {
+              "textSv": "D. Barn har inga åsikter",
+              "textAr": "D. الأطفال ليس لديهم آراء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Barn ska få säga vad de tycker",
+          "correctAnswerAr": "A. يجب أن يُسمح للأطفال بالتعبير عن رأيهم"
+        },
+        {
+          "question": {
+            "sv": "52- Vad är förbjudet enligt svensk lag?",
+            "ar": "52- ما هو الممنوع حسب القانون السويدي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Diskriminering",
+              "textAr": "A. التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att utbilda sig",
+              "textAr": "B. الحصول على التعليم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att rösta",
+              "textAr": "C. التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att ha åsikter",
+              "textAr": "D. امتلاك آراء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Diskriminering",
+          "correctAnswerAr": "A. التمييز"
+        },
+        {
+          "question": {
+            "sv": "53- Vad är jämställdhet mellan kvinnor och män?",
+            "ar": "53- ما هي المساواة بين النساء والرجال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samma rättigheter och möjligheter",
+              "textAr": "A. نفس الحقوق والفرص",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kvinnor har fler rättigheter",
+              "textAr": "B. النساء لديهن حقوق أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Män har fler rättigheter",
+              "textAr": "C. الرجال لديهم حقوق أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen har rättigheter",
+              "textAr": "D. لا أحد لديه حقوق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samma rättigheter och möjligheter",
+          "correctAnswerAr": "A. نفس الحقوق والفرص"
+        },
+        {
+          "question": {
+            "sv": "54- Vad skyddar barn från våld?",
+            "ar": "54- ما الذي يحمي الأطفال من العنف؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Lagen och barnets rättigheter",
+              "textAr": "A. القانون وحقوق الطفل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att barn inte går i skolan",
+              "textAr": "B. عدم ذهاب الأطفال إلى المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att vuxna får göra vad de vill",
+              "textAr": "C. أن يفعل البالغون ما يريدون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att barn inte får prata",
+              "textAr": "D. عدم السماح للأطفال بالكلام",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Lagen och barnets rättigheter",
+          "correctAnswerAr": "A. القانون وحقوق الطفل"
+        },
+        {
+          "question": {
+            "sv": "55- Vad är ett samhälle med mänskliga rättigheter?",
+            "ar": "55- ما هو المجتمع الذي يحترم حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett samhälle där alla respekteras",
+              "textAr": "A. مجتمع يحترم فيه الجميع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett samhälle där vissa grupper har färre rättigheter",
+              "textAr": "B. مجتمع فيه بعض المجموعات لديها حقوق أقل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett samhälle utan lagar",
+              "textAr": "C. مجتمع بدون قوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett samhälle utan utbildning",
+              "textAr": "D. مجتمع بدون تعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ett samhälle där alla respekteras",
+          "correctAnswerAr": "A. مجتمع يحترم فيه الجميع"
+        },
+        {
+          "question": {
+            "sv": "56- Vad betyder frihet?",
+            "ar": "56- ماذا تعني الحرية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att människor kan göra val inom lagens gränser",
+              "textAr": "A. أن يستطيع الناس الاختيار ضمن حدود القانون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att ingen behöver följa lagen",
+              "textAr": "B. أن لا أحد يحتاج إلى اتباع القانون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att vissa människor bestämmer över andra",
+              "textAr": "C. أن بعض الناس يتحكمون بالآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att rättigheter bara gäller några",
+              "textAr": "D. أن الحقوق تخص البعض فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att människor kan göra val inom lagens gränser",
+          "correctAnswerAr": "A. أن يستطيع الناس الاختيار ضمن حدود القانون"
+        },
+        {
+          "question": {
+            "sv": "57- Vad är ansvar i ett demokratiskt samhälle?",
+            "ar": "57- ما هو المسؤولية في المجتمع الديمقراطي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att respektera andras rättigheter",
+              "textAr": "A. احترام حقوق الآخرين",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att ignorera andra människor",
+              "textAr": "B. تجاهل الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bryta mot lagar",
+              "textAr": "C. خرق القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att diskriminera",
+              "textAr": "D. التمييز ضد الآخرين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att respektera andras rättigheter",
+          "correctAnswerAr": "A. احترام حقوق الآخرين"
+        },
+        {
+          "question": {
+            "sv": "58- Vad är ett hatbrott riktat mot?",
+            "ar": "58- ضد ماذا تكون جريمة الكراهية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En person på grund av exempelvis religion eller etnicitet",
+              "textAr": "A. شخص بسبب الدين أو الأصل العرقي مثلًا",
+              "correct": true
+            },
+            {
+              "textSv": "B. En bil",
+              "textAr": "B. سيارة",
+              "correct": false
+            },
+            {
+              "textSv": "C. En byggnad",
+              "textAr": "C. مبنى",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett väderproblem",
+              "textAr": "D. مشكلة جوية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En person på grund av exempelvis religion eller etnicitet",
+          "correctAnswerAr": "A. شخص بسبب الدين أو الأصل العرقي مثلًا"
+        },
+        {
+          "question": {
+            "sv": "59- Var skyddas mänskliga rättigheter?",
+            "ar": "59- أين يتم حماية حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom lagar och internationella överenskommelser",
+              "textAr": "A. من خلال القوانين والاتفاقيات الدولية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara genom familjens regler",
+              "textAr": "B. فقط من خلال قواعد العائلة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara i skolan",
+              "textAr": "C. فقط في المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingenstans",
+              "textAr": "D. في أي مكان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Genom lagar och internationella överenskommelser",
+          "correctAnswerAr": "A. من خلال القوانين والاتفاقيات الدولية"
+        },
+        {
+          "question": {
+            "sv": "60- Varför är mänskliga rättigheter viktiga?",
+            "ar": "60- لماذا تعتبر حقوق الإنسان مهمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att skydda människors frihet och värdighet",
+              "textAr": "A. لحماية حرية وكرامة الإنسان",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att ge vissa människor mer makt",
+              "textAr": "B. لإعطاء بعض الناس قوة أكبر",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att skapa diskriminering",
+              "textAr": "C. لإنشاء التمييز",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att ta bort människors rättigheter",
+              "textAr": "D. لإزالة حقوق الناس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att skydda människors frihet och värdighet",
+          "correctAnswerAr": "A. لحماية حرية وكرامة الإنسان"
+        }
+      ]
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
     }
   ]
 }
