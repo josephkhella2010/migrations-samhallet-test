@@ -169,8 +169,8 @@ export default function QuestionDetails() {
   const { t } = useTranslation();
   const { id } = useParams();
 
-  const language = useSelector((state: RootState) => state.languageSlice.lang);
-  const currentLanguage = language === "sv" ? "sv" : "ar";
+  const { lang } = useSelector((state: RootState) => state.languageSlice);
+  const currentLanguage = lang === "sv" ? "sv" : "ar";
 
   const { question } = useSelector((state: RootState) => state.questionsSlice);
 
@@ -240,7 +240,7 @@ export default function QuestionDetails() {
     <div className={classes.page}>
       <div className={classes.questionContainer}>
         <h1 className={classes.lessonTitle}>
-          {language === "sv"
+          {lang === "sv"
             ? question?.lessonTitle.sv || `Lesson ${id}`
             : question?.lessonTitle.ar || `Lesson ${id}`}
         </h1>
