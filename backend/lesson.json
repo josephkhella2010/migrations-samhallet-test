@@ -2507,14 +2507,500 @@
       }
     },
     {
-      "lessonId": 5,
+      "lessonId": 7,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel sju: Kapitel 7 – Mänskliga rättigheter",
+        "arabic": "الفصل السابع – حقوق الإنسان"
       },
       "sections": {
-        "swedish": [],
-        "arabic": []
+        "swedish": [
+          {
+            "title": "1. Mänskliga rättigheter",
+            "subtitle": "Vad är mänskliga rättigheter?",
+            "text": "Mänskliga rättigheter bygger på idén att alla människor är lika mycket värda och har samma grundläggande rättigheter. Efter andra världskriget bildades FN för att skydda människors rättigheter och främja fred.",
+            "list": [
+              "gäller alla människor",
+              "alla är lika i värde och rättigheter",
+              "skyddas av FN",
+              "ska motverka diskriminering",
+              "stärker frihet och jämlikhet"
+            ]
+          },
+          {
+            "title": "2. FN:s förklaring om de mänskliga rättigheterna",
+            "subtitle": "Vad beslutade FN 1948?",
+            "text": "År 1948 antog FN den allmänna förklaringen om de mänskliga rättigheterna som innehåller 30 artiklar om människors fri- och rättigheter.",
+            "list": [
+              "alla människor är födda fria",
+              "rätt till utbildning",
+              "rätt till sjukvård",
+              "rätt till arbete",
+              "rätt till religion",
+              "rätt att uttrycka sina åsikter",
+              "rätt att söka asyl"
+            ]
+          },
+          {
+            "title": "3. Diskriminering",
+            "subtitle": "Vad betyder diskriminering?",
+            "text": "Diskriminering innebär att människor behandlas sämre än andra på grund av exempelvis kön, religion eller etnicitet.",
+            "list": [
+              "förbjudet enligt svensk lag",
+              "strider mot mänskliga rättigheter",
+              "skydd mot diskriminering finns i diskrimineringslagen",
+              "alla ska behandlas lika"
+            ]
+          },
+          {
+            "title": "4. Jämställdhet mellan kvinnor och män",
+            "subtitle": "Vad är jämställdhet?",
+            "text": "Jämställdhet innebär att kvinnor och män ska ha samma rättigheter, skyldigheter och möjligheter i samhället.",
+            "list": [
+              "lika rättigheter",
+              "lika skyldigheter",
+              "lika möjligheter",
+              "lika lön för lika arbete",
+              "lika inflytande i samhället"
+            ]
+          },
+          {
+            "title": "5. Sveriges arbete för jämställdhet",
+            "subtitle": "Hur arbetar Sverige med jämställdhet?",
+            "text": "Sverige arbetar aktivt för att kvinnor och män ska ha samma möjligheter inom politik, arbete och utbildning.",
+            "list": [
+              "fler kvinnor i politiken",
+              "lika lön för lika arbete",
+              "lika utbildningsmöjligheter",
+              "delad föräldraledighet",
+              "motverkar diskriminering"
+            ]
+          },
+          {
+            "title": "6. Våld i nära relationer",
+            "subtitle": "Vad är våld i nära relationer?",
+            "text": "Våld i nära relationer innebär att någon utsätts för våld av en partner eller familjemedlem.",
+            "list": [
+              "förbjudet enligt lag",
+              "kan vara fysiskt våld",
+              "kan vara psykiskt våld",
+              "kan vara sexuellt våld",
+              "samhället erbjuder stöd"
+            ]
+          },
+          {
+            "title": "7. Samtyckeslagen",
+            "subtitle": "Vad innebär samtycke?",
+            "text": "Samtyckeslagen innebär att sex alltid måste vara frivilligt för alla inblandade.",
+            "list": [
+              "frivilligt deltagande krävs",
+              "gäller även gifta personer",
+              "skyddar individens rättigheter",
+              "sexuella handlingar utan samtycke är brott"
+            ]
+          },
+          {
+            "title": "8. Hedersrelaterat våld och förtryck",
+            "subtitle": "Vad är hedersförtryck?",
+            "text": "Hedersrelaterat våld och förtryck innebär att familj eller släkt försöker kontrollera en persons liv genom hot, press eller våld.",
+            "list": [
+              "förbjudet enligt lag",
+              "kan vara psykiskt våld",
+              "kan vara fysiskt våld",
+              "tvångsäktenskap är förbjudet",
+              "drabbar både kvinnor och män"
+            ]
+          },
+          {
+            "title": "9. Barnäktenskap",
+            "subtitle": "Är barnäktenskap tillåtet?",
+            "text": "Barnäktenskap är förbjudet i Sverige. Ingen person under 18 år får giftas bort.",
+            "list": [
+              "förbjudet enligt lag",
+              "skyddar barns rättigheter",
+              "en del av arbetet mot hedersförtryck"
+            ]
+          },
+          {
+            "title": "10. Sexköpslagen",
+            "subtitle": "Vad säger sexköpslagen?",
+            "text": "I Sverige är det förbjudet att köpa sex. Den som köper sex kan straffas.",
+            "list": [
+              "köp av sex är olagligt",
+              "säljaren straffas normalt inte",
+              "skyddar utsatta personer",
+              "motverkar exploatering"
+            ]
+          },
+          {
+            "title": "11. Barnkonventionen",
+            "subtitle": "Vad är Barnkonventionen?",
+            "text": "Barnkonventionen är FN:s konvention om barns rättigheter. Sedan 2020 är den svensk lag.",
+            "list": [
+              "skyddar barns rättigheter",
+              "gäller alla barn",
+              "svensk lag sedan 2020",
+              "barns bästa ska beaktas"
+            ]
+          },
+          {
+            "title": "12. Barns rättigheter",
+            "subtitle": "Vilka rättigheter har barn?",
+            "text": "Barn har rätt till trygghet, utbildning, hälsa och att bli lyssnade på.",
+            "list": [
+              "rätt till utbildning",
+              "rätt till skydd",
+              "rätt till sjukvård",
+              "rätt att uttrycka sin åsikt",
+              "rätt att inte diskrimineras"
+            ]
+          },
+          {
+            "title": "13. Förbud mot våld mot barn",
+            "subtitle": "Får man slå barn i Sverige?",
+            "text": "Nej. Sverige var först i världen med att förbjuda barnaga år 1979.",
+            "list": [
+              "all form av våld är förbjuden",
+              "gäller hemma och i samhället",
+              "misshandel är brottsligt",
+              "skyddar barns trygghet"
+            ]
+          },
+          {
+            "title": "14. Nationella minoriteter",
+            "subtitle": "Vilka är Sveriges nationella minoriteter?",
+            "text": "Sverige erkände år 2000 fem nationella minoriteter.",
+            "list": [
+              "judar",
+              "romer",
+              "samer",
+              "sverigefinnar",
+              "tornedalingar"
+            ]
+          },
+          {
+            "title": "15. Minoritetsspråk",
+            "subtitle": "Vilka språk är skyddade?",
+            "text": "Nationella minoriteter har rätt att använda sina språk i kontakt med myndigheter.",
+            "list": [
+              "jiddisch",
+              "romani chib",
+              "samiska",
+              "finska",
+              "meänkieli"
+            ]
+          },
+          {
+            "title": "16. Samerna",
+            "subtitle": "Vilka är samerna?",
+            "text": "Samerna är Sveriges urfolk och har särskilda rättigheter kopplade till kultur, språk och mark.",
+            "list": [
+              "Sveriges urfolk",
+              "eget folkvalt parlament",
+              "Sametinget",
+              "rätt till renskötsel",
+              "skydd av kultur och språk"
+            ]
+          },
+          {
+            "title": "17. Sametinget",
+            "subtitle": "Vad är Sametinget?",
+            "text": "Sametinget är samernas folkvalda parlament och arbetar med frågor som rör samisk kultur och identitet.",
+            "list": [
+              "representerar samer",
+              "arbetar med språkfrågor",
+              "arbetar med kulturfrågor",
+              "har vissa myndighetsuppgifter"
+            ]
+          },
+          {
+            "title": "18. HBTQI-personers rättigheter",
+            "subtitle": "Vilka rättigheter har HBTQI-personer?",
+            "text": "Alla människor har rätt att leva som de vill oavsett sexuell läggning eller könsidentitet.",
+            "list": [
+              "skydd mot diskriminering",
+              "rätt att gifta sig",
+              "rätt att adoptera barn",
+              "lika rättigheter för alla"
+            ]
+          },
+          {
+            "title": "19. Personer med funktionsnedsättning",
+            "subtitle": "Vilka rättigheter har personer med funktionsnedsättning?",
+            "text": "Personer med funktionsnedsättning ska kunna delta i samhället på lika villkor.",
+            "list": [
+              "skydd mot diskriminering",
+              "rätt till delaktighet",
+              "lika möjligheter",
+              "särskilt stöd vid behov"
+            ]
+          },
+          {
+            "title": "20. Arbetet mot diskriminering",
+            "subtitle": "Vem arbetar mot diskriminering?",
+            "text": "Diskrimineringsombudsmannen (DO) arbetar för allas lika rättigheter och ser till att diskrimineringslagen följs.",
+            "list": [
+              "DO är en myndighet",
+              "arbetar mot diskriminering",
+              "skyddar lika rättigheter",
+              "övervakar diskrimineringslagen"
+            ]
+          },
+          {
+            "title": "21. Hatbrott",
+            "subtitle": "Vad är ett hatbrott?",
+            "text": "Ett hatbrott är ett brott som begås mot någon på grund av exempelvis religion, etnicitet, sexuell läggning eller annan grupptillhörighet.",
+            "list": [
+              "riktas mot en viss grupp",
+              "leder ofta till strängare straff",
+              "förbjudet enligt lag",
+              "motverkas av samhället"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. حقوق الإنسان",
+            "subtitle": "ما هي حقوق الإنسان؟",
+            "text": "تقوم حقوق الإنسان على فكرة أن جميع البشر متساوون في القيمة ولهم نفس الحقوق الأساسية. بعد الحرب العالمية الثانية تأسست الأمم المتحدة لحماية حقوق الإنسان وتعزيز السلام.",
+            "list": [
+              "تنطبق على جميع البشر",
+              "الجميع متساوون في القيمة والحقوق",
+              "تحميها الأمم المتحدة",
+              "تهدف إلى مكافحة التمييز",
+              "تعزز الحرية والمساواة"
+            ]
+          },
+          {
+            "title": "2. إعلان الأمم المتحدة لحقوق الإنسان",
+            "subtitle": "ماذا قررت الأمم المتحدة عام 1948؟",
+            "text": "في عام 1948 اعتمدت الأمم المتحدة الإعلان العالمي لحقوق الإنسان الذي يتضمن 30 مادة حول الحقوق والحريات الأساسية للإنسان.",
+            "list": [
+              "جميع البشر يولدون أحرارًا",
+              "الحق في التعليم",
+              "الحق في الرعاية الصحية",
+              "الحق في العمل",
+              "الحق في الدين",
+              "الحق في التعبير عن الرأي",
+              "الحق في طلب اللجوء"
+            ]
+          },
+          {
+            "title": "3. التمييز",
+            "subtitle": "ما معنى التمييز؟",
+            "text": "التمييز يعني معاملة بعض الأشخاص بشكل أسوأ من غيرهم بسبب الجنس أو الدين أو الأصل العرقي أو غير ذلك.",
+            "list": [
+              "ممنوع بموجب القانون السويدي",
+              "يتعارض مع حقوق الإنسان",
+              "يوجد قانون يحمي من التمييز",
+              "يجب معاملة الجميع على قدم المساواة"
+            ]
+          },
+          {
+            "title": "4. المساواة بين النساء والرجال",
+            "subtitle": "ما هي المساواة؟",
+            "text": "المساواة تعني أن النساء والرجال يجب أن يتمتعوا بنفس الحقوق والواجبات والفرص في المجتمع.",
+            "list": [
+              "حقوق متساوية",
+              "واجبات متساوية",
+              "فرص متساوية",
+              "أجر متساوٍ للعمل المتساوي",
+              "تأثير ومشاركة متساوية في المجتمع"
+            ]
+          },
+          {
+            "title": "5. عمل السويد من أجل المساواة",
+            "subtitle": "كيف تعمل السويد على تحقيق المساواة؟",
+            "text": "تعمل السويد بشكل نشط لضمان حصول النساء والرجال على نفس الفرص في السياسة والعمل والتعليم.",
+            "list": [
+              "زيادة مشاركة النساء في السياسة",
+              "أجر متساوٍ للعمل المتساوي",
+              "فرص تعليم متساوية",
+              "تقاسم إجازة الوالدين",
+              "مكافحة التمييز"
+            ]
+          },
+          {
+            "title": "6. العنف في العلاقات القريبة",
+            "subtitle": "ما هو العنف في العلاقات القريبة؟",
+            "text": "يعني أن يتعرض شخص للعنف من قبل شريك أو أحد أفراد الأسرة.",
+            "list": [
+              "ممنوع بموجب القانون",
+              "قد يكون عنفًا جسديًا",
+              "قد يكون عنفًا نفسيًا",
+              "قد يكون عنفًا جنسيًا",
+              "المجتمع يقدم الدعم للضحايا"
+            ]
+          },
+          {
+            "title": "7. قانون الرضا",
+            "subtitle": "ماذا يعني الرضا؟",
+            "text": "يعني قانون الرضا أن أي علاقة جنسية يجب أن تكون طوعية وبموافقة جميع الأطراف.",
+            "list": [
+              "يشترط المشاركة الطوعية",
+              "ينطبق أيضًا على المتزوجين",
+              "يحمي حقوق الفرد",
+              "الأفعال الجنسية دون رضا تعتبر جريمة"
+            ]
+          },
+          {
+            "title": "8. العنف والقمع المرتبطان بالشرف",
+            "subtitle": "ما هو القمع المرتبط بالشرف؟",
+            "text": "هو محاولة الأسرة أو الأقارب التحكم في حياة شخص ما من خلال التهديد أو الضغط أو العنف.",
+            "list": [
+              "ممنوع بموجب القانون",
+              "قد يكون عنفًا نفسيًا",
+              "قد يكون عنفًا جسديًا",
+              "الزواج القسري ممنوع",
+              "يؤثر على النساء والرجال"
+            ]
+          },
+          {
+            "title": "9. زواج الأطفال",
+            "subtitle": "هل زواج الأطفال مسموح؟",
+            "text": "زواج الأطفال ممنوع في السويد، ولا يجوز تزويج أي شخص يقل عمره عن 18 عامًا.",
+            "list": [
+              "ممنوع بموجب القانون",
+              "يحمي حقوق الأطفال",
+              "جزء من مكافحة القمع المرتبط بالشرف"
+            ]
+          },
+          {
+            "title": "10. قانون شراء الخدمات الجنسية",
+            "subtitle": "ماذا ينص قانون شراء الخدمات الجنسية؟",
+            "text": "في السويد يُحظر شراء الخدمات الجنسية، ويمكن معاقبة من يقوم بذلك.",
+            "list": [
+              "شراء الجنس غير قانوني",
+              "البائع لا يُعاقب عادةً",
+              "يحمي الأشخاص المستضعفين",
+              "يكافح الاستغلال"
+            ]
+          },
+          {
+            "title": "11. اتفاقية حقوق الطفل",
+            "subtitle": "ما هي اتفاقية حقوق الطفل؟",
+            "text": "اتفاقية حقوق الطفل هي اتفاقية الأمم المتحدة الخاصة بحقوق الأطفال، وأصبحت قانونًا سويديًا منذ عام 2020.",
+            "list": [
+              "تحمي حقوق الأطفال",
+              "تنطبق على جميع الأطفال",
+              "قانون سويدي منذ عام 2020",
+              "يجب مراعاة مصلحة الطفل الفضلى"
+            ]
+          },
+          {
+            "title": "12. حقوق الأطفال",
+            "subtitle": "ما هي حقوق الأطفال؟",
+            "text": "للأطفال الحق في الأمان والتعليم والصحة وأن يتم الاستماع إلى آرائهم.",
+            "list": [
+              "الحق في التعليم",
+              "الحق في الحماية",
+              "الحق في الرعاية الصحية",
+              "الحق في التعبير عن الرأي",
+              "الحق في عدم التعرض للتمييز"
+            ]
+          },
+          {
+            "title": "13. حظر العنف ضد الأطفال",
+            "subtitle": "هل يجوز ضرب الأطفال في السويد؟",
+            "text": "لا. كانت السويد أول دولة في العالم تحظر ضرب الأطفال عام 1979.",
+            "list": [
+              "جميع أشكال العنف ممنوعة",
+              "ينطبق الحظر في المنزل وفي المجتمع",
+              "الاعتداء جريمة",
+              "يحمي أمن الأطفال"
+            ]
+          },
+          {
+            "title": "14. الأقليات الوطنية",
+            "subtitle": "من هي الأقليات الوطنية في السويد؟",
+            "text": "اعترفت السويد عام 2000 بخمس أقليات وطنية.",
+            "list": [
+              "اليهود",
+              "الروما",
+              "الساميون",
+              "فنلنديو السويد",
+              "التورنيداليون"
+            ]
+          },
+          {
+            "title": "15. لغات الأقليات",
+            "subtitle": "ما هي اللغات المحمية؟",
+            "text": "للأقليات الوطنية الحق في استخدام لغاتها عند التواصل مع السلطات.",
+            "list": [
+              "اليديشية",
+              "روماني تشيب",
+              "السامية",
+              "الفنلندية",
+              "ميانكيلي"
+            ]
+          },
+          {
+            "title": "16. الساميون",
+            "subtitle": "من هم الساميون؟",
+            "text": "الساميون هم السكان الأصليون للسويد ولهم حقوق خاصة مرتبطة بالثقافة واللغة والأرض.",
+            "list": [
+              "السكان الأصليون للسويد",
+              "لديهم برلمان منتخب خاص بهم",
+              "البرلمان السامي",
+              "الحق في رعي الرنة",
+              "حماية الثقافة واللغة"
+            ]
+          },
+          {
+            "title": "17. البرلمان السامي",
+            "subtitle": "ما هو البرلمان السامي؟",
+            "text": "البرلمان السامي هو البرلمان المنتخب للشعب السامي ويعمل في القضايا المتعلقة بالثقافة والهوية السامية.",
+            "list": [
+              "يمثل الشعب السامي",
+              "يعمل في قضايا اللغة",
+              "يعمل في قضايا الثقافة",
+              "لديه بعض المهام الحكومية"
+            ]
+          },
+          {
+            "title": "18. حقوق الأشخاص من مجتمع HBTQI",
+            "subtitle": "ما هي حقوق الأشخاص من مجتمع HBTQI؟",
+            "text": "لكل إنسان الحق في أن يعيش كما يريد بغض النظر عن الميول الجنسية أو الهوية الجندرية.",
+            "list": [
+              "الحماية من التمييز",
+              "الحق في الزواج",
+              "الحق في تبني الأطفال",
+              "حقوق متساوية للجميع"
+            ]
+          },
+          {
+            "title": "19. الأشخاص ذوو الإعاقة",
+            "subtitle": "ما هي حقوق الأشخاص ذوي الإعاقة؟",
+            "text": "يجب أن يتمكن الأشخاص ذوو الإعاقة من المشاركة في المجتمع على قدم المساواة مع الآخرين.",
+            "list": [
+              "الحماية من التمييز",
+              "الحق في المشاركة",
+              "فرص متساوية",
+              "دعم خاص عند الحاجة"
+            ]
+          },
+          {
+            "title": "20. العمل ضد التمييز",
+            "subtitle": "من يعمل ضد التمييز؟",
+            "text": "يعمل أمين المظالم المعني بالتمييز (DO) من أجل ضمان الحقوق المتساوية للجميع والتأكد من تطبيق قانون مكافحة التمييز.",
+            "list": [
+              "DO هيئة حكومية",
+              "يعمل ضد التمييز",
+              "يحمي الحقوق المتساوية",
+              "يراقب تطبيق قانون مكافحة التمييز"
+            ]
+          },
+          {
+            "title": "21. جرائم الكراهية",
+            "subtitle": "ما هي جريمة الكراهية؟",
+            "text": "جريمة الكراهية هي جريمة تُرتكب ضد شخص بسبب دينه أو أصله العرقي أو ميوله الجنسية أو انتمائه إلى مجموعة معينة.",
+            "list": [
+              "تستهدف مجموعة معينة",
+              "غالبًا ما تؤدي إلى عقوبات أشد",
+              "ممنوعة بموجب القانون",
+              "يعمل المجتمع على مكافحتها"
+            ]
+          }
+        ]
       }
     },
     {

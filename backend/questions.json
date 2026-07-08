@@ -6874,10 +6874,911 @@
     {
       "lessonId": 7,
       "lessonTitle": {
-        "sv": "Kapitel två: Sveriges demokratiska system",
-        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "sv": "Kapitel sju: Kapitel 7 – Mänskliga rättigheter",
+        "arabic": "الفصل السابع – حقوق الإنسان"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad bygger mänskliga rättigheter på?",
+            "ar": "1- على ماذا تقوم حقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att vissa människor har fler rättigheter än andra",
+              "textAr": "A. أن بعض الناس لديهم حقوق أكثر من الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att alla människor är lika mycket värda och har samma grundläggande rättigheter",
+              "textAr": "B. أن جميع الناس متساوون في القيمة ولديهم نفس الحقوق الأساسية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att endast medborgare har rättigheter",
+              "textAr": "C. أن المواطنين فقط لديهم حقوق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att staten bestämmer människors rättigheter",
+              "textAr": "D. أن الدولة تحدد حقوق الناس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att alla människor är lika mycket värda och har samma grundläggande rättigheter",
+          "correctAnswerAr": "B. أن alla الناس متساوون في القيمة ولديهم نفس الحقوق الأساسية"
+        },
+        {
+          "question": {
+            "sv": "2- Vilken organisation antog den allmänna förklaringen om de mänskliga rättigheterna?",
+            "ar": "2- أي منظمة اعتمدت الإعلان العالمي لحقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. EU",
+              "textAr": "A. الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "B. NATO",
+              "textAr": "B. حلف الناتو",
+              "correct": false
+            },
+            {
+              "textSv": "C. FN",
+              "textAr": "C. الأمم المتحدة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Riksdagen",
+              "textAr": "D. البرلمان السويدي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. FN",
+          "correctAnswerAr": "C. الأمم المتحدة"
+        },
+        {
+          "question": {
+            "sv": "3- När antogs FN:s allmänna förklaring om de mänskliga rättigheterna?",
+            "ar": "3- متى تم اعتماد الإعلان العالمي لحقوق الإنسان للأمم المتحدة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1939",
+              "textAr": "A. 1939",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1945",
+              "textAr": "B. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1948",
+              "textAr": "C. 1948",
+              "correct": true
+            },
+            {
+              "textSv": "D. 1955",
+              "textAr": "D. 1955",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1948",
+          "correctAnswerAr": "C. 1948"
+        },
+        {
+          "question": {
+            "sv": "4- Vad betyder diskriminering?",
+            "ar": "4- ماذا يعني التمييز؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla behandlas lika",
+              "textAr": "A. أن يعامل الجميع بنفس الطريقة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att någon behandlas sämre än andra på grund av exempelvis kön eller religion",
+              "textAr": "B. أن يعامل شخص بشكل أسوأ بسبب الجنس أو الدين مثلًا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att följa lagen",
+              "textAr": "C. اتباع القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att rösta i val",
+              "textAr": "D. التصويت في الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att någon behandlas sämre än andra på grund av exempelvis kön eller religion",
+          "correctAnswerAr": "B. أن يعامل شخص بشكل أسوأ بسبب الجنس أو الدين مثلًا"
+        },
+        {
+          "question": {
+            "sv": "5- Är diskriminering tillåten i Sverige?",
+            "ar": "5- هل التمييز مسموح في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara ibland",
+              "textAr": "B. فقط أحيانًا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara på arbetsplatser",
+              "textAr": "C. فقط في أماكن العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Nej",
+              "textAr": "D. لا",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Nej",
+          "correctAnswerAr": "D. لا"
+        },
+        {
+          "question": {
+            "sv": "6- Vad innebär jämställdhet?",
+            "ar": "6- ماذا تعني المساواة بين الجنسين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att kvinnor bestämmer över män",
+              "textAr": "A. أن النساء يقررن كل شيء على الرجال",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att män bestämmer över kvinnor",
+              "textAr": "B. أن الرجال يقررون كل شيء على النساء",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att kvinnor och män har samma rättigheter, skyldigheter och möjligheter",
+              "textAr": "C. أن النساء والرجال لديهم نفس الحقوق والواجبات والفرص",
+              "correct": true
+            },
+            {
+              "textSv": "D. Att kvinnor och män alltid har samma yrke",
+              "textAr": "D. أن النساء والرجال دائمًا لديهم نفس المهنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Att kvinnor och män har samma rättigheter, skyldigheter och möjligheter",
+          "correctAnswerAr": "C. أن النساء والرجال لديهم نفس الحقوق والواجبات والفرص"
+        },
+        {
+          "question": {
+            "sv": "7- Vad innebär lika lön för lika arbete?",
+            "ar": "7- ماذا يعني أجر متساوٍ للعمل المتساوي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla får samma lön oavsett arbete",
+              "textAr": "A. الجميع يحصلون على نفس الراتب بغض النظر عن العمل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kvinnor ska få högre lön",
+              "textAr": "B. يجب أن تحصل النساء على راتب أعلى",
+              "correct": false
+            },
+            {
+              "textSv": "C. Män ska få högre lön",
+              "textAr": "C. يجب أن يحصل الرجال على راتب أعلى",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kvinnor och män ska få samma lön för samma arbete",
+              "textAr": "D. يجب أن تحصل النساء والرجال على نفس الراتب لنفس العمل",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Kvinnor och män ska få samma lön för samma arbete",
+          "correctAnswerAr": "D. يجب أن تحصل النساء والرجال على نفس الراتب لنفس العمل"
+        },
+        {
+          "question": {
+            "sv": "8- Vad är våld i nära relationer?",
+            "ar": "8- ما هو العنف في العلاقات القريبة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Våld från en okänd person",
+              "textAr": "A. العنف من شخص غريب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Våld från en partner eller familjemedlem",
+              "textAr": "B. العنف من شريك أو أحد أفراد العائلة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Våld i skolan",
+              "textAr": "C. العنف في المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Våld i trafiken",
+              "textAr": "D. العنف في حركة المرور",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Våld från en partner eller familjemedlem",
+          "correctAnswerAr": "B. العنف من شريك أو أحد أفراد العائلة"
+        },
+        {
+          "question": {
+            "sv": "9- Är våld i nära relationer lagligt i Sverige?",
+            "ar": "9- هل العنف في العلاقات القريبة قانوني في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara inom familjen",
+              "textAr": "B. فقط داخل العائلة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nej",
+              "textAr": "C. لا",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara om ingen anmäler",
+              "textAr": "D. فقط إذا لم يقدم أحد بلاغًا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nej",
+          "correctAnswerAr": "C. لا"
+        },
+        {
+          "question": {
+            "sv": "10- Vad innebär samtyckeslagen?",
+            "ar": "10- ماذا يعني قانون الموافقة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att sex alltid måste vara frivilligt",
+              "textAr": "A. أن الجنس يجب أن يكون دائمًا بموافقة وطواعية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att gifta personer inte behöver samtycke",
+              "textAr": "B. أن المتزوجين لا يحتاجون إلى موافقة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att staten godkänner relationer",
+              "textAr": "C. أن الدولة توافق على العلاقات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att föräldrar måste ge tillstånd",
+              "textAr": "D. أن الوالدين يجب أن يعطوا الإذن",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att sex alltid måste vara frivilligt",
+          "correctAnswerAr": "A. أن الجنس يجب أن يكون دائمًا بموافقة وطواعية"
+        },
+        {
+          "question": {
+            "sv": "11- Vad är hedersrelaterat förtryck?",
+            "ar": "11- ما هو القمع المرتبط بالشرف؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att skydda familjen",
+              "textAr": "A. حماية العائلة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att kontrollera en persons liv genom hot eller våld",
+              "textAr": "B. السيطرة على حياة شخص من خلال التهديد أو العنف",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att hjälpa familjemedlemmar",
+              "textAr": "C. مساعدة أفراد العائلة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att följa traditioner frivilligt",
+              "textAr": "D. اتباع التقاليد بشكل اختياري",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att kontrollera en persons liv genom hot eller våld",
+          "correctAnswerAr": "B. السيطرة على حياة شخص من خلال التهديد أو العنف"
+        },
+        {
+          "question": {
+            "sv": "12- Är tvångsäktenskap tillåtet i Sverige?",
+            "ar": "12- هل الزواج القسري مسموح في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara med föräldrars tillstånd",
+              "textAr": "B. فقط بموافقة الوالدين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nej",
+              "textAr": "C. لا",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara för vuxna",
+              "textAr": "D. فقط للبالغين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nej",
+          "correctAnswerAr": "C. لا"
+        },
+        {
+          "question": {
+            "sv": "13- Vad gäller för barnäktenskap i Sverige?",
+            "ar": "13- ما القاعدة المتعلقة بزواج الأطفال في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Det är tillåtet från 16 år",
+              "textAr": "A. مسموح من عمر 16 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Det är förbjudet",
+              "textAr": "B. إنه ممنوع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Det kräver kommunens godkännande",
+              "textAr": "C. يحتاج إلى موافقة البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Det är tillåtet med föräldrarnas samtycke",
+              "textAr": "D. مسموح بموافقة الوالدين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Det är förbjudet",
+          "correctAnswerAr": "B. إنه ممنوع"
+        },
+        {
+          "question": {
+            "sv": "14- Hur gammal måste man vara för att gifta sig i Sverige?",
+            "ar": "14- كم يجب أن يكون عمر الشخص للزواج في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 16 år",
+              "textAr": "A. 16 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 17 år",
+              "textAr": "B. 17 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 18 år",
+              "textAr": "C. 18 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. 20 år",
+              "textAr": "D. 20 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 18 år",
+          "correctAnswerAr": "C. 18 سنة"
+        },
+        {
+          "question": {
+            "sv": "15- Vad säger sexköpslagen?",
+            "ar": "15- ماذا ينص قانون شراء الجنس؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Det är tillåtet att köpa sex",
+              "textAr": "A. شراء الجنس مسموح",
+              "correct": false
+            },
+            {
+              "textSv": "B. Endast kvinnor får köpa sex",
+              "textAr": "B. النساء فقط يمكنهن شراء الجنس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Det är förbjudet att köpa sex",
+              "textAr": "C. شراء الجنس ممنوع",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara utlänningar får köpa sex",
+              "textAr": "D. الأجانب فقط يمكنهم شراء الجنس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Det är förbjudet att köpa sex",
+          "correctAnswerAr": "C. شراء الجنس ممنوع"
+        },
+        {
+          "question": {
+            "sv": "16- Vad är Barnkonventionen?",
+            "ar": "16- ما هي اتفاقية حقوق الطفل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. FN:s konvention om barns rättigheter",
+              "textAr": "A. اتفاقية الأمم المتحدة حول حقوق الطفل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Sveriges grundlag",
+              "textAr": "B. الدستور السويدي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett skolavtal",
+              "textAr": "C. اتفاقية مدرسية",
+              "correct": false
+            },
+            {
+              "textSv": "D. En kommunal regel",
+              "textAr": "D. قاعدة بلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. FN:s konvention om barns rättigheter",
+          "correctAnswerAr": "A. اتفاقية الأمم المتحدة حول حقوق الطفل"
+        },
+        {
+          "question": {
+            "sv": "17- När blev Barnkonventionen svensk lag?",
+            "ar": "17- متى أصبحت اتفاقية حقوق الطفل قانونًا سويديًا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1979",
+              "textAr": "A. 1979",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1995",
+              "textAr": "B. 1995",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2010",
+              "textAr": "C. 2010",
+              "correct": false
+            },
+            {
+              "textSv": "D. 2020",
+              "textAr": "D. 2020",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. 2020",
+          "correctAnswerAr": "D. 2020"
+        },
+        {
+          "question": {
+            "sv": "18- Vilken rättighet har alla barn?",
+            "ar": "18- ما هو الحق الذي يملكه جميع الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rätt att hoppa av skolan",
+              "textAr": "A. الحق في ترك المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Rätt till utbildning",
+              "textAr": "B. الحق في التعليم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Rätt att köra bil",
+              "textAr": "C. الحق في قيادة السيارة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rätt att rösta",
+              "textAr": "D. الحق في التصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Rätt till utbildning",
+          "correctAnswerAr": "B. الحق في التعليم"
+        },
+        {
+          "question": {
+            "sv": "19- Får man slå barn i Sverige?",
+            "ar": "19- هل يسمح بضرب الأطفال في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bara ibland",
+              "textAr": "B. فقط أحيانًا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nej",
+              "textAr": "C. لا",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara om barnet gjort fel",
+              "textAr": "D. فقط إذا أخطأ الطفل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nej",
+          "correctAnswerAr": "C. لا"
+        },
+        {
+          "question": {
+            "sv": "20- Vilket år förbjöd Sverige barnaga?",
+            "ar": "20- في أي سنة منعت السويد ضرب الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1948",
+              "textAr": "A. 1948",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1965",
+              "textAr": "B. 1965",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1979",
+              "textAr": "C. 1979",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2000",
+              "textAr": "D. 2000",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1979",
+          "correctAnswerAr": "C. 1979"
+        },
+        {
+          "question": {
+            "sv": "21- Hur många nationella minoriteter finns i Sverige?",
+            "ar": "21- كم عدد الأقليات القومية الموجودة في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 3",
+              "textAr": "A. 3",
+              "correct": false
+            },
+            {
+              "textSv": "B. 4",
+              "textAr": "B. 4",
+              "correct": false
+            },
+            {
+              "textSv": "C. 5",
+              "textAr": "C. 5",
+              "correct": true
+            },
+            {
+              "textSv": "D. 6",
+              "textAr": "D. 6",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 5",
+          "correctAnswerAr": "C. 5"
+        },
+        {
+          "question": {
+            "sv": "22- Vilken grupp är Sveriges urfolk?",
+            "ar": "22- ما هي مجموعة السكان الأصليين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Romer",
+              "textAr": "A. الروما",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sverigefinnar",
+              "textAr": "B. الفنلنديون السويديون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Judar",
+              "textAr": "C. اليهود",
+              "correct": false
+            },
+            {
+              "textSv": "D. Samer",
+              "textAr": "D. الساميون",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Samer",
+          "correctAnswerAr": "D. الساميون"
+        },
+        {
+          "question": {
+            "sv": "23- Vilket av följande är en nationell minoritet i Sverige?",
+            "ar": "23- أي من التالي يعتبر أقلية قومية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samer",
+              "textAr": "A. الساميون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Tyskar",
+              "textAr": "B. الألمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. Fransmän",
+              "textAr": "C. الفرنسيون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Holländare",
+              "textAr": "D. الهولنديون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samer",
+          "correctAnswerAr": "A. الساميون"
+        },
+        {
+          "question": {
+            "sv": "24- Vad heter samernas folkvalda parlament?",
+            "ar": "24- ماذا يسمى البرلمان المنتخب للشعب السامي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان السويدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kommunfullmäktige",
+              "textAr": "B. المجلس البلدي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sametinget",
+              "textAr": "C. البرلمان السامي",
+              "correct": true
+            },
+            {
+              "textSv": "D. Regionfullmäktige",
+              "textAr": "D. مجلس المنطقة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sametinget",
+          "correctAnswerAr": "C. البرلمان السامي"
+        },
+        {
+          "question": {
+            "sv": "25- Vilket språk är ett nationellt minoritetsspråk?",
+            "ar": "25- أي لغة هي لغة أقلية قومية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Engelska",
+              "textAr": "A. الإنجليزية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Tyska",
+              "textAr": "B. الألمانية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Finska",
+              "textAr": "C. الفنلندية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Spanska",
+              "textAr": "D. الإسبانية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Finska",
+          "correctAnswerAr": "C. الفنلندية"
+        },
+        {
+          "question": {
+            "sv": "26- Vad betyder HBTQI?",
+            "ar": "26- ماذا يعني HBTQI؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En myndighet",
+              "textAr": "A. هيئة حكومية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett politiskt parti",
+              "textAr": "B. حزب سياسي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett samlingsbegrepp för olika sexuella läggningar och könsidentiteter",
+              "textAr": "C. مصطلح شامل لمختلف التوجهات الجنسية والهويات الجندرية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Ett utbildningsprogram",
+              "textAr": "D. برنامج تعليمي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Ett samlingsbegrepp för olika sexuella läggningar och könsidentiteter",
+          "correctAnswerAr": "C. مصطلح شامل لمختلف التوجهات الجنسية والهويات الجندرية"
+        },
+        {
+          "question": {
+            "sv": "27- Har HBTQI-personer samma rättigheter som andra i Sverige?",
+            "ar": "27- هل لدى أشخاص HBTQI نفس الحقوق مثل الآخرين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara vissa rättigheter",
+              "textAr": "C. فقط بعض الحقوق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara om de är gifta",
+              "textAr": "D. فقط إذا كانوا متزوجين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ja",
+          "correctAnswerAr": "A. نعم"
+        },
+        {
+          "question": {
+            "sv": "28- Vilken rättighet har personer med funktionsnedsättning?",
+            "ar": "28- ما هو الحق الذي يملكه الأشخاص ذوو الإعاقة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skydd mot diskriminering",
+              "textAr": "A. الحماية من التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "B. Färre rättigheter än andra",
+              "textAr": "B. حقوق أقل من الآخرين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ingen rätt till arbete",
+              "textAr": "C. لا يوجد حق في العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen rätt till utbildning",
+              "textAr": "D. لا يوجد حق في التعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skydd mot diskriminering",
+          "correctAnswerAr": "A. الحماية من التمييز"
+        },
+        {
+          "question": {
+            "sv": "29- Vad står DO för?",
+            "ar": "29- ماذا يعني الاختصار DO؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domstolsorganisationen",
+              "textAr": "A. منظمة المحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Diskrimineringsombudsmannen",
+              "textAr": "B. أمين مظالم التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "C. Demokratiombudet",
+              "textAr": "C. أمين الديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domarombudsmannen",
+              "textAr": "D. أمين القضاة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Diskrimineringsombudsmannen",
+          "correctAnswerAr": "B. أمين مظالم التمييز"
+        },
+        {
+          "question": {
+            "sv": "30- Vad är ett hatbrott?",
+            "ar": "30- ما هي جريمة الكراهية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett brott mot staten",
+              "textAr": "A. جريمة ضد الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett brott som begås mot någon på grund av exempelvis religion, etnicitet eller sexuell läggning",
+              "textAr": "B. جريمة تُرتكب ضد شخص بسبب الدين أو العرق أو التوجه الجنسي مثلًا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett trafikbrott",
+              "textAr": "C. جريمة مرورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett ekonomiskt brott",
+              "textAr": "D. جريمة اقتصادية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett brott som begås mot någon på grund av exempelvis religion, etnicitet eller sexuell läggning",
+          "correctAnswerAr": "B. جريمة تُرتكب ضد شخص بسبب الدين أو العرق أو التوجه الجنسي مثلًا"
+        }
+      ]
     },
     {
       "lessonId": 8,
