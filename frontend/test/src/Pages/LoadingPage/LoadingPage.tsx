@@ -12,7 +12,7 @@ const useStyles = createUseStyles({
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    background: "#6d5277d4",
+    background: "#6d6570d4",
     position: "absolute",
     top: "0px",
     left: "0px",
