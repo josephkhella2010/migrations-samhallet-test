@@ -3011,300 +3011,296 @@
       },
       "sections": {
         "swedish": [
-          [
-            {
-              "title": "1. Så fungerar arbetsmarknaden",
-              "subtitle": "Offentlig och privat sektor",
-              "text": "Arbetsmarknaden handlar om arbete, arbetsgivare, arbetstagare och ekonomi. Den delas in i offentlig sektor, som finansieras med skatter, och privat sektor, som består av privatägda företag.",
-              "list": [
-                "offentlig sektor finansieras genom skatter",
-                "cirka 30 % arbetar i offentlig sektor",
-                "privat sektor består av privatägda företag",
-                "cirka 70 % arbetar i privat sektor",
-                "arbetsmarknaden varierar mellan städer och mindre orter"
-              ]
-            },
-            {
-              "title": "2. Arbetsmarknadens parter",
-              "subtitle": "Arbetsgivare och arbetstagare",
-              "text": "Arbetsmarknaden består av arbetsgivare som anställer och betalar lön samt arbetstagare som utför arbetet och får lön.",
-              "list": [
-                "arbetsgivare anställer personal",
-                "arbetsgivare betalar lön",
-                "arbetstagare utför arbetet",
-                "arbetstagare kan vara med i fackförbund",
-                "arbetsgivare representeras av organisationer"
-              ]
-            },
-            {
-              "title": "3. Fackliga organisationer",
-              "subtitle": "Fackförbundens uppgifter",
-              "text": "Fackförbund arbetar för att förbättra löner, arbetsvillkor och arbetstagarnas rättigheter.",
-              "list": [
-                "förhandlar om löner",
-                "förhandlar om arbetsvillkor",
-                "hjälper medlemmar vid problem",
-                "skyddar arbetstagarnas rättigheter",
-                "LO, TCO och SACO är stora centralorganisationer"
-              ]
-            },
-            {
-              "title": "4. Kollektivavtal",
-              "subtitle": "Avtal mellan arbetsgivare och fack",
-              "text": "Ett kollektivavtal är ett avtal mellan arbetsgivarorganisationer och fackförbund som reglerar villkor på arbetsplatsen.",
-              "list": [
-                "reglerar löner",
-                "reglerar arbetstider",
-                "reglerar semester",
-                "gäller alla anställda på arbetsplatsen",
-                "löner bestäms genom förhandlingar"
-              ]
-            },
-            {
-              "title": "5. Lagar och regler på arbetsmarknaden",
-              "subtitle": "Skydd för arbetstagare",
-              "text": "Svenska lagar skyddar arbetstagare och ställer krav på arbetsgivare att erbjuda en säker arbetsmiljö.",
-              "list": [
-                "arbetstidslagen",
-                "arbetsmiljölagen",
-                "semesterlagen",
-                "arbetsgivaren ansvarar för arbetsmiljön",
-                "arbetsgivaren betalar pensions- och försäkringsavgifter"
-              ]
-            },
-            {
-              "title": "6. Skatt på arbete",
-              "subtitle": "Hur skatt fungerar",
-              "text": "Skatt är en del av inkomsten som betalas till staten och används för att finansiera offentlig verksamhet.",
-              "list": [
-                "alla som arbetar betalar skatt",
-                "skatten beror på inkomsten",
-                "finansierar offentlig sektor",
-                "betalas till staten",
-                "svartarbete är olagligt"
-              ]
-            },
-            {
-              "title": "7. A-kassan",
-              "subtitle": "Ekonomiskt stöd vid arbetslöshet",
-              "text": "A-kassan är en arbetslöshetsförsäkring som ger ekonomiskt stöd till personer som blivit arbetslösa.",
-              "list": [
-                "kräver medlemskap",
-                "kräver tillräckligt arbete tidigare",
-                "man måste vara aktivt arbetssökande",
-                "ger ekonomisk ersättning",
-                "finansieras av staten och medlemsavgifter"
-              ]
-            },
-            {
-              "title": "8. Privatekonomi",
-              "subtitle": "Inkomster och utgifter",
-              "text": "Privatekonomi handlar om hur en person planerar och använder sina pengar.",
-              "list": [
-                "inkomster kan vara lön och pension",
-                "inkomster kan vara bidrag",
-                "utgifter inkluderar boende",
-                "utgifter inkluderar mat och transport",
-                "god planering ger bättre ekonomi"
-              ]
-            },
-            {
-              "title": "9. Lön i Sverige",
-              "subtitle": "Vad påverkar lönen",
-              "text": "Lönen påverkas av yrke, utbildning, erfarenhet och bransch.",
-              "list": [
-                "yrke påverkar lönen",
-                "utbildning påverkar lönen",
-                "erfarenhet påverkar lönen",
-                "bransch påverkar lönen",
-                "Sverige har relativt höga löner"
-              ]
-            },
-            {
-              "title": "10. Sparande och lån",
-              "subtitle": "Att spara och låna pengar",
-              "text": "Sparande hjälper människor att bygga upp ekonomisk trygghet medan lån används för större köp.",
-              "list": [
-                "bankkonto är ett vanligt sparande",
-                "fonder är ett vanligt sparande",
-                "aktier är ett vanligt sparande",
-                "bostadslån är vanligt",
-                "kreditköp kan ge höga räntekostnader"
-              ]
-            },
-            {
-              "title": "11. Kronofogden",
-              "subtitle": "Skulder och skuldsanering",
-              "text": "Kronofogden hjälper till att driva in skulder och kan hjälpa personer med stora skulder genom skuldsanering.",
-              "list": [
-                "är en statlig myndighet",
-                "ser till att skulder betalas",
-                "hjälper personer med stora skulder",
-                "erbjuder skuldsanering",
-                "stödjer personer med ekonomiska problem"
-              ]
-            },
-            {
-              "title": "12. Deklaration",
-              "subtitle": "Redovisning av inkomster",
-              "text": "Deklaration innebär att man redovisar sina inkomster till Skatteverket så att rätt skatt kan beräknas.",
-              "list": [
-                "alla med inkomst ska deklarera",
-                "skickas till Skatteverket",
-                "visar årets inkomster",
-                "används för att beräkna skatt",
-                "är en viktig del av skattesystemet"
-              ]
-            }
-          ]
+          {
+            "title": "1. Så fungerar arbetsmarknaden",
+            "subtitle": "Offentlig och privat sektor",
+            "text": "Arbetsmarknaden handlar om arbete, arbetsgivare, arbetstagare och ekonomi. Den delas in i offentlig sektor, som finansieras med skatter, och privat sektor, som består av privatägda företag.",
+            "list": [
+              "offentlig sektor finansieras genom skatter",
+              "cirka 30 % arbetar i offentlig sektor",
+              "privat sektor består av privatägda företag",
+              "cirka 70 % arbetar i privat sektor",
+              "arbetsmarknaden varierar mellan städer och mindre orter"
+            ]
+          },
+          {
+            "title": "2. Arbetsmarknadens parter",
+            "subtitle": "Arbetsgivare och arbetstagare",
+            "text": "Arbetsmarknaden består av arbetsgivare som anställer och betalar lön samt arbetstagare som utför arbetet och får lön.",
+            "list": [
+              "arbetsgivare anställer personal",
+              "arbetsgivare betalar lön",
+              "arbetstagare utför arbetet",
+              "arbetstagare kan vara med i fackförbund",
+              "arbetsgivare representeras av organisationer"
+            ]
+          },
+          {
+            "title": "3. Fackliga organisationer",
+            "subtitle": "Fackförbundens uppgifter",
+            "text": "Fackförbund arbetar för att förbättra löner, arbetsvillkor och arbetstagarnas rättigheter.",
+            "list": [
+              "förhandlar om löner",
+              "förhandlar om arbetsvillkor",
+              "hjälper medlemmar vid problem",
+              "skyddar arbetstagarnas rättigheter",
+              "LO, TCO och SACO är stora centralorganisationer"
+            ]
+          },
+          {
+            "title": "4. Kollektivavtal",
+            "subtitle": "Avtal mellan arbetsgivare och fack",
+            "text": "Ett kollektivavtal är ett avtal mellan arbetsgivarorganisationer och fackförbund som reglerar villkor på arbetsplatsen.",
+            "list": [
+              "reglerar löner",
+              "reglerar arbetstider",
+              "reglerar semester",
+              "gäller alla anställda på arbetsplatsen",
+              "löner bestäms genom förhandlingar"
+            ]
+          },
+          {
+            "title": "5. Lagar och regler på arbetsmarknaden",
+            "subtitle": "Skydd för arbetstagare",
+            "text": "Svenska lagar skyddar arbetstagare och ställer krav på arbetsgivare att erbjuda en säker arbetsmiljö.",
+            "list": [
+              "arbetstidslagen",
+              "arbetsmiljölagen",
+              "semesterlagen",
+              "arbetsgivaren ansvarar för arbetsmiljön",
+              "arbetsgivaren betalar pensions- och försäkringsavgifter"
+            ]
+          },
+          {
+            "title": "6. Skatt på arbete",
+            "subtitle": "Hur skatt fungerar",
+            "text": "Skatt är en del av inkomsten som betalas till staten och används för att finansiera offentlig verksamhet.",
+            "list": [
+              "alla som arbetar betalar skatt",
+              "skatten beror på inkomsten",
+              "finansierar offentlig sektor",
+              "betalas till staten",
+              "svartarbete är olagligt"
+            ]
+          },
+          {
+            "title": "7. A-kassan",
+            "subtitle": "Ekonomiskt stöd vid arbetslöshet",
+            "text": "A-kassan är en arbetslöshetsförsäkring som ger ekonomiskt stöd till personer som blivit arbetslösa.",
+            "list": [
+              "kräver medlemskap",
+              "kräver tillräckligt arbete tidigare",
+              "man måste vara aktivt arbetssökande",
+              "ger ekonomisk ersättning",
+              "finansieras av staten och medlemsavgifter"
+            ]
+          },
+          {
+            "title": "8. Privatekonomi",
+            "subtitle": "Inkomster och utgifter",
+            "text": "Privatekonomi handlar om hur en person planerar och använder sina pengar.",
+            "list": [
+              "inkomster kan vara lön och pension",
+              "inkomster kan vara bidrag",
+              "utgifter inkluderar boende",
+              "utgifter inkluderar mat och transport",
+              "god planering ger bättre ekonomi"
+            ]
+          },
+          {
+            "title": "9. Lön i Sverige",
+            "subtitle": "Vad påverkar lönen",
+            "text": "Lönen påverkas av yrke, utbildning, erfarenhet och bransch.",
+            "list": [
+              "yrke påverkar lönen",
+              "utbildning påverkar lönen",
+              "erfarenhet påverkar lönen",
+              "bransch påverkar lönen",
+              "Sverige har relativt höga löner"
+            ]
+          },
+          {
+            "title": "10. Sparande och lån",
+            "subtitle": "Att spara och låna pengar",
+            "text": "Sparande hjälper människor att bygga upp ekonomisk trygghet medan lån används för större köp.",
+            "list": [
+              "bankkonto är ett vanligt sparande",
+              "fonder är ett vanligt sparande",
+              "aktier är ett vanligt sparande",
+              "bostadslån är vanligt",
+              "kreditköp kan ge höga räntekostnader"
+            ]
+          },
+          {
+            "title": "11. Kronofogden",
+            "subtitle": "Skulder och skuldsanering",
+            "text": "Kronofogden hjälper till att driva in skulder och kan hjälpa personer med stora skulder genom skuldsanering.",
+            "list": [
+              "är en statlig myndighet",
+              "ser till att skulder betalas",
+              "hjälper personer med stora skulder",
+              "erbjuder skuldsanering",
+              "stödjer personer med ekonomiska problem"
+            ]
+          },
+          {
+            "title": "12. Deklaration",
+            "subtitle": "Redovisning av inkomster",
+            "text": "Deklaration innebär att man redovisar sina inkomster till Skatteverket så att rätt skatt kan beräknas.",
+            "list": [
+              "alla med inkomst ska deklarera",
+              "skickas till Skatteverket",
+              "visar årets inkomster",
+              "används för att beräkna skatt",
+              "är en viktig del av skattesystemet"
+            ]
+          }
         ],
         "arabic": [
-          [
-            {
-              "title": "1. كيف يعمل سوق العمل",
-              "subtitle": "القطاع العام والقطاع الخاص",
-              "text": "يتعلق سوق العمل بالوظائف وأصحاب العمل والعاملين والاقتصاد. وينقسم إلى قطاع عام ممول من الضرائب وقطاع خاص يتكون من شركات مملوكة لأفراد أو مؤسسات خاصة.",
-              "list": [
-                "القطاع العام ممول من الضرائب",
-                "حوالي 30٪ من العاملين يعملون في القطاع العام",
-                "القطاع الخاص يتكون من شركات خاصة",
-                "حوالي 70٪ من العاملين يعملون في القطاع الخاص",
-                "يختلف سوق العمل بين المدن الكبيرة والمناطق الصغيرة"
-              ]
-            },
-            {
-              "title": "2. أطراف سوق العمل",
-              "subtitle": "أصحاب العمل والعاملون",
-              "text": "يتكون سوق العمل من أصحاب العمل الذين يوظفون العاملين ويدفعون الرواتب، ومن العاملين الذين يؤدون العمل ويتقاضون أجورهم.",
-              "list": [
-                "أصحاب العمل يوظفون الموظفين",
-                "أصحاب العمل يدفعون الرواتب",
-                "العاملون يؤدون العمل",
-                "يمكن للعاملين الانضمام إلى النقابات",
-                "يمثل أصحاب العمل منظمات خاصة بهم"
-              ]
-            },
-            {
-              "title": "3. النقابات العمالية",
-              "subtitle": "مهام النقابات",
-              "text": "تعمل النقابات على تحسين الأجور وظروف العمل والدفاع عن حقوق العاملين.",
-              "list": [
-                "التفاوض بشأن الأجور",
-                "التفاوض بشأن ظروف العمل",
-                "مساعدة الأعضاء عند حدوث مشكلات في العمل",
-                "حماية حقوق العاملين",
-                "تعد LO وTCO وSACO من أكبر المنظمات النقابية"
-              ]
-            },
-            {
-              "title": "4. الاتفاقيات الجماعية",
-              "subtitle": "اتفاق بين أصحاب العمل والنقابات",
-              "text": "الاتفاقية الجماعية هي اتفاق بين منظمات أصحاب العمل والنقابات لتنظيم شروط العمل في مكان العمل.",
-              "list": [
-                "تنظم الأجور",
-                "تنظم ساعات العمل",
-                "تنظم الإجازات",
-                "تسري على جميع الموظفين في مكان العمل",
-                "يتم تحديد الأجور من خلال المفاوضات"
-              ]
-            },
-            {
-              "title": "5. القوانين واللوائح في سوق العمل",
-              "subtitle": "حماية العاملين",
-              "text": "تحمي القوانين السويدية العاملين وتلزم أصحاب العمل بتوفير بيئة عمل آمنة.",
-              "list": [
-                "قانون ساعات العمل",
-                "قانون بيئة العمل",
-                "قانون الإجازات",
-                "صاحب العمل مسؤول عن بيئة العمل",
-                "صاحب العمل يدفع مساهمات التقاعد والتأمين"
-              ]
-            },
-            {
-              "title": "6. الضريبة على العمل",
-              "subtitle": "كيف تعمل الضرائب",
-              "text": "الضريبة هي جزء من الدخل يُدفع للدولة ويُستخدم لتمويل الخدمات العامة.",
-              "list": [
-                "جميع العاملين يدفعون الضرائب",
-                "تعتمد قيمة الضريبة على الدخل",
-                "تمول القطاع العام",
-                "تُدفع للدولة",
-                "العمل دون دفع الضرائب غير قانوني"
-              ]
-            },
-            {
-              "title": "7. صندوق التأمين ضد البطالة (A-kassa)",
-              "subtitle": "دعم مالي عند البطالة",
-              "text": "يوفر صندوق التأمين ضد البطالة دعماً مالياً للأشخاص الذين فقدوا وظائفهم.",
-              "list": [
-                "يتطلب العضوية في صندوق البطالة",
-                "يتطلب العمل لفترة كافية مسبقاً",
-                "يجب أن يكون الشخص باحثاً عن عمل",
-                "يوفر تعويضاً مالياً",
-                "يمول من الدولة ورسوم العضوية"
-              ]
-            },
-            {
-              "title": "8. الاقتصاد الشخصي",
-              "subtitle": "الدخل والمصروفات",
-              "text": "الاقتصاد الشخصي هو الطريقة التي يدير بها الفرد دخله ومصروفاته وأمواله.",
-              "list": [
-                "قد يكون الدخل من الراتب أو التقاعد",
-                "قد يكون الدخل من الإعانات",
-                "تشمل المصروفات السكن",
-                "تشمل المصروفات الطعام والمواصلات",
-                "التخطيط الجيد يساعد على تحسين الوضع المالي"
-              ]
-            },
-            {
-              "title": "9. الأجور في السويد",
-              "subtitle": "ما الذي يؤثر على الراتب",
-              "text": "يعتمد مستوى الراتب على المهنة والتعليم والخبرة والقطاع الذي يعمل فيه الشخص.",
-              "list": [
-                "المهنة تؤثر على الراتب",
-                "التعليم يؤثر على الراتب",
-                "الخبرة تؤثر على الراتب",
-                "القطاع يؤثر على الراتب",
-                "تتميز السويد بأجور مرتفعة نسبياً"
-              ]
-            },
-            {
-              "title": "10. الادخار والقروض",
-              "subtitle": "الادخار واقتراض المال",
-              "text": "يساعد الادخار على تحقيق الأمان المالي، بينما تُستخدم القروض لتمويل المشتريات الكبيرة.",
-              "list": [
-                "الحساب البنكي وسيلة شائعة للادخار",
-                "الصناديق الاستثمارية وسيلة شائعة للادخار",
-                "الأسهم وسيلة شائعة للادخار",
-                "قروض السكن شائعة",
-                "الشراء بالتقسيط قد يؤدي إلى فوائد مرتفعة"
-              ]
-            },
-            {
-              "title": "11. مصلحة التنفيذ (كرونوفوغدن)",
-              "subtitle": "الديون وتسوية الديون",
-              "text": "تساعد مصلحة التنفيذ في تحصيل الديون وتقديم المساعدة للأشخاص الذين يعانون من ديون كبيرة.",
-              "list": [
-                "هي جهة حكومية",
-                "تعمل على تحصيل الديون",
-                "تساعد الأشخاص ذوي الديون الكبيرة",
-                "توفر إمكانية تسوية الديون",
-                "تدعم الأشخاص الذين يواجهون مشكلات مالية"
-              ]
-            },
-            {
-              "title": "12. الإقرار الضريبي",
-              "subtitle": "التصريح بالدخل",
-              "text": "الإقرار الضريبي يعني تقديم معلومات الدخل إلى مصلحة الضرائب السويدية لحساب الضريبة الصحيحة.",
-              "list": [
-                "يجب على كل من لديه دخل تقديم الإقرار",
-                "يُرسل إلى مصلحة الضرائب",
-                "يتضمن دخل السنة",
-                "يُستخدم لحساب الضريبة",
-                "جزء مهم من النظام الضريبي"
-              ]
-            }
-          ]
+          {
+            "title": "1. كيف يعمل سوق العمل",
+            "subtitle": "القطاع العام والقطاع الخاص",
+            "text": "يتعلق سوق العمل بالوظائف وأصحاب العمل والعاملين والاقتصاد. وينقسم إلى قطاع عام ممول من الضرائب وقطاع خاص يتكون من شركات مملوكة لأفراد أو مؤسسات خاصة.",
+            "list": [
+              "القطاع العام ممول من الضرائب",
+              "حوالي 30٪ من العاملين يعملون في القطاع العام",
+              "القطاع الخاص يتكون من شركات خاصة",
+              "حوالي 70٪ من العاملين يعملون في القطاع الخاص",
+              "يختلف سوق العمل بين المدن الكبيرة والمناطق الصغيرة"
+            ]
+          },
+          {
+            "title": "2. أطراف سوق العمل",
+            "subtitle": "أصحاب العمل والعاملون",
+            "text": "يتكون سوق العمل من أصحاب العمل الذين يوظفون العاملين ويدفعون الرواتب، ومن العاملين الذين يؤدون العمل ويتقاضون أجورهم.",
+            "list": [
+              "أصحاب العمل يوظفون الموظفين",
+              "أصحاب العمل يدفعون الرواتب",
+              "العاملون يؤدون العمل",
+              "يمكن للعاملين الانضمام إلى النقابات",
+              "يمثل أصحاب العمل منظمات خاصة بهم"
+            ]
+          },
+          {
+            "title": "3. النقابات العمالية",
+            "subtitle": "مهام النقابات",
+            "text": "تعمل النقابات على تحسين الأجور وظروف العمل والدفاع عن حقوق العاملين.",
+            "list": [
+              "التفاوض بشأن الأجور",
+              "التفاوض بشأن ظروف العمل",
+              "مساعدة الأعضاء عند حدوث مشكلات في العمل",
+              "حماية حقوق العاملين",
+              "تعد LO وTCO وSACO من أكبر المنظمات النقابية"
+            ]
+          },
+          {
+            "title": "4. الاتفاقيات الجماعية",
+            "subtitle": "اتفاق بين أصحاب العمل والنقابات",
+            "text": "الاتفاقية الجماعية هي اتفاق بين منظمات أصحاب العمل والنقابات لتنظيم شروط العمل في مكان العمل.",
+            "list": [
+              "تنظم الأجور",
+              "تنظم ساعات العمل",
+              "تنظم الإجازات",
+              "تسري على جميع الموظفين في مكان العمل",
+              "يتم تحديد الأجور من خلال المفاوضات"
+            ]
+          },
+          {
+            "title": "5. القوانين واللوائح في سوق العمل",
+            "subtitle": "حماية العاملين",
+            "text": "تحمي القوانين السويدية العاملين وتلزم أصحاب العمل بتوفير بيئة عمل آمنة.",
+            "list": [
+              "قانون ساعات العمل",
+              "قانون بيئة العمل",
+              "قانون الإجازات",
+              "صاحب العمل مسؤول عن بيئة العمل",
+              "صاحب العمل يدفع مساهمات التقاعد والتأمين"
+            ]
+          },
+          {
+            "title": "6. الضريبة على العمل",
+            "subtitle": "كيف تعمل الضرائب",
+            "text": "الضريبة هي جزء من الدخل يُدفع للدولة ويُستخدم لتمويل الخدمات العامة.",
+            "list": [
+              "جميع العاملين يدفعون الضرائب",
+              "تعتمد قيمة الضريبة على الدخل",
+              "تمول القطاع العام",
+              "تُدفع للدولة",
+              "العمل دون دفع الضرائب غير قانوني"
+            ]
+          },
+          {
+            "title": "7. صندوق التأمين ضد البطالة (A-kassa)",
+            "subtitle": "دعم مالي عند البطالة",
+            "text": "يوفر صندوق التأمين ضد البطالة دعماً مالياً للأشخاص الذين فقدوا وظائفهم.",
+            "list": [
+              "يتطلب العضوية في صندوق البطالة",
+              "يتطلب العمل لفترة كافية مسبقاً",
+              "يجب أن يكون الشخص باحثاً عن عمل",
+              "يوفر تعويضاً مالياً",
+              "يمول من الدولة ورسوم العضوية"
+            ]
+          },
+          {
+            "title": "8. الاقتصاد الشخصي",
+            "subtitle": "الدخل والمصروفات",
+            "text": "الاقتصاد الشخصي هو الطريقة التي يدير بها الفرد دخله ومصروفاته وأمواله.",
+            "list": [
+              "قد يكون الدخل من الراتب أو التقاعد",
+              "قد يكون الدخل من الإعانات",
+              "تشمل المصروفات السكن",
+              "تشمل المصروفات الطعام والمواصلات",
+              "التخطيط الجيد يساعد على تحسين الوضع المالي"
+            ]
+          },
+          {
+            "title": "9. الأجور في السويد",
+            "subtitle": "ما الذي يؤثر على الراتب",
+            "text": "يعتمد مستوى الراتب على المهنة والتعليم والخبرة والقطاع الذي يعمل فيه الشخص.",
+            "list": [
+              "المهنة تؤثر على الراتب",
+              "التعليم يؤثر على الراتب",
+              "الخبرة تؤثر على الراتب",
+              "القطاع يؤثر على الراتب",
+              "تتميز السويد بأجور مرتفعة نسبياً"
+            ]
+          },
+          {
+            "title": "10. الادخار والقروض",
+            "subtitle": "الادخار واقتراض المال",
+            "text": "يساعد الادخار على تحقيق الأمان المالي، بينما تُستخدم القروض لتمويل المشتريات الكبيرة.",
+            "list": [
+              "الحساب البنكي وسيلة شائعة للادخار",
+              "الصناديق الاستثمارية وسيلة شائعة للادخار",
+              "الأسهم وسيلة شائعة للادخار",
+              "قروض السكن شائعة",
+              "الشراء بالتقسيط قد يؤدي إلى فوائد مرتفعة"
+            ]
+          },
+          {
+            "title": "11. مصلحة التنفيذ (كرونوفوغدن)",
+            "subtitle": "الديون وتسوية الديون",
+            "text": "تساعد مصلحة التنفيذ في تحصيل الديون وتقديم المساعدة للأشخاص الذين يعانون من ديون كبيرة.",
+            "list": [
+              "هي جهة حكومية",
+              "تعمل على تحصيل الديون",
+              "تساعد الأشخاص ذوي الديون الكبيرة",
+              "توفر إمكانية تسوية الديون",
+              "تدعم الأشخاص الذين يواجهون مشكلات مالية"
+            ]
+          },
+          {
+            "title": "12. الإقرار الضريبي",
+            "subtitle": "التصريح بالدخل",
+            "text": "الإقرار الضريبي يعني تقديم معلومات الدخل إلى مصلحة الضرائب السويدية لحساب الضريبة الصحيحة.",
+            "list": [
+              "يجب على كل من لديه دخل تقديم الإقرار",
+              "يُرسل إلى مصلحة الضرائب",
+              "يتضمن دخل السنة",
+              "يُستخدم لحساب الضريبة",
+              "جزء مهم من النظام الضريبي"
+            ]
+          }
         ]
       }
     },
