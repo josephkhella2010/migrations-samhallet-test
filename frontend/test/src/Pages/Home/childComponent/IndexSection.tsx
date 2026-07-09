@@ -2,6 +2,7 @@ import { createUseStyles } from "react-jss";
 import { useTranslation } from "../../../translation/context/useTranslation";
 import homePageTranslation from "../../../translation/Translations/HomePageTranslation";
 import { chapterTitles } from "../../../utilities/Array";
+import { useNavigate } from "react-router-dom";
 
 const useStyles = createUseStyles({
   chapterSection: {
@@ -162,6 +163,7 @@ const useStyles = createUseStyles({
 export default function IndexSection() {
   const classes = useStyles();
   const { t } = useTranslation();
+  const navigate = useNavigate();
   return (
     <section className={classes.indexContainer}>
       <h2>{t(homePageTranslation.featureSectionHeaderFive)}</h2>
@@ -169,8 +171,15 @@ export default function IndexSection() {
       <div className={classes.indexSection}>
         {chapterTitles &&
           chapterTitles.map((chapter, index) => {
+            const id = index + 1;
             return (
-              <div key={index} className={classes.indexCard}>
+              <div
+                key={index}
+                className={classes.indexCard}
+                onClick={() => {
+                  navigate(`/lesson-detail/${id} `);
+                }}
+              >
                 <h3>
                   {" "}
                   {index + 1}- {chapter}
