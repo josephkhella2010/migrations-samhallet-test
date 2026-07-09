@@ -96,7 +96,7 @@ export default function StatisticSection() {
 
       <div className={classes.statisticsGrid}>
         <div className={classes.statisticCard}>
-          <h2>12</h2>
+          <h2>13</h2>
           <p>{t(homePageTranslation.statsSectionTextOne)}</p>
         </div>
 
