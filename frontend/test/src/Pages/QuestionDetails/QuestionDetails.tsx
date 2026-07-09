@@ -611,7 +611,7 @@ export default function QuestionDetails() {
   const handleUserAnswer = (
     index: number,
     item: QuestionInsideType,
-    answerText: string,
+    answerTextSv: string,
     isCorrect: boolean,
     answerTextAr: string,
   ) => {
@@ -620,7 +620,7 @@ export default function QuestionDetails() {
         index,
         questionTitle: item.question.sv,
         questionTitleAr: item.question.ar,
-        userAnswer: answerText,
+        userAnswer: answerTextSv,
         userAnswerAr: answerTextAr,
         correctAnswer: item.correctAnswerSv,
         correctAnswerAr: item.correctAnswerAr,
@@ -649,7 +649,10 @@ export default function QuestionDetails() {
             <div className={classes.questionsMainSection}>
               {questions.map((item: QuestionInsideType, index: number) => {
                 const selectedAnswer = userAnswers[index];
-                const selected = selectedAnswer?.userAnswer;
+                const selected =
+                  currentLanguage === "sv"
+                    ? selectedAnswer?.userAnswer
+                    : selectedAnswer?.userAnswerAr;
                 const showResult = selected !== undefined;
 
                 return (
@@ -668,12 +671,14 @@ export default function QuestionDetails() {
                     </h2>
 
                     {item.answers.map((answer, i) => {
-                      const answerText = answer.textSv;
+                      const answerText =
+                        currentLanguage === "sv"
+                          ? answer.textSv
+                          : answer.textAr;
 
+                      const isSelected = selected === answerText;
+                      const answerTextSv = answer.textSv;
                       const answerTextAr = answer.textAr;
-
-                      const isSelected =
-                        selectedAnswer?.userAnswer === answerText;
 
                       return (
                         <label key={i} className={classes.answer}>
@@ -686,7 +691,7 @@ export default function QuestionDetails() {
                               handleUserAnswer(
                                 index,
                                 item,
-                                answerText,
+                                answerTextSv,
                                 answer.correct,
                                 answerTextAr,
                               )
