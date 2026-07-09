@@ -21,8 +21,8 @@ const ScorePageTranslation = {
     ar: "النسبة المئوية",
   },
   ScorePageFailMessage: {
-    sv: " Tyvärr klarade du inte provet ❌. Försök igen! Du måste få minst 85 % för att klara det. Du får ha högst",
-    ar: " للأسف لم تنجح ❌. حاول مرة أخرى! يجب أن تحصل على 85٪ على الأقل للنجاح يمكنك الحصول على  ",
+    sv: " Tyvärr klarade du inte provet ❌. Försök igen! Du måste få minst 70 % för att klara det. Du får ha högst",
+    ar: " للأسف لم تنجح ❌. حاول مرة أخرى! يجب أن تحصل على 70 ٪ على الأقل للنجاح يمكنك الحصول على  ",
   },
 
   ScorePageFailMessageTwo: {

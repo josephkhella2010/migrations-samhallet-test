@@ -138,6 +138,7 @@ export default function ScorePage() {
   const navigate = useNavigate();
   const dispatch = useDispatch();
   const { t } = useTranslation();
+  const { lang } = useSelector((state: RootState) => state.languageSlice);
   const { userAnswers } = useSelector(
     (state: RootState) => state.userAnswersSlice,
   );
@@ -159,7 +160,7 @@ export default function ScorePage() {
   const maxScore = Number(totalQuestion) * 10;
   const percentage =
     maxScore === 0 ? 0 : ((yourScore / maxScore) * 100).toFixed(2);
-  const passPercentage = 85;
+  const passPercentage = 70;
 
   const minCorrectAnswers = Math.ceil(
     (Number(totalQuestion) * passPercentage) / 100,
@@ -226,7 +227,7 @@ export default function ScorePage() {
         </div>
       </div>
 
-      {Number(percentage) < 85 ? (
+      {Number(percentage) < passPercentage ? (
         <p className={classes.fail}>
           {t(ScorePageTranslation.ScorePageFailMessage)}
           {"  "}
@@ -255,11 +256,13 @@ export default function ScorePage() {
 
         {userAnswers.map((result, index) => (
           <div key={index} className={classes.answerCard}>
-            <h3>{result.questionTitle}</h3>
+            <h3>
+              {lang === "sv" ? result.questionTitle : result.questionTitleAr}
+            </h3>
 
             <p>
               <strong>{t(ScorePageTranslation.YourAnswer)}</strong>{" "}
-              {result.userAnswer}
+              {lang === "sv" ? result.userAnswer : result.userAnswerAr}
             </p>
 
             {result.isCorrect ? (
@@ -275,7 +278,10 @@ export default function ScorePage() {
                   <strong style={{ color: "green" }}>
                     {t(ScorePageTranslation.CorrectAnswerTwo)}
                     {"  "}
-                    {result.correctAnswer} .{" "}
+                    {lang === "sv"
+                      ? result.correctAnswer
+                      : result.correctAnswerAr}{" "}
+                    .{" "}
                   </strong>{" "}
                 </p>
               </>

@@ -7783,10 +7783,1211 @@
     {
       "lessonId": 8,
       "lessonTitle": {
-        "sv": "Kapitel två: Sveriges demokratiska system",
-        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "sv": "Kapitel otta: 8 - Arbetsmarknad och privatekonomi",
+        "ar": "الفصل الثامن: 8 - سوق العمل والاقتصاد الشخصي"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1. Vad handlar arbetsmarknaden om?",
+            "ar": "1. ما الذي يتعلق به سوق العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast företag",
+              "textAr": "A. الشركات فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Endast löner",
+              "textAr": "B. الرواتب فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbete, arbetsgivare och arbetstagare",
+              "textAr": "C. العمل وأصحاب العمل والعاملون",
+              "correct": true
+            },
+            {
+              "textSv": "D. Endast skatter",
+              "textAr": "D. الضرائب فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Arbete, arbetsgivare och arbetstagare",
+          "correctAnswerAr": "C. العمل وأصحاب العمل والعاملون"
+        },
+        {
+          "question": {
+            "sv": "2. Vilka två sektorer delas arbetsmarknaden in i?",
+            "ar": "2. إلى أي قطاعين ينقسم سوق العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statlig och kommunal",
+              "textAr": "A. حكومي وبلدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Offentlig och privat",
+              "textAr": "B. عام وخاص",
+              "correct": true
+            },
+            {
+              "textSv": "C. Svensk och utländsk",
+              "textAr": "C. سويدي وأجنبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regional och lokal",
+              "textAr": "D. إقليمي ومحلي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Offentlig och privat",
+          "correctAnswerAr": "B. عام وخاص"
+        },
+        {
+          "question": {
+            "sv": "3. Hur stor andel arbetar inom offentlig sektor?",
+            "ar": "3. ما نسبة العاملين في القطاع العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 30 %",
+              "textAr": "A. 30٪",
+              "correct": true
+            },
+            {
+              "textSv": "B. 40 %",
+              "textAr": "B. 40٪",
+              "correct": false
+            },
+            {
+              "textSv": "C. 50 %",
+              "textAr": "C. 50٪",
+              "correct": false
+            },
+            {
+              "textSv": "D. 70 %",
+              "textAr": "D. 70٪",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 30 %",
+          "correctAnswerAr": "A. 30٪"
+        },
+        {
+          "question": {
+            "sv": "4. Hur stor andel arbetar inom privat sektor?",
+            "ar": "4. ما نسبة العاملين في القطاع الخاص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 30 %",
+              "textAr": "A. 30٪",
+              "correct": false
+            },
+            {
+              "textSv": "B. 40 %",
+              "textAr": "B. 40٪",
+              "correct": false
+            },
+            {
+              "textSv": "C. 70 %",
+              "textAr": "C. 70٪",
+              "correct": true
+            },
+            {
+              "textSv": "D. 90 %",
+              "textAr": "D. 90٪",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 70 %",
+          "correctAnswerAr": "C. 70٪"
+        },
+        {
+          "question": {
+            "sv": "5. Hur finansieras den offentliga sektorn?",
+            "ar": "5. كيف يتم تمويل القطاع العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom banker",
+              "textAr": "A. من خلال البنوك",
+              "correct": false
+            },
+            {
+              "textSv": "B. Genom skatter",
+              "textAr": "B. من خلال الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Genom donationer",
+              "textAr": "C. من خلال التبرعات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Genom aktier",
+              "textAr": "D. من خلال الأسهم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Genom skatter",
+          "correctAnswerAr": "B. من خلال الضرائب"
+        },
+        {
+          "question": {
+            "sv": "6. Vem ansvarar för den offentliga sektorn?",
+            "ar": "6. من المسؤول عن القطاع العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten, regionerna och kommunerna",
+              "textAr": "A. الدولة والأقاليم والبلديات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Företagen",
+              "textAr": "B. الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Fackförbunden",
+              "textAr": "C. النقابات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bankerna",
+              "textAr": "D. البنوك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten, regionerna och kommunerna",
+          "correctAnswerAr": "A. الدولة والأقاليم والبلديات"
+        },
+        {
+          "question": {
+            "sv": "7. Vilket yrke hör till offentlig sektor?",
+            "ar": "7. أي مهنة تنتمي إلى القطاع العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polis",
+              "textAr": "A. شرطي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Servitör",
+              "textAr": "B. نادل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Lastbilschaufför",
+              "textAr": "C. سائق شاحنة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Butiksbiträde",
+              "textAr": "D. بائع في متجر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Polis",
+          "correctAnswerAr": "A. شرطي"
+        },
+        {
+          "question": {
+            "sv": "8. Vilket yrke hör till offentlig sektor?",
+            "ar": "8. أي مهنة تنتمي إلى القطاع العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fabriksarbetare",
+              "textAr": "A. عامل مصنع",
+              "correct": false
+            },
+            {
+              "textSv": "B. Lärare",
+              "textAr": "B. معلم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Säljare",
+              "textAr": "C. بائع",
+              "correct": false
+            },
+            {
+              "textSv": "D. Jurist på privat företag",
+              "textAr": "D. محامٍ في شركة خاصة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Lärare",
+          "correctAnswerAr": "B. معلم"
+        },
+        {
+          "question": {
+            "sv": "9. Vad menas med privat sektor?",
+            "ar": "9. ماذا يُقصد بالقطاع الخاص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statliga myndigheter",
+              "textAr": "A. الجهات الحكومية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regioner",
+              "textAr": "B. الأقاليم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Privatägda företag",
+              "textAr": "C. الشركات المملوكة للقطاع الخاص",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kommunala verksamheter",
+              "textAr": "D. الأنشطة البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Privatägda företag",
+          "correctAnswerAr": "C. الشركات المملوكة للقطاع الخاص"
+        },
+        {
+          "question": {
+            "sv": "10. Vilken verksamhet finns oftast i privat sektor?",
+            "ar": "10. أي نشاط يوجد غالباً في القطاع الخاص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polis",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skola",
+              "textAr": "B. المدرسة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Restaurang",
+              "textAr": "C. مطعم",
+              "correct": true
+            },
+            {
+              "textSv": "D. Brandkår",
+              "textAr": "D. الإطفاء",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Restaurang",
+          "correctAnswerAr": "C. مطعم"
+        },
+        {
+          "question": {
+            "sv": "11. Vem anställer arbetstagare?",
+            "ar": "11. من يقوم بتوظيف العاملين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsgivaren",
+              "textAr": "A. صاحب العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Facket",
+              "textAr": "B. النقابة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunen",
+              "textAr": "C. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Staten",
+              "textAr": "D. الدولة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsgivaren",
+          "correctAnswerAr": "A. صاحب العمل"
+        },
+        {
+          "question": {
+            "sv": "12. Vem får lön från arbetsgivaren?",
+            "ar": "12. من يتقاضى راتباً من صاحب العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsgivaren",
+              "textAr": "A. صاحب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Arbetstagaren",
+              "textAr": "B. العامل أو الموظف",
+              "correct": true
+            },
+            {
+              "textSv": "C. Staten",
+              "textAr": "C. الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Banken",
+              "textAr": "D. البنك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Arbetstagaren",
+          "correctAnswerAr": "B. العامل أو الموظف"
+        },
+        {
+          "question": {
+            "sv": "13. Vad kallas arbetsgivarnas organisationer?",
+            "ar": "13. ماذا تُسمى منظمات أصحاب العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fackförbund",
+              "textAr": "A. النقابات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Arbetsgivarorganisationer",
+              "textAr": "B. منظمات أصحاب العمل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Myndigheter",
+              "textAr": "C. السلطات الحكومية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Centralorganisationer",
+              "textAr": "D. المنظمات المركزية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Arbetsgivarorganisationer",
+          "correctAnswerAr": "B. منظمات أصحاب العمل"
+        },
+        {
+          "question": {
+            "sv": "14. Vilken organisation representerar privata arbetsgivare?",
+            "ar": "14. أي منظمة تمثل أصحاب العمل في القطاع الخاص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. LO",
+              "textAr": "A. LO",
+              "correct": false
+            },
+            {
+              "textSv": "B. TCO",
+              "textAr": "B. TCO",
+              "correct": false
+            },
+            {
+              "textSv": "C. SACO",
+              "textAr": "C. SACO",
+              "correct": false
+            },
+            {
+              "textSv": "D. Svenskt Näringsliv",
+              "textAr": "D. اتحاد الأعمال السويدي",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Svenskt Näringsliv",
+          "correctAnswerAr": "D. اتحاد الأعمال السويدي"
+        },
+        {
+          "question": {
+            "sv": "15. Vilka representerar fackliga organisationer?",
+            "ar": "15. من تمثل النقابات العمالية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsgivare",
+              "textAr": "A. أصحاب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Arbetstagare",
+              "textAr": "B. العاملون والموظفون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Banker",
+              "textAr": "C. البنوك",
+              "correct": false
+            },
+            {
+              "textSv": "D. Politiker",
+              "textAr": "D. السياسيون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Arbetstagare",
+          "correctAnswerAr": "B. العاملون والموظفون"
+        },
+        {
+          "question": {
+            "sv": "16. Vad står LO för?",
+            "ar": "16. ماذا يعني الاختصار LO؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Landsorganisationen i Sverige",
+              "textAr": "A. اتحاد النقابات العمالية في السويد",
+              "correct": true
+            },
+            {
+              "textSv": "B. Lokala Organisationen",
+              "textAr": "B. المنظمة المحلية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Löneorganisationen",
+              "textAr": "C. منظمة الأجور",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ledarnas Organisation",
+              "textAr": "D. منظمة القادة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Landsorganisationen i Sverige",
+          "correctAnswerAr": "A. اتحاد النقابات العمالية في السويد"
+        },
+        {
+          "question": {
+            "sv": "17. Vad står TCO för?",
+            "ar": "17. ماذا يعني الاختصار TCO؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Tjänstemännens Centralorganisation",
+              "textAr": "A. المنظمة المركزية للموظفين والموظفات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Tjänstearbetarnas Centralorganisation",
+              "textAr": "B. المنظمة المركزية للعاملين في الخدمات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Transport Central Organisation",
+              "textAr": "C. المنظمة المركزية للنقل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tjänstemännens Kommunorganisation",
+              "textAr": "D. منظمة موظفي البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Tjänstemännens Centralorganisation",
+          "correctAnswerAr": "A. المنظمة المركزية للموظفين والموظفات"
+        },
+        {
+          "question": {
+            "sv": "18. Vad står SACO för?",
+            "ar": "18. ماذا يعني الاختصار SACO؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sveriges Arbetsgivares Centralorganisation",
+              "textAr": "A. المنظمة المركزية لأصحاب العمل في السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sveriges Akademikers Centralorganisation",
+              "textAr": "B. المنظمة المركزية للأكاديميين في السويد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Svenska Arbetscentralen",
+              "textAr": "C. المركز السويدي للعمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sveriges Allmänna Centralorganisation",
+              "textAr": "D. المنظمة المركزية العامة في السويد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sveriges Akademikers Centralorganisation",
+          "correctAnswerAr": "B. المنظمة المركزية للأكاديميين في السويد"
+        },
+        {
+          "question": {
+            "sv": "19. Vad gör fackförbund?",
+            "ar": "19. ماذا تفعل النقابات العمالية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Delar ut lån",
+              "textAr": "A. تمنح القروض",
+              "correct": false
+            },
+            {
+              "textSv": "B. Förhandlar om löner och villkor",
+              "textAr": "B. تتفاوض بشأن الأجور وظروف العمل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Samlar in skatt",
+              "textAr": "C. تجمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ger pension",
+              "textAr": "D. تدفع المعاشات التقاعدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Förhandlar om löner och villkor",
+          "correctAnswerAr": "B. تتفاوض بشأن الأجور وظروف العمل"
+        },
+        {
+          "question": {
+            "sv": "20. Vem kan bli medlem i ett fackförbund?",
+            "ar": "20. من يمكنه أن يصبح عضواً في نقابة عمالية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Anställda",
+              "textAr": "A. الموظفون والعاملون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Endast arbetsgivare",
+              "textAr": "B. أصحاب العمل فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Endast pensionärer",
+              "textAr": "C. المتقاعدون فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast företagare",
+              "textAr": "D. أصحاب الشركات فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Anställda",
+          "correctAnswerAr": "A. الموظفون والعاملون"
+        },
+        {
+          "question": {
+            "sv": "21. Vad är ett kollektivavtal?",
+            "ar": "21. ما هي الاتفاقية الجماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett bostadslån",
+              "textAr": "A. قرض سكني",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett avtal om löner och arbetsvillkor",
+              "textAr": "B. اتفاق بشأن الأجور وظروف العمل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett körkort",
+              "textAr": "C. رخصة قيادة",
+              "correct": false
+            },
+            {
+              "textSv": "D. En försäkring",
+              "textAr": "D. تأمين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett avtal om löner och arbetsvillkor",
+          "correctAnswerAr": "B. اتفاق بشأن الأجور وظروف العمل"
+        },
+        {
+          "question": {
+            "sv": "22. Vilka tecknar kollektivavtal?",
+            "ar": "22. من يوقع الاتفاقيات الجماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Banker och staten",
+              "textAr": "A. البنوك والدولة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fackförbund och arbetsgivarorganisationer",
+              "textAr": "B. النقابات ومنظمات أصحاب العمل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kommuner och regioner",
+              "textAr": "C. البلديات والأقاليم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen och Skatteverket",
+              "textAr": "D. مكتب العمل ومصلحة الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Fackförbund och arbetsgivarorganisationer",
+          "correctAnswerAr": "B. النقابات ومنظمات أصحاب العمل"
+        },
+        {
+          "question": {
+            "sv": "23. Vem bestämmer lönerna i Sverige?",
+            "ar": "23. من يحدد الأجور في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringen",
+              "textAr": "B. الحكومة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbetsmarknadens parter",
+              "textAr": "C. أطراف سوق العمل",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kommunerna",
+              "textAr": "D. البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Arbetsmarknadens parter",
+          "correctAnswerAr": "C. أطراف سوق العمل"
+        },
+        {
+          "question": {
+            "sv": "24. Vad reglerar arbetsmiljölagen?",
+            "ar": "24. ماذا ينظم قانون بيئة العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsmiljön",
+              "textAr": "A. بيئة العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bostäder",
+              "textAr": "B. السكن",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatter",
+              "textAr": "C. الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Pensioner",
+              "textAr": "D. المعاشات التقاعدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsmiljön",
+          "correctAnswerAr": "A. بيئة العمل"
+        },
+        {
+          "question": {
+            "sv": "25. Vad reglerar semesterlagen?",
+            "ar": "25. ماذا ينظم قانون الإجازات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pension",
+              "textAr": "A. التقاعد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Semester",
+              "textAr": "B. الإجازة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatt",
+              "textAr": "C. الضريبة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetslöshet",
+              "textAr": "D. البطالة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Semester",
+          "correctAnswerAr": "B. الإجازة"
+        },
+        {
+          "question": {
+            "sv": "26. Vad måste arbetsgivaren bidra till för sina anställda?",
+            "ar": "26. ما الذي يجب على صاحب العمل المساهمة فيه لموظفيه؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pension",
+              "textAr": "A. التقاعد",
+              "correct": true
+            },
+            {
+              "textSv": "B. Körkort",
+              "textAr": "B. رخصة القيادة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bostad",
+              "textAr": "C. السكن",
+              "correct": false
+            },
+            {
+              "textSv": "D. Semesterresa",
+              "textAr": "D. رحلة إجازة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pension",
+          "correctAnswerAr": "A. التقاعد"
+        },
+        {
+          "question": {
+            "sv": "27. Vad betalar alla som arbetar?",
+            "ar": "27. ماذا يدفع جميع العاملين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hyra",
+              "textAr": "A. الإيجار",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skatt",
+              "textAr": "B. الضريبة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Böter",
+              "textAr": "C. الغرامات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ränta",
+              "textAr": "D. الفائدة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Skatt",
+          "correctAnswerAr": "B. الضريبة"
+        },
+        {
+          "question": {
+            "sv": "28. Vad påverkar hur mycket skatt man betalar?",
+            "ar": "28. ما الذي يؤثر على مقدار الضريبة التي يدفعها الشخص؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Bostad",
+              "textAr": "A. السكن",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ålder",
+              "textAr": "B. العمر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Inkomst",
+              "textAr": "C. الدخل",
+              "correct": true
+            },
+            {
+              "textSv": "D. Civilstånd",
+              "textAr": "D. الحالة الاجتماعية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Inkomst",
+          "correctAnswerAr": "C. الدخل"
+        },
+        {
+          "question": {
+            "sv": "29. Är det lagligt att arbeta utan att betala skatt?",
+            "ar": "29. هل من القانوني العمل دون دفع الضرائب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Endast ibland",
+              "textAr": "B. في بعض الأحيان فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Endast för studenter",
+              "textAr": "C. للطلاب فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Nej",
+              "textAr": "D. لا",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Nej",
+          "correctAnswerAr": "D. لا"
+        },
+        {
+          "question": {
+            "sv": "30. Vad är A-kassan?",
+            "ar": "30. ما هو صندوق التأمين ضد البطالة (A-kassa)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett sparkonto",
+              "textAr": "A. حساب توفير",
+              "correct": false
+            },
+            {
+              "textSv": "B. En arbetslöshetsförsäkring",
+              "textAr": "B. تأمين ضد البطالة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett bostadsbidrag",
+              "textAr": "C. إعانة سكن",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett pensionskonto",
+              "textAr": "D. حساب تقاعد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En arbetslöshetsförsäkring",
+          "correctAnswerAr": "B. تأمين ضد البطالة"
+        },
+        {
+          "question": {
+            "sv": "31. Vad måste man göra för att få ersättning från A-kassan?",
+            "ar": "31. ماذا يجب أن يفعل الشخص للحصول على تعويض من صندوق البطالة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Vara aktivt arbetssökande",
+              "textAr": "A. أن يكون باحثاً عن عمل بشكل نشط",
+              "correct": true
+            },
+            {
+              "textSv": "B. Vara pensionär",
+              "textAr": "B. أن يكون متقاعداً",
+              "correct": false
+            },
+            {
+              "textSv": "C. Äga bostad",
+              "textAr": "C. أن يمتلك مسكناً",
+              "correct": false
+            },
+            {
+              "textSv": "D. Vara student",
+              "textAr": "D. أن يكون طالباً",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Vara aktivt arbetssökande",
+          "correctAnswerAr": "A. أن يكون باحثاً عن عمل بشكل نشط"
+        },
+        {
+          "question": {
+            "sv": "32. Vad handlar privatekonomi om?",
+            "ar": "32. ما الذي يتعلق به الاقتصاد الشخصي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statens ekonomi",
+              "textAr": "A. اقتصاد الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Företagens ekonomi",
+              "textAr": "B. اقتصاد الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Personliga inkomster och utgifter",
+              "textAr": "C. الدخل والمصروفات الشخصية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kommunernas ekonomi",
+              "textAr": "D. اقتصاد البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Personliga inkomster och utgifter",
+          "correctAnswerAr": "C. الدخل والمصروفات الشخصية"
+        },
+        {
+          "question": {
+            "sv": "33. Vilket är ett exempel på en inkomst?",
+            "ar": "33. أي مما يلي مثال على دخل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Lön",
+              "textAr": "A. راتب",
+              "correct": true
+            },
+            {
+              "textSv": "B. Hyra",
+              "textAr": "B. إيجار",
+              "correct": false
+            },
+            {
+              "textSv": "C. Mat",
+              "textAr": "C. طعام",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kläder",
+              "textAr": "D. ملابس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Lön",
+          "correctAnswerAr": "A. راتب"
+        },
+        {
+          "question": {
+            "sv": "34. Vilket är ett exempel på en utgift?",
+            "ar": "34. أي مما يلي مثال على مصروف؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Barnbidrag",
+              "textAr": "A. إعانة الأطفال",
+              "correct": false
+            },
+            {
+              "textSv": "B. Pension",
+              "textAr": "B. معاش تقاعدي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Boende",
+              "textAr": "C. السكن",
+              "correct": true
+            },
+            {
+              "textSv": "D. Sjukpenning",
+              "textAr": "D. بدل المرض",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Boende",
+          "correctAnswerAr": "C. السكن"
+        },
+        {
+          "question": {
+            "sv": "35. Vilken socialförsäkring nämns i kapitlet?",
+            "ar": "35. أي إعانة اجتماعية ذُكرت في الفصل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Barnbidrag",
+              "textAr": "A. إعانة الأطفال",
+              "correct": true
+            },
+            {
+              "textSv": "B. Körkortsbidrag",
+              "textAr": "B. إعانة رخصة القيادة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Semesterbidrag",
+              "textAr": "C. إعانة الإجازة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Flyttbidrag",
+              "textAr": "D. إعانة الانتقال",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Barnbidrag",
+          "correctAnswerAr": "A. إعانة الأطفال"
+        },
+        {
+          "question": {
+            "sv": "36. Var kan människor spara pengar?",
+            "ar": "36. أين يمكن للناس ادخار أموالهم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast på bankkonto",
+              "textAr": "A. في حساب بنكي فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Endast i aktier",
+              "textAr": "B. في الأسهم فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. På bankkonto, i fonder eller aktier",
+              "textAr": "C. في حساب بنكي أو صناديق استثمار أو أسهم",
+              "correct": true
+            },
+            {
+              "textSv": "D. Endast i fonder",
+              "textAr": "D. في الصناديق الاستثمارية فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. På bankkonto, i fonder eller aktier",
+          "correctAnswerAr": "C. في حساب بنكي أو صناديق استثمار أو أسهم"
+        },
+        {
+          "question": {
+            "sv": "37. Varför tar många lån från banken?",
+            "ar": "37. لماذا يأخذ الكثير من الناس قروضاً من البنك؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att köpa bostad eller bil",
+              "textAr": "A. لشراء منزل أو سيارة",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att rösta",
+              "textAr": "B. للتصويت",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att deklarera",
+              "textAr": "C. لتقديم الإقرار الضريبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att gå med i facket",
+              "textAr": "D. للانضمام إلى النقابة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att köpa bostad eller bil",
+          "correctAnswerAr": "A. لشراء منزل أو سيارة"
+        },
+        {
+          "question": {
+            "sv": "38. Vad är ofta den största delen av hushållets skulder?",
+            "ar": "38. ما الذي يشكل غالباً أكبر جزء من ديون الأسرة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kreditkort",
+              "textAr": "A. بطاقات الائتمان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bostadslån",
+              "textAr": "B. قرض السكن",
+              "correct": true
+            },
+            {
+              "textSv": "C. Telefonabonnemang",
+              "textAr": "C. اشتراك الهاتف",
+              "correct": false
+            },
+            {
+              "textSv": "D. Matkostnader",
+              "textAr": "D. تكاليف الطعام",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Bostadslån",
+          "correctAnswerAr": "B. قرض السكن"
+        },
+        {
+          "question": {
+            "sv": "39. Vilken myndighet ser till att skulder blir betalda?",
+            "ar": "39. أي جهة حكومية تضمن سداد الديون؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. مصلحة التأمينات الاجتماعية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Arbetsförmedlingen",
+              "textAr": "B. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kronofogden",
+              "textAr": "C. مصلحة التنفيذ (كرونوفوغدن)",
+              "correct": true
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Kronofogden",
+          "correctAnswerAr": "C. مصلحة التنفيذ (كرونوفوغدن)"
+        },
+        {
+          "question": {
+            "sv": "40. Till vilken myndighet ska man deklarera sin inkomst?",
+            "ar": "40. إلى أي جهة يجب تقديم الإقرار الضريبي للدخل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kronofogden",
+              "textAr": "B. مصلحة التنفيذ",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skatteverket",
+              "textAr": "D. مصلحة الضرائب السويدية",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Skatteverket",
+          "correctAnswerAr": "D. مصلحة الضرائب السويدية"
+        }
+      ]
     },
     {
       "lessonId": 9,
@@ -7798,6 +8999,22 @@
     },
     {
       "lessonId": 10,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 11,
+      "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 12,
       "lessonTitle": {
         "sv": "Kapitel sex: 6- Medier i Sverige",
         "ar": "الفصل السادس :6- وسائل الإعلام في السويد"

@@ -116,8 +116,11 @@ export interface QuestionsResponseType {
 // =====================
 export interface UserAnswerType {
   questionTitle: string;
+  questionTitleAr: string;
   userAnswer: string;
+  userAnswerAr: string;
   correctAnswer: string;
+  correctAnswerAr: string;
   isCorrect: boolean;
 }
 export interface LessonTitleType {
