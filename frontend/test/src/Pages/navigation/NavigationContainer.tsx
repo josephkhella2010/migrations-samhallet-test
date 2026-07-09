@@ -20,7 +20,6 @@ export default function NavigationContainer() {
   const handleNavigate = (id: number | string) => {
     const lessonIdString = String(id);
     navigate(`/lesson-detail/${lessonIdString}`);
-    console.log(typeof lessonIdString);
   };
   const handleNavigateQuestion = (id: number | string) => {
     const lessonIdString = String(id);
