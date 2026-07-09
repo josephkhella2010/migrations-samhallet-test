@@ -40,6 +40,6 @@ export const questionArr: QuestionArrType[] = [
   {
     sv: "Övriga frågor 4",
     ar: "أسئلة إضافية 4",
-    number: 16,
+    number: 17,
   },
 ];
