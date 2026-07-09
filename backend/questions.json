@@ -9024,6 +9024,14 @@
     {
       "lessonId": 13,
       "lessonTitle": {
+        "sv": "Kapitel sex: 6- Medier i Sverige",
+        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+      },
+      "questions": []
+    },
+    {
+      "lessonId": 14,
+      "lessonTitle": {
         "sv": "Övriga frågor 1",
         "ar": "أسئلة إضافية 1"
       },
@@ -10837,7 +10845,7 @@
     },
 
     {
-      "lessonId": 14,
+      "lessonId": 15,
       "lessonTitle": {
         "sv": "Övriga frågor 2",
         "ar": "أسئلة إضافية 2"
@@ -12650,7 +12658,7 @@
       ]
     },
     {
-      "lessonId": 15,
+      "lessonId": 16,
       "lessonTitle": {
         "sv": "Övriga frågor 3",
         "ar": "أسئلة إضافية 3"

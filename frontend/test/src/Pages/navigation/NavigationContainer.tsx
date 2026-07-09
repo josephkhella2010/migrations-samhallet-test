@@ -12,7 +12,7 @@ export default function NavigationContainer() {
   const [isMobile, setIsMobile] = useState<boolean>(false);
   const [showMobileHeader, setShowMobileHeader] = useState<boolean>(false);
   const navigate = useNavigate();
-  const lessonsLength = 12;
+  const lessonsLength = 13;
   const lessonsArr = Array.from({ length: lessonsLength }, (_, i) => i + 1);
 
   /* functions */
