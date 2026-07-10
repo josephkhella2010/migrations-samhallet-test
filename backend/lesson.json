@@ -3305,14 +3305,220 @@
       }
     },
     {
-      "lessonId": 5,
+      "lessonId": 9,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel nio: Välfärdssamhället",
+        "arabic": "الفصل التاسع: مجتمع الرفاهية"
       },
       "sections": {
-        "swedish": [],
-        "arabic": []
+        "swedish": [
+          {
+            "title": "1. Vad är välfärdssamhället?",
+            "subtitle": "Ekonomisk och social trygghet för alla",
+            "text": "Välfärdssamhället innebär att staten, regionerna och kommunerna ger invånarna trygghet och stöd genom olika samhällstjänster.",
+            "list": [
+              "målet är att människor ska kunna leva ett tryggt liv",
+              "hjälper vid sjukdom, arbetslöshet och olika livssituationer",
+              "omfattar sjukvård, utbildning och ekonomiskt stöd",
+              "inkluderar äldreomsorg och socialt stöd"
+            ]
+          },
+          {
+            "title": "2. Skatter finansierar välfärden",
+            "subtitle": "Pengar till samhällets tjänster",
+            "text": "Den svenska välfärden finansieras främst genom skatter som betalas av invånare och företag.",
+            "list": [
+              "skatter används av staten, regionerna och kommunerna",
+              "finansierar skolor och sjukhus",
+              "betalar för vägar och samhällsservice",
+              "bidrar till pensioner och sociala stöd"
+            ]
+          },
+          {
+            "title": "3. Olika typer av skatter",
+            "subtitle": "Hur skatter betalas",
+            "text": "I Sverige finns olika typer av skatter som används för att finansiera välfärden och den offentliga sektorn.",
+            "list": [
+              "inkomstskatt betalas på lön och inkomster",
+              "moms betalas när man köper varor och tjänster",
+              "arbetsgivaravgifter betalas av arbetsgivare",
+              "arbetsgivaravgifter används bland annat till pensioner och sjukförsäkring"
+            ]
+          },
+          {
+            "title": "4. Statens ansvar för välfärden",
+            "subtitle": "Nationella stöd och trygghetssystem",
+            "text": "Staten ansvarar för flera ekonomiska stöd och viktiga delar av utbildning och forskning.",
+            "list": [
+              "pensioner",
+              "sjukförsäkring",
+              "föräldraförsäkring",
+              "arbetslöshetsförsäkring",
+              "studiestöd",
+              "barnbidrag",
+              "universitet, högskolor och forskning"
+            ]
+          },
+          {
+            "title": "5. Regionernas ansvar",
+            "subtitle": "Sjukvård för invånarna",
+            "text": "Sveriges 21 regioner ansvarar främst för sjukvård och driver vårdinrättningar.",
+            "list": [
+              "driver sjukhus",
+              "driver vårdcentraler",
+              "ansvarar för att invånare får vård",
+              "finansierar sjukvården"
+            ]
+          },
+          {
+            "title": "6. Olika typer av sjukvård",
+            "subtitle": "Vård på olika nivåer",
+            "text": "Sjukvården är organiserad i olika delar beroende på vilket stöd och vilken behandling människor behöver.",
+            "list": [
+              "primärvård är första kontakten med vården",
+              "vårdcentraler och barnavårdscentraler ingår i primärvården",
+              "sjukhusvård omfattar operationer och akutsjukvård",
+              "övrig sjukvård omfattar psykiatri, rehabilitering och tandvård"
+            ]
+          },
+          {
+            "title": "7. Kommunernas ansvar",
+            "subtitle": "Service nära invånarna",
+            "text": "Sveriges 290 kommuner ansvarar för många viktiga tjänster som påverkar människors vardag.",
+            "list": [
+              "ansvarar för förskolor och skolor",
+              "ansvarar för grundskola, gymnasium och vuxenutbildning",
+              "ansvarar för äldreomsorg",
+              "ansvarar för socialtjänst"
+            ]
+          },
+          {
+            "title": "8. Äldreomsorg och socialtjänst",
+            "subtitle": "Stöd till personer som behöver hjälp",
+            "text": "Kommunerna hjälper äldre och personer som behöver stöd genom äldreomsorg och socialtjänst.",
+            "list": [
+              "hjälper äldre med städning, matlagning och inköp",
+              "kan erbjuda äldreboende",
+              "hjälper personer med ekonomiska problem",
+              "ger stöd till personer utan bostad eller med funktionsnedsättning",
+              "kan ge rådgivning och ekonomiskt stöd"
+            ]
+          },
+          {
+            "title": "9. Skillnaden mellan stat, region och kommun",
+            "subtitle": "Tre nivåer i välfärdssystemet",
+            "text": "Ansvaret för välfärden är uppdelat mellan staten, regionerna och kommunerna.",
+            "list": [
+              "staten ansvarar för pensioner, sjukförsäkring, barnbidrag och universitet",
+              "regionerna ansvarar för sjukvård, sjukhus och vårdcentraler",
+              "kommunerna ansvarar för skola, förskola, äldreomsorg och socialtjänst"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. ما هو مجتمع الرفاهية؟",
+            "subtitle": "الأمان الاقتصادي والاجتماعي للجميع",
+            "text": "يعني مجتمع الرفاهية أن الدولة والمناطق والبلديات تعمل معًا لتوفير الأمان والدعم للمواطنين من خلال خدمات اجتماعية مختلفة.",
+            "list": [
+              "الهدف هو أن يعيش الناس حياة آمنة ومستقرة",
+              "يساعد المجتمع الأشخاص عند المرض أو البطالة أو تغير ظروف الحياة",
+              "يشمل الرعاية الصحية والتعليم والدعم الاقتصادي",
+              "يشمل رعاية المسنين والدعم الاجتماعي"
+            ]
+          },
+          {
+            "title": "2. الضرائب تمول نظام الرفاهية",
+            "subtitle": "الأموال لخدمات المجتمع",
+            "text": "يتم تمويل نظام الرفاهية السويدي بشكل أساسي من خلال الضرائب التي يدفعها الأفراد والشركات.",
+            "list": [
+              "تستخدم الضرائب من قبل الدولة والمناطق والبلديات",
+              "تمول المدارس والمستشفيات",
+              "تدفع تكاليف الطرق والخدمات العامة",
+              "تساهم في المعاشات والدعم الاجتماعي"
+            ]
+          },
+          {
+            "title": "3. أنواع الضرائب المختلفة",
+            "subtitle": "كيفية دفع الضرائب",
+            "text": "توجد في السويد أنواع مختلفة من الضرائب التي تستخدم لتمويل الخدمات العامة ونظام الرفاهية.",
+            "list": [
+              "ضريبة الدخل تُدفع من الراتب والدخل",
+              "ضريبة القيمة المضافة (الموا) تُدفع عند شراء السلع والخدمات",
+              "رسوم صاحب العمل تُدفع من قبل أصحاب العمل",
+              "تستخدم رسوم أصحاب العمل لتمويل المعاشات والتأمين الصحي"
+            ]
+          },
+          {
+            "title": "4. مسؤولية الدولة في نظام الرفاهية",
+            "subtitle": "الدعم الوطني وأنظمة الأمان",
+            "text": "تتحمل الدولة مسؤولية العديد من أشكال الدعم الاقتصادي وأجزاء مهمة من التعليم والبحث العلمي.",
+            "list": [
+              "المعاشات التقاعدية",
+              "التأمين ضد المرض",
+              "تأمين الوالدين عند رعاية الأطفال",
+              "تأمين البطالة",
+              "دعم الطلاب",
+              "إعانة الأطفال",
+              "الجامعات والتعليم العالي والبحث العلمي"
+            ]
+          },
+          {
+            "title": "5. مسؤولية المناطق (Regioner)",
+            "subtitle": "الرعاية الصحية للسكان",
+            "text": "توجد في السويد 21 منطقة، وهي مسؤولة بشكل أساسي عن الرعاية الصحية وإدارة المؤسسات الطبية.",
+            "list": [
+              "إدارة المستشفيات",
+              "إدارة المراكز الصحية",
+              "ضمان حصول السكان على الرعاية الصحية",
+              "تمويل قطاع الرعاية الصحية"
+            ]
+          },
+          {
+            "title": "6. أنواع الرعاية الصحية المختلفة",
+            "subtitle": "الرعاية الصحية على مستويات مختلفة",
+            "text": "تنقسم الرعاية الصحية في السويد إلى عدة أنواع حسب حاجة الشخص إلى العلاج والدعم.",
+            "list": [
+              "الرعاية الأولية هي أول اتصال مع القطاع الصحي",
+              "تشمل المراكز الصحية ومراكز رعاية الأطفال والأمهات",
+              "رعاية المستشفيات تشمل العمليات والعلاج المتقدم والطوارئ",
+              "تشمل الرعاية الأخرى الطب النفسي وإعادة التأهيل وطب الأسنان"
+            ]
+          },
+          {
+            "title": "7. مسؤولية البلديات",
+            "subtitle": "الخدمات القريبة من المواطنين",
+            "text": "تتحمل البلديات السويدية البالغ عددها 290 بلدية مسؤولية العديد من الخدمات اليومية المهمة.",
+            "list": [
+              "مسؤولة عن رياض الأطفال والمدارس",
+              "مسؤولة عن التعليم الأساسي والثانوي وتعليم الكبار",
+              "مسؤولة عن رعاية المسنين",
+              "مسؤولة عن الخدمات الاجتماعية"
+            ]
+          },
+          {
+            "title": "8. رعاية المسنين والخدمات الاجتماعية",
+            "subtitle": "الدعم للأشخاص الذين يحتاجون إلى المساعدة",
+            "text": "تساعد البلديات كبار السن والأشخاص الذين يحتاجون إلى دعم من خلال رعاية المسنين والخدمات الاجتماعية.",
+            "list": [
+              "تساعد كبار السن في التنظيف والطبخ والتسوق",
+              "يمكن أن توفر دور رعاية المسنين",
+              "تساعد الأشخاص الذين لديهم مشاكل اقتصادية",
+              "تدعم الأشخاص الذين ليس لديهم سكن أو لديهم إعاقة",
+              "تقدم الإرشاد والدعم المالي"
+            ]
+          },
+          {
+            "title": "9. الفرق بين الدولة والمنطقة والبلدية",
+            "subtitle": "ثلاثة مستويات في نظام الرفاهية",
+            "text": "يتم تقسيم مسؤولية نظام الرفاهية بين الدولة والمناطق والبلديات.",
+            "list": [
+              "الدولة مسؤولة عن المعاشات والتأمين الصحي وإعانة الأطفال والجامعات",
+              "المناطق مسؤولة عن الرعاية الصحية والمستشفيات والمراكز الصحية",
+              "البلديات مسؤولة عن المدارس ورياض الأطفال ورعاية المسنين والخدمات الاجتماعية"
+            ]
+          }
+        ]
       }
     },
     {

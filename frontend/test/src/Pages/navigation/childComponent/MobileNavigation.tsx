@@ -5,17 +5,21 @@ import NavigationPageTranslation from "../../../translation/Translations/Navigat
 import { useDispatch } from "react-redux";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useNavigate } from "react-router-dom";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { questionArr } from "../../../utilities/Array";
+import { IoClose } from "react-icons/io5";
 
 const useStyles = createUseStyles({
   mainMobileNavContainer: {
     position: "fixed",
     inset: 0,
     zIndex: 1000,
-    backgroundColor: "#fff",
+    width: "100%",
     height: "100dvh",
-    overflowY: "auto",
+    backgroundColor: "#fff",
+    display: "flex",
+    flexDirection: "column",
+    overflow: "hidden",
     padding: "24px 20px",
     boxSizing: "border-box",
   },
@@ -23,31 +27,52 @@ const useStyles = createUseStyles({
   desktopNavMainMenu: {
     display: "flex",
     flexDirection: "column",
+
+    flex: 1,
+    minHeight: 0,
     gap: "24px",
+  },
+  desktopNavSectionMenu: {
+    overflow: "auto",
+    overflowY: "auto",
+    overflowX: "hidden",
+    WebkitOverflowScrolling: "touch",
+    "&::-webkit-scrollbar": {
+      display: "none",
+    },
+    scrollbarWidth: "none",
+    msOverflowStyle: "none",
   },
 
   menuItem: {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
+    flexShrink: 0,
     width: "100%",
-    fontSize: "20px",
+    fontSize: "22px",
     fontWeight: 600,
+    marginBottom: "32px",
+    cursor: "pointer",
   },
 
   desktopNavSubMenuMainSection: {
-    display: "flex",
-    flexDirection: "column",
-    gap: "24px",
+    flex: 1,
+    minHeight: 0,
+
+    overflowY: "auto",
+    overflowX: "hidden",
+
+    WebkitOverflowScrolling: "touch",
   },
 
   desktopNavSubMenuMainContainer: {
     display: "flex",
     flexDirection: "column",
     gap: "32px",
+    paddingBottom: "24px",
   },
 
-  // ===== Lessons =====
   desktopNavSubMenu: {
     display: "flex",
     flexDirection: "column",
@@ -58,6 +83,7 @@ const useStyles = createUseStyles({
     fontSize: "22px",
     fontWeight: 700,
     cursor: "pointer",
+    userSelect: "none",
   },
 
   desktopNavSubList: {
@@ -66,17 +92,19 @@ const useStyles = createUseStyles({
   },
 
   desktopNavSubMainList: {
+    display: "none",
     flexDirection: "column",
+
     gap: "15px",
+
     paddingLeft: "20px",
     paddingTop: "10px",
     paddingBottom: "10px",
-    display: "none",
+
     letterSpacing: "3px",
     cursor: "pointer",
   },
 
-  // ===== Tests =====
   desktopNavSubMenuTwo: {
     display: "flex",
     flexDirection: "column",
@@ -92,15 +120,32 @@ const useStyles = createUseStyles({
     cursor: "pointer",
     fontSize: "18px",
     fontFamily: "system-ui, sans-serif",
+
     "&:hover": {
       color: "red",
     },
   },
+
   showSubmenu: {
     display: "flex",
   },
+  closeSection: {
+    width: "50px",
+    height: "50px",
+    borderRadius: "50%",
+    backgroundColor: "#ddd",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  closeMainSection: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    marginBottom: "40px",
+    cursor: "pointer",
+  },
 });
-
 interface PropsType {
   handleNavigate: (id: number | string) => void;
   handleNavigateQuestion: (id: number | string) => void;
@@ -131,6 +176,7 @@ export default function MobileNavigation({
   const { t } = useTranslation();
   const dispatch = useDispatch();
   const navigate = useNavigate();
+  const menuRef = useRef<HTMLDivElement>(null);
   const lang = localStorage.getItem("lang");
   const [showSubMenu, setShowSubMenu] = useState<ShowSubMenuType>({
     lessonSubMenu: false,
@@ -138,157 +184,192 @@ export default function MobileNavigation({
     testSubMenuTwo: false,
   });
 
-  /* functions */
+  const closeAllMenus = () => {
+    setShowSubMenu({
+      lessonSubMenu: false,
+      testSubMenu: false,
+      testSubMenuTwo: false,
+    });
+
+    setShowMobileHeader(false);
+  };
+
   useEffect(() => {
-    document.body.style.overflow = "hidden";
+    const html = document.documentElement;
+    const body = document.body;
+
+    const htmlOverflow = html.style.overflow;
+    const bodyOverflow = body.style.overflow;
+
+    html.style.overflow = "hidden";
+    body.style.overflow = "hidden";
+
+    const handleClickOutside = (event: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+        closeAllMenus();
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
 
     return () => {
-      document.body.style.overflow = "auto";
+      html.style.overflow = htmlOverflow;
+      body.style.overflow = bodyOverflow;
+      document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, []);
+  });
 
   return (
     <div
       className={classes.mainMobileNavContainer}
-      onClick={() => {
-        setShowMobileHeader(false);
-      }}
+      ref={menuRef}
+      onClick={closeAllMenus}
     >
-      <div
-        className={classes.desktopNavMainMenu}
-        onClick={(e) => e.stopPropagation()}
-      >
-        <div className={classes.menuItem}>
-          <p
-            onClick={() => {
-              navigate("/");
-              setShowMobileHeader(false);
-            }}
-          >
-            {t(NavigationPageTranslation.HomeTitle)}
-          </p>
-
-          <LanguageDropDown
-            selectedLanguage={langDropDown}
-            showLangDropDown={showLangDropDown}
-            setLangDropDown={setLangDropDown}
-            setShowLangDropDown={setShowLangDropDown}
-          />
-        </div>
-
-        <div className={classes.desktopNavSubMenuMainSection}>
-          <div className={classes.desktopNavSubMenuMainContainer}>
-            {/* Lessons */}
+      <div className={classes.desktopNavMainMenu}>
+        <div
+          className={classes.desktopNavSectionMenu}
+          onClick={(e) => e.stopPropagation()}
+        >
+          <div className={classes.closeMainSection}>
             <div
-              className={classes.desktopNavSubMenu}
-              onClick={() => {
-                setShowSubMenu((prev) => ({
-                  ...prev,
-                  lessonSubMenu: !showSubMenu.lessonSubMenu,
-                }));
-              }}
+              className={classes.closeSection}
+              onClick={() => closeAllMenus()}
+              title="close"
             >
-              <div className={classes.desktopNavSubTitle}>
-                {t(NavigationPageTranslation.LinkOne)}
-              </div>
-
-              <div
-                className={`${classes.desktopNavSubMainList}  ${showSubMenu.lessonSubMenu ? classes.showSubmenu : ""} `}
-              >
-                {lessonsArr.map((lesson) => (
-                  <div
-                    key={lesson}
-                    className={classes.subItem}
-                    onClick={() => {
-                      handleNavigate(lesson);
-                      setShowSubMenu((prev) => ({
-                        ...prev,
-                        lessonSubMenu: false,
-                      }));
-                      setShowMobileHeader(false);
-                    }}
-                  >
-                    {t(NavigationPageTranslation.SubLinkLektion)} {lesson}
-                  </div>
-                ))}
-              </div>
+              <IoClose
+                size={32}
+                onClick={closeAllMenus}
+                style={{ cursor: "pointer" }}
+              />
             </div>
-
-            {/* Tests */}
-            <div
-              className={classes.desktopNavSubMenu}
+            <LanguageDropDown
+              selectedLanguage={langDropDown}
+              showLangDropDown={showLangDropDown}
+              setLangDropDown={setLangDropDown}
+              setShowLangDropDown={setShowLangDropDown}
+            />
+          </div>
+          <div className={classes.menuItem}>
+            <p
               onClick={() => {
-                setShowSubMenu((prev) => ({
-                  ...prev,
-                  testSubMenu: !showSubMenu.testSubMenu,
-                }));
+                navigate("/");
+                closeAllMenus();
               }}
             >
-              <div className={classes.desktopNavSubTitle}>
-                {t(NavigationPageTranslation.LinkTwo)}
+              {t(NavigationPageTranslation.HomeTitle)}
+            </p>
+          </div>
+
+          <div className={classes.desktopNavSubMenuMainSection}>
+            <div className={classes.desktopNavSubMenuMainContainer}>
+              <div
+                className={classes.desktopNavSubMenu}
+                onClick={() => {
+                  setShowSubMenu((prev) => ({
+                    ...prev,
+                    lessonSubMenu: !showSubMenu.lessonSubMenu,
+                  }));
+                }}
+              >
+                <div className={classes.desktopNavSubTitle}>
+                  {t(NavigationPageTranslation.LinkOne)}
+                </div>
+
+                <div
+                  className={`${classes.desktopNavSubMainList}  ${showSubMenu.lessonSubMenu ? classes.showSubmenu : ""} `}
+                >
+                  {lessonsArr.map((lesson) => (
+                    <div
+                      key={lesson}
+                      className={classes.subItem}
+                      onClick={() => {
+                        handleNavigate(lesson);
+                        setShowSubMenu((prev) => ({
+                          ...prev,
+                          lessonSubMenu: false,
+                        }));
+                        closeAllMenus();
+                      }}
+                    >
+                      {t(NavigationPageTranslation.SubLinkLektion)} {lesson}
+                    </div>
+                  ))}
+                </div>
               </div>
 
               <div
-                className={`${classes.desktopNavSubMainList}  ${showSubMenu.testSubMenu ? classes.showSubmenu : ""} `}
+                className={classes.desktopNavSubMenu}
+                onClick={() => {
+                  setShowSubMenu((prev) => ({
+                    ...prev,
+                    testSubMenu: !showSubMenu.testSubMenu,
+                  }));
+                }}
               >
-                {lessonsArr.map((lesson) => (
-                  <div
-                    key={lesson}
-                    className={classes.subItem}
-                    onClick={() => {
-                      handleNavigateQuestion(lesson);
-                      dispatch(clearAnswers());
-                      setShowSubMenu((prev) => ({
-                        ...prev,
-                        testSubMenu: false,
-                      }));
-                      setShowMobileHeader(false);
-                    }}
-                  >
-                    {t(NavigationPageTranslation.SubLinkTest)} {lesson}
-                  </div>
-                ))}
-              </div>
-            </div>
+                <div className={classes.desktopNavSubTitle}>
+                  {t(NavigationPageTranslation.LinkTwo)}
+                </div>
 
-            {/*  addtion test */}
-            {/* Additional questions */}
-            <div
-              className={classes.desktopNavSubMenu}
-              onClick={() => {
-                setShowSubMenu((prev) => ({
-                  ...prev,
-                  testSubMenuTwo: !prev.testSubMenuTwo,
-                }));
-              }}
-            >
-              <div className={classes.desktopNavSubTitle}>
-                {t(NavigationPageTranslation.SubLinkThree)}
+                <div
+                  className={`${classes.desktopNavSubMainList}  ${showSubMenu.testSubMenu ? classes.showSubmenu : ""} `}
+                >
+                  {lessonsArr.map((lesson) => (
+                    <div
+                      key={lesson}
+                      className={classes.subItem}
+                      onClick={() => {
+                        handleNavigateQuestion(lesson);
+                        dispatch(clearAnswers());
+                        setShowSubMenu((prev) => ({
+                          ...prev,
+                          testSubMenu: false,
+                        }));
+                        closeAllMenus();
+                      }}
+                    >
+                      {t(NavigationPageTranslation.SubLinkTest)} {lesson}
+                    </div>
+                  ))}
+                </div>
               </div>
 
               <div
-                className={`${classes.desktopNavSubMainList} ${
-                  showSubMenu.testSubMenuTwo ? classes.showSubmenu : ""
-                }`}
+                className={classes.desktopNavSubMenu}
+                onClick={() => {
+                  setShowSubMenu((prev) => ({
+                    ...prev,
+                    testSubMenuTwo: !prev.testSubMenuTwo,
+                  }));
+                }}
               >
-                {questionArr.map((item) => (
-                  <div
-                    key={item.number}
-                    className={classes.subItem}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      handleNavigateQuestion(item.number);
-                      dispatch(clearAnswers());
-                      setShowSubMenu((prev) => ({
-                        ...prev,
-                        testSubMenuTwo: false,
-                      }));
-                      setShowMobileHeader(false);
-                    }}
-                  >
-                    {lang === "sv" ? item.sv : item.ar}
-                  </div>
-                ))}
+                <div className={classes.desktopNavSubTitle}>
+                  {t(NavigationPageTranslation.SubLinkThree)}
+                </div>
+
+                <div
+                  className={`${classes.desktopNavSubMainList} ${
+                    showSubMenu.testSubMenuTwo ? classes.showSubmenu : ""
+                  }`}
+                >
+                  {questionArr.map((item) => (
+                    <div
+                      key={item.number}
+                      className={classes.subItem}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        handleNavigateQuestion(item.number);
+                        dispatch(clearAnswers());
+                        setShowSubMenu((prev) => ({
+                          ...prev,
+                          testSubMenuTwo: false,
+                        }));
+                        closeAllMenus();
+                      }}
+                    >
+                      {lang === "sv" ? item.sv : item.ar}
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
           </div>

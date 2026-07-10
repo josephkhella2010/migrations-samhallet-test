@@ -8992,10 +8992,1211 @@
     {
       "lessonId": 9,
       "lessonTitle": {
-        "sv": "Kapitel två: Sveriges demokratiska system",
-        "ar": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "sv": "Kapitel nio: Välfärdssamhället",
+        "ar": "الفصل التاسع: مجتمع الرفاهية"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad är målet med välfärdssamhället?",
+            "ar": "1- ما هو هدف دولة الرفاه؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla ska betala samma skatt",
+              "textAr": "A. أن يدفع الجميع نفس الضريبة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att skapa ekonomisk och social trygghet för invånarna",
+              "textAr": "B. توفير الأمان الاقتصادي والاجتماعي للسكان",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att staten ska äga alla företag",
+              "textAr": "C. أن تمتلك الدولة جميع الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att minska antalet kommuner",
+              "textAr": "D. تقليل عدد البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att skapa ekonomisk och social trygghet för invånarna",
+          "correctAnswerAr": "B. توفير الأمان الاقتصادي والاجتماعي للسكان"
+        },
+        {
+          "question": {
+            "sv": "2- Vad finansierar främst den svenska välfärden?",
+            "ar": "2- ما الذي يمول الرفاهية السويدية بشكل أساسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Donationer",
+              "textAr": "A. التبرعات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Företag",
+              "textAr": "B. الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatter",
+              "textAr": "C. الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "D. Turism",
+              "textAr": "D. السياحة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Skatter",
+          "correctAnswerAr": "C. الضرائب"
+        },
+        {
+          "question": {
+            "sv": "3- Vilken skatt betalar man när man köper en vara eller tjänst?",
+            "ar": "3- ما الضريبة التي تُدفع عند شراء سلعة أو خدمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Inkomstskatt",
+              "textAr": "A. ضريبة الدخل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Moms",
+              "textAr": "B. ضريبة القيمة المضافة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Fastighetsskatt",
+              "textAr": "C. ضريبة العقارات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Förmögenhetsskatt",
+              "textAr": "D. ضريبة الثروة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Moms",
+          "correctAnswerAr": "B. ضريبة القيمة المضافة"
+        },
+        {
+          "question": {
+            "sv": "4- Vem betalar arbetsgivaravgifter?",
+            "ar": "4- من يدفع رسوم صاحب العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Den anställde",
+              "textAr": "A. الموظف",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kunden",
+              "textAr": "B. العميل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbetsgivaren",
+              "textAr": "C. صاحب العمل",
+              "correct": true
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Arbetsgivaren",
+          "correctAnswerAr": "C. صاحب العمل"
+        },
+        {
+          "question": {
+            "sv": "5- Vad används arbetsgivaravgifter bland annat till?",
+            "ar": "5- فيم تُستخدم رسوم صاحب العمل من بين أمور أخرى؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pensioner och sjukförsäkring",
+              "textAr": "A. المعاشات والتأمين الصحي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Privata skolor",
+              "textAr": "B. المدارس الخاصة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Företagsvinster",
+              "textAr": "C. أرباح الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Turism",
+              "textAr": "D. السياحة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pensioner och sjukförsäkring",
+          "correctAnswerAr": "A. المعاشات والتأمين الصحي"
+        },
+        {
+          "question": {
+            "sv": "6- Vilken myndighet ansvarar för sjukförsäkring?",
+            "ar": "6- أي جهة مسؤولة عن التأمين الصحي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. مصلحة التأمينات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. مصلحة الهجرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Försäkringskassan",
+          "correctAnswerAr": "A. مصلحة التأمينات الاجتماعية"
+        },
+        {
+          "question": {
+            "sv": "7- Vem ansvarar för pensioner i Sverige?",
+            "ar": "7- من المسؤول عن المعاشات التقاعدية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten",
+              "textAr": "A. الدولة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Företagen",
+              "textAr": "B. الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Privatpersoner",
+              "textAr": "C. الأفراد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Föreningar",
+              "textAr": "D. الجمعيات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten",
+          "correctAnswerAr": "A. الدولة"
+        },
+        {
+          "question": {
+            "sv": "8- Vad är barnbidrag?",
+            "ar": "8- ما هي إعانة الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett lån till familjer",
+              "textAr": "A. قرض للعائلات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ekonomiskt stöd till familjer med barn",
+              "textAr": "B. دعم مالي للعائلات التي لديها أطفال",
+              "correct": true
+            },
+            {
+              "textSv": "C. En skatt",
+              "textAr": "C. ضريبة",
+              "correct": false
+            },
+            {
+              "textSv": "D. En försäkring för vuxna",
+              "textAr": "D. تأمين للبالغين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ekonomiskt stöd till familjer med barn",
+          "correctAnswerAr": "B. دعم مالي للعائلات التي لديها أطفال"
+        },
+        {
+          "question": {
+            "sv": "9- Hur många regioner finns det i Sverige?",
+            "ar": "9- كم عدد المناطق الإدارية (Regioner) الموجودة في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "correct": true
+            },
+            {
+              "textSv": "B. 50",
+              "textAr": "B. 50",
+              "correct": false
+            },
+            {
+              "textSv": "C. 290",
+              "textAr": "C. 290",
+              "correct": false
+            },
+            {
+              "textSv": "D. 10",
+              "textAr": "D. 10",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 21",
+          "correctAnswerAr": "A. 21"
+        },
+        {
+          "question": {
+            "sv": "10- Vad ansvarar regionerna främst för?",
+            "ar": "10- ما المسؤولية الرئيسية للمناطق؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sjukvården",
+              "textAr": "B. الرعاية الصحية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skolan",
+              "textAr": "C. المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Försvaret",
+              "textAr": "D. الدفاع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sjukvården",
+          "correctAnswerAr": "B. الرعاية الصحية"
+        },
+        {
+          "question": {
+            "sv": "11- Vad är primärvård?",
+            "ar": "11- ما هي الرعاية الصحية الأولية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Första kontakten med vården",
+              "textAr": "A. أول اتصال مع الرعاية الصحية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Militär sjukvård",
+              "textAr": "B. الرعاية الصحية العسكرية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Privat vård utomlands",
+              "textAr": "C. رعاية خاصة خارج البلاد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tandläkarutbildning",
+              "textAr": "D. تعليم طب الأسنان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Första kontakten med vården",
+          "correctAnswerAr": "A. أول اتصال مع الرعاية الصحية"
+        },
+        {
+          "question": {
+            "sv": "12- Vilket är ett exempel på primärvård?",
+            "ar": "12- ما هو مثال على الرعاية الصحية الأولية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Universitet",
+              "textAr": "A. جامعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vårdcentral",
+              "textAr": "B. مركز صحي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisstation",
+              "textAr": "C. مركز شرطة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstol",
+              "textAr": "D. محكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Vårdcentral",
+          "correctAnswerAr": "B. مركز صحي"
+        },
+        {
+          "question": {
+            "sv": "13- Vad gör man vanligtvis på ett sjukhus?",
+            "ar": "13- ماذا يفعل الناس عادة في المستشفى؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ansöker om pass",
+              "textAr": "A. يقدمون طلب جواز سفر",
+              "correct": false
+            },
+            {
+              "textSv": "B. Gör operationer och avancerade behandlingar",
+              "textAr": "B. يجرون عمليات وعلاجات متقدمة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Betalar skatt",
+              "textAr": "C. يدفعون الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Söker arbete",
+              "textAr": "D. يبحثون عن عمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Gör operationer och avancerade behandlingar",
+          "correctAnswerAr": "B. يجرون عمليات وعلاجات متقدمة"
+        },
+        {
+          "question": {
+            "sv": "14- Vad är ett exempel på annan sjukvård?",
+            "ar": "14- ما هو مثال على نوع آخر من الرعاية الصحية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Psykiatrisk vård",
+              "textAr": "A. الرعاية النفسية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Förskola",
+              "textAr": "C. روضة أطفال",
+              "correct": false
+            },
+            {
+              "textSv": "D. Brandkår",
+              "textAr": "D. الدفاع المدني",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Psykiatrisk vård",
+          "correctAnswerAr": "A. الرعاية النفسية"
+        },
+        {
+          "question": {
+            "sv": "15- Hur många kommuner finns det i Sverige?",
+            "ar": "15- كم عدد البلديات الموجودة في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "correct": false
+            },
+            {
+              "textSv": "B. 100",
+              "textAr": "B. 100",
+              "correct": false
+            },
+            {
+              "textSv": "C. 290",
+              "textAr": "C. 290",
+              "correct": true
+            },
+            {
+              "textSv": "D. 500",
+              "textAr": "D. 500",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 290",
+          "correctAnswerAr": "C. 290"
+        },
+        {
+          "question": {
+            "sv": "16- Vad ansvarar kommunen för?",
+            "ar": "16- ما مسؤولية البلدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försvaret",
+              "textAr": "A. الدفاع",
+              "correct": false
+            },
+            {
+              "textSv": "B. Förskolor och skolor",
+              "textAr": "B. رياض الأطفال والمدارس",
+              "correct": true
+            },
+            {
+              "textSv": "C. Utrikespolitik",
+              "textAr": "C. السياسة الخارجية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Val till riksdagen",
+              "textAr": "D. انتخابات البرلمان",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Förskolor och skolor",
+          "correctAnswerAr": "B. رياض الأطفال والمدارس"
+        },
+        {
+          "question": {
+            "sv": "17- Vilken ålder gäller normalt för grundskolan?",
+            "ar": "17- ما هو العمر المعتاد للمدرسة الأساسية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 0–5 år",
+              "textAr": "A. 0–5 سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "B. 6–16 år",
+              "textAr": "B. 6–16 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "C. 18–25 år",
+              "textAr": "C. 18–25 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "D. 30–40 år",
+              "textAr": "D. 30–40 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 6–16 år",
+          "correctAnswerAr": "B. 6–16 سنة"
+        },
+        {
+          "question": {
+            "sv": "18- Vad ansvarar kommunen för inom äldreomsorgen?",
+            "ar": "18- ما مسؤولية البلدية في رعاية المسنين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hjälp i vardagen för äldre personer",
+              "textAr": "A. المساعدة اليومية لكبار السن",
+              "correct": true
+            },
+            {
+              "textSv": "B. Militärt försvar",
+              "textAr": "B. الدفاع العسكري",
+              "correct": false
+            },
+            {
+              "textSv": "C. Flygplatser",
+              "textAr": "C. المطارات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Universitet",
+              "textAr": "D. الجامعات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Hjälp i vardagen för äldre personer",
+          "correctAnswerAr": "A. المساعدة اليومية لكبار السن"
+        },
+        {
+          "question": {
+            "sv": "19- Vilken organisation hjälper personer med sociala problem?",
+            "ar": "19- أي جهة تساعد الأشخاص الذين لديهم مشاكل اجتماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Socialtjänsten",
+              "textAr": "A. الخدمات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Banken",
+              "textAr": "B. البنك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsgivaren",
+              "textAr": "D. صاحب العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Socialtjänsten",
+          "correctAnswerAr": "A. الخدمات الاجتماعية"
+        },
+        {
+          "question": {
+            "sv": "20- Vilket är ett exempel på stöd från socialtjänsten?",
+            "ar": "20- ما مثال على الدعم من الخدمات الاجتماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ekonomiskt stöd",
+              "textAr": "A. الدعم المالي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Körkort",
+              "textAr": "B. رخصة قيادة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Pass",
+              "textAr": "C. جواز سفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rösträtt",
+              "textAr": "D. حق التصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ekonomiskt stöd",
+          "correctAnswerAr": "A. الدعم المالي"
+        },
+        {
+          "question": {
+            "sv": "21- Vem ansvarar för universitet och forskning?",
+            "ar": "21- من المسؤول عن الجامعات والبحث العلمي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten",
+              "textAr": "A. الدولة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kommunerna",
+              "textAr": "B. البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Företagen",
+              "textAr": "C. الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regionen",
+              "textAr": "D. المناطق",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten",
+          "correctAnswerAr": "A. الدولة"
+        },
+        {
+          "question": {
+            "sv": "22- Vad betyder skatt?",
+            "ar": "22- ماذا تعني الضريبة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pengar som invånare betalar till samhället",
+              "textAr": "A. أموال يدفعها السكان للمجتمع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett lån från banken",
+              "textAr": "B. قرض من البنك",
+              "correct": false
+            },
+            {
+              "textSv": "C. En gåva",
+              "textAr": "C. هدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. En privat avgift",
+              "textAr": "D. رسوم خاصة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pengar som invånare betalar till samhället",
+          "correctAnswerAr": "A. أموال يدفعها السكان للمجتمع"
+        },
+        {
+          "question": {
+            "sv": "23- Vilken skatt betalas från lönen?",
+            "ar": "23- أي ضريبة تُدفع من الراتب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Moms",
+              "textAr": "A. ضريبة القيمة المضافة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Inkomstskatt",
+              "textAr": "B. ضريبة الدخل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bensinskatt",
+              "textAr": "C. ضريبة الوقود",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tull",
+              "textAr": "D. الجمارك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Inkomstskatt",
+          "correctAnswerAr": "B. ضريبة الدخل"
+        },
+        {
+          "question": {
+            "sv": "24- Vad används skattepengar till?",
+            "ar": "24- في ماذا تُستخدم أموال الضرائب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skolor och sjukhus",
+              "textAr": "A. المدارس والمستشفيات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Endast företag",
+              "textAr": "B. الشركات فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Privata resor",
+              "textAr": "C. الرحلات الخاصة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Reklam",
+              "textAr": "D. الإعلانات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skolor och sjukhus",
+          "correctAnswerAr": "A. المدارس والمستشفيات"
+        },
+        {
+          "question": {
+            "sv": "25- Vem bestämmer kommunalskatten?",
+            "ar": "25- من يحدد ضريبة البلدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunen",
+              "textAr": "A. البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. EU",
+              "textAr": "C. الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolen",
+              "textAr": "D. المحكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kommunen",
+          "correctAnswerAr": "A. البلدية"
+        },
+        {
+          "question": {
+            "sv": "26- Vad hjälper sjukförsäkringen med?",
+            "ar": "26- بماذا يساعد التأمين الصحي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pengar när man inte kan arbeta på grund av sjukdom",
+              "textAr": "A. المال عندما لا يستطيع الشخص العمل بسبب المرض",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gratis semester",
+              "textAr": "B. عطلة مجانية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Husköp",
+              "textAr": "C. شراء منزل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Körkort",
+              "textAr": "D. رخصة قيادة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pengar när man inte kan arbeta på grund av sjukdom",
+          "correctAnswerAr": "A. المال عندما لا يستطيع الشخص العمل بسبب المرض"
+        },
+        {
+          "question": {
+            "sv": "27- Vad är föräldraförsäkring?",
+            "ar": "27- ما هو تأمين الوالدين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Stöd när föräldrar är hemma med barn",
+              "textAr": "A. دعم عندما يكون الوالدان في المنزل مع الأطفال",
+              "correct": true
+            },
+            {
+              "textSv": "B. En skatt",
+              "textAr": "B. ضريبة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett bostadslån",
+              "textAr": "C. قرض سكني",
+              "correct": false
+            },
+            {
+              "textSv": "D. En utbildning",
+              "textAr": "D. تعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Stöd när föräldrar är hemma med barn",
+          "correctAnswerAr": "A. دعم عندما يكون الوالدان في المنزل مع الأطفال"
+        },
+        {
+          "question": {
+            "sv": "28- Vad hjälper arbetslöshetsförsäkringen med?",
+            "ar": "28- بماذا يساعد تأمين البطالة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Stöd till arbetslösa",
+              "textAr": "A. دعم للعاطلين عن العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Betalning av skulder",
+              "textAr": "B. دفع الديون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Gratis bostad till alla",
+              "textAr": "C. سكن مجاني للجميع",
+              "correct": false
+            },
+            {
+              "textSv": "D. Körkort",
+              "textAr": "D. رخصة قيادة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Stöd till arbetslösa",
+          "correctAnswerAr": "A. دعم للعاطلين عن العمل"
+        },
+        {
+          "question": {
+            "sv": "29- Vad är studiestöd?",
+            "ar": "29- ما هو الدعم الدراسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Pengar för personer som studerar",
+              "textAr": "A. أموال للأشخاص الذين يدرسون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Pension",
+              "textAr": "B. معاش تقاعدي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Barnbidrag",
+              "textAr": "C. إعانة الأطفال",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sjuklön",
+              "textAr": "D. راتب المرض",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Pengar för personer som studerar",
+          "correctAnswerAr": "A. أموال للأشخاص الذين يدرسون"
+        },
+        {
+          "question": {
+            "sv": "30- Vilken myndighet hjälper till med studiestöd?",
+            "ar": "30- أي جهة تساعد في الدعم الدراسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. CSN",
+              "textAr": "A. هيئة الدعم الدراسي",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Försäkringskassan",
+              "textAr": "C. مصلحة التأمينات الاجتماعية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kronofogden",
+              "textAr": "D. هيئة تحصيل الديون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. CSN",
+          "correctAnswerAr": "A. هيئة الدعم الدراسي"
+        },
+        {
+          "question": {
+            "sv": "31- Vilken myndighet betalar ut många sociala ersättningar?",
+            "ar": "31- أي جهة تدفع العديد من التعويضات الاجتماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. مصلحة التأمينات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Trafikverket",
+              "textAr": "B. هيئة النقل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Lantmäteriet",
+              "textAr": "C. هيئة رسم الخرائط والمساحة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolen",
+              "textAr": "D. المحكمة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Försäkringskassan",
+          "correctAnswerAr": "A. مصلحة التأمينات الاجتماعية"
+        },
+        {
+          "question": {
+            "sv": "32- Vem ansvarar för äldreboenden?",
+            "ar": "32- من المسؤول عن دور رعاية المسنين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunen",
+              "textAr": "A. البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Staten",
+              "textAr": "B. الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Regionen",
+              "textAr": "C. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "D. EU",
+              "textAr": "D. الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kommunen",
+          "correctAnswerAr": "A. البلدية"
+        },
+        {
+          "question": {
+            "sv": "33- Vad gör en vårdcentral?",
+            "ar": "33- ماذا يفعل المركز الصحي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ger första vårdkontakten",
+              "textAr": "A. يقدم أول اتصال مع الرعاية الصحية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bygger vägar",
+              "textAr": "B. يبني الطرق",
+              "correct": false
+            },
+            {
+              "textSv": "C. Utfärdar pass",
+              "textAr": "C. يصدر جوازات السفر",
+              "correct": false
+            },
+            {
+              "textSv": "D. Betalar pensioner",
+              "textAr": "D. يدفع المعاشات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ger första vårdkontakten",
+          "correctAnswerAr": "A. يقدم أول اتصال مع الرعاية الصحية"
+        },
+        {
+          "question": {
+            "sv": "34- Vilken del av samhället ansvarar för sjukhus?",
+            "ar": "34- أي جزء من المجتمع مسؤول عن المستشفيات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regionen",
+              "textAr": "A. المنطقة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kommunen",
+              "textAr": "B. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Staten",
+              "textAr": "C. الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Företag",
+              "textAr": "D. الشركات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Regionen",
+          "correctAnswerAr": "A. المنطقة"
+        },
+        {
+          "question": {
+            "sv": "35- Vilken del ansvarar för förskolor?",
+            "ar": "35- أي جهة مسؤولة عن رياض الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunen",
+              "textAr": "A. البلدية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Regionen",
+              "textAr": "B. المنطقة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Staten",
+              "textAr": "C. الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kommunen",
+          "correctAnswerAr": "A. البلدية"
+        },
+        {
+          "question": {
+            "sv": "36- Vad är syftet med socialtjänsten?",
+            "ar": "36- ما هدف الخدمات الاجتماعية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att hjälpa personer som behöver stöd",
+              "textAr": "A. مساعدة الأشخاص الذين يحتاجون إلى الدعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att samla in skatt",
+              "textAr": "B. جمع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att kontrollera gränser",
+              "textAr": "C. مراقبة الحدود",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bygga motorvägar",
+              "textAr": "D. بناء الطرق السريعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att hjälpa personer som behöver stöd",
+          "correctAnswerAr": "A. مساعدة الأشخاص الذين يحتاجون إلى الدعم"
+        },
+        {
+          "question": {
+            "sv": "37- Vem ansvarar för ekonomiskt stöd till arbetslösa?",
+            "ar": "37- من المسؤول عن الدعم المالي للعاطلين عن العمل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten genom olika försäkringar",
+              "textAr": "A. الدولة من خلال التأمينات المختلفة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Privatpersoner",
+              "textAr": "B. الأفراد",
+              "correct": false
+            },
+            {
+              "textSv": "C. Företag",
+              "textAr": "C. الشركات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Föreningar",
+              "textAr": "D. الجمعيات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten genom olika försäkringar",
+          "correctAnswerAr": "A. الدولة من خلال التأمينات المختلفة"
+        },
+        {
+          "question": {
+            "sv": "38- Vad betyder att Sverige har ett välfärdssamhälle?",
+            "ar": "38- ماذا يعني أن السويد لديها مجتمع رفاهية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten och samhället ger stöd och trygghet",
+              "textAr": "A. الدولة والمجتمع يوفران الدعم والأمان",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ingen betalar skatt",
+              "textAr": "B. لا أحد يدفع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla arbetar för staten",
+              "textAr": "C. الجميع يعملون لدى الدولة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla får samma lön",
+              "textAr": "D. الجميع يحصلون على نفس الراتب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Staten och samhället ger stöd och trygghet",
+          "correctAnswerAr": "A. الدولة والمجتمع يوفران الدعم والأمان"
+        },
+        {
+          "question": {
+            "sv": "39- Vilken myndighet ser till att skulder blir betalda?",
+            "ar": "39- أي جهة تضمن دفع الديون؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. مصلحة التأمينات الاجتماعية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Arbetsförmedlingen",
+              "textAr": "B. مكتب العمل",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kronofogden",
+              "textAr": "C. هيئة تحصيل الديون",
+              "correct": true
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Kronofogden",
+          "correctAnswerAr": "C. هيئة تحصيل الديون"
+        },
+        {
+          "question": {
+            "sv": "40- Vilket påstående är korrekt?",
+            "ar": "40- أي عبارة صحيحة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunen ansvarar för sjukvård i hela Sverige",
+              "textAr": "A. البلدية مسؤولة عن الرعاية الصحية في كل السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regionen ansvarar för sjukvården",
+              "textAr": "B. المنطقة مسؤولة عن الرعاية الصحية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Staten ansvarar för alla skolor",
+              "textAr": "C. الدولة مسؤولة عن جميع المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen ansvarar för pensioner",
+              "textAr": "D. البلدية مسؤولة عن المعاشات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regionen ansvarar för sjukvården",
+          "correctAnswerAr": "B. المنطقة مسؤولة عن الرعاية الصحية"
+        }
+      ]
     },
     {
       "lessonId": 10,
