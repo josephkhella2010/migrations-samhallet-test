@@ -131,6 +131,40 @@ const useStyle = createUseStyles({
       margin: "0px",
     },
   },
+  correctContainer: {
+    width: "100%",
+    backgroundColor: "#02810287",
+    height: "100px",
+    borderRadius: "10px",
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "space-evenly",
+    padding: "15px",
+    color: "green",
+    maxWidth: "600px",
+    animation: "$shake 1.8s ease-in-out infinite",
+  },
+  wrongContainer: {
+    width: "100%",
+    backgroundColor: "#e54d4d87",
+    height: "100px",
+    borderRadius: "10px",
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "space-evenly",
+    padding: "15px",
+    color: "#d32f2f",
+    maxWidth: "600px",
+    animation: "$shake 1.8s ease-in-out infinite",
+  },
+  "@keyframes shake": {
+    "0%, 100%": {
+      transform: "translateX(0)",
+    },
+    "50%": {
+      transform: "translateY(-5px)",
+    },
+  },
 });
 
 export default function ScorePage() {
@@ -266,14 +300,21 @@ export default function ScorePage() {
             </p>
 
             {result.isCorrect ? (
-              <p className={classes.correct}>
-                {t(ScorePageTranslation.CorrectAnswerText)}
-              </p>
+              <div className={classes.correctContainer}>
+                <p>{t(ScorePageTranslation.goodJobText)}</p>
+                <p className={classes.correct}>
+                  {t(ScorePageTranslation.CorrectAnswerText)}
+                </p>
+              </div>
             ) : (
               <>
-                <p className={classes.wrong}>
-                  {t(ScorePageTranslation.WrongAnswerText)}
-                </p>
+                <div className={classes.wrongContainer}>
+                  <p>{t(ScorePageTranslation.sorryText)}</p>
+
+                  <p className={classes.wrong}>
+                    {t(ScorePageTranslation.WrongAnswerText)}
+                  </p>
+                </div>
                 <p>
                   <strong style={{ color: "green" }}>
                     {t(ScorePageTranslation.CorrectAnswerTwo)}

@@ -57,6 +57,14 @@ const ScorePageTranslation = {
     sv: "Rätt svar:",
     ar: "الإجابة الصحيحة:",
   },
+     goodJobText: {
+    sv: "Bra Jobbat",
+    ar: "أحسنت",
+  },
+    sorryText: {
+    sv: "Tyvärr, försök igen",
+    ar: "للأسف، حاول مرة أخرى",
+  },
 };
 
 export default ScorePageTranslation;

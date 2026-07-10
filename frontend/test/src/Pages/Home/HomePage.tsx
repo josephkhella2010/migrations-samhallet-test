@@ -6,6 +6,7 @@ import StatisticSection from "./childComponent/StatisticSection";
 import LearningSection from "./childComponent/LearningSection";
 import IndexSection from "./childComponent/IndexSection";
 import CtaSection from "./childComponent/CtaSection";
+import QuestionIndexSection from "./childComponent/QuestionIndexSection";
 
 const useStyles = createUseStyles({
   "@global": {
@@ -78,6 +79,9 @@ export default function HomePage() {
 
         {/* Features */}
         <IndexSection />
+        {/* QuestionIndexSection*/}
+
+        <QuestionIndexSection />
         {/* Statistics */}
 
         <StatisticSection />
@@ -85,7 +89,7 @@ export default function HomePage() {
         <LearningSection />
 
         {/* Call to Action */}
-        < CtaSection/>
+        <CtaSection />
       </div>
     </div>
   );

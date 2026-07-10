@@ -141,6 +141,23 @@ const homePageTranslation = {
     sv: "Resultat",
     ar: "النتيجة",
   },
+    questionsHeader: {
+    sv: "Lektions Tester",
+    ar: "اختبارات الدروس",
+  },
+     questionsText: {
+    sv: "Test för Lektion",
+    ar: "اختبار الدرس رقم",
+  },
+    otherQuestionsHeader: {
+    sv: "Övriga frågor",
+    ar: "أسئلة إضافية",
+  }
+  
+ 
+
+
+ 
 };
 
 export default homePageTranslation;
