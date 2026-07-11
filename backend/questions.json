@@ -10201,10 +10201,1211 @@
     {
       "lessonId": 10,
       "lessonTitle": {
-        "sv": "Kapitel sex: 6- Medier i Sverige",
-        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+        "sv": "Kapitel Tio:10 – Sveriges moderna historia",
+        "ar": "الفصل العاشر – 10 التاريخ الحديث للسويد"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vad var Sverige för cirka 200 år sedan?",
+            "ar": "1- ماذا كانت السويد قبل حوالي 200 سنة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett högteknologiskt land",
+              "textAr": "A. دولة ذات تكنولوجيا عالية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett jordbruksland",
+              "textAr": "B. دولة زراعية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett digitalt samhälle",
+              "textAr": "C. مجتمع رقمي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett rikt industriland",
+              "textAr": "D. دولة صناعية غنية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett jordbruksland",
+          "correctAnswerAr": "B. دولة زراعية"
+        },
+        {
+          "question": {
+            "sv": "2- Var bodde de flesta människor i Sverige på 1800-talet?",
+            "ar": "2- أين كان يعيش معظم الناس في السويد في القرن التاسع عشر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. I stora städer",
+              "textAr": "A. في المدن الكبيرة",
+              "correct": false
+            },
+            {
+              "textSv": "B. På landsbygden",
+              "textAr": "B. في الريف",
+              "correct": true
+            },
+            {
+              "textSv": "C. Utomlands",
+              "textAr": "C. في الخارج",
+              "correct": false
+            },
+            {
+              "textSv": "D. I fabriker",
+              "textAr": "D. في المصانع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. På landsbygden",
+          "correctAnswerAr": "B. في الريف"
+        },
+        {
+          "question": {
+            "sv": "3- Vad arbetade de flesta svenskar med före industrialiseringen?",
+            "ar": "3- ماذا كان يعمل معظم السويديين قبل التصنيع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Datorer",
+              "textAr": "A. أجهزة الكمبيوتر",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bankarbete",
+              "textAr": "B. العمل في البنوك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Jordbruk",
+              "textAr": "C. الزراعة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Forskning",
+              "textAr": "D. البحث العلمي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Jordbruk",
+          "correctAnswerAr": "C. الزراعة"
+        },
+        {
+          "question": {
+            "sv": "4- Vad hände under industrialiseringen?",
+            "ar": "4- ماذا حدث خلال فترة التصنيع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fler fabriker byggdes",
+              "textAr": "A. تم بناء المزيد من المصانع",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla flyttade från städerna",
+              "textAr": "B. انتقل الجميع من المدن",
+              "correct": false
+            },
+            {
+              "textSv": "C. Jordbruket försvann direkt",
+              "textAr": "C. اختفت الزراعة مباشرة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sverige blev fattigare",
+              "textAr": "D. أصبحت السويد أكثر فقراً",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Fler fabriker byggdes",
+          "correctAnswerAr": "A. تم بناء المزيد من المصانع"
+        },
+        {
+          "question": {
+            "sv": "5- Under vilket århundrade började industrialiseringen i Sverige?",
+            "ar": "5- في أي قرن بدأ التصنيع في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1600-talet",
+              "textAr": "A. القرن السابع عشر",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1700-talet",
+              "textAr": "B. القرن الثامن عشر",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1800-talet",
+              "textAr": "C. القرن التاسع عشر",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2000-talet",
+              "textAr": "D. القرن الحادي والعشرون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1800-talet",
+          "correctAnswerAr": "C. القرن التاسع عشر"
+        },
+        {
+          "question": {
+            "sv": "6- Varför ökade Sveriges befolkning under 1800-talet?",
+            "ar": "6- لماذا زاد عدد سكان السويد خلال القرن التاسع عشر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fler krig startade",
+              "textAr": "A. بدأت حروب أكثر",
+              "correct": false
+            },
+            {
+              "textSv": "B. Bättre jordbruk och medicinska framsteg",
+              "textAr": "B. تحسن الزراعة والتقدم الطبي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Färre människor föddes",
+              "textAr": "C. وُلد عدد أقل من الناس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla flyttade till Sverige",
+              "textAr": "D. انتقل الجميع إلى السويد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Bättre jordbruk och medicinska framsteg",
+          "correctAnswerAr": "B. تحسن الزراعة والتقدم الطبي"
+        },
+        {
+          "question": {
+            "sv": "7- Hur många invånare hade Sverige ungefär i början av 1800-talet?",
+            "ar": "7- كم كان عدد سكان السويد تقريباً في بداية القرن التاسع عشر؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 500 000",
+              "textAr": "A. 500 ألف",
+              "correct": false
+            },
+            {
+              "textSv": "B. 2,5 miljoner",
+              "textAr": "B. 2.5 مليون",
+              "correct": true
+            },
+            {
+              "textSv": "C. 10 miljoner",
+              "textAr": "C. 10 ملايين",
+              "correct": false
+            },
+            {
+              "textSv": "D. 20 miljoner",
+              "textAr": "D. 20 مليون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 2,5 miljoner",
+          "correctAnswerAr": "B. 2.5 مليون"
+        },
+        {
+          "question": {
+            "sv": "8- Varför emigrerade många svenskar till USA?",
+            "ar": "8- لماذا هاجر العديد من السويديين إلى الولايات المتحدة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att få bättre möjligheter och arbete",
+              "textAr": "A. للحصول على فرص أفضل وعمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. För att delta i krig",
+              "textAr": "B. للمشاركة في الحروب",
+              "correct": false
+            },
+            {
+              "textSv": "C. För att studera svenska",
+              "textAr": "C. لدراسة اللغة السويدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att bli politiker",
+              "textAr": "D. ليصبحوا سياسيين",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. För att få bättre möjligheter och arbete",
+          "correctAnswerAr": "A. للحصول على فرص أفضل وعمل"
+        },
+        {
+          "question": {
+            "sv": "9- Mellan vilka år emigrerade över en miljon svenskar till USA?",
+            "ar": "9- بين أي سنوات هاجر أكثر من مليون سويدي إلى الولايات المتحدة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1700–1800",
+              "textAr": "A. 1700–1800",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1850–1920",
+              "textAr": "B. 1850–1920",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1920–1950",
+              "textAr": "C. 1920–1950",
+              "correct": false
+            },
+            {
+              "textSv": "D. 2000–2020",
+              "textAr": "D. 2000–2020",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1850–1920",
+          "correctAnswerAr": "B. 1850–1920"
+        },
+        {
+          "question": {
+            "sv": "10- Vilka var några av Sveriges första industrier?",
+            "ar": "10- ما هي بعض الصناعات الأولى في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Flygindustri och IT",
+              "textAr": "A. صناعة الطائرات وتكنولوجيا المعلومات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sågverk och stålindustri",
+              "textAr": "B. المناشر وصناعة الفولاذ",
+              "correct": true
+            },
+            {
+              "textSv": "C. Banker och hotell",
+              "textAr": "C. البنوك والفنادق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Universitet",
+              "textAr": "D. الجامعات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sågverk och stålindustri",
+          "correctAnswerAr": "B. المناشر وصناعة الفولاذ"
+        },
+        {
+          "question": {
+            "sv": "11- Vilket år begränsades kungens makt genom en ny grundlag?",
+            "ar": "11- في أي سنة تم تقييد سلطة الملك من خلال دستور جديد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1809",
+              "textAr": "A. 1809",
+              "correct": true
+            },
+            {
+              "textSv": "B. 1909",
+              "textAr": "B. 1909",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1921",
+              "textAr": "C. 1921",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1938",
+              "textAr": "D. 1938",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 1809",
+          "correctAnswerAr": "A. 1809"
+        },
+        {
+          "question": {
+            "sv": "12- Vad förändrades 1865?",
+            "ar": "12- ماذا تغير في عام 1865؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverige fick kvinnlig rösträtt",
+              "textAr": "A. حصلت النساء على حق التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fler fick politiskt inflytande",
+              "textAr": "B. حصل عدد أكبر من الناس على نفوذ سياسي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Sverige blev republik",
+              "textAr": "C. أصبحت السويد جمهورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sverige gick med i EU",
+              "textAr": "D. انضمت السويد إلى الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Fler fick politiskt inflytande",
+          "correctAnswerAr": "B. حصل عدد أكبر من الناس على نفوذ سياسي"
+        },
+        {
+          "question": {
+            "sv": "13- Hade kvinnor rösträtt före 1921?",
+            "ar": "13- هل كان للنساء حق التصويت قبل عام 1921؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Bara i Stockholm",
+              "textAr": "C. فقط في ستوكهولم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara kvinnor med hög inkomst",
+              "textAr": "D. فقط النساء ذوات الدخل المرتفع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Nej",
+          "correctAnswerAr": "B. لا"
+        },
+        {
+          "question": {
+            "sv": "14- Vad var folkrörelser?",
+            "ar": "14- ما هي الحركات الشعبية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statliga myndigheter",
+              "textAr": "A. مؤسسات حكومية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Frivilliga föreningar där människor organiserade sig",
+              "textAr": "B. جمعيات تطوعية نظم فيها الناس أنفسهم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Företag",
+              "textAr": "C. شركات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Politiska domstolar",
+              "textAr": "D. محاكم سياسية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Frivilliga föreningar där människor organiserade sig",
+          "correctAnswerAr": "B. جمعيات تطوعية نظم فيها الناس أنفسهم"
+        },
+        {
+          "question": {
+            "sv": "15- Vilken var en viktig folkrörelse?",
+            "ar": "15- ما هي إحدى الحركات الشعبية المهمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetarrörelsen",
+              "textAr": "A. الحركة العمالية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kungliga rörelsen",
+              "textAr": "B. الحركة الملكية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Militärgruppen",
+              "textAr": "C. المجموعة العسكرية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bankrörelsen",
+              "textAr": "D. الحركة المصرفية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetarrörelsen",
+          "correctAnswerAr": "A. الحركة العمالية"
+        },
+        {
+          "question": {
+            "sv": "16- Vad kämpade folkrörelserna för?",
+            "ar": "16- ما الذي ناضلت من أجله الحركات الشعبية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Mindre demokrati",
+              "textAr": "A. ديمقراطية أقل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Rösträtt och bättre arbetsvillkor",
+              "textAr": "B. حق التصويت وظروف عمل أفضل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Mer makt åt kungen",
+              "textAr": "C. المزيد من السلطة للملك",
+              "correct": false
+            },
+            {
+              "textSv": "D. Färre rättigheter",
+              "textAr": "D. حقوق أقل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Rösträtt och bättre arbetsvillkor",
+          "correctAnswerAr": "B. حق التصويت وظروف عمل bättre"
+        },
+        {
+          "question": {
+            "sv": "17- När fick nästan alla män rösträtt?",
+            "ar": "17- متى حصل جميع الرجال تقريباً على حق التصويت؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1809",
+              "textAr": "A. 1809",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1909",
+              "textAr": "B. 1909",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1918",
+              "textAr": "C. 1918",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1921",
+              "textAr": "D. 1921",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1909",
+          "correctAnswerAr": "B. 1909"
+        },
+        {
+          "question": {
+            "sv": "18- När fick kvinnor och män rösta i riksdagsval?",
+            "ar": "18- متى حصلت النساء والرجال على حق التصويت في انتخابات البرلمان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1865",
+              "textAr": "A. 1865",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1909",
+              "textAr": "B. 1909",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1921",
+              "textAr": "C. 1921",
+              "correct": true
+            },
+            {
+              "textSv": "D. 1938",
+              "textAr": "D. 1938",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1921",
+          "correctAnswerAr": "C. 1921"
+        },
+        {
+          "question": {
+            "sv": "19- När blev Sverige en demokrati?",
+            "ar": "19- متى أصبحت السويد دولة ديمقراطية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1809",
+              "textAr": "A. 1809",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1865",
+              "textAr": "B. 1865",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1921",
+              "textAr": "C. 1921",
+              "correct": true
+            },
+            {
+              "textSv": "D. 1945",
+              "textAr": "D. 1945",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1921",
+          "correctAnswerAr": "C. 1921"
+        },
+        {
+          "question": {
+            "sv": "20- Vad gjorde Sverige under första världskriget?",
+            "ar": "20- ماذا فعلت السويد خلال الحرب العالمية الأولى؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Deltog i kriget",
+              "textAr": "A. شاركت في الحرب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Var neutralt",
+              "textAr": "B. كانت محايدة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Stödde Tyskland med soldater",
+              "textAr": "C. دعمت ألمانيا بالجنود",
+              "correct": false
+            },
+            {
+              "textSv": "D. Stödde Ryssland",
+              "textAr": "D. دعمت روسيا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Var neutralt",
+          "correctAnswerAr": "B. كانت محايدة"
+        },
+        {
+          "question": {
+            "sv": "21- Vad var en viktig idé bakom folkhemmet?",
+            "ar": "21- ما هي الفكرة المهمة وراء مفهوم بيت الشعب (folkhemmet)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla skulle känna trygghet och gemenskap",
+              "textAr": "A. أن يشعر الجميع بالأمان والانتماء",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara rika skulle få hjälp",
+              "textAr": "B. فقط الأغنياء يحصلون على المساعدة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige skulle bli en diktatur",
+              "textAr": "C. أن تصبح السويد دكتاتورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Staten skulle försvinna",
+              "textAr": "D. أن تختفي الدولة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Alla skulle känna trygghet och gemenskap",
+          "correctAnswerAr": "A. أن يشعر الجميع بالأمان والانتماء"
+        },
+        {
+          "question": {
+            "sv": "22- Vem presenterade idén om folkhemmet?",
+            "ar": "22- من قدم فكرة بيت الشعب (folkhemmet)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Gustav Vasa",
+              "textAr": "A. غوستاف فاسا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Per Albin Hansson",
+              "textAr": "B. بير ألبين هانسون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Raoul Wallenberg",
+              "textAr": "C. راؤول فالنبرغ",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alfred Nobel",
+              "textAr": "D. ألفريد نوبل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Per Albin Hansson",
+          "correctAnswerAr": "B. بير ألبين هانسون"
+        },
+        {
+          "question": {
+            "sv": "23- Vad hände i Ådalen 1931?",
+            "ar": "23- ماذا حدث في أودالن عام 1931؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverige fick en ny grundlag",
+              "textAr": "A. حصلت السويد على دستور جديد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Militären sköt mot demonstrerande arbetare",
+              "textAr": "B. أطلق الجيش النار على عمال متظاهرين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Sverige gick med i kriget",
+              "textAr": "C. دخلت السويد الحرب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kvinnor fick rösträtt",
+              "textAr": "D. حصلت النساء على حق التصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Militären sköt mot demonstrerande arbetare",
+          "correctAnswerAr": "B. أطلق الجيش النار على عمال متظاهرين"
+        },
+        {
+          "question": {
+            "sv": "24- Vad var Saltsjöbadsavtalet?",
+            "ar": "24- ما هو اتفاق سالتسيو باد (Saltsjöbadsavtalet)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett avtal mellan arbetsgivare och fackförbund",
+              "textAr": "A. اتفاق بين أصحاب العمل والنقابات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett krigsavtal",
+              "textAr": "B. اتفاقية حرب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett handelsavtal",
+              "textAr": "C. اتفاقية تجارية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett EU-avtal",
+              "textAr": "D. اتفاقية للاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ett avtal mellan arbetsgivare och fackförbund",
+          "correctAnswerAr": "A. اتفاق بين أصحاب العمل والنقابات"
+        },
+        {
+          "question": {
+            "sv": "25- Vad betyder svenska modellen?",
+            "ar": "25- ماذا يعني النموذج السويدي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Staten bestämmer alla löner",
+              "textAr": "A. الدولة تحدد جميع الرواتب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fack och arbetsgivare förhandlar om villkor",
+              "textAr": "B. تتفاوض النقابات وأصحاب العمل حول الشروط",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ingen får arbeta",
+              "textAr": "C. لا أحد يعمل",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla får samma lön",
+              "textAr": "D. الجميع يحصلون على نفس الراتب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Fack och arbetsgivare förhandlar om villkor",
+          "correctAnswerAr": "B. تتفاوض النقابات وأصحاب العمل حول الشروط"
+        },
+        {
+          "question": {
+            "sv": "26- Vad gjorde Sverige under andra världskriget?",
+            "ar": "26- ماذا فعلت السويد خلال الحرب العالمية الثانية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Var neutralt",
+              "textAr": "A. كانت محايدة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Deltog på Tysklands sida",
+              "textAr": "B. شاركت إلى جانب ألمانيا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Deltog på de allierades sida",
+              "textAr": "C. شاركت إلى جانب الحلفاء",
+              "correct": false
+            },
+            {
+              "textSv": "D. Blev ockuperat",
+              "textAr": "D. تم احتلالها",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Var neutralt",
+          "correctAnswerAr": "A. كانت محايدة"
+        },
+        {
+          "question": {
+            "sv": "27- Vem var Raoul Wallenberg?",
+            "ar": "27- من كان راؤول فالنبرغ؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En svensk kung",
+              "textAr": "A. ملك سويدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. En diplomat som hjälpte judar under Förintelsen",
+              "textAr": "B. دبلوماسي ساعد اليهود خلال المحرقة",
+              "correct": true
+            },
+            {
+              "textSv": "C. En general",
+              "textAr": "C. جنرال",
+              "correct": false
+            },
+            {
+              "textSv": "D. En uppfinnare",
+              "textAr": "D. مخترع",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En diplomat som hjälpte judar under Förintelsen",
+          "correctAnswerAr": "B. دبلوماسي ساعد اليهود خلال المحرقة"
+        },
+        {
+          "question": {
+            "sv": "28- Vad var rekordåren?",
+            "ar": "28- ما هي سنوات الازدهار الاقتصادي (rekordåren)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En period av stark ekonomisk utveckling efter andra världskriget",
+              "textAr": "A. فترة من التطور الاقتصادي القوي بعد الحرب العالمية الثانية",
+              "correct": true
+            },
+            {
+              "textSv": "B. En period av fattigdom",
+              "textAr": "B. فترة من الفقر",
+              "correct": false
+            },
+            {
+              "textSv": "C. En period av krig",
+              "textAr": "C. فترة من الحروب",
+              "correct": false
+            },
+            {
+              "textSv": "D. En period utan industri",
+              "textAr": "D. فترة بدون صناعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En period av stark ekonomisk utveckling efter andra världskriget",
+          "correctAnswerAr": "A. فترة من التطور الاقتصادي القوي بعد الحرب العالمية الثانية"
+        },
+        {
+          "question": {
+            "sv": "29- Vad byggdes ut under rekordåren?",
+            "ar": "29- ماذا تم تطويره خلال سنوات الازدهار؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Välfärdssamhället",
+              "textAr": "A. مجتمع الرفاه",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kungamakten",
+              "textAr": "B. سلطة الملك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Armén",
+              "textAr": "C. الجيش",
+              "correct": false
+            },
+            {
+              "textSv": "D. Jordbruket",
+              "textAr": "D. الزراعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Välfärdssamhället",
+          "correctAnswerAr": "A. مجتمع الرفاه"
+        },
+        {
+          "question": {
+            "sv": "30- Vilken rättighet fick många arbetare under rekordåren?",
+            "ar": "30- ما هو الحق الذي حصل عليه العديد من العمال خلال سنوات الازدهار؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Fem veckors betald semester",
+              "textAr": "A. خمسة أسابيع إجازة مدفوعة الأجر",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gratis bostad",
+              "textAr": "B. سكن مجاني",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ingen skatt",
+              "textAr": "C. بدون ضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kortare skoltid",
+              "textAr": "D. وقت دراسة أقصر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Fem veckors betald semester",
+          "correctAnswerAr": "A. خمسة أسابيع إجازة مدفوعة الأجر"
+        },
+        {
+          "question": {
+            "sv": "31- Vad blev Sverige efter andra världskriget?",
+            "ar": "31- ماذا أصبحت السويد بعد الحرب العالمية الثانية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett utvandrarland",
+              "textAr": "A. بلد يهاجر منه الناس",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett invandrarland",
+              "textAr": "B. بلد يستقبل المهاجرين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett kolonialland",
+              "textAr": "C. بلد استعماري",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett jordbruksland",
+              "textAr": "D. بلد زراعي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett invandrarland",
+          "correctAnswerAr": "B. بلد يستقبل المهاجرين"
+        },
+        {
+          "question": {
+            "sv": "32- Vad var miljonprogrammet?",
+            "ar": "32- ما هو برنامج المليون (miljonprogrammet)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett program för att bygga en miljon bostäder",
+              "textAr": "A. برنامج لبناء مليون مسكن",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett skolprogram",
+              "textAr": "B. برنامج تعليمي",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett sjukvårdsprogram",
+              "textAr": "C. برنامج للرعاية الصحية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett militärt program",
+              "textAr": "D. برنامج عسكري",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ett program för att bygga en miljon bostäder",
+          "correctAnswerAr": "A. برنامج لبناء مليون مسكن"
+        },
+        {
+          "question": {
+            "sv": "33- Vad förändrades för kvinnor under 1900-talet?",
+            "ar": "33- ماذا تغير بالنسبة للنساء خلال القرن العشرين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Färre kvinnor arbetade",
+              "textAr": "A. عمل عدد أقل من النساء",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fler kvinnor började arbeta utanför hemmet",
+              "textAr": "B. بدأت نساء أكثر العمل خارج المنزل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kvinnor förlorade rättigheter",
+              "textAr": "C. فقدت النساء حقوقهن",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kvinnor fick inte utbilda sig",
+              "textAr": "D. لم يكن مسموحاً للنساء بالتعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Fler kvinnor började arbeta utanför hemmet",
+          "correctAnswerAr": "B. بدأت نساء أكثر العمل خارج المنزل"
+        },
+        {
+          "question": {
+            "sv": "34- Vad innebar du-reformen?",
+            "ar": "34- ماذا يعني إصلاح استخدام كلمة (du)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Människor började säga \"du\" istället för titlar",
+              "textAr": "A. بدأ الناس باستخدام كلمة \"أنت\" بدلاً من الألقاب",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla slutade prata",
+              "textAr": "B. توقف الجميع عن الكلام",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige fick en ny kung",
+              "textAr": "C. حصلت السويد على ملك جديد",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla bytte namn",
+              "textAr": "D. غيّر الجميع أسماءهم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Människor började säga \"du\" istället för titlar",
+          "correctAnswerAr": "A. بدأ الناس باستخدام كلمة \"أنت\" بدلاً من الألقاب"
+        },
+        {
+          "question": {
+            "sv": "35- Vad hände från 1970-talet?",
+            "ar": "35- ماذا حدث منذ سبعينيات القرن العشرين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Industrisamhället förändrades till informationssamhälle",
+              "textAr": "A. تحول المجتمع الصناعي إلى مجتمع معلومات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Sverige slutade använda teknik",
+              "textAr": "B. توقفت السويد عن استخدام التكنولوجيا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla blev bönder",
+              "textAr": "C. أصبح الجميع مزارعين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Demokratin försvann",
+              "textAr": "D. اختفت الديمقراطية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Industrisamhället förändrades till informationssamhälle",
+          "correctAnswerAr": "A. تحول المجتمع الصناعي إلى مجتمع معلومات"
+        },
+        {
+          "question": {
+            "sv": "36- Varför blev utbildning viktigare i informationssamhället?",
+            "ar": "36- لماذا أصبح التعليم أكثر أهمية في مجتمع المعلومات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Tekniken utvecklades snabbt",
+              "textAr": "A. تطورت التكنولوجيا بسرعة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skolor stängdes",
+              "textAr": "B. أغلقت المدارس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbete försvann helt",
+              "textAr": "C. اختفت الأعمال تماماً",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen behövde kunskap",
+              "textAr": "D. لم يكن أحد يحتاج إلى المعرفة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Tekniken utvecklades snabbt",
+          "correctAnswerAr": "A. تطورت التكنولوجيا بسرعة"
+        },
+        {
+          "question": {
+            "sv": "37- Vad ökade under 1990-talet?",
+            "ar": "37- ماذا زاد خلال التسعينيات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Invandringen till Sverige",
+              "textAr": "A. الهجرة إلى السويد",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kungens makt",
+              "textAr": "B. سلطة الملك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Jordbruket",
+              "textAr": "C. الزراعة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Antalet krig",
+              "textAr": "D. عدد الحروب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Invandringen till Sverige",
+          "correctAnswerAr": "A. الهجرة إلى السويد"
+        },
+        {
+          "question": {
+            "sv": "38- Vad är globalisering?",
+            "ar": "38- ما هي العولمة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Länder får mer kontakt och samarbete med varandra",
+              "textAr": "A. تصبح الدول أكثر تواصلاً وتعاوناً مع بعضها",
+              "correct": true
+            },
+            {
+              "textSv": "B. Länder isoleras",
+              "textAr": "B. تنعزل الدول",
+              "correct": false
+            },
+            {
+              "textSv": "C. Handel stoppas",
+              "textAr": "C. تتوقف التجارة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Länder får samma regering",
+              "textAr": "D. تحصل الدول على نفس الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Länder får mer kontakt och samarbete med varandra",
+          "correctAnswerAr": "A. تصبح الدول أكثر تواصلاً وتعاوناً مع بعضها"
+        },
+        {
+          "question": {
+            "sv": "39- Vad har den digitala revolutionen förändrat?",
+            "ar": "39- ماذا غيرت الثورة الرقمية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hur människor arbetar, studerar och kommunicerar",
+              "textAr": "A. طريقة عمل الناس ودراستهم وتواصلهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara jordbruket",
+              "textAr": "B. الزراعة فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Endast transport",
+              "textAr": "C. النقل فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara sjukvården",
+              "textAr": "D. الرعاية الصحية فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Hur människor arbetar, studerar och kommunicerar",
+          "correctAnswerAr": "A. طريقة عمل الناس ودراستهم وتواصلهم"
+        },
+        {
+          "question": {
+            "sv": "40- Vad kännetecknar Sverige idag?",
+            "ar": "40- ما الذي يميز السويد اليوم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett fattigt jordbruksland",
+              "textAr": "A. دولة زراعية فقيرة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett högteknologiskt informationssamhälle",
+              "textAr": "B. مجتمع معلومات عالي التقنية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett land utan demokrati",
+              "textAr": "C. دولة بدون ديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett land utan industri",
+              "textAr": "D. دولة بدون صناعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett högteknologiskt informationssamhälle",
+          "correctAnswerAr": "B. مجتمع معلومات عالي التقنية"
+        }
+      ]
     },
     {
       "lessonId": 11,
@@ -17242,12 +18443,1813 @@
       ]
     },
     {
-      "lessonId": 10,
+      "lessonId": 18,
       "lessonTitle": {
-        "sv": "Kapitel sex: 6- Medier i Sverige",
-        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+        "sv": "Övriga frågor 5",
+        "ar": "أسئلة إضافية 5"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Var ligger Sverige?",
+            "ar": "1- أين تقع السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. I södra Europa",
+              "textAr": "A. في جنوب أوروبا",
+              "correct": false
+            },
+            {
+              "textSv": "B. I Norden i norra Europa",
+              "textAr": "B. في منطقة الشمال الأوروبي في شمال أوروبا",
+              "correct": true
+            },
+            {
+              "textSv": "C. I Asien",
+              "textAr": "C. في آسيا",
+              "correct": false
+            },
+            {
+              "textSv": "D. I Nordamerika",
+              "textAr": "D. في أمريكا الشمالية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. I Norden i norra Europa",
+          "correctAnswerAr": "B. في منطقة الشمال الأوروبي في شمال أوروبا"
+        },
+        {
+          "question": {
+            "sv": "2- Vilket är Sveriges högsta berg?",
+            "ar": "2- ما هو أعلى جبل في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Åreskutan",
+              "textAr": "A. أوريشوتان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kebnekaise",
+              "textAr": "B. كيبنكايسه",
+              "correct": true
+            },
+            {
+              "textSv": "C. Hallandsåsen",
+              "textAr": "C. هالاندس أوسن",
+              "correct": false
+            },
+            {
+              "textSv": "D. Omberg",
+              "textAr": "D. أومبيري",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kebnekaise",
+          "correctAnswerAr": "B. كيبنكايسه"
+        },
+        {
+          "question": {
+            "sv": "3- Hur många kommuner finns det i Sverige?",
+            "ar": "3- كم عدد البلديات في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "correct": false
+            },
+            {
+              "textSv": "B. 100",
+              "textAr": "B. 100",
+              "correct": false
+            },
+            {
+              "textSv": "C. 290",
+              "textAr": "C. 290",
+              "correct": true
+            },
+            {
+              "textSv": "D. 350",
+              "textAr": "D. 350",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 290",
+          "correctAnswerAr": "C. 290"
+        },
+        {
+          "question": {
+            "sv": "4- Vilka är Sveriges tre största städer?",
+            "ar": "4- ما هي أكبر ثلاث مدن في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Uppsala, Västerås och Örebro",
+              "textAr": "A. أوبسالا وفيستيروس وأوربرو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Stockholm, Göteborg och Malmö",
+              "textAr": "B. ستوكهولم ويوتيبوري ومالمو",
+              "correct": true
+            },
+            {
+              "textSv": "C. Malmö, Lund och Helsingborg",
+              "textAr": "C. مالمو ولوند وهلسينغبوري",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kiruna, Luleå och Umeå",
+              "textAr": "D. كيرونا ولوليو وأوميو",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Stockholm, Göteborg och Malmö",
+          "correctAnswerAr": "B. ستوكهولم ويوتيبوري ومالمو"
+        },
+        {
+          "question": {
+            "sv": "5- Hur många människor bor det ungefär i Sverige?",
+            "ar": "5- كم يبلغ عدد سكان السويد تقريباً؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 5 miljoner",
+              "textAr": "A. 5 ملايين",
+              "correct": false
+            },
+            {
+              "textSv": "B. 8 miljoner",
+              "textAr": "B. 8 ملايين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nästan 11 miljoner",
+              "textAr": "C. حوالي 11 مليوناً",
+              "correct": true
+            },
+            {
+              "textSv": "D. 15 miljoner",
+              "textAr": "D. 15 مليوناً",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nästan 11 miljoner",
+          "correctAnswerAr": "C. حوالي 11 مليوناً"
+        },
+        {
+          "question": {
+            "sv": "6- Vilken naturresurs har länge varit viktig för Sveriges ekonomi?",
+            "ar": "6- أي مورد طبيعي كان مهماً لاقتصاد السويد لفترة طويلة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Olja",
+              "textAr": "A. النفط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Järnmalm och stål",
+              "textAr": "B. خام الحديد والفولاذ",
+              "correct": true
+            },
+            {
+              "textSv": "C. Diamanter",
+              "textAr": "C. الألماس",
+              "correct": false
+            },
+            {
+              "textSv": "D. Naturgas",
+              "textAr": "D. الغاز الطبيعي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Järnmalm och stål",
+          "correctAnswerAr": "B. خام الحديد والفولاذ"
+        },
+        {
+          "question": {
+            "sv": "7- Vad är målet för Sveriges utsläpp av växthusgaser år 2045?",
+            "ar": "7- ما هو هدف السويد بشأن انبعاثات الغازات الدفيئة بحلول عام 2045؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att fördubbla utsläppen",
+              "textAr": "A. مضاعفة الانبعاثات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att inte ha några regler",
+              "textAr": "B. عدم وجود قوانين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att utsläppen ska vara så nära noll som möjligt",
+              "textAr": "C. أن تكون الانبعاثات قريبة من الصفر قدر الإمكان",
+              "correct": true
+            },
+            {
+              "textSv": "D. Att använda mer kol",
+              "textAr": "D. استخدام المزيد من الفحم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Att utsläppen ska vara så nära noll som möjligt",
+          "correctAnswerAr": "C. أن تكون الانبعاثات قريبة من الصفر قدر الإمكان"
+        },
+        {
+          "question": {
+            "sv": "8- Vad betyder demokrati?",
+            "ar": "8- ماذا تعني الديمقراطية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungligt styre",
+              "textAr": "A. حكم ملكي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Folkstyre",
+              "textAr": "B. حكم الشعب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Militärstyre",
+              "textAr": "C. حكم عسكري",
+              "correct": false
+            },
+            {
+              "textSv": "D. Enpartistyre",
+              "textAr": "D. حكم الحزب الواحد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Folkstyre",
+          "correctAnswerAr": "B. حكم الشعب"
+        },
+        {
+          "question": {
+            "sv": "9- Vad är en viktig förutsättning för demokrati?",
+            "ar": "9- ما هو أحد الشروط المهمة للديمقراطية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att bara ett parti får finnas",
+              "textAr": "A. السماح لحزب واحد فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att lagarna gäller för alla",
+              "textAr": "B. أن تسري القوانين على الجميع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att val inte hålls",
+              "textAr": "C. عدم إجراء انتخابات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att medier förbjuds",
+              "textAr": "D. حظر وسائل الإعلام",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att lagarna gäller för alla",
+          "correctAnswerAr": "B. أن تسري القوانين على الجميع"
+        },
+        {
+          "question": {
+            "sv": "10- Vilket av följande är ett sätt att påverka samhället?",
+            "ar": "10- أي مما يلي يعد وسيلة للتأثير في المجتمع؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rösta i val",
+              "textAr": "A. التصويت في الانتخابات",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bryta mot lagen",
+              "textAr": "B. مخالفة القانون",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sprida hot",
+              "textAr": "C. نشر التهديدات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Hindra andra från att rösta",
+              "textAr": "D. منع الآخرين من التصويت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Rösta i val",
+          "correctAnswerAr": "A. التصويت في الانتخابات"
+        },
+        {
+          "question": {
+            "sv": "11- Vad kan hota demokratin enligt boken?",
+            "ar": "11- ما الذي يمكن أن يهدد الديمقراطية وفقاً للكتاب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Högt valdeltagande",
+              "textAr": "A. ارتفاع المشاركة في الانتخابات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Falsk information och hat",
+              "textAr": "B. المعلومات الكاذبة وخطاب الكراهية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Utbildning",
+              "textAr": "C. التعليم",
+              "correct": false
+            },
+            {
+              "textSv": "D. Fria val",
+              "textAr": "D. الانتخابات الحرة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Falsk information och hat",
+          "correctAnswerAr": "B. المعلومات الكاذبة وخطاب الكراهية"
+        },
+        {
+          "question": {
+            "sv": "12- Vad betyder segregation?",
+            "ar": "12- ماذا يعني الفصل أو العزل الاجتماعي (Segregation)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att människor lever åtskilda",
+              "textAr": "A. أن يعيش الناس منفصلين عن بعضهم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att människor samarbetar",
+              "textAr": "B. أن يتعاون الناس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att alla bor tillsammans",
+              "textAr": "C. أن يعيش الجميع معاً",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att alla har samma arbete",
+              "textAr": "D. أن يكون للجميع نفس العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att människor lever åtskilda",
+          "correctAnswerAr": "A. أن يعيش الناس منفصلين عن بعضهم"
+        },
+        {
+          "question": {
+            "sv": "13- Hur många ledamöter har riksdagen?",
+            "ar": "13- كم عدد أعضاء البرلمان السويدي (الريكسداغ)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 290",
+              "textAr": "A. 290",
+              "correct": false
+            },
+            {
+              "textSv": "B. 349",
+              "textAr": "B. 349",
+              "correct": true
+            },
+            {
+              "textSv": "C. 450",
+              "textAr": "C. 450",
+              "correct": false
+            },
+            {
+              "textSv": "D. 100",
+              "textAr": "D. 100",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 349",
+          "correctAnswerAr": "B. 349"
+        },
+        {
+          "question": {
+            "sv": "14- Hur ofta hålls val till riksdagen?",
+            "ar": "14- كل كم سنة تُجرى انتخابات البرلمان السويدي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Varje år",
+              "textAr": "A. كل سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Vart tredje år",
+              "textAr": "B. كل ثلاث سنوات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Vart fjärde år",
+              "textAr": "C. كل أربع سنوات",
+              "correct": true
+            },
+            {
+              "textSv": "D. Vart femte år",
+              "textAr": "D. كل خمس سنوات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Vart fjärde år",
+          "correctAnswerAr": "C. كل أربع سنوات"
+        },
+        {
+          "question": {
+            "sv": "15- Vilken myndighet beslutar om föräldrapenning?",
+            "ar": "15- أي جهة حكومية تتخذ قرار منح تعويض إجازة الوالدين؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "C. Försäkringskassan",
+              "textAr": "C. صندوق التأمينات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Försäkringskassan",
+          "correctAnswerAr": "C. صندوق التأمينات الاجتماعية"
+        },
+        {
+          "question": {
+            "sv": "16- Hur många regioner finns det i Sverige?",
+            "ar": "16- كم عدد الأقاليم (Regioner) في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 10",
+              "textAr": "A. 10",
+              "correct": false
+            },
+            {
+              "textSv": "B. 21",
+              "textAr": "B. 21",
+              "correct": true
+            },
+            {
+              "textSv": "C. 25",
+              "textAr": "C. 25",
+              "correct": false
+            },
+            {
+              "textSv": "D. 290",
+              "textAr": "D. 290",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 21",
+          "correctAnswerAr": "B. 21"
+        },
+        {
+          "question": {
+            "sv": "17- Vad är regionernas viktigaste uppgift?",
+            "ar": "17- ما هي المهمة الرئيسية للأقاليم في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försvar",
+              "textAr": "A. الدفاع",
+              "correct": false
+            },
+            {
+              "textSv": "B. Hälso- och sjukvård",
+              "textAr": "B. الرعاية الصحية والخدمات الطبية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisarbete",
+              "textAr": "C. العمل الشرطي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Utrikespolitik",
+              "textAr": "D. السياسة الخارجية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Hälso- och sjukvård",
+          "correctAnswerAr": "B. الرعاية الصحية والخدمات الطبية"
+        },
+        {
+          "question": {
+            "sv": "18- Vilken typ av statsskick har Sverige?",
+            "ar": "18- ما هو نظام الحكم في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Republik",
+              "textAr": "A. جمهورية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Konstitutionell monarki",
+              "textAr": "B. ملكية دستورية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Militärdiktatur",
+              "textAr": "C. ديكتاتورية عسكرية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Absolut monarki",
+              "textAr": "D. ملكية مطلقة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Konstitutionell monarki",
+          "correctAnswerAr": "B. ملكية دستورية"
+        },
+        {
+          "question": {
+            "sv": "19- Vad heter Sveriges nuvarande kung?",
+            "ar": "19- ما اسم ملك السويد الحالي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Carl XVI Gustaf",
+              "textAr": "A. كارل السادس عشر غوستاف",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gustaf V",
+              "textAr": "B. غوستاف الخامس",
+              "correct": false
+            },
+            {
+              "textSv": "C. Carl XIV Johan",
+              "textAr": "C. كارل الرابع عشر يوهان",
+              "correct": false
+            },
+            {
+              "textSv": "D. Oscar II",
+              "textAr": "D. أوسكار الثاني",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Carl XVI Gustaf",
+          "correctAnswerAr": "A. كارل السادس عشر غوستاف"
+        },
+        {
+          "question": {
+            "sv": "20- Hur gammal måste man vara för att rösta i Sverige?",
+            "ar": "20- كم يجب أن يكون عمر الشخص لكي يصوت في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 16 år",
+              "textAr": "A. 16 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 17 år",
+              "textAr": "B. 17 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 18 år",
+              "textAr": "C. 18 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. 21 år",
+              "textAr": "D. 21 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 18 år",
+          "correctAnswerAr": "C. 18 سنة"
+        },
+        {
+          "question": {
+            "sv": "21- Vad är en grundlag?",
+            "ar": "21- ما هو القانون الأساسي (الدستور)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En lokal regel",
+              "textAr": "A. قاعدة محلية",
+              "correct": false
+            },
+            {
+              "textSv": "B. De viktigaste lagarna i landet",
+              "textAr": "B. أهم القوانين في الدولة",
+              "correct": true
+            },
+            {
+              "textSv": "C. En kommunal lag",
+              "textAr": "C. قانون بلدي",
+              "correct": false
+            },
+            {
+              "textSv": "D. En tillfällig lag",
+              "textAr": "D. قانون مؤقت",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. De viktigaste lagarna i landet",
+          "correctAnswerAr": "B. أهم القوانين في الدولة"
+        },
+        {
+          "question": {
+            "sv": "22- Hur många grundlagar har Sverige?",
+            "ar": "22- كم عدد القوانين الأساسية (الدستورية) في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2",
+              "textAr": "A. 2",
+              "correct": false
+            },
+            {
+              "textSv": "B. 3",
+              "textAr": "B. 3",
+              "correct": false
+            },
+            {
+              "textSv": "C. 4",
+              "textAr": "C. 4",
+              "correct": true
+            },
+            {
+              "textSv": "D. 5",
+              "textAr": "D. 5",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 4",
+          "correctAnswerAr": "C. 4"
+        },
+        {
+          "question": {
+            "sv": "23- Vilken grundlag beskriver hur Sverige ska styras?",
+            "ar": "23- أي قانون أساسي يوضح كيفية حكم السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Successionsordningen",
+              "textAr": "A. قانون الخلافة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringsformen",
+              "textAr": "B. قانون نظام الحكم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Tryckfrihetsförordningen",
+              "textAr": "C. قانون حرية الصحافة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Yttrandefrihetsgrundlagen",
+              "textAr": "D. قانون حرية التعبير",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regeringsformen",
+          "correctAnswerAr": "B. قانون نظام الحكم"
+        },
+        {
+          "question": {
+            "sv": "24- Vad innebär yttrandefrihet?",
+            "ar": "24- ماذا تعني حرية التعبير؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att staten bestämmer vad man får säga",
+              "textAr": "A. أن الدولة تحدد ما يمكن قوله",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att människor får uttrycka sina åsikter",
+              "textAr": "B. أن يحق للناس التعبير عن آرائهم",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att bara journalister får tala",
+              "textAr": "C. أن الصحفيين فقط يحق لهم الكلام",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att medier förbjuds",
+              "textAr": "D. حظر وسائل الإعلام",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att människor får uttrycka sina åsikter",
+          "correctAnswerAr": "B. أن يحق للناس التعبير عن آرائهم"
+        },
+        {
+          "question": {
+            "sv": "25- Vilken myndighet ansvarar för skatter?",
+            "ar": "25- أي هيئة حكومية مسؤولة عن الضرائب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. صندوق التأمينات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Skatteverket",
+          "correctAnswerAr": "C. مصلحة الضرائب"
+        },
+        {
+          "question": {
+            "sv": "26- Vad är offentlighetsprincipen?",
+            "ar": "26- ما هو مبدأ العلنية (Offentlighetsprincipen)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att myndigheters handlingar normalt är offentliga",
+              "textAr": "A. أن وثائق الجهات الحكومية تكون متاحة للعامة عادةً",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att alla möten är hemliga",
+              "textAr": "B. أن جميع الاجتماعات سرية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att bara politiker får läsa dokument",
+              "textAr": "C. أن السياسيين فقط يمكنهم قراءة الوثائق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att media förbjuds",
+              "textAr": "D. حظر الإعلام",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att myndigheters handlingar normalt är offentliga",
+          "correctAnswerAr": "A. أن وثائق الجهات الحكومية تكون متاحة للعامة عادةً"
+        },
+        {
+          "question": {
+            "sv": "27- Vem leder regeringen?",
+            "ar": "27- من يقود الحكومة السويدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungen",
+              "textAr": "A. الملك",
+              "correct": false
+            },
+            {
+              "textSv": "B. Talmannen",
+              "textAr": "B. رئيس البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. Statsministern",
+              "textAr": "C. رئيس الوزراء",
+              "correct": true
+            },
+            {
+              "textSv": "D. Domaren",
+              "textAr": "D. القاضي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Statsministern",
+          "correctAnswerAr": "C. رئيس الوزراء"
+        },
+        {
+          "question": {
+            "sv": "28- Vilken är den lägsta domstolen i Sverige?",
+            "ar": "28- ما هي المحكمة الابتدائية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Högsta domstolen",
+              "textAr": "A. المحكمة العليا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Hovrätten",
+              "textAr": "B. محكمة الاستئناف",
+              "correct": false
+            },
+            {
+              "textSv": "C. Tingsrätten",
+              "textAr": "C. المحكمة الابتدائية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Regeringsrätten",
+              "textAr": "D. المحكمة الإدارية العليا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Tingsrätten",
+          "correctAnswerAr": "C. المحكمة الابتدائية"
+        },
+        {
+          "question": {
+            "sv": "29- Vad betyder rättssäkerhet?",
+            "ar": "29- ماذا يعني الأمن القانوني (Rättssäkerhet)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla behandlas lika inför lagen",
+              "textAr": "A. أن يُعامل الجميع بالتساوي أمام القانون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att politiker bestämmer domar",
+              "textAr": "B. أن السياسيين يقررون الأحكام",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att polisen dömer människor",
+              "textAr": "C. أن الشرطة تصدر الأحكام",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att vissa grupper har fler rättigheter",
+              "textAr": "D. أن لبعض الفئات حقوقاً أكثر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att alla behandlas lika inför lagen",
+          "correctAnswerAr": "A. أن يُعامل الجميع بالتساوي أمام القانون"
+        },
+        {
+          "question": {
+            "sv": "30- Vad får man göra enligt allemansrätten?",
+            "ar": "30- ماذا يسمح لك حق التجول في الطبيعة (Allemansrätten)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Gå in i någons trädgård",
+              "textAr": "A. دخول حديقة شخص آخر",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kasta skräp i naturen",
+              "textAr": "B. رمي القمامة في الطبيعة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Plocka bär och svamp i naturen",
+              "textAr": "C. قطف التوت والفطر في الطبيعة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Förstöra växter",
+              "textAr": "D. إتلاف النباتات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Plocka bär och svamp i naturen",
+          "correctAnswerAr": "C. قطف التوت والفطر في الطبيعة"
+        },
+        {
+          "question": {
+            "sv": "31- Vilken myndighet utreder brott?",
+            "ar": "31- أي جهة تحقق في الجرائم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Riksdagen",
+              "textAr": "B. البرلمان",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunen",
+              "textAr": "C. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skatteverket",
+              "textAr": "D. مصلحة الضرائب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Polisen",
+          "correctAnswerAr": "A. الشرطة"
+        },
+        {
+          "question": {
+            "sv": "32- Vem beslutar om åtal ska väckas?",
+            "ar": "32- من يقرر رفع دعوى قضائية ضد المشتبه به؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Åklagaren",
+              "textAr": "B. المدعي العام",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kommunen",
+              "textAr": "C. البلدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kungen",
+              "textAr": "D. الملك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Åklagaren",
+          "correctAnswerAr": "B. المدعي العام"
+        },
+        {
+          "question": {
+            "sv": "33- Hur gammal måste man vara för att vara straffmyndig i Sverige?",
+            "ar": "33- ما هو سن المسؤولية الجنائية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 13 år",
+              "textAr": "A. 13 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 15 år",
+              "textAr": "B. 15 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "C. 16 år",
+              "textAr": "C. 16 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "D. 18 år",
+              "textAr": "D. 18 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 15 år",
+          "correctAnswerAr": "B. 15 سنة"
+        },
+        {
+          "question": {
+            "sv": "34- Vad kallas de tre svenska public service-företagen?",
+            "ar": "34- ما أسماء مؤسسات الخدمة العامة الإعلامية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. SVT, SR och UR",
+              "textAr": "A. SVT وSR وUR",
+              "correct": true
+            },
+            {
+              "textSv": "B. TV4, TV3 och Kanal 5",
+              "textAr": "B. TV4 وTV3 وKanal 5",
+              "correct": false
+            },
+            {
+              "textSv": "C. DN, SvD och Aftonbladet",
+              "textAr": "C. DN وSvD وAftonbladet",
+              "correct": false
+            },
+            {
+              "textSv": "D. Google, Meta och X",
+              "textAr": "D. غوغل وميتا وإكس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. SVT, SR och UR",
+          "correctAnswerAr": "A. SVT وSR وUR"
+        },
+        {
+          "question": {
+            "sv": "35- Vad innebär källkritik?",
+            "ar": "35- ماذا يعني التفكير النقدي تجاه المصادر (Källkritik)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att tro på allt man läser",
+              "textAr": "A. تصديق كل ما يُقرأ",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att kontrollera om information är korrekt och pålitlig",
+              "textAr": "B. التحقق من صحة المعلومات وموثوقيتها",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att bara läsa sociala medier",
+              "textAr": "C. قراءة وسائل التواصل الاجتماعي فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att inte använda nyheter",
+              "textAr": "D. عدم استخدام الأخبار",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att kontrollera om information är korrekt och pålitlig",
+          "correctAnswerAr": "B. التحقق من صحة المعلومات وموثوقيتها"
+        },
+        {
+          "question": {
+            "sv": "36- När presenterade FN den allmänna förklaringen om de mänskliga rättigheterna?",
+            "ar": "36- متى قدمت الأمم المتحدة الإعلان العالمي لحقوق الإنسان؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1945",
+              "textAr": "A. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1948",
+              "textAr": "B. 1948",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1955",
+              "textAr": "C. 1955",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1960",
+              "textAr": "D. 1960",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1948",
+          "correctAnswerAr": "B. 1948"
+        },
+        {
+          "question": {
+            "sv": "37- Vad innebär diskriminering?",
+            "ar": "37- ماذا يعني التمييز؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att alla behandlas lika",
+              "textAr": "A. معاملة الجميع بالتساوي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att vissa behandlas sämre än andra",
+              "textAr": "B. معاملة بعض الأشخاص بشكل أسوأ من الآخرين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att följa lagen",
+              "textAr": "C. اتباع القانون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att rösta i val",
+              "textAr": "D. التصويت في الانتخابات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att vissa behandlas sämre än andra",
+          "correctAnswerAr": "B. معاملة بعض الأشخاص بشكل أسوأ من الآخرين"
+        },
+        {
+          "question": {
+            "sv": "38- Vad är målet med Sveriges jämställdhetspolitik?",
+            "ar": "38- ما الهدف من سياسة المساواة بين الجنسين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att kvinnor och män ska ha samma rättigheter och möjligheter",
+              "textAr": "A. أن يكون للنساء والرجال نفس الحقوق والفرص",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att män ska ha mer makt",
+              "textAr": "B. أن يكون للرجال سلطة أكبر",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att kvinnor inte ska arbeta",
+              "textAr": "C. ألا تعمل النساء",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att bara kvinnor ska vara politiker",
+              "textAr": "D. أن تكون النساء فقط سياسيات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att kvinnor och män ska ha samma rättigheter och möjligheter",
+          "correctAnswerAr": "A. أن يكون للنساء والرجال نفس الحقوق والفرص"
+        },
+        {
+          "question": {
+            "sv": "39- Vad innebär samtyckeslagen?",
+            "ar": "39- ماذا يعني قانون الرضا (Samtyckeslagen)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att båda måste delta frivilligt i sexuella relationer",
+              "textAr": "A. أن يشارك الطرفان طوعاً في العلاقة الجنسية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att äktenskap alltid krävs",
+              "textAr": "B. أن الزواج مطلوب دائماً",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att endast män bestämmer",
+              "textAr": "C. أن الرجال فقط يقررون",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att lagen bara gäller unga",
+              "textAr": "D. أن القانون يطبق فقط على الشباب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att båda måste delta frivilligt i sexuella relationer",
+          "correctAnswerAr": "A. أن يشارك الطرفان طوعاً في العلاقة الجنسية"
+        },
+        {
+          "question": {
+            "sv": "40- Är det lagligt att köpa sex i Sverige?",
+            "ar": "40- هل شراء الخدمات الجنسية قانوني في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja, alltid",
+              "textAr": "A. نعم، دائماً",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ja, om båda är vuxna",
+              "textAr": "B. نعم، إذا كان الطرفان بالغين",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nej, det är olagligt",
+              "textAr": "C. لا، إنه غير قانوني",
+              "correct": true
+            },
+            {
+              "textSv": "D. Bara utomlands",
+              "textAr": "D. فقط في الخارج",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nej, det är olagligt",
+          "correctAnswerAr": "C. لا، إنه غير قانوني"
+        },
+        {
+          "question": {
+            "sv": "41- När blev barnkonventionen svensk lag?",
+            "ar": "41- متى أصبحت اتفاقية حقوق الطفل قانوناً في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1979",
+              "textAr": "A. 1979",
+              "correct": false
+            },
+            {
+              "textSv": "B. 2000",
+              "textAr": "B. 2000",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2020",
+              "textAr": "C. 2020",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2024",
+              "textAr": "D. 2024",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 2020",
+          "correctAnswerAr": "C. 2020"
+        },
+        {
+          "question": {
+            "sv": "42- Vilket land var först i världen med att förbjuda aga mot barn?",
+            "ar": "42- ما أول دولة في العالم حظرت ضرب الأطفال؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Norge",
+              "textAr": "A. النرويج",
+              "correct": false
+            },
+            {
+              "textSv": "B. Finland",
+              "textAr": "B. فنلندا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige",
+              "textAr": "C. السويد",
+              "correct": true
+            },
+            {
+              "textSv": "D. Danmark",
+              "textAr": "D. الدنمارك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sverige",
+          "correctAnswerAr": "C. السويد"
+        },
+        {
+          "question": {
+            "sv": "43- Vilka är erkända nationella minoriteter i Sverige?",
+            "ar": "43- من هم الأقليات الوطنية المعترف بها في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Judar, romer, samer, sverigefinnar och tornedalingar",
+              "textAr": "A. اليهود، الروما، الساميون، فنلنديو السويد والتورنيداليون",
+              "correct": true
+            },
+            {
+              "textSv": "B. Endast samer",
+              "textAr": "B. الساميون فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla invandrare",
+              "textAr": "C. جميع المهاجرين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast romer och judar",
+              "textAr": "D. الروما واليهود فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Judar, romer, samer, sverigefinnar och tornedalingar",
+          "correctAnswerAr": "A. اليهود، الروما، الساميون، فنلنديو السويد والتورنيداليون"
+        },
+        {
+          "question": {
+            "sv": "44- Vilket folk är erkänt som urfolk i Sverige?",
+            "ar": "44- أي شعب يُعتبر شعباً أصلياً في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverigefinnar",
+              "textAr": "A. فنلنديو السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Samer",
+              "textAr": "B. الساميون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Romer",
+              "textAr": "C. الروما",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tornedalingar",
+              "textAr": "D. التورنيداليون",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Samer",
+          "correctAnswerAr": "B. الساميون"
+        },
+        {
+          "question": {
+            "sv": "45- Vad heter samernas folkvalda parlament?",
+            "ar": "45- ما اسم البرلمان المنتخب للشعب السامي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Riksdagen",
+              "textAr": "A. البرلمان السويدي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sametinget",
+              "textAr": "B. البرلمان السامي (ساميتينغيت)",
+              "correct": true
+            },
+            {
+              "textSv": "C. Landstinget",
+              "textAr": "C. مجلس المقاطعة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunfullmäktige",
+              "textAr": "D. المجلس البلدي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sametinget",
+          "correctAnswerAr": "B. البرلمان السامي (ساميتينغيت)"
+        },
+        {
+          "question": {
+            "sv": "46- Är det tillåtet att gifta sig med någon av samma kön i Sverige?",
+            "ar": "46- هل يُسمح بالزواج من شخص من نفس الجنس في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": true
+            },
+            {
+              "textSv": "B. Nej",
+              "textAr": "B. لا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara utomlands",
+              "textAr": "C. فقط في الخارج",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast med tillstånd från regeringen",
+              "textAr": "D. فقط بإذن من الحكومة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ja",
+          "correctAnswerAr": "A. نعم"
+        },
+        {
+          "question": {
+            "sv": "47- Vad gör Diskrimineringsombudsmannen (DO)?",
+            "ar": "47- ماذا تفعل هيئة مكافحة التمييز (DO)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ansvarar för sjukvård",
+              "textAr": "A. مسؤولة عن الرعاية الصحية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ser till att diskrimineringslagen följs",
+              "textAr": "B. تراقب تطبيق قانون مكافحة التمييز",
+              "correct": true
+            },
+            {
+              "textSv": "C. Delar ut pensioner",
+              "textAr": "C. توزع المعاشات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Driver domstolar",
+              "textAr": "D. تدير المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ser till att diskrimineringslagen följs",
+          "correctAnswerAr": "B. تراقب تطبيق قانون مكافحة التمييز"
+        },
+        {
+          "question": {
+            "sv": "48- Vad kallas ett brott som begås mot någon på grund av grupptillhörighet?",
+            "ar": "48- ماذا يسمى الجرم المرتكب بسبب انتماء الضحية إلى مجموعة معينة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ekonomiskt brott",
+              "textAr": "A. جريمة اقتصادية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Hatbrott",
+              "textAr": "B. جريمة كراهية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Trafikbrott",
+              "textAr": "C. مخالفة مرورية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Miljöbrott",
+              "textAr": "D. جريمة بيئية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Hatbrott",
+          "correctAnswerAr": "B. جريمة كراهية"
+        },
+        {
+          "question": {
+            "sv": "49- Vilken sektor arbetar cirka 70 procent av de anställda i Sverige inom?",
+            "ar": "49- في أي قطاع يعمل حوالي 70٪ من العاملين في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Offentlig sektor",
+              "textAr": "A. القطاع العام",
+              "correct": false
+            },
+            {
+              "textSv": "B. Privat sektor",
+              "textAr": "B. القطاع الخاص",
+              "correct": true
+            },
+            {
+              "textSv": "C. Militär sektor",
+              "textAr": "C. القطاع العسكري",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ideell sektor",
+              "textAr": "D. القطاع التطوعي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Privat sektor",
+          "correctAnswerAr": "B. القطاع الخاص"
+        },
+        {
+          "question": {
+            "sv": "50- Vad är ett kollektivavtal?",
+            "ar": "50- ما هي الاتفاقية الجماعية للعمل (Kollektivavtal)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett avtal mellan fackförbund och arbetsgivare om löner och villkor",
+              "textAr": "A. اتفاق بين النقابات وأصحاب العمل حول الأجور وشروط العمل",
+              "correct": true
+            },
+            {
+              "textSv": "B. Ett bostadskontrakt",
+              "textAr": "B. عقد سكن",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett avtal mellan kommuner",
+              "textAr": "C. اتفاق بين البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett passavtal",
+              "textAr": "D. اتفاق للحصول على جواز سفر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Ett avtal mellan fackförbund och arbetsgivare om löner och villkor",
+          "correctAnswerAr": "A. اتفاق بين النقابات وأصحاب العمل حول الأجور وشروط العمل"
+        },
+        {
+          "question": {
+            "sv": "51- Vad är A-kassan?",
+            "ar": "51- ما هي A-kassan؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En pensionsmyndighet",
+              "textAr": "A. هيئة معاشات",
+              "correct": false
+            },
+            {
+              "textSv": "B. En arbetslöshetsförsäkring",
+              "textAr": "B. تأمين ضد البطالة",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett fackförbund",
+              "textAr": "C. نقابة عمالية",
+              "correct": false
+            },
+            {
+              "textSv": "D. En bank",
+              "textAr": "D. بنك",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En arbetslöshetsförsäkring",
+          "correctAnswerAr": "B. تأمين ضد البطالة"
+        },
+        {
+          "question": {
+            "sv": "52- Vad är Kronofogdemyndighetens uppgift?",
+            "ar": "52- ما هي مهمة هيئة تنفيذ الديون (Kronofogden)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att bygga bostäder",
+              "textAr": "A. بناء المساكن",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att se till att skulder blir betalda",
+              "textAr": "B. ضمان سداد الديون",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att ge studiestöd",
+              "textAr": "C. تقديم دعم الدراسة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att utfärda pass",
+              "textAr": "D. إصدار جوازات السفر",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att se till att skulder blir betalda",
+          "correctAnswerAr": "B. ضمان سداد الديون"
+        },
+        {
+          "question": {
+            "sv": "53- Hur finansieras den svenska välfärden främst?",
+            "ar": "53- كيف يتم تمويل نظام الرفاهية في السويد بشكل رئيسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Genom donationer",
+              "textAr": "A. من خلال التبرعات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Genom skatter",
+              "textAr": "B. من خلال الضرائب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Genom lotterier",
+              "textAr": "C. من خلال اليانصيب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Genom böter",
+              "textAr": "D. من خلال الغرامات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Genom skatter",
+          "correctAnswerAr": "B. من خلال الضرائب"
+        },
+        {
+          "question": {
+            "sv": "54- Vilken skatt betalar man när man köper varor och tjänster?",
+            "ar": "54- ما هي الضريبة التي تُدفع عند شراء السلع والخدمات؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Inkomstskatt",
+              "textAr": "A. ضريبة الدخل",
+              "correct": false
+            },
+            {
+              "textSv": "B. Fastighetsskatt",
+              "textAr": "B. ضريبة العقارات",
+              "correct": false
+            },
+            {
+              "textSv": "C. Moms",
+              "textAr": "C. ضريبة القيمة المضافة (Moms)",
+              "correct": true
+            },
+            {
+              "textSv": "D. Arvsskatt",
+              "textAr": "D. ضريبة الميراث",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Moms",
+          "correctAnswerAr": "C. ضريبة القيمة المضافة (Moms)"
+        },
+        {
+          "question": {
+            "sv": "55- Vem ansvarar främst för hälso- och sjukvården i Sverige?",
+            "ar": "55- من المسؤول بشكل رئيسي عن الرعاية الصحية في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kommunerna",
+              "textAr": "A. البلديات",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regionerna",
+              "textAr": "B. الأقاليم",
+              "correct": true
+            },
+            {
+              "textSv": "C. EU",
+              "textAr": "C. الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regionerna",
+          "correctAnswerAr": "B. الأقاليم"
+        },
+        {
+          "question": {
+            "sv": "56- Vad ansvarar kommunerna för?",
+            "ar": "56- ما الذي تتحمل البلديات مسؤوليته؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Utrikespolitik",
+              "textAr": "A. السياسة الخارجية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försvarsmakten",
+              "textAr": "B. القوات المسلحة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skolor, äldreomsorg och socialtjänst",
+              "textAr": "C. المدارس ورعاية المسنين والخدمات الاجتماعية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Domstolar",
+              "textAr": "D. المحاكم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Skolor, äldreomsorg och socialtjänst",
+          "correctAnswerAr": "C. المدارس ورعاية المسنين والخدمات الاجتماعية"
+        },
+        {
+          "question": {
+            "sv": "57- Vad gör socialtjänsten?",
+            "ar": "57- ماذا تفعل الخدمات الاجتماعية (Socialtjänsten)؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ansvarar för militären",
+              "textAr": "A. مسؤولة عن الجيش",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ger stöd och hjälp till människor som behöver det",
+              "textAr": "B. تقدم الدعم والمساعدة للأشخاص المحتاجين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Utfärdar körkort",
+              "textAr": "C. تصدر رخص القيادة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Driver universitet",
+              "textAr": "D. تدير الجامعات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ger stöd och hjälp till människor som behöver det",
+          "correctAnswerAr": "B. تقدم الدعم والمساعدة للأشخاص المحتاجين"
+        },
+        {
+          "question": {
+            "sv": "58- Hur beskrivs Sverige för cirka 200 år sedan?",
+            "ar": "58- كيف وُصفت السويد قبل حوالي 200 عام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett högteknologiskt samhälle",
+              "textAr": "A. مجتمع عالي التقنية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett rikt industriland",
+              "textAr": "B. دولة صناعية غنية",
+              "correct": false
+            },
+            {
+              "textSv": "C. Ett fattigt jordbruksland",
+              "textAr": "C. دولة زراعية فقيرة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Ett oljerikt land",
+              "textAr": "D. دولة غنية بالنفط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Ett fattigt jordbruksland",
+          "correctAnswerAr": "C. دولة زراعية فقيرة"
+        },
+        {
+          "question": {
+            "sv": "59- Vad hände under industrialiseringen i Sverige?",
+            "ar": "59- ماذا حدث خلال فترة التصنيع في السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Många flyttade från städer till landsbygden",
+              "textAr": "A. انتقل الكثيرون من المدن إلى الريف",
+              "correct": false
+            },
+            {
+              "textSv": "B. Många började arbeta i fabriker",
+              "textAr": "B. بدأ الكثيرون العمل في المصانع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Alla arbetade inom jordbruk",
+              "textAr": "C. عمل الجميع في الزراعة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Befolkningen minskade kraftigt",
+              "textAr": "D. انخفض عدد السكان بشكل كبير",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Många började arbeta i fabriker",
+          "correctAnswerAr": "B. بدأ الكثيرون العمل في المصانع"
+        },
+        {
+          "question": {
+            "sv": "60- Vad kännetecknar Sverige idag?",
+            "ar": "60- ما الذي يميز السويد اليوم؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett fattigt jordbruksland",
+              "textAr": "A. دولة زراعية فقيرة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett högteknologiskt informationssamhälle",
+              "textAr": "B. مجتمع معلومات عالي التقنية",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett land utan demokrati",
+              "textAr": "C. دولة بدون ديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett land utan industri",
+              "textAr": "D. دولة بدون صناعة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett högteknologiskt informationssamhälle",
+          "correctAnswerAr": "B. مجتمع معلومات عالي التقنية"
+        }
+      ]
     },
     {
       "lessonId": 10,

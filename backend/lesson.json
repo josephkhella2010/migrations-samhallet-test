@@ -3522,14 +3522,470 @@
       }
     },
     {
-      "lessonId": 5,
+      "lessonId": 10,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel Tio:10 – Sveriges moderna historia",
+        "arabic": "الفصل العاشر – 10 التاريخ الحديث للسويد"
       },
       "sections": {
-        "swedish": [],
-        "arabic": []
+        "swedish": [
+          {
+            "title": "1. Från jordbrukssamhälle till industrisamhälle",
+            "subtitle": "Sveriges utveckling från fattigt jordbruksland till modernt industriland",
+            "text": "För cirka 200 år sedan var Sverige ett fattigt jordbruksland där nästan hela befolkningen bodde på landsbygden och arbetade med jordbruk och djurhållning. Under 1800-talet förändrades Sverige snabbt när nya maskiner och industrier började växa fram.",
+            "list": [
+              "de flesta människor bodde på landsbygden",
+              "jordbruk och djurhållning var de viktigaste näringarna",
+              "Sverige utvecklades under 1800-talet från jordbrukssamhälle till industrisamhälle",
+              "många flyttade från landsbygden till städer för att arbeta i fabriker"
+            ]
+          },
+          {
+            "title": "2. Befolkningsökning och utvandring",
+            "subtitle": "Fler människor föddes men många sökte ett bättre liv i USA",
+            "text": "I början av 1800-talet hade Sverige cirka 2,5 miljoner invånare. Hundra år senare hade befolkningen fördubblats, men Sverige var fortfarande fattigt och många människor hade svårt att hitta arbete.",
+            "list": [
+              "bättre jordbruksmetoder ökade matproduktionen",
+              "medicinska framsteg gjorde att färre barn dog av sjukdomar",
+              "över en miljon svenskar lämnade Sverige mellan 1850 och 1920",
+              "de flesta emigrerade till USA för att söka ett bättre liv"
+            ]
+          },
+          {
+            "title": "3. Industrialiseringen i Sverige",
+            "subtitle": "Nya industrier förändrade arbete och samhälle",
+            "text": "Under mitten av 1800-talet började stora industrier växa fram i Sverige. Industrialiseringen förändrade arbetslivet, städerna och infrastrukturen.",
+            "list": [
+              "sågverk producerade trävaror",
+              "stålindustrier blev viktiga för ekonomin",
+              "textilindustrier och skofabriker skapade många arbetstillfällen",
+              "verkstadsindustrier utvecklades och moderniserade samhället"
+            ]
+          },
+          {
+            "title": "4. Sveriges väg till demokrati",
+            "subtitle": "Från kunglig makt till folkstyre",
+            "text": "Före demokratin hade kungen, adeln, kyrkan, köpmän och bönder stor politisk makt. När samhället förändrades började fler människor kräva politiska rättigheter.",
+            "list": [
+              "1809 antogs en ny grundlag som begränsade kungens makt",
+              "1865 infördes en ny riksdagsordning",
+              "adelns och prästernas gamla politiska makt minskade",
+              "kvinnor och många män saknade fortfarande rösträtt"
+            ]
+          },
+          {
+            "title": "5. Folkrörelsernas betydelse",
+            "subtitle": "Organisationer som kämpade för demokratiska rättigheter",
+            "text": "Folkrörelser hjälpte Sverige att utvecklas till en demokrati genom att människor organiserade sig och krävde politiska och sociala förändringar.",
+            "list": [
+              "arbetarrörelsen kämpade för bättre arbetsvillkor",
+              "kvinnorörelsen kämpade för kvinnlig rösträtt",
+              "frikyrkorörelsen arbetade för religionsfrihet",
+              "nykterhetsrörelsen arbetade mot alkoholproblem",
+              "de använde möten, demonstrationer och tidningar för att påverka"
+            ]
+          },
+          {
+            "title": "6. Demokratins genombrott",
+            "subtitle": "Allmän och lika rösträtt infördes i Sverige",
+            "text": "Under början av 1900-talet genomfördes stora demokratiska reformer som ledde till att Sverige blev en demokrati där både kvinnor och män fick rösta.",
+            "list": [
+              "1909 fick nästan alla män rösträtt",
+              "1918 fattades beslut om allmän och lika rösträtt",
+              "1921 hölls det första riksdagsvalet där både kvinnor och män kunde rösta",
+              "kvinnor fick också möjlighet att bli riksdagsledamöter",
+              "år 1921 blev Sverige en demokratisk stat"
+            ]
+          },
+          {
+            "title": "7. Första världskriget (1914–1918)",
+            "subtitle": "Sverige var neutralt men påverkades av kriget",
+            "text": "Sverige deltog inte i första världskriget och förblev neutralt. Trots detta drabbades landet av ekonomiska problem och brist på viktiga varor.",
+            "list": [
+              "Sverige deltog inte i kriget",
+              "landet hade brist på mat och andra viktiga varor",
+              "många människor drabbades av försämrade levnadsvillkor",
+              "protester och demonstrationer förekom under kriget"
+            ]
+          },
+          {
+            "title": "8. Modernisering och folkhemmet",
+            "subtitle": "Samhället förändrades under 1920- och 1930-talen",
+            "text": "Under mellankrigstiden moderniserades Sverige genom teknisk utveckling och förbättrade levnadsvillkor, men landet hade fortfarande stora sociala problem.",
+            "list": [
+              "fler människor fick tillgång till elektricitet",
+              "bostäderna blev bättre",
+              "tekniken utvecklades snabbt",
+              "arbetslösheten var fortfarande hög",
+              "klasskillnader och konflikter mellan arbetare och arbetsgivare fortsatte"
+            ]
+          },
+          {
+            "title": "9. Ådalen 1931",
+            "subtitle": "En allvarlig konflikt mellan arbetare och staten",
+            "text": "År 1931 demonstrerade arbetare i Ådalen. Militären öppnade eld mot demonstranterna och flera personer dödades, vilket blev en viktig händelse i svensk historia.",
+            "list": [
+              "arbetare demonstrerade för bättre villkor",
+              "militären sköt mot demonstranterna",
+              "flera människor dödades",
+              "händelsen visade de stora konflikterna på arbetsmarknaden"
+            ]
+          },
+          {
+            "title": "10. Den svenska modellen",
+            "subtitle": "Samarbete mellan arbetsgivare och fackförbund",
+            "text": "Den svenska modellen bygger på att arbetsgivare och fackförbund förhandlar om löner och arbetsvillkor istället för att staten bestämmer direkt.",
+            "list": [
+              "1938 slöts Saltsjöbadsavtalet",
+              "avtalet skapade grunden för den svenska modellen",
+              "arbetsgivare och fackförbund förhandlar om löner",
+              "kollektivavtal reglerar arbetsvillkor",
+              "politiker bestämmer inte direkt över lönenivåerna"
+            ]
+          },
+          {
+            "title": "11. Idén om folkhemmet",
+            "subtitle": "Ett samhälle där alla skulle känna trygghet",
+            "text": "År 1928 presenterade Socialdemokraternas ledare Per Albin Hansson idén om folkhemmet. Tanken var att Sverige skulle bli ett samhälle där alla människor hade möjlighet att leva ett tryggt och bra liv.",
+            "list": [
+              "alla människor skulle känna trygghet",
+              "alla skulle ha möjlighet att leva ett bra liv",
+              "klasskillnaderna skulle minska",
+              "samhället skulle ta större ansvar för människors välfärd"
+            ]
+          },
+          {
+            "title": "12. Sveriges mörka historia",
+            "subtitle": "Rasism, diskriminering och orättvisor",
+            "text": "Det moderna Sverige hade också mörka delar i sin historia. Rasbiologisk forskning och diskriminering drabbade flera minoritetsgrupper och vissa människor utsattes för tvångsvård.",
+            "list": [
+              "rasbiologisk forskning förekom i Sverige",
+              "samer, tornedalingar, judar och romer utsattes för diskriminering",
+              "personer med psykiska sjukdomar eller funktionsnedsättningar kunde placeras på institutioner",
+              "Sverige har senare försökt erkänna och rätta till dessa orättvisor"
+            ]
+          },
+          {
+            "title": "13. Andra världskriget (1939–1945)",
+            "subtitle": "Sverige var neutralt men påverkades av kriget",
+            "text": "Sverige var neutralt under andra världskriget men hamnade i svåra situationer när Finland attackerades av Sovjetunionen och Tyskland ockuperade Danmark och Norge.",
+            "list": [
+              "Sverige deltog inte direkt i kriget",
+              "landet påverkades av kriget runt omkring",
+              "Sverige hjälpte människor som flydde från kriget",
+              "neutralitetspolitiken var en viktig del av Sveriges historia"
+            ]
+          },
+          {
+            "title": "14. Sveriges hjälp under Förintelsen",
+            "subtitle": "Insatser för att rädda människor under andra världskriget",
+            "text": "Under andra världskriget hjälpte Sverige många judar och andra människor som hotades av nazisternas förföljelser.",
+            "list": [
+              "cirka 7 000 danska judar flydde till Sverige",
+              "Raoul Wallenberg hjälpte judar genom att ge dem skyddspass",
+              "Svenska Röda Korsets vita bussar räddade tusentals människor från koncentrationsläger",
+              "Sverige gjorde humanitära insatser under kriget"
+            ]
+          },
+          {
+            "title": "15. Rekordåren efter andra världskriget",
+            "subtitle": "Snabb ekonomisk utveckling och högre levnadsstandard",
+            "text": "Efter 1945 hade Sverige en stark ekonomisk utveckling. Perioden kallas rekordåren eftersom industrin växte snabbt och människors levnadsstandard förbättrades.",
+            "list": [
+              "arbetslösheten var låg",
+              "svensk industri växte kraftigt",
+              "människor fick högre levnadsstandard",
+              "stora sociala reformer genomfördes"
+            ]
+          },
+          {
+            "title": "16. Utbyggnaden av välfärdssamhället",
+            "subtitle": "Trygghet genom sociala reformer",
+            "text": "Under rekordåren byggdes det svenska välfärdssamhället ut. Staten skapade system som gav människor större trygghet i livet.",
+            "list": [
+              "40 timmars arbetsvecka infördes",
+              "människor fick fler semesterdagar",
+              "sjukvård och äldreomsorg förbättrades",
+              "barnbidrag och sjukförsäkring infördes",
+              "pensionssystemet utvecklades"
+            ]
+          },
+          {
+            "title": "17. Sverige blir ett invandrarland",
+            "subtitle": "Arbetskraftsinvandring efter andra världskriget",
+            "text": "Efter andra världskriget förändrades Sverige från ett land där många flyttade ut till ett land där många flyttade in. Många invandrare kom för att arbeta inom industrin.",
+            "list": [
+              "många kom från Finland",
+              "människor kom också från Grekland, Jugoslavien och Turkiet",
+              "många arbetade i svenska fabriker",
+              "invandringen bidrog till Sveriges ekonomiska utveckling"
+            ]
+          },
+          {
+            "title": "18. Miljonprogrammet",
+            "subtitle": "En stor satsning på nya bostäder",
+            "text": "Under 1960-talet startade staten miljonprogrammet för att bygga en miljon nya bostäder på tio år. Målet var att lösa bostadsbristen och skapa moderna hem.",
+            "list": [
+              "en miljon bostäder skulle byggas under tio år",
+              "nya bostadsområden skapades",
+              "fler människor fick moderna lägenheter",
+              "områden byggdes med skolor, affärer och sjukvård"
+            ]
+          },
+          {
+            "title": "19. Jämställdhet och kulturförändringar",
+            "subtitle": "Ett mer jämlikt samhälle växer fram",
+            "text": "Under 1900-talet ökade jämställdheten i Sverige. Kvinnor fick större möjligheter att arbeta och delta i samhället.",
+            "list": [
+              "fler kvinnor började arbeta",
+              "daghem byggdes ut",
+              "löneskillnader mellan män och kvinnor minskade",
+              "ungdomar engagerade sig för fred, miljö och internationell solidaritet",
+              "du-reformen gjorde att människor började säga du istället för titlar"
+            ]
+          },
+          {
+            "title": "20. Informationssamhället och digitala Sverige",
+            "subtitle": "Från industrisamhälle till högteknologiskt samhälle",
+            "text": "Från 1970-talet och framåt förändrades Sverige genom teknisk utveckling och globalisering. Industrisamhället utvecklades till ett informations- och kunskapssamhälle.",
+            "list": [
+              "datorer och internet förändrade samhället",
+              "smarttelefoner förändrade kommunikation och vardagsliv",
+              "digitaliseringen påverkade arbete, utbildning och handel",
+              "artificiell intelligens (AI) är en del av det moderna digitala samhället",
+              "Sverige utvecklades till ett högteknologiskt land"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. من مجتمع زراعي إلى مجتمع صناعي",
+            "subtitle": "تطور السويد من بلد زراعي فقير إلى بلد صناعي حديث",
+            "text": "قبل حوالي 200 عام كانت السويد بلدًا زراعيًا فقيرًا، حيث كان معظم السكان يعيشون في الريف ويعملون في الزراعة وتربية الحيوانات. خلال القرن التاسع عشر تغيرت السويد بسرعة عندما ظهرت آلات جديدة وبدأت الصناعات بالنمو.",
+            "list": [
+              "كان معظم الناس يعيشون في المناطق الريفية",
+              "كانت الزراعة وتربية الحيوانات أهم مصادر العمل",
+              "تطورت السويد خلال القرن التاسع عشر من مجتمع زراعي إلى مجتمع صناعي",
+              "انتقل الكثير من الناس من الريف إلى المدن للعمل في المصانع"
+            ]
+          },
+          {
+            "title": "2. زيادة السكان والهجرة",
+            "subtitle": "ازداد عدد السكان لكن الكثيرين بحثوا عن حياة أفضل في الولايات المتحدة",
+            "text": "في بداية القرن التاسع عشر كان عدد سكان السويد حوالي 2.5 مليون نسمة. وبعد مئة عام تضاعف عدد السكان، لكن السويد بقيت دولة فقيرة وكان الكثير من الناس يجدون صعوبة في الحصول على العمل.",
+            "list": [
+              "ساهمت طرق الزراعة الحديثة في زيادة إنتاج الغذاء",
+              "ساعد التقدم الطبي على تقليل وفيات الأطفال بسبب الأمراض",
+              "غادر أكثر من مليون سويدي السويد بين عامي 1850 و1920",
+              "هاجر معظمهم إلى الولايات المتحدة بحثًا عن حياة أفضل"
+            ]
+          },
+          {
+            "title": "3. التصنيع في السويد",
+            "subtitle": "الصناعات الجديدة غيرت العمل والمجتمع",
+            "text": "في منتصف القرن التاسع عشر بدأت الصناعات الكبرى بالظهور في السويد. أدى التصنيع إلى تغيير طريقة العمل وتطور المدن والبنية التحتية.",
+            "list": [
+              "أنتجت المناشر المنتجات الخشبية",
+              "أصبحت صناعات الحديد والصلب مهمة للاقتصاد",
+              "وفرت مصانع النسيج والأحذية العديد من فرص العمل",
+              "تطورت الصناعات الهندسية وساهمت في تحديث المجتمع"
+            ]
+          },
+          {
+            "title": "4. طريق السويد نحو الديمقراطية",
+            "subtitle": "من حكم الملك إلى حكم الشعب",
+            "text": "قبل ظهور الديمقراطية كانت السلطة السياسية بيد الملك والنبلاء والكنيسة والتجار والفلاحين. ومع تغير المجتمع بدأ المزيد من الناس بالمطالبة بالحقوق السياسية.",
+            "list": [
+              "في عام 1809 تم اعتماد دستور جديد حدّ من سلطة الملك",
+              "في عام 1865 تم إدخال نظام جديد للبرلمان",
+              "انخفضت السلطة السياسية القديمة للنبلاء ورجال الدين",
+              "كانت النساء والكثير من الرجال لا يملكون حق التصويت"
+            ]
+          },
+          {
+            "title": "5. أهمية الحركات الشعبية",
+            "subtitle": "منظمات ناضلت من أجل الحقوق الديمقراطية",
+            "text": "ساعدت الحركات الشعبية السويد على التطور نحو الديمقراطية، حيث نظم الناس أنفسهم وطالبوا بتغييرات سياسية واجتماعية.",
+            "list": [
+              "ناضلت الحركة العمالية من أجل ظروف عمل أفضل",
+              "ناضلت الحركة النسائية من أجل حق المرأة في التصويت",
+              "عملت حركة الكنائس الحرة من أجل حرية الدين",
+              "عملت حركة مكافحة الكحول ضد مشاكل الإدمان",
+              "استخدمت الاجتماعات والمظاهرات والصحف للتأثير على المجتمع"
+            ]
+          },
+          {
+            "title": "6. بداية الديمقراطية",
+            "subtitle": "تم إدخال حق التصويت العام والمتساوي في السويد",
+            "text": "في بداية القرن العشرين تم تنفيذ إصلاحات ديمقراطية كبيرة أدت إلى تحول السويد إلى دولة ديمقراطية حيث أصبح لكل من النساء والرجال الحق في التصويت.",
+            "list": [
+              "في عام 1909 حصل معظم الرجال على حق التصويت",
+              "في عام 1918 تم اتخاذ قرار بشأن حق التصويت العام والمتساوي",
+              "في عام 1921 أُجريت أول انتخابات برلمانية شاركت فيها النساء والرجال",
+              "أصبح بإمكان النساء أيضًا أن يصبحن أعضاء في البرلمان",
+              "في عام 1921 أصبحت السويد دولة ديمقراطية"
+            ]
+          },
+          {
+            "title": "7. الحرب العالمية الأولى (1914–1918)",
+            "subtitle": "كانت السويد محايدة لكنها تأثرت بالحرب",
+            "text": "لم تشارك السويد في الحرب العالمية الأولى وحافظت على حيادها. رغم ذلك، تأثرت البلاد بالمشكلات الاقتصادية ونقص السلع المهمة.",
+            "list": [
+              "لم تشارك السويد في الحرب",
+              "عانت البلاد من نقص في الغذاء والسلع الأساسية",
+              "تأثرت حياة العديد من الناس بسبب تدهور الظروف المعيشية",
+              "حدثت احتجاجات ومظاهرات أثناء الحرب"
+            ]
+          },
+          {
+            "title": "8. التحديث وفكرة بيت الشعب (الفولكهمت)",
+            "subtitle": "تغير المجتمع خلال عشرينيات وثلاثينيات القرن العشرين",
+            "text": "خلال فترة ما بين الحربين تطورت السويد من خلال التقدم التقني وتحسن مستوى المعيشة، لكن بقيت هناك مشاكل اجتماعية كبيرة.",
+            "list": [
+              "حصل المزيد من الناس على الكهرباء",
+              "تحسنت المساكن",
+              "تطورت التكنولوجيا بسرعة",
+              "بقيت البطالة مرتفعة",
+              "استمرت الفوارق الطبقية والصراعات بين العمال وأصحاب العمل"
+            ]
+          },
+          {
+            "title": "9. أحداث أودالين 1931",
+            "subtitle": "صراع خطير بين العمال والدولة",
+            "text": "في عام 1931 تظاهر العمال في أودالين. أطلقت القوات العسكرية النار على المتظاهرين وقُتل عدة أشخاص، وأصبحت الحادثة حدثًا مهمًا في التاريخ السويدي.",
+            "list": [
+              "تظاهر العمال للمطالبة بظروف أفضل",
+              "أطلقت القوات العسكرية النار على المتظاهرين",
+              "قُتل عدد من الأشخاص",
+              "أظهرت الحادثة حجم الصراعات في سوق العمل"
+            ]
+          },
+          {
+            "title": "10. النموذج السويدي",
+            "subtitle": "التعاون بين أصحاب العمل والنقابات",
+            "text": "يعتمد النموذج السويدي على تفاوض أصحاب العمل والنقابات حول الأجور وظروف العمل بدلًا من أن تحدد الدولة ذلك بشكل مباشر.",
+            "list": [
+              "في عام 1938 تم توقيع اتفاقية سالتسيو-بادن",
+              "وضعت الاتفاقية أساس النموذج السويدي",
+              "يتفاوض أصحاب العمل والنقابات حول الأجور",
+              "تنظم الاتفاقيات الجماعية ظروف العمل",
+              "لا يحدد السياسيون مستويات الأجور بشكل مباشر"
+            ]
+          },
+          {
+            "title": "11. فكرة بيت الشعب (الفولكهمت)",
+            "subtitle": "مجتمع يشعر فيه الجميع بالأمان",
+            "text": "في عام 1928 قدم زعيم الحزب الاشتراكي الديمقراطي بير ألبين هانسون فكرة بيت الشعب. كانت الفكرة أن تصبح السويد مجتمعًا يستطيع فيه الجميع أن يعيشوا حياة آمنة وجيدة.",
+            "list": [
+              "يجب أن يشعر جميع الناس بالأمان",
+              "يجب أن يحصل الجميع على فرصة لحياة جيدة",
+              "يجب تقليل الفوارق بين الطبقات",
+              "يجب أن يتحمل المجتمع مسؤولية أكبر عن رفاهية الناس"
+            ]
+          },
+          {
+            "title": "12. التاريخ المظلم للسويد",
+            "subtitle": "العنصرية والتمييز والظلم",
+            "text": "كان للسويد الحديثة أيضًا جوانب مظلمة في تاريخها. فقد أثرت الأبحاث العرقية والتمييز على عدة أقليات، كما تعرض بعض الأشخاص للرعاية القسرية.",
+            "list": [
+              "كانت الأبحاث المتعلقة بالعرق موجودة في السويد",
+              "تعرض الساميون والتورنيداليون واليهود والغجر للتمييز",
+              "كان يمكن وضع الأشخاص الذين يعانون من أمراض نفسية أو إعاقات في مؤسسات لفترات طويلة",
+              "حاولت السويد لاحقًا الاعتراف بهذه المظالم وتصحيحها"
+            ]
+          },
+          {
+            "title": "13. الحرب العالمية الثانية (1939–1945)",
+            "subtitle": "كانت السويد محايدة لكنها تأثرت بالحرب",
+            "text": "كانت السويد محايدة خلال الحرب العالمية الثانية، لكنها واجهت مواقف صعبة عندما هاجم الاتحاد السوفيتي فنلندا واحتلت ألمانيا الدنمارك والنرويج.",
+            "list": [
+              "لم تشارك السويد مباشرة في الحرب",
+              "تأثرت البلاد بالحرب التي كانت تدور حولها",
+              "ساعدت السويد الأشخاص الذين فروا من الحرب",
+              "كانت سياسة الحياد جزءًا مهمًا من تاريخ السويد"
+            ]
+          },
+          {
+            "title": "14. مساعدة السويد خلال الهولوكوست",
+            "subtitle": "جهود إنقاذ الناس خلال الحرب العالمية الثانية",
+            "text": "خلال الحرب العالمية الثانية ساعدت السويد العديد من اليهود وغيرهم من الأشخاص الذين كانوا مهددين بسبب اضطهاد النازيين.",
+            "list": [
+              "هرب حوالي 7000 يهودي دنماركي إلى السويد",
+              "ساعد راؤول فالنبرغ اليهود من خلال منحهم جوازات حماية",
+              "أنقذت حافلات الصليب الأحمر البيضاء آلاف الأشخاص من معسكرات الاعتقال",
+              "قدمت السويد مساعدات إنسانية خلال الحرب"
+            ]
+          },
+          {
+            "title": "15. سنوات الازدهار بعد الحرب العالمية الثانية",
+            "subtitle": "تطور اقتصادي سريع وارتفاع مستوى المعيشة",
+            "text": "بعد عام 1945 شهدت السويد تطورًا اقتصاديًا قويًا. وسميت هذه الفترة بسنوات الازدهار بسبب نمو الصناعة وتحسن مستوى معيشة الناس.",
+            "list": [
+              "كانت البطالة منخفضة",
+              "نمت الصناعة السويدية بشكل كبير",
+              "حصل الناس على مستوى معيشة أفضل",
+              "تم تنفيذ إصلاحات اجتماعية كبيرة"
+            ]
+          },
+          {
+            "title": "16. توسع مجتمع الرفاهية",
+            "subtitle": "الأمان من خلال الإصلاحات الاجتماعية",
+            "text": "خلال سنوات الازدهار توسع مجتمع الرفاهية السويدي. أنشأت الدولة أنظمة توفر للناس حماية وأمانًا أكبر في حياتهم.",
+            "list": [
+              "تم تطبيق أسبوع عمل من 40 ساعة",
+              "حصل الناس على المزيد من أيام الإجازة",
+              "تحسنت الرعاية الصحية ورعاية المسنين",
+              "تم تقديم إعانة الأطفال والتأمين الصحي",
+              "تطور نظام التقاعد"
+            ]
+          },
+          {
+            "title": "17. أصبحت السويد بلدًا للهجرة",
+            "subtitle": "هجرة العمال بعد الحرب العالمية الثانية",
+            "text": "بعد الحرب العالمية الثانية تغيرت السويد من بلد كان يهاجر منه الكثير من الناس إلى بلد يستقبل المهاجرين. جاء العديد من المهاجرين للعمل في الصناعة السويدية.",
+            "list": [
+              "جاء العديد من المهاجرين من فنلندا",
+              "جاء آخرون من اليونان ويوغوسلافيا وتركيا",
+              "عمل الكثير منهم في المصانع السويدية",
+              "ساهمت الهجرة في التطور الاقتصادي للسويد"
+            ]
+          },
+          {
+            "title": "18. مشروع المليون (Miljonprogrammet)",
+            "subtitle": "استثمار كبير في بناء مساكن جديدة",
+            "text": "في ستينيات القرن العشرين بدأت الدولة مشروع المليون لبناء مليون مسكن جديد خلال عشر سنوات. كان الهدف هو حل مشكلة نقص المساكن وتوفير بيوت حديثة للناس.",
+            "list": [
+              "كان الهدف بناء مليون مسكن خلال عشر سنوات",
+              "تم إنشاء مناطق سكنية جديدة",
+              "حصل المزيد من الناس على شقق حديثة",
+              "تم بناء مناطق تحتوي على مدارس ومتاجر وخدمات صحية"
+            ]
+          },
+          {
+            "title": "19. المساواة والتغيرات الثقافية",
+            "subtitle": "ظهور مجتمع أكثر مساواة",
+            "text": "خلال القرن العشرين زادت المساواة بين الرجال والنساء في السويد. حصلت النساء على فرص أكبر للعمل والمشاركة في المجتمع.",
+            "list": [
+              "بدأ عدد أكبر من النساء بالعمل",
+              "تم توسيع خدمات رياض الأطفال",
+              "انخفضت الفروقات في الأجور بين الرجال والنساء",
+              "شارك الشباب في قضايا السلام والبيئة والتضامن الدولي",
+              "أصبح استخدام كلمة (أنت) بدل الألقاب أكثر انتشارًا من خلال إصلاح du-reformen"
+            ]
+          },
+          {
+            "title": "20. مجتمع المعلومات والسويد الرقمية",
+            "subtitle": "من المجتمع الصناعي إلى المجتمع عالي التقنية",
+            "text": "منذ سبعينيات القرن العشرين تغيرت السويد بسبب التطور التكنولوجي والعولمة. تحول المجتمع الصناعي إلى مجتمع يعتمد على المعلومات والمعرفة.",
+            "list": [
+              "غيرت أجهزة الكمبيوتر والإنترنت المجتمع",
+              "غيرت الهواتف الذكية طرق التواصل والحياة اليومية",
+              "أثرت الرقمنة على العمل والتعليم والتجارة",
+              "أصبح الذكاء الاصطناعي (AI) جزءًا من المجتمع الرقمي الحديث",
+              "تطورت السويد إلى دولة عالية التقنية"
+            ]
+          }
+        ]
       }
     },
     {
