@@ -2,12 +2,13 @@ import { createUseStyles } from "react-jss";
 import LanguageDropDown from "./LanguageDropDown";
 import { useTranslation } from "../../../translation/context/useTranslation";
 import NavigationPageTranslation from "../../../translation/Translations/NavigationPageTranslation";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
 import { questionArr } from "../../../utilities/Array";
 import { IoClose } from "react-icons/io5";
+import type { RootState } from "../../../Store/store";
 
 const useStyles = createUseStyles({
   mainMobileNavContainer: {
@@ -177,7 +178,8 @@ export default function MobileNavigation({
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const menuRef = useRef<HTMLDivElement>(null);
-  const lang = localStorage.getItem("lang");
+  const { lang } = useSelector((state: RootState) => state.languageSlice);
+  const currentLanguage = lang === "sv" ? "sv" : "ar";
   const [showSubMenu, setShowSubMenu] = useState<ShowSubMenuType>({
     lessonSubMenu: false,
     testSubMenu: false,
@@ -366,7 +368,7 @@ export default function MobileNavigation({
                         closeAllMenus();
                       }}
                     >
-                      {lang === "sv" ? item.sv : item.ar}
+                      {currentLanguage === "sv" ? item.sv : item.ar}
                     </div>
                   ))}
                 </div>

@@ -3,10 +3,11 @@ import { useTranslation } from "../../../translation/context/useTranslation";
 import NavigationPageTranslation from "../../../translation/Translations/NavigationPageTranslation";
 import LanguageDropDown from "./LanguageDropDown";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { questionArr } from "../../../utilities/Array";
 import { useEffect } from "react";
+import type { RootState } from "../../../Store/store";
 
 const useStyles = createUseStyles({
   desktopNavContainer: {
@@ -167,7 +168,8 @@ export default function DesktopNavigation({
   const { t } = useTranslation();
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const lang = localStorage.getItem("lang");
+  const { lang } = useSelector((state: RootState) => state.languageSlice);
+  const currentLanguage = lang === "sv" ? "sv" : "ar";
 
   /* functions */
 
@@ -242,7 +244,7 @@ export default function DesktopNavigation({
                         dispatch(clearAnswers());
                       }}
                     >
-                      {lang === "sv" ? it.sv : it.ar}
+                      {currentLanguage === "sv" ? it.sv : it.ar}
                     </li>
                   );
                 })}
