@@ -169,7 +169,6 @@ export default function DesktopNavigation({
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const { lang } = useSelector((state: RootState) => state.languageSlice);
-  const currentLanguage = lang === "sv" ? "sv" : "ar";
 
   /* functions */
 
@@ -236,6 +235,9 @@ export default function DesktopNavigation({
               <li>{t(NavigationPageTranslation.SubLinkThree)} </li>
               <ul className={classes.desktopNavSubList}>
                 {questionArr.map((it) => {
+                  const currentLanguage =
+                    lang === "sv" ? it.sv : lang === "en" ? it.en : it.ar;
+
                   return (
                     <li
                       key={it.number}
@@ -244,7 +246,7 @@ export default function DesktopNavigation({
                         dispatch(clearAnswers());
                       }}
                     >
-                      {currentLanguage === "sv" ? it.sv : it.ar}
+                      {currentLanguage}
                     </li>
                   );
                 })}
