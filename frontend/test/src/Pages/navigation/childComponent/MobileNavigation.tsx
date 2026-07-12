@@ -179,7 +179,6 @@ export default function MobileNavigation({
   const navigate = useNavigate();
   const menuRef = useRef<HTMLDivElement>(null);
   const { lang } = useSelector((state: RootState) => state.languageSlice);
-  const currentLanguage = lang === "sv" ? "sv" : "ar";
   const [showSubMenu, setShowSubMenu] = useState<ShowSubMenuType>({
     lessonSubMenu: false,
     testSubMenu: false,
@@ -353,24 +352,32 @@ export default function MobileNavigation({
                     showSubMenu.testSubMenuTwo ? classes.showSubmenu : ""
                   }`}
                 >
-                  {questionArr.map((item) => (
-                    <div
-                      key={item.number}
-                      className={classes.subItem}
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        handleNavigateQuestion(item.number);
-                        dispatch(clearAnswers());
-                        setShowSubMenu((prev) => ({
-                          ...prev,
-                          testSubMenuTwo: false,
-                        }));
-                        closeAllMenus();
-                      }}
-                    >
-                      {currentLanguage === "sv" ? item.sv : item.ar}
-                    </div>
-                  ))}
+                  {questionArr.map((item) => {
+                    const currentLanguage =
+                      lang === "sv"
+                        ? item.sv
+                        : lang === "en"
+                          ? item.en
+                          : item.ar;
+                    return (
+                      <div
+                        key={item.number}
+                        className={classes.subItem}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          handleNavigateQuestion(item.number);
+                          dispatch(clearAnswers());
+                          setShowSubMenu((prev) => ({
+                            ...prev,
+                            testSubMenuTwo: false,
+                          }));
+                          closeAllMenus();
+                        }}
+                      >
+                        {currentLanguage}
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             </div>

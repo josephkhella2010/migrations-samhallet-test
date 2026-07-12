@@ -288,47 +288,64 @@ export default function ScorePage() {
       <div className={classes.answers}>
         <h2>{t(ScorePageTranslation.ReviewText)}</h2>
 
-        {userAnswers.map((result, index) => (
-          <div key={index} className={classes.answerCard}>
-            <h3>
-              {lang === "sv" ? result.questionTitle : result.questionTitleAr}
-            </h3>
+        {userAnswers.map((result, index) => {
+          const questionTitle =
+            lang === "sv"
+              ? result.questionTitle
+              : lang === "en"
+                ? result.questionTitleEn
+                : result.questionTitleAr;
 
-            <p>
-              <strong>{t(ScorePageTranslation.YourAnswer)}</strong>{" "}
-              {lang === "sv" ? result.userAnswer : result.userAnswerAr}
-            </p>
+          const resultUserAnswer =
+            lang === "sv"
+              ? result.userAnswer
+              : lang === "en"
+                ? result.userAnswerEn
+                : result.userAnswerAr;
 
-            {result.isCorrect ? (
-              <div className={classes.correctContainer}>
-                <p>{t(ScorePageTranslation.goodJobText)}</p>
-                <p className={classes.correct}>
-                  {t(ScorePageTranslation.CorrectAnswerText)}
-                </p>
-              </div>
-            ) : (
-              <>
-                <div className={classes.wrongContainer}>
-                  <p>{t(ScorePageTranslation.sorryText)}</p>
+          const resultCorrectAnswer =
+            lang === "sv"
+              ? result.correctAnswer
+              : lang === "en"
+                ? result.correctAnswerEn
+                : result.correctAnswerAr;
+          return (
+            <div key={index} className={classes.answerCard}>
+              <h3>{questionTitle}</h3>
 
-                  <p className={classes.wrong}>
-                    {t(ScorePageTranslation.WrongAnswerText)}
+              <p>
+                <strong>{t(ScorePageTranslation.YourAnswer)}</strong>{" "}
+                {resultUserAnswer}
+              </p>
+
+              {result.isCorrect ? (
+                <div className={classes.correctContainer}>
+                  <p>{t(ScorePageTranslation.goodJobText)}</p>
+                  <p className={classes.correct}>
+                    {t(ScorePageTranslation.CorrectAnswerText)}
                   </p>
                 </div>
-                <p>
-                  <strong style={{ color: "green" }}>
-                    {t(ScorePageTranslation.CorrectAnswerTwo)}
-                    {"  "}
-                    {lang === "sv"
-                      ? result.correctAnswer
-                      : result.correctAnswerAr}{" "}
-                    .{" "}
-                  </strong>{" "}
-                </p>
-              </>
-            )}
-          </div>
-        ))}
+              ) : (
+                <>
+                  <div className={classes.wrongContainer}>
+                    <p>{t(ScorePageTranslation.sorryText)}</p>
+
+                    <p className={classes.wrong}>
+                      {t(ScorePageTranslation.WrongAnswerText)}
+                    </p>
+                  </div>
+                  <p>
+                    <strong style={{ color: "green" }}>
+                      {t(ScorePageTranslation.CorrectAnswerTwo)}
+                      {"  "}
+                      {resultCorrectAnswer}.{" "}
+                    </strong>{" "}
+                  </p>
+                </>
+              )}
+            </div>
+          );
+        })}
       </div>
     </div>
   );

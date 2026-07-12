@@ -569,7 +569,8 @@ export default function QuestionDetails() {
   const { id } = useParams();
 
   const { lang } = useSelector((state: RootState) => state.languageSlice);
-  const currentLanguage = lang === "sv" ? "sv" : "ar";
+  const currentLanguage: "sv" | "ar" | "en" =
+    lang === "sv" || lang === "ar" || lang === "en" ? lang : "sv";
 
   const { question } = useSelector((state: RootState) => state.questionsSlice);
 
@@ -614,16 +615,20 @@ export default function QuestionDetails() {
     answerTextSv: string,
     isCorrect: boolean,
     answerTextAr: string,
+    answerTextEn: string,
   ) => {
     dispatch(
       setAnswer({
         index,
         questionTitle: item.question.sv,
         questionTitleAr: item.question.ar,
+        questionTitleEn: item.question.en,
         userAnswer: answerTextSv,
         userAnswerAr: answerTextAr,
+        userAnswerEn: answerTextEn,
         correctAnswer: item.correctAnswerSv,
         correctAnswerAr: item.correctAnswerAr,
+        correctAnswerEn: item.correctAnswerEn,
         isCorrect,
         totalQuestions: questions.length,
         score: isCorrect ? 10 : 0,
@@ -641,7 +646,9 @@ export default function QuestionDetails() {
         <h1 className={classes.lessonTitle}>
           {lang === "sv"
             ? question?.lessonTitle.sv || `Lesson ${id}`
-            : question?.lessonTitle.ar || `Lesson ${id}`}
+            : lang === "ar"
+              ? question?.lessonTitle.ar || `Lesson ${id}`
+              : question?.lessonTitle.en || `Lesson ${id}`}
         </h1>
 
         <div className={classes.questionsWrapperSection}>
@@ -652,7 +659,10 @@ export default function QuestionDetails() {
                 const selected =
                   currentLanguage === "sv"
                     ? selectedAnswer?.userAnswer
-                    : selectedAnswer?.userAnswerAr;
+                    : currentLanguage === "ar"
+                      ? selectedAnswer?.userAnswerAr
+                      : selectedAnswer?.userAnswerEn;
+
                 const showResult = selected !== undefined;
 
                 return (
@@ -674,11 +684,14 @@ export default function QuestionDetails() {
                       const answerText =
                         currentLanguage === "sv"
                           ? answer.textSv
-                          : answer.textAr;
+                          : currentLanguage === "ar"
+                            ? answer.textAr
+                            : answer.textEn;
 
                       const isSelected = selected === answerText;
                       const answerTextSv = answer.textSv;
                       const answerTextAr = answer.textAr;
+                      const answerTextEn = answer.textEn;
 
                       return (
                         <label key={i} className={classes.answer}>
@@ -694,6 +707,7 @@ export default function QuestionDetails() {
                                 answerTextSv,
                                 answer.correct,
                                 answerTextAr,
+                                answerTextEn,
                               )
                             }
                             className={
@@ -739,7 +753,9 @@ export default function QuestionDetails() {
                         Correct Answer:{" "}
                         {currentLanguage === "sv"
                           ? item.correctAnswerSv
-                          : item.correctAnswerAr}
+                          : currentLanguage === "ar"
+                            ? item.correctAnswerAr
+                            : item.correctAnswerEn}
                       </p>
                     )}
                   </div>

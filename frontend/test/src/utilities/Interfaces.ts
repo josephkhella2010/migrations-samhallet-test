@@ -68,6 +68,7 @@ export interface UserAnswerType {
 export interface AnswerQuestionType {
   textSv: string;
   textAr: string;
+  textEn: string;
   correct: boolean;
 }
 
@@ -77,6 +78,7 @@ export interface AnswerQuestionType {
 export interface QuestionTextType {
   sv: string;
   ar: string;
+  en: string;
 }
 
 // =====================
@@ -87,6 +89,7 @@ export interface QuestionInsideType {
   answers: AnswerQuestionType[];
   correctAnswerSv: string;
   correctAnswerAr: string;
+  correctAnswerEn: string;
 }
 
 // =====================
@@ -121,6 +124,9 @@ export interface UserAnswerType {
   questionTitleAr: string;
   userAnswer: string;
   userAnswerAr: string;
+  questionTitleEn: string;
+  userAnswerEn: string;
+  correctAnswerEn: string;
   correctAnswer: string;
   correctAnswerAr: string;
   isCorrect: boolean;
@@ -128,6 +134,7 @@ export interface UserAnswerType {
 export interface LessonTitleType {
   sv: string;
   ar: string;
+  en: string;
 }
 /*  */
 export interface LessonType {
@@ -145,5 +152,6 @@ export type LanguageType = "sv" | "ar" | "en";
 export interface QuestionArrType {
   sv: string;
   ar: string;
+  en: string;
   number: number;
 }

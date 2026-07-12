@@ -185,6 +185,9 @@ const userAnswersSlice = createSlice({
         questionTitleAr,
         userAnswerAr,
         correctAnswerAr,
+         questionTitleEn,
+        userAnswerEn,
+        correctAnswerEn,
       } = action.payload;
 
       state.userAnswers[index] = {
@@ -200,6 +203,9 @@ const userAnswersSlice = createSlice({
         questionTitleAr,
         userAnswerAr,
         correctAnswerAr,
+        questionTitleEn,
+        userAnswerEn,
+        correctAnswerEn,
       };
 
       localStorage.setItem("userAnswers", JSON.stringify(state.userAnswers));
