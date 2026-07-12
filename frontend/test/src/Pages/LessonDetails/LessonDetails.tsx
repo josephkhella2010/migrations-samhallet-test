@@ -95,7 +95,10 @@ export default function LessonDetails() {
   const { lesson } = useSelector((state: RootState) => state.lessonsSlice);
   const dispatch = useDispatch();
   const language = useSelector((state: RootState) => state.languageSlice.lang);
-  const currentLanguage = language === "sv" ? "swedish" : "arabic";
+  // 1. Determine the language key dynamically based on what language is selected
+  const currentLanguage =
+    language === "sv" ? "swedish" : language === "en" ? "english" : "arabic";
+
   const sections = lesson?.sections?.[currentLanguage] ?? [];
   useEffect(() => {
     if (id) {
@@ -107,9 +110,7 @@ export default function LessonDetails() {
     <div className={classes.mainContainer}>
       <div className={classes.container}>
         <h1 className={classes.lessonTitle}>
-          {language === "sv"
-            ? lesson?.lessonTitle.swedish || `Lesson ${id}`
-            : lesson?.lessonTitle.arabic || `Lesson ${id}`}
+          {lesson?.lessonTitle?.[currentLanguage] || `Lesson ${id}`}
         </h1>
 
         {sections?.map((section: SectionInsideType, index: number) => (

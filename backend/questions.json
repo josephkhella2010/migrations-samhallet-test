@@ -11410,10 +11410,1211 @@
     {
       "lessonId": 11,
       "lessonTitle": {
-        "sv": "Kapitel sex: 6- Medier i Sverige",
-        "ar": "الفصل السادس :6- وسائل الإعلام في السويد"
+        "sv": "Kapitel Elva: 11 – Sverige och omvärlden",
+        "ar": "الفصل الحادي عشر: 11 – السويد والعالم الخارجي"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vilka länder ingår i det nordiska samarbetet tillsammans med Sverige?",
+            "ar": "1- ما هي الدول التي تشارك في التعاون الشمالي مع السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Tyskland, Frankrike och Spanien",
+              "textAr": "A. ألمانيا وفرنسا وإسبانيا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Danmark, Finland, Island och Norge",
+              "textAr": "B. الدنمارك وفنلندا وآيسلندا والنرويج",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polen, Estland och Lettland",
+              "textAr": "C. بولندا وإستونيا ولاتفيا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Storbritannien och Irland",
+              "textAr": "D. المملكة المتحدة وأيرلندا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Danmark, Finland, Island och Norge",
+          "correctAnswerAr": "B. الدنمارك وفنلندا وآيسلندا والنرويج"
+        },
+        {
+          "question": {
+            "sv": "2- Genom vilka organisationer sker det nordiska samarbetet främst?",
+            "ar": "2- من خلال أي منظمات يتم التعاون الشمالي بشكل أساسي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. FN och Nato",
+              "textAr": "A. الأمم المتحدة والناتو",
+              "correct": false
+            },
+            {
+              "textSv": "B. EU och Europarådet",
+              "textAr": "B. الاتحاد الأوروبي ومجلس أوروبا",
+              "correct": false
+            },
+            {
+              "textSv": "C. Nordiska rådet och Nordiska ministerrådet",
+              "textAr": "C. المجلس الشمالي ومجلس وزراء الشمال",
+              "correct": true
+            },
+            {
+              "textSv": "D. Sida och Försvarsmakten",
+              "textAr": "D. سيدا والقوات المسلحة السويدية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Nordiska rådet och Nordiska ministerrådet",
+          "correctAnswerAr": "C. المجلس الشمالي ومجلس وزراء الشمال"
+        },
+        {
+          "question": {
+            "sv": "3- Vad är EU?",
+            "ar": "3- ما هو الاتحاد الأوروبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. En militär allians",
+              "textAr": "A. تحالف عسكري",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ett politiskt och ekonomiskt samarbete mellan europeiska länder",
+              "textAr": "B. تعاون سياسي واقتصادي بين الدول الأوروبية",
+              "correct": true
+            },
+            {
+              "textSv": "C. En svensk myndighet",
+              "textAr": "C. هيئة حكومية سويدية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett nordiskt samarbete",
+              "textAr": "D. تعاون بين دول الشمال",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ett politiskt och ekonomiskt samarbete mellan europeiska länder",
+          "correctAnswerAr": "B. تعاون سياسي واقتصادي بين الدول الأوروبية"
+        },
+        {
+          "question": {
+            "sv": "4- Varför bildades EU efter andra världskriget?",
+            "ar": "4- لماذا تم إنشاء الاتحاد الأوروبي بعد الحرب العالمية الثانية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att skapa fler industrier",
+              "textAr": "A. لإنشاء المزيد من الصناعات",
+              "correct": false
+            },
+            {
+              "textSv": "B. För att skapa fred och stabilitet",
+              "textAr": "B. لتحقيق السلام والاستقرار",
+              "correct": true
+            },
+            {
+              "textSv": "C. För att avskaffa demokratin",
+              "textAr": "C. لإلغاء الديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att bilda en europeisk armé",
+              "textAr": "D. لتشكيل جيش أوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. För att skapa fred och stabilitet",
+          "correctAnswerAr": "B. لتحقيق السلام والاستقرار"
+        },
+        {
+          "question": {
+            "sv": "5- När blev Sverige medlem i EU?",
+            "ar": "5- متى أصبحت السويد عضواً في الاتحاد الأوروبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1949",
+              "textAr": "A. 1949",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1991",
+              "textAr": "B. 1991",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1995",
+              "textAr": "C. 1995",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2024",
+              "textAr": "D. 2024",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1995",
+          "correctAnswerAr": "C. 1995"
+        },
+        {
+          "question": {
+            "sv": "6- Inom vilket område samarbetar EU-länderna?",
+            "ar": "6- في أي مجالات تتعاون دول الاتحاد الأوروبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Jordbruk",
+              "textAr": "A. الزراعة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Miljö",
+              "textAr": "B. البيئة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Handel",
+              "textAr": "C. التجارة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Alla ovanstående",
+              "textAr": "D. جميع ما سبق",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Alla ovanstående",
+          "correctAnswerAr": "D. جميع ما سبق"
+        },
+        {
+          "question": {
+            "sv": "7- Vad kallas möjligheten att arbeta och studera i andra EU-länder?",
+            "ar": "7- ماذا تسمى إمكانية العمل والدراسة في دول أخرى داخل الاتحاد الأوروبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Neutralitet",
+              "textAr": "A. الحياد",
+              "correct": false
+            },
+            {
+              "textSv": "B. De fyra friheterna",
+              "textAr": "B. الحريات الأربع",
+              "correct": true
+            },
+            {
+              "textSv": "C. Värnplikt",
+              "textAr": "C. الخدمة العسكرية الإلزامية",
+              "correct": false
+            },
+            {
+              "textSv": "D. Totalförsvar",
+              "textAr": "D. الدفاع الشامل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. De fyra friheterna",
+          "correctAnswerAr": "B. الحريات الأربع"
+        },
+        {
+          "question": {
+            "sv": "8- Hur många friheter finns inom EU:s inre marknad?",
+            "ar": "8- كم عدد الحريات الموجودة في السوق الداخلية للاتحاد الأوروبي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Två",
+              "textAr": "A. اثنتان",
+              "correct": false
+            },
+            {
+              "textSv": "B. Tre",
+              "textAr": "B. ثلاث",
+              "correct": false
+            },
+            {
+              "textSv": "C. Fyra",
+              "textAr": "C. أربع",
+              "correct": true
+            },
+            {
+              "textSv": "D. Fem",
+              "textAr": "D. خمس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Fyra",
+          "correctAnswerAr": "C. أربع"
+        },
+        {
+          "question": {
+            "sv": "9- Vilken organisation arbetar för mänskliga rättigheter och demokrati i Europa?",
+            "ar": "9- أي منظمة تعمل من أجل حقوق الإنسان والديمقراطية في أوروبا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Nato",
+              "textAr": "A. الناتو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Europarådet",
+              "textAr": "B. مجلس أوروبا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Sida",
+              "textAr": "C. سيدا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Nordiska rådet",
+              "textAr": "D. المجلس الشمالي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Europarådet",
+          "correctAnswerAr": "B. مجلس أوروبا"
+        },
+        {
+          "question": {
+            "sv": "10- När bildades Europarådet?",
+            "ar": "10- متى تأسس مجلس أوروبا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1945",
+              "textAr": "A. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1946",
+              "textAr": "B. 1946",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1949",
+              "textAr": "C. 1949",
+              "correct": true
+            },
+            {
+              "textSv": "D. 1995",
+              "textAr": "D. 1995",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1949",
+          "correctAnswerAr": "C. 1949"
+        },
+        {
+          "question": {
+            "sv": "11- Vad heter domstolen som arbetar med mänskliga rättigheter i Europa?",
+            "ar": "11- ما اسم المحكمة التي تعمل في مجال حقوق الإنسان في أوروبا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Högsta domstolen",
+              "textAr": "A. المحكمة العليا",
+              "correct": false
+            },
+            {
+              "textSv": "B. Europadomstolen",
+              "textAr": "B. المحكمة الأوروبية لحقوق الإنسان",
+              "correct": true
+            },
+            {
+              "textSv": "C. EU-domstolen",
+              "textAr": "C. محكمة الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Förvaltningsrätten",
+              "textAr": "D. المحكمة الإدارية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Europadomstolen",
+          "correctAnswerAr": "B. المحكمة الأوروبية لحقوق الإنسان"
+        },
+        {
+          "question": {
+            "sv": "12- Vad står FN för?",
+            "ar": "12- ماذا تعني اختصار FN؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Förenta nationerna",
+              "textAr": "A. الأمم المتحدة",
+              "correct": true
+            },
+            {
+              "textSv": "B. Förenade Norden",
+              "textAr": "B. دول الشمال المتحدة",
+              "correct": false
+            },
+            {
+              "textSv": "C. Försvarets nätverk",
+              "textAr": "C. شبكة الدفاع",
+              "correct": false
+            },
+            {
+              "textSv": "D. Folkens nationer",
+              "textAr": "D. أمم الشعوب",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Förenta nationerna",
+          "correctAnswerAr": "A. الأمم المتحدة"
+        },
+        {
+          "question": {
+            "sv": "13- När grundades FN?",
+            "ar": "13- متى تأسست الأمم المتحدة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1918",
+              "textAr": "A. 1918",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1946",
+              "textAr": "B. 1946",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1949",
+              "textAr": "C. 1949",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1991",
+              "textAr": "D. 1991",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1946",
+          "correctAnswerAr": "B. 1946"
+        },
+        {
+          "question": {
+            "sv": "14- Vad är ett av FN:s viktigaste mål?",
+            "ar": "14- ما أحد أهم أهداف الأمم المتحدة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att skapa fler länder",
+              "textAr": "A. إنشاء المزيد من الدول",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att bevara fred och säkerhet",
+              "textAr": "B. الحفاظ على السلام والأمن",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att kontrollera världsekonomin",
+              "textAr": "C. السيطرة على الاقتصاد العالمي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att styra EU",
+              "textAr": "D. إدارة الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att bevara fred och säkerhet",
+          "correctAnswerAr": "B. الحفاظ على السلام والأمن"
+        },
+        {
+          "question": {
+            "sv": "15- Vilken svensk myndighet arbetar med internationellt bistånd?",
+            "ar": "15- ما هي الهيئة السويدية التي تعمل في مجال المساعدات الدولية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sida",
+              "textAr": "B. سيدا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Migrationsverket",
+              "textAr": "C. مصلحة الهجرة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Försäkringskassan",
+              "textAr": "D. صندوق التأمينات الاجتماعية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sida",
+          "correctAnswerAr": "B. سيدا"
+        },
+        {
+          "question": {
+            "sv": "16- Vad arbetar Sida för?",
+            "ar": "16- ما الهدف الذي تعمل من أجله سيدا؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ökad militär styrka",
+              "textAr": "A. زيادة القوة العسكرية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Minskad fattigdom och förtryck",
+              "textAr": "B. الحد من الفقر والاضطهاد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Högre skatter",
+              "textAr": "C. ضرائب أعلى",
+              "correct": false
+            },
+            {
+              "textSv": "D. Fler kommuner",
+              "textAr": "D. المزيد من البلديات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Minskad fattigdom och förtryck",
+          "correctAnswerAr": "B. الحد من الفقر والاضطهاد"
+        },
+        {
+          "question": {
+            "sv": "17- När förde Sverige senast krig mot en annan stat?",
+            "ar": "17- متى خاضت السويد آخر حرب ضد دولة أخرى؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. På 1900-talet",
+              "textAr": "A. في القرن العشرين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Under andra världskriget",
+              "textAr": "B. خلال الحرب العالمية الثانية",
+              "correct": false
+            },
+            {
+              "textSv": "C. I början av 1800-talet",
+              "textAr": "C. في بداية القرن التاسع عشر",
+              "correct": true
+            },
+            {
+              "textSv": "D. År 2022",
+              "textAr": "D. عام 2022",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. I början av 1800-talet",
+          "correctAnswerAr": "C. في بداية القرن التاسع عشر"
+        },
+        {
+          "question": {
+            "sv": "18- Vilket land förlorade Sverige till Ryssland 1809?",
+            "ar": "18- أي دولة خسرتها السويد لصالح روسيا عام 1809؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Norge",
+              "textAr": "A. النرويج",
+              "correct": false
+            },
+            {
+              "textSv": "B. Danmark",
+              "textAr": "B. الدنمارك",
+              "correct": false
+            },
+            {
+              "textSv": "C. Finland",
+              "textAr": "C. فنلندا",
+              "correct": true
+            },
+            {
+              "textSv": "D. Island",
+              "textAr": "D. آيسلندا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Finland",
+          "correctAnswerAr": "C. فنلندا"
+        },
+        {
+          "question": {
+            "sv": "19- Hur länge hade Finland varit en del av Sverige?",
+            "ar": "19- كم من الوقت كانت فنلندا جزءاً من السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 100 år",
+              "textAr": "A. 100 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. 300 år",
+              "textAr": "B. 300 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "C. 500 år",
+              "textAr": "C. 500 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "D. Nästan 700 år",
+              "textAr": "D. ما يقارب 700 سنة",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. Nästan 700 år",
+          "correctAnswerAr": "D. ما يقارب 700 سنة"
+        },
+        {
+          "question": {
+            "sv": "20- När blev Norge självständigt från unionen med Sverige?",
+            "ar": "20- متى أصبحت النرويج مستقلة عن الاتحاد مع السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1814",
+              "textAr": "A. 1814",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1905",
+              "textAr": "B. 1905",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1945",
+              "textAr": "C. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1995",
+              "textAr": "D. 1995",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1905",
+          "correctAnswerAr": "B. 1905"
+        },
+        {
+          "question": {
+            "sv": "21- Vad var kalla kriget?",
+            "ar": "21- ما هي الحرب الباردة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett krig mellan Sverige och Norge",
+              "textAr": "A. حرب بين السويد والنرويج",
+              "correct": false
+            },
+            {
+              "textSv": "B. En konflikt mellan västblocket och östblocket",
+              "textAr": "B. صراع بين المعسكر الغربي والمعسكر الشرقي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett inbördeskrig i Europa",
+              "textAr": "C. حرب أهلية في أوروبا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett handelskrig",
+              "textAr": "D. حرب تجارية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En konflikt mellan västblocket och östblocket",
+          "correctAnswerAr": "B. صراع بين المعسكر الغربي والمعسكر الشرقي"
+        },
+        {
+          "question": {
+            "sv": "22- Vilket land ledde västblocket under kalla kriget?",
+            "ar": "22- أي دولة قادت المعسكر الغربي خلال الحرب الباردة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverige",
+              "textAr": "A. السويد",
+              "correct": false
+            },
+            {
+              "textSv": "B. Frankrike",
+              "textAr": "B. فرنسا",
+              "correct": false
+            },
+            {
+              "textSv": "C. USA",
+              "textAr": "C. الولايات المتحدة الأمريكية",
+              "correct": true
+            },
+            {
+              "textSv": "D. Storbritannien",
+              "textAr": "D. المملكة المتحدة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. USA",
+          "correctAnswerAr": "C. الولايات المتحدة الأمريكية"
+        },
+        {
+          "question": {
+            "sv": "23- Vilket land ledde östblocket?",
+            "ar": "23- أي دولة قادت المعسكر الشرقي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kina",
+              "textAr": "A. الصين",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sovjetunionen",
+              "textAr": "B. الاتحاد السوفيتي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polen",
+              "textAr": "C. بولندا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Tyskland",
+              "textAr": "D. ألمانيا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sovjetunionen",
+          "correctAnswerAr": "B. الاتحاد السوفيتي"
+        },
+        {
+          "question": {
+            "sv": "24- Vilken säkerhetspolitik hade Sverige under kalla kriget?",
+            "ar": "24- ما هي السياسة الأمنية التي اتبعتها السويد خلال الحرب الباردة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Medlemskap i Nato",
+              "textAr": "A. العضوية في الناتو",
+              "correct": false
+            },
+            {
+              "textSv": "B. Neutralitet",
+              "textAr": "B. الحياد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Medlemskap i Warszawapakten",
+              "textAr": "C. العضوية في حلف وارسو",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ingen försvarspolitik",
+              "textAr": "D. عدم وجود سياسة دفاعية",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Neutralitet",
+          "correctAnswerAr": "B. الحياد"
+        },
+        {
+          "question": {
+            "sv": "25- När föll Sovjetunionen?",
+            "ar": "25- متى سقط الاتحاد السوفيتي؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1945",
+              "textAr": "A. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1976",
+              "textAr": "B. 1976",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1991",
+              "textAr": "C. 1991",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2024",
+              "textAr": "D. 2024",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1991",
+          "correctAnswerAr": "C. 1991"
+        },
+        {
+          "question": {
+            "sv": "26- Vad hände med Europas säkerhetsläge år 2022?",
+            "ar": "26- ماذا حدث للوضع الأمني في أوروبا عام 2022؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. EU upplöstes",
+              "textAr": "A. تم حل الاتحاد الأوروبي",
+              "correct": false
+            },
+            {
+              "textSv": "B. Ryssland angrep Ukraina",
+              "textAr": "B. هاجمت روسيا أوكرانيا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Nato upplöstes",
+              "textAr": "C. تم حل الناتو",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sverige lämnade EU",
+              "textAr": "D. غادرت السويد الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Ryssland angrep Ukraina",
+          "correctAnswerAr": "B. هاجمت روسيا أوكرانيا"
+        },
+        {
+          "question": {
+            "sv": "27- Vilka två länder ansökte nästan samtidigt om medlemskap i Nato?",
+            "ar": "27- ما هما الدولتان اللتان تقدمتا بطلب الانضمام إلى الناتو في وقت متقارب؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverige och Danmark",
+              "textAr": "A. السويد والدنمارك",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sverige och Finland",
+              "textAr": "B. السويد وفنلندا",
+              "correct": true
+            },
+            {
+              "textSv": "C. Norge och Island",
+              "textAr": "C. النرويج وآيسلندا",
+              "correct": false
+            },
+            {
+              "textSv": "D. Finland och Estland",
+              "textAr": "D. فنلندا وإستونيا",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Sverige och Finland",
+          "correctAnswerAr": "B. السويد وفنلندا"
+        },
+        {
+          "question": {
+            "sv": "28- När blev Sverige medlem i Nato?",
+            "ar": "28- متى أصبحت السويد عضواً في الناتو؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1995",
+              "textAr": "A. 1995",
+              "correct": false
+            },
+            {
+              "textSv": "B. 2022",
+              "textAr": "B. 2022",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2023",
+              "textAr": "C. 2023",
+              "correct": false
+            },
+            {
+              "textSv": "D. 2024",
+              "textAr": "D. 2024",
+              "correct": true
+            }
+          ],
+          "correctAnswerSv": "D. 2024",
+          "correctAnswerAr": "D. 2024"
+        },
+        {
+          "question": {
+            "sv": "29- Vad är Nato?",
+            "ar": "29- ما هو حلف الناتو؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ett ekonomiskt samarbete",
+              "textAr": "A. تعاون اقتصادي",
+              "correct": false
+            },
+            {
+              "textSv": "B. En försvarsallians",
+              "textAr": "B. تحالف دفاعي",
+              "correct": true
+            },
+            {
+              "textSv": "C. Ett nordiskt råd",
+              "textAr": "C. مجلس شمالي",
+              "correct": false
+            },
+            {
+              "textSv": "D. En biståndsorganisation",
+              "textAr": "D. منظمة للمساعدات",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. En försvarsallians",
+          "correctAnswerAr": "B. تحالف دفاعي"
+        },
+        {
+          "question": {
+            "sv": "30- Vad kallas skyldigheten att hjälpa till att försvara Sverige?",
+            "ar": "30- ماذا يسمى واجب المساهمة في الدفاع عن السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Rösträtt",
+              "textAr": "A. حق التصويت",
+              "correct": false
+            },
+            {
+              "textSv": "B. Totalförsvarsplikt",
+              "textAr": "B. واجب الدفاع الشامل",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatteplikt",
+              "textAr": "C. واجب دفع الضرائب",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsplikt",
+              "textAr": "D. واجب العمل",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Totalförsvarsplikt",
+          "correctAnswerAr": "B. واجب الدفاع الشامل"
+        },
+        {
+          "question": {
+            "sv": "31- Vilka kan omfattas av totalförsvarsplikt?",
+            "ar": "31- من يمكن أن يشملهم واجب الدفاع الشامل؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast svenska medborgare över 18 år",
+              "textAr": "A. فقط المواطنين السويديين فوق 18 سنة",
+              "correct": false
+            },
+            {
+              "textSv": "B. Alla mellan 16 och 70 år som bor i Sverige",
+              "textAr": "B. جميع الأشخاص بين 16 و70 سنة الذين يعيشون في السويد",
+              "correct": true
+            },
+            {
+              "textSv": "C. Endast män",
+              "textAr": "C. الرجال فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast militärer",
+              "textAr": "D. العسكريون فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Alla mellan 16 och 70 år som bor i Sverige",
+          "correctAnswerAr": "B. جميع الأشخاص بين 16 و70 سنة الذين يعيشون في السويد"
+        },
+        {
+          "question": {
+            "sv": "32- Vilka delar ingår i det militära försvaret?",
+            "ar": "32- ما هي أجزاء الدفاع العسكري؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Armén, marinen och flygvapnet",
+              "textAr": "A. الجيش والبحرية والقوات الجوية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen och domstolarna",
+              "textAr": "B. الشرطة والمحاكم",
+              "correct": false
+            },
+            {
+              "textSv": "C. Kommunerna och regionerna",
+              "textAr": "C. البلديات والمناطق",
+              "correct": false
+            },
+            {
+              "textSv": "D. Sida och FN",
+              "textAr": "D. سيدا والأمم المتحدة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Armén, marinen och flygvapnet",
+          "correctAnswerAr": "A. الجيش والبحرية والقوات الجوية"
+        },
+        {
+          "question": {
+            "sv": "33- Vad är Försvarsmaktens viktigaste uppgift?",
+            "ar": "33- ما هي أهم مهمة للقوات المسلحة السويدية؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att bygga bostäder",
+              "textAr": "A. بناء المساكن",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att skydda Sveriges territorium och självständighet",
+              "textAr": "B. حماية أراضي السويد واستقلالها",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att ta fram lagar",
+              "textAr": "C. وضع القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att driva skolor",
+              "textAr": "D. إدارة المدارس",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att skydda Sveriges territorium och självständighet",
+          "correctAnswerAr": "B. حماية أراضي السويد واستقلالها"
+        },
+        {
+          "question": {
+            "sv": "34- Vem omfattas av den allmänna värnplikten?",
+            "ar": "34- من يشمله التجنيد العام؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Endast män",
+              "textAr": "A. الرجال فقط",
+              "correct": false
+            },
+            {
+              "textSv": "B. Endast kvinnor",
+              "textAr": "B. النساء فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla män och kvinnor som fyllt 18 år",
+              "textAr": "C. جميع الرجال والنساء الذين أتموا 18 سنة",
+              "correct": true
+            },
+            {
+              "textSv": "D. Alla över 70 år",
+              "textAr": "D. جميع من هم فوق 70 سنة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Alla män och kvinnor som fyllt 18 år",
+          "correctAnswerAr": "C. جميع الرجال والنساء الذين أتموا 18 سنة"
+        },
+        {
+          "question": {
+            "sv": "35- Måste alla som fyller 18 år göra militär utbildning?",
+            "ar": "35- هل يجب على جميع من يبلغون 18 سنة القيام بتدريب عسكري؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Ja",
+              "textAr": "A. نعم",
+              "correct": false
+            },
+            {
+              "textSv": "B. Nej, endast vissa väljs ut",
+              "textAr": "B. لا، يتم اختيار بعض الأشخاص فقط",
+              "correct": true
+            },
+            {
+              "textSv": "C. Endast kvinnor",
+              "textAr": "C. النساء فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast personer födda i Sverige",
+              "textAr": "D. فقط الأشخاص المولودون في السويد",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Nej, endast vissa väljs ut",
+          "correctAnswerAr": "B. لا، يتم اختيار بعض الأشخاص فقط"
+        },
+        {
+          "question": {
+            "sv": "36- Vad är det civila försvarets uppgift?",
+            "ar": "36- ما هي مهمة الدفاع المدني؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att delta i internationella krig",
+              "textAr": "A. المشاركة في الحروب الدولية",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att se till att viktiga samhällsfunktioner fungerar vid kris eller krig",
+              "textAr": "B. ضمان عمل الوظائف المهمة في المجتمع أثناء الأزمات أو الحرب",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att bestämma lagar",
+              "textAr": "C. تحديد القوانين",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att kontrollera EU",
+              "textAr": "D. مراقبة الاتحاد الأوروبي",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att se till att viktiga samhällsfunktioner fungerar vid kris eller krig",
+          "correctAnswerAr": "B. ضمان عمل الوظائف المهمة في المجتمع أثناء الأزمات أو الحرب"
+        },
+        {
+          "question": {
+            "sv": "37- Vilken verksamhet ingår i det civila försvaret?",
+            "ar": "37- ما هي الأنشطة التي تدخل ضمن الدفاع المدني؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skolor och sjukvård",
+              "textAr": "A. المدارس والرعاية الصحية",
+              "correct": true
+            },
+            {
+              "textSv": "B. Endast militära baser",
+              "textAr": "B. القواعد العسكرية فقط",
+              "correct": false
+            },
+            {
+              "textSv": "C. Endast polisarbete",
+              "textAr": "C. عمل الشرطة فقط",
+              "correct": false
+            },
+            {
+              "textSv": "D. Endast transporter",
+              "textAr": "D. النقل فقط",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skolor och sjukvård",
+          "correctAnswerAr": "A. المدارس والرعاية الصحية"
+        },
+        {
+          "question": {
+            "sv": "38- Vad är ett viktigt mål med Sveriges försvar?",
+            "ar": "38- ما هو هدف مهم من أهداف دفاع السويد؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att starta krig",
+              "textAr": "A. بدء الحروب",
+              "correct": false
+            },
+            {
+              "textSv": "B. Att öka motståndskraften och avskräcka angripare",
+              "textAr": "B. زيادة القدرة على المقاومة وردع المهاجمين",
+              "correct": true
+            },
+            {
+              "textSv": "C. Att lämna internationellt samarbete",
+              "textAr": "C. ترك التعاون الدولي",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att minska utbildningen",
+              "textAr": "D. تقليل التعليم",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Att öka motståndskraften och avskräcka angripare",
+          "correctAnswerAr": "B. زيادة القدرة على المقاومة وردع المهاجمين"
+        },
+        {
+          "question": {
+            "sv": "39- Varför samarbetar Sverige med andra länder?",
+            "ar": "39- لماذا تتعاون السويد مع الدول الأخرى؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. För att bli svagare",
+              "textAr": "A. لكي تصبح أضعف",
+              "correct": false
+            },
+            {
+              "textSv": "B. För att skapa fred, säkerhet och utveckling",
+              "textAr": "B. لتحقيق السلام والأمن والتنمية",
+              "correct": true
+            },
+            {
+              "textSv": "C. För att avskaffa demokratin",
+              "textAr": "C. لإلغاء الديمقراطية",
+              "correct": false
+            },
+            {
+              "textSv": "D. För att minska handeln",
+              "textAr": "D. لتقليل التجارة",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. För att skapa fred, säkerhet och utveckling",
+          "correctAnswerAr": "B. لتحقيق السلام والأمن والتنمية"
+        },
+        {
+          "question": {
+            "sv": "40- Vilket påstående är korrekt?",
+            "ar": "40- أي عبارة صحيحة؟"
+          },
+          "answers": [
+            {
+              "textSv": "A. Sverige gick med i Nato före EU.",
+              "textAr": "A. انضمت السويد إلى الناتو قبل الاتحاد الأوروبي.",
+              "correct": false
+            },
+            {
+              "textSv": "B. Sverige är inte medlem i FN.",
+              "textAr": "B. السويد ليست عضواً في الأمم المتحدة.",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige blev medlem i EU 1995 och Nato 2024.",
+              "textAr": "C. أصبحت السويد عضواً في الاتحاد الأوروبي عام 1995 والناتو عام 2024.",
+              "correct": true
+            },
+            {
+              "textSv": "D. Sverige har aldrig samarbetat med andra länder.",
+              "textAr": "D. السويد لم تتعاون أبداً مع دول أخرى.",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sverige blev medlem i EU 1995 och Nato 2024.",
+          "correctAnswerAr": "C. أصبحت السويد عضواً في الاتحاد الأوروبي عام 1995 والناتو عام 2024."
+        }
+      ]
     },
     {
       "lessonId": 12,

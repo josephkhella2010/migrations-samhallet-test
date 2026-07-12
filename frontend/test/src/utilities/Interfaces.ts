@@ -12,10 +12,12 @@ export interface SectionInsideType {
 export interface LessonTitleType {
   swedish: string;
   arabic: string;
+  english: string;
 }
 export interface SectionsType {
   swedish: SectionInsideType[];
   arabic: SectionInsideType[];
+  english: SectionInsideType[];
 }
 /*  
 
@@ -139,8 +141,7 @@ export interface LanguageDropDownType {
   title: string;
   url: string;
 }
-export type LanguageType = "sv" | "ar";
-
+export type LanguageType = "sv" | "ar" | "en";
 export interface QuestionArrType {
   sv: string;
   ar: string;

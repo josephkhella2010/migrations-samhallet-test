@@ -3,8 +3,9 @@
     {
       "lessonId": 1,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 1- Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel Ett: 1- Landet Sverige",
+        "arabic": "الفصل الأول: 1- دولة السويد",
+        "english": "Chapter One: 1- The Kingdom of Sweden"
       },
       "sections": {
         "swedish": [
@@ -515,14 +516,280 @@
               "المشاركة في العمل السياسي"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. Geography",
+            "subtitle": "Where is Sweden located?",
+            "text": "Sweden is located in the Nordic region, which is part of Northern Europe.\nThe Nordic region consists of five countries:",
+            "list": ["Sweden", "Norway", "Denmark", "Finland", "Iceland"],
+            "text2": "Sweden is the largest country in the Nordic region."
+          },
+          {
+            "title": "The Length of Sweden",
+            "subtitle": "",
+            "text": "Sweden is a long and extended country.\nIt stretches from Treriksröset (the northernmost point) to Smygehuk (the southernmost point) for a distance of approximately 1,600 kilometers.\nThe northern part of Sweden lies north of the Arctic Circle, meaning it belongs to the Arctic region."
+          },
+          {
+            "title": "Sweden's Seas",
+            "subtitle": "",
+            "text": "Sweden has a very long coastline.\nThe East Coast\nThe Baltic Sea\nThe two largest islands in Sweden are located in the Baltic Sea:",
+            "list": ["Gotland", "Öland"],
+            "text2": "The West Coast\nSkagerrak\nKattegat"
+          },
+          {
+            "title": "2. Sweden's Climate",
+            "subtitle": "",
+            "text": "Although Sweden is located far north, its climate is milder than many other countries on the same latitude.\nWhy?\nThis is due to two ocean currents:",
+            "list": ["The Gulf Stream", "The North Atlantic Current"],
+            "text2": "They transport warm water from the Gulf of Mexico across the Atlantic Ocean to Europe.\nThe warm water works to:",
+            "list2": [
+              "Warm the air",
+              "The winds carry the warm and humid air to Sweden"
+            ],
+            "text3": "Therefore, winters are milder than they would normally be."
+          },
+          {
+            "title": "3. Sweden's Nature",
+            "subtitle": "The Ice Age",
+            "text": "About 10,000 years ago, Sweden was covered by ice sheets several kilometers thick.\nThis period is called the Ice Age.\nWhen the ice melted, the following were formed:",
+            "list": [
+              "Thousands of lakes",
+              "Archipelagos",
+              "Arable plains",
+              "Current mountains"
+            ],
+            "text2": "The Ice Age shaped Sweden's terrain as we know it today."
+          },
+          {
+            "title": "4. Mountains",
+            "subtitle": "",
+            "text": "The Scandes mountain range lies along the border with Norway.\nThey are often known simply as the mountains.\nThere:",
+            "list": [
+              "The climate is cold",
+              "The winds are strong",
+              "Trees cannot grow"
+            ],
+            "text2": "The nature there mainly consists of:",
+            "list2": ["Rocks", "Grasses", "Short plants"],
+            "text3": "There is also the highest mountain in Sweden:\nKebnekaise\nWith a height of approximately 2,000 meters."
+          },
+          {
+            "title": "5. Forests",
+            "subtitle": "",
+            "text": "More than half of Sweden's area is covered by forests.\nIn northern Sweden\nAnd due to the cold climate, the following mainly grow:",
+            "list": ["Spruce tree", "Pine tree"],
+            "text2": "These trees are called coniferous trees.\nIn southern Sweden\nThe climate is milder.\nThere, the following grow abundantly:",
+            "list2": ["Oak", "Birch", "Beech"],
+            "text3": "These are called deciduous trees."
+          },
+          {
+            "title": "6. Lakes",
+            "subtitle": "",
+            "text": "There is a very large number of lakes in Sweden.\nThe three largest lakes are:",
+            "list": ["Vänern", "Vättern", "Mälaren"],
+            "text2": "Lakes are used in several fields, including:",
+            "list2": [
+              "Drinking water",
+              "Fishing",
+              "Transportation",
+              "Recreation"
+            ]
+          },
+          {
+            "title": "7. Rivers and Waterways",
+            "subtitle": "",
+            "text": "There are hundreds of rivers and streams in Sweden.",
+            "list": ["Rivers", "Streams"],
+            "text2": "The largest rivers start from the mountains in northern Sweden and head toward the sea.\nThey are used for:",
+            "list2": ["Hydropower", "Electricity production"]
+          },
+          {
+            "title": "8. Archipelagos",
+            "subtitle": "",
+            "text": "An archipelago is an area comprising many islands close to the coast.\nArchipelagos in Sweden are found:",
+            "list": [
+              "On the East Coast",
+              "On the coast of northern Sweden",
+              "By Småland",
+              "Outside Gothenburg",
+              "In Bohuslän"
+            ],
+            "text2": "There are about 250,000 islands in Sweden.\nThis is the largest number of islands of any country in the world."
+          },
+          {
+            "title": "9. Geographical Division of Sweden",
+            "subtitle": "The Three Lands",
+            "text": "",
+            "list": [
+              "Götaland",
+              "Southern Sweden",
+              "Svealand",
+              "Central Sweden",
+              "Norrland",
+              "Northern Sweden"
+            ],
+            "text2": "Norrland covers more than half of Sweden's area."
+          },
+          {
+            "title": "Historical Provinces",
+            "subtitle": "",
+            "text": "Sweden comprises 25 historical provinces.\nIn the past, each province had its own laws.\nToday, they are no longer used for governing the country.\nHowever, many people still feel a strong sense of belonging to their province."
+          },
+          {
+            "title": "Counties",
+            "subtitle": "",
+            "text": "Sweden comprises 21 counties.\nCounties are used by the state and regions for administrative purposes."
+          },
+          {
+            "title": "Municipalities",
+            "subtitle": "",
+            "text": "There are 290 municipalities in Sweden.\nMunicipalities are responsible for several services, including:",
+            "list": [
+              "Schools",
+              "Elderly care",
+              "Social services",
+              "Water",
+              "Sanitation",
+              "Waste collection"
+            ]
+          },
+          {
+            "title": "10. Population",
+            "subtitle": "",
+            "text": "The population of Sweden is about 11 million people.\nThe population is unevenly distributed.\nMost of them live:",
+            "list": ["In southern Sweden", "Along the coastlines"],
+            "text2": "About 85% of the population lives in cities."
+          },
+          {
+            "title": "The Three Largest Cities",
+            "subtitle": "",
+            "text": "",
+            "list": ["Stockholm", "Gothenburg", "Malmö"],
+            "text2": "About 4 million people live in these three cities and their suburbs."
+          },
+          {
+            "title": "11. Natural Resources",
+            "subtitle": "",
+            "text": "Sweden is characterized by its richness in natural resources.\nThe most important are:",
+            "list": [
+              "Iron ore",
+              "Other minerals",
+              "Forests",
+              "Water",
+              "Agricultural lands"
+            ]
+          },
+          {
+            "title": "12. Iron Ore and Minerals",
+            "subtitle": "",
+            "text": "Minerals are extracted from mines.\nThe largest mines are located in Norrbotten County.\nExamples include:",
+            "list": ["Kiruna", "Malmberget"],
+            "text2": "Extracted from the mines are:",
+            "list2": ["Iron ore", "Copper", "Zinc", "Lead", "Gold"],
+            "text3": "Iron is used in the steel industry.\nThe iron and steel industry has been one of the most important pillars of the Swedish economy for a long time.\nIron ore is transported from the mines by trains."
+          },
+          {
+            "title": "13. Water",
+            "subtitle": "",
+            "text": "Sweden enjoys a great abundance of water.\nWater is used for:",
+            "list": ["Drinking water", "Agriculture", "Industry"],
+            "text2": "Water is also used in electricity production.\nIn hydropower plants, running water is used to generate electricity.\nHydropower accounts for a large part of electricity production in Sweden."
+          },
+          {
+            "title": "14. Agriculture",
+            "subtitle": "",
+            "text": "Agriculture adapts to the climate.\nIn northern Sweden, the climate is colder.\nFor this reason, there is less agriculture there.\nMost agriculture is found in southern Sweden."
+          },
+          {
+            "title": "15. Forestry Industry",
+            "subtitle": "",
+            "text": "Forests are one of the most important natural resources in Sweden.\nForest products are exported to many countries.\nImportant products include:",
+            "list": ["Cellulose", "Paper", "Cardboard", "Wood"],
+            "text2": "The forestry industry is one of the most important industries in Sweden."
+          },
+          {
+            "title": "16. Climate Change",
+            "subtitle": "",
+            "text": "Earth's climate has always changed throughout history.\nToday, warming is occurring at a faster pace than before.\nAccording to researchers and the UN Intergovernmental Panel on Climate Change (IPCC), the main cause is greenhouse gas emissions resulting from human activities.\nThese emissions mainly come from:",
+            "list": ["Transportation", "Industries", "Agriculture"],
+            "text2": "Results\nWhen the Earth warms:",
+            "list2": [
+              "Ice melts at the poles",
+              "Sea level rises",
+              "Heatwaves become more common",
+              "Heavy rainfall increases",
+              "Drought becomes more common"
+            ],
+            "text3": "In Sweden, climate change can lead to:",
+            "list3": [
+              "Increased flooding",
+              "Heavier rainfall",
+              "Longer periods of heat",
+              "Drought",
+              "Increased forest fires"
+            ]
+          },
+          {
+            "title": "17. Sweden's Efforts to Tackle Climate Change",
+            "subtitle": "",
+            "text": "Sweden works to reduce the impacts of climate change.\nIt has a specific climate law.\n\nClimate Goals\nBy 2045, greenhouse gas emissions in Sweden must be as close to zero as possible.\nThis means that Sweden should not release more greenhouse gases than nature can absorb."
+          },
+          {
+            "title": "International Cooperation",
+            "subtitle": "",
+            "text": "Sweden cooperates with other countries to develop and use:",
+            "list": ["Wind power", "Hydropower", "Solar power"]
+          },
+          {
+            "title": "18. Sustainable Development",
+            "subtitle": "",
+            "text": "Sustainable development means using natural resources in a way that ensures future generations can also live a good life.\nIt is based on three elements:",
+            "list": ["Environment", "Society", "Economy"]
+          },
+          {
+            "title": "Who Can Contribute?",
+            "subtitle": "Governments and International Organizations",
+            "text": "",
+            "list": [
+              "Enacting laws",
+              "Reducing emissions",
+              "Protecting the environment"
+            ]
+          },
+          {
+            "title": "Companies",
+            "subtitle": "",
+            "text": "",
+            "list": [
+              "Reducing their impact on the climate",
+              "Using more environmentally friendly technologies"
+            ]
+          },
+          {
+            "title": "Individuals",
+            "subtitle": "",
+            "text": "They can contribute by:",
+            "list": [
+              "Using buses or trains",
+              "Biking or walking",
+              "Saving electricity and heating",
+              "Sorting waste",
+              "Recycling",
+              "Reducing food waste",
+              "Adopting a more sustainable lifestyle",
+              "Participating in political action"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 2,
       "lessonTitle": {
-        "swedish": "Kapitel Två: Sveriges demokratiska system",
-        "arabic": "الفصل الثاني: النظام الديمقراطي في السويد"
+        "swedish": "Kapitel Två: 2-Sveriges demokratiska system",
+        "arabic": "الفصل الثاني: 2-النظام الديمقراطي في السويد",
+        "english": "Chapter Two: The Democratic System in Sweden"
       },
       "sections": {
         "swedish": [
@@ -876,14 +1143,191 @@
             ],
             "text1": "الهدف هو تقليل الفصل الاجتماعي."
           }
+        ],
+        "english": [
+          {
+            "title": "1. Democracy – Rule of the People",
+            "subtitle": "What does democracy mean?",
+            "text": "Democracy is a political system in which power comes from the people. The word democracy originates from the Greek language and means rule of the people.",
+            "text1": "In a democracy, the people choose their political representatives through free and fair elections.",
+            "text2": "Politicians govern the country for a specific period and can be changed in the next elections if the voters wish so.",
+            "text3": "This means that no individual or group is allowed to hold onto power forever."
+          },
+          {
+            "title": "What does the existence of democracy require?",
+            "subtitle": "",
+            "text": "For a country to be democratic, it must ensure that:",
+            "list": [
+              "The people are able to vote",
+              "There are several political parties",
+              "People can choose between different political alternatives",
+              "Elections are free and fair",
+              "People can express their opinions freely",
+              "Laws are applied equally to everyone"
+            ]
+          },
+          {
+            "title": "2. Free and Fair Elections",
+            "subtitle": "",
+            "text": "In Sweden, elections are free, fair, and secret.",
+            "text1": "This means that:",
+            "list": [
+              "Every person who has the right to vote has one vote",
+              "Every vote has the same value",
+              "No one may be threatened into voting for a specific party",
+              "No one may be forced to vote",
+              "Votes may not be bought"
+            ],
+            "text2": "No one needs to tell others which party they are voting for, or whether they are voting at all.",
+            "text3": "It is also permitted not to vote."
+          },
+          {
+            "title": "3. Political Parties",
+            "subtitle": "",
+            "text": "In a democracy, there must be several political parties.",
+            "list": [
+              "With their own ideas",
+              "With their own proposals",
+              "With different solutions to society's problems"
+            ],
+            "text1": "Voters decide which party they want to support."
+          },
+          {
+            "title": "4. Freedom of Expression",
+            "subtitle": "",
+            "text": "All people have freedom of expression.",
+            "text1": "This means a person has the right to:",
+            "list": [
+              "Say what they believe",
+              "Write what they believe",
+              "Discuss politics",
+              "Criticize politicians",
+              "Try to convince others of their ideas"
+            ],
+            "text2": "Freedom of expression is one of the most important rights in a democracy."
+          },
+          {
+            "title": "5. The Rule of Law",
+            "subtitle": "",
+            "text": "Another important part of democracy is the rule of law.",
+            "list": [
+              "All people are equal before the law",
+              "The same law applies to everyone",
+              "No one is above the law",
+              "No one may be convicted without a fair trial"
+            ],
+            "text1": "Courts must be impartial and treat everyone equally."
+          },
+          {
+            "title": "6. A Strong Democracy",
+            "subtitle": "",
+            "text": "Democracy works best when many people participate.",
+            "text1": "It becomes stronger when people:",
+            "list": [
+              "Vote",
+              "Learn how society works",
+              "Follow the news",
+              "Participate politically",
+              "Take responsibility"
+            ],
+            "text2": "If few people participate, democracy becomes weaker."
+          },
+          {
+            "title": "7. Democracy at School",
+            "subtitle": "",
+            "text": "The Swedish school system is based on democratic values.",
+            "text1": "Students learn about:",
+            "list": [
+              "Their rights",
+              "Their duties",
+              "How society works",
+              "Why democracy is important",
+              "Why it is important to vote"
+            ],
+            "text2": "Schools must help students become active citizens."
+          },
+          {
+            "title": "8. How Can One Influence Society?",
+            "subtitle": "",
+            "text": "There are many ways to exert influence.",
+            "list": [
+              "Voting",
+              "Joining a political party",
+              "Joining an organization concerned with a specific issue",
+              "Founding an association",
+              "Contacting politicians",
+              "Demonstrating",
+              "Collecting signatures",
+              "Discussing politics",
+              "Contacting journalists",
+              "Writing opinion pieces",
+              "Exerting influence in the workplace",
+              "Contacting the municipality"
+            ]
+          },
+          {
+            "title": "9. Threats to Democracy",
+            "subtitle": "",
+            "text": "Democracy does not maintain itself automatically. There are several threats.",
+            "text1": "Low voter turnout in elections means:",
+            "list": [
+              "Not all groups are represented",
+              "Fewer people influence politics",
+              "Democracy becomes weaker"
+            ],
+            "text2": "False information can cause conflicts, influence elections, and reduce trust in democracy.",
+            "text3": "Threats and hatred against politicians, journalists, and people participating in public debate weaken democracy."
+          },
+          {
+            "title": "10. What Do We Need to Protect Democracy?",
+            "subtitle": "",
+            "text": "For democracy to work, we need:",
+            "list": [
+              "A large number of people who vote",
+              "Free media",
+              "Accurate information",
+              "Freedom of expression",
+              "The rule of law",
+              "Protection for people participating in public debate",
+              "The opportunity for everyone to influence society"
+            ]
+          },
+          {
+            "title": "11. Social Segregation",
+            "subtitle": "",
+            "text": "Social segregation means that people live separated from one another based on:",
+            "list": ["Money", "Education", "Work", "Ethnic background"],
+            "text1": "In a divided society, people from different groups meet each other less often.",
+            "text2": "Social segregation can lead to worse schools, fewer services, reduced safety, and lower political participation."
+          },
+          {
+            "title": "12. Integration",
+            "subtitle": "",
+            "text": "Integration means that people from different languages, cultures, religions, economies, and backgrounds live together and feel that they are a part of society.",
+            "text1": "Integration means that everyone must have the opportunity to participate in society."
+          },
+          {
+            "title": "13. How Can Integration Be Improved?",
+            "subtitle": "",
+            "text": "Politicians suggest, among other things:",
+            "list": [
+              "Language education",
+              "Improving Swedish language education",
+              "More job opportunities",
+              "Different types of housing in the same area",
+              "Better opportunities to participate in society"
+            ],
+            "text1": "The goal is to reduce social segregation."
+          }
         ]
       }
     },
     {
       "lessonId": 3,
       "lessonTitle": {
-        "swedish": "Kapitel tre:  Sveriges politiska system",
-        "arabic": "الفصل الثالث – كيف تُحكم السويد"
+        "swedish": "Kapitel Tre: 3- Sveriges politiska system",
+        "arabic": "الفصل الثالث : 3-كيف تُحكم السويد",
+        "english": "Chapter Three: 3- How Sweden is Governed"
       },
       "sections": {
         "swedish": [
@@ -1298,14 +1742,233 @@
             "list": ["ولي العهد الأميرة فيكتوريا", "الأميرة إستل"],
             "text2": "فيكتوريا هي الابنة الكبرى للملك وستصبح ملكة السويد القادمة."
           }
+        ],
+        "english": [
+          {
+            "title": "1. The Political System in Sweden",
+            "subtitle": "How is Sweden governed?",
+            "text": "Sweden is a parliamentary representative democracy.",
+            "text1": "This means that the people elect politicians through general elections.",
+            "text2": "Politicians represent the people and make decisions about laws, the budget, and other important issues.",
+            "text3": "Political power is divided into several levels:",
+            "list": [
+              "The State (National level)",
+              "Regions (Regional level)",
+              "Municipalities (Local level)",
+              "The European Union (EU)"
+            ]
+          },
+          {
+            "title": "2. The State",
+            "subtitle": "What is the State?",
+            "text": "The state consists of four important parts.",
+            "list": [
+              "The Parliament",
+              "The Government",
+              "Government agencies",
+              "The Courts"
+            ],
+            "text1": "These bodies work together, but each has different tasks."
+          },
+          {
+            "title": "3. The Parliament",
+            "subtitle": "The highest decision-making body in Sweden",
+            "text": "The Parliament is the legislative assembly of Sweden and comprises 349 members.",
+            "text1": "Members are elected by the people in elections held every four years.",
+            "text2": "They represent:",
+            "list": [
+              "Different political parties",
+              "Different regions of Sweden"
+            ]
+          },
+          {
+            "title": "Main Tasks of the Parliament",
+            "subtitle": "",
+            "text": "The Parliament:",
+            "list": [
+              "Makes laws",
+              "Decides on the state budget",
+              "Monitors the work of the government",
+              "Elects the Prime Minister"
+            ],
+            "text1": "The Parliament determines how the state is run and how its funds are used."
+          },
+          {
+            "title": "4. The Government",
+            "subtitle": "What does the Government do?",
+            "text": "After the elections, the Parliament chooses the Prime Minister.",
+            "text1": "The Prime Minister is tasked with forming the government.",
+            "text2": "The Prime Minister selects the ministers who form the government.",
+            "text3": "The tasks of the government include:",
+            "list": [
+              "Governing the country",
+              "Implementing the decisions of the parliament",
+              "Proposing new laws",
+              "Preparing the budget",
+              "Leading the government agencies"
+            ]
+          },
+          {
+            "title": "5. The State Budget",
+            "subtitle": "What is the budget?",
+            "text": "Every autumn, the government submits a proposal to the parliament.",
+            "text1": "This is called the budget proposal.",
+            "text2": "The budget details:",
+            "list": [
+              "State income",
+              "State expenditures",
+              "The government's political priorities"
+            ],
+            "text3": "The parliament then decides on the budget."
+          },
+          {
+            "title": "6. The Opposition",
+            "subtitle": "What is the opposition?",
+            "text": "The parties that do not support the government are called the opposition.",
+            "text1": "Tasks of the opposition:",
+            "list": [
+              "Monitoring the government",
+              "Criticizing the government's work",
+              "Submitting alternative political proposals",
+              "Providing an alternative to the government's policy"
+            ],
+            "text2": "In the parliament, debates take place between the government and the opposition before voting."
+          },
+          {
+            "title": "7. Government Agencies",
+            "subtitle": "What is a government agency?",
+            "text": "Government agencies implement the decisions made by the parliament and the government.",
+            "text1": "There are hundreds of agencies in Sweden.",
+            "text2": "They must always:",
+            "list": ["Follow the law", "Follow the government's instructions"]
+          },
+          {
+            "title": "Examples of Important Government Agencies",
+            "subtitle": "",
+            "text": "Examples:",
+            "list": [
+              "The Employment Service",
+              "The Social Insurance Agency",
+              "The Migration Agency",
+              "The Police",
+              "The Tax Agency"
+            ],
+            "text1": "If a person applies for parental leave support, it is the Social Insurance Agency that decides."
+          },
+          {
+            "title": "8. Bodies that Monitor Agencies",
+            "subtitle": "",
+            "text": "To monitor the agencies and ensure their compliance with the law, there are regulatory bodies.",
+            "text1": "The most important are:",
+            "list": [
+              "The Parliamentary Ombudsman (JO)",
+              "The Chancellor of Justice (JK)"
+            ],
+            "text2": "These bodies ensure that the agencies operate correctly and follow the laws."
+          },
+          {
+            "title": "9. Regions (Regional Authorities)",
+            "subtitle": "Sweden's Regions",
+            "text": "Sweden is divided into 21 regions.",
+            "text1": "Residents elect politicians in regional elections.",
+            "text2": "Politicians make decisions in the regional council."
+          },
+          {
+            "title": "Responsibilities of the Regions",
+            "subtitle": "",
+            "text": "Regions are mainly responsible for:",
+            "list": [
+              "Healthcare",
+              "Hospitals",
+              "Health centers",
+              "Public transportation",
+              "Regional museums"
+            ]
+          },
+          {
+            "title": "10. Municipalities",
+            "subtitle": "Sweden's Municipalities",
+            "text": "There are 290 municipalities in Sweden.",
+            "text1": "Municipalities are managed by politicians elected in municipal elections.",
+            "text2": "Decisions are made in the municipal council.",
+            "text3": "Most politicians work in politics part-time and have other jobs."
+          },
+          {
+            "title": "The Largest and Smallest Municipality",
+            "subtitle": "",
+            "text": "The largest: Stockholm.",
+            "list": ["Capital of Sweden", "About 1 million inhabitants"],
+            "text1": "The smallest: Dorotea.",
+            "list2": ["Västerbotten County", "Fewer than 3,000 inhabitants"]
+          },
+          {
+            "title": "11. Municipal Committees",
+            "subtitle": "",
+            "text": "The municipal council selects the members of various committees.",
+            "text1": "The culture committee is responsible for:",
+            "list": ["Libraries", "Culture"],
+            "text2": "The education committee is responsible for:",
+            "list2": ["Schools", "Education"]
+          },
+          {
+            "title": "12. Responsibilities of Municipalities",
+            "subtitle": "",
+            "text": "Municipalities are responsible for important daily services.",
+            "list": [
+              "Water",
+              "Sanitation",
+              "Garbage collection",
+              "Elderly care",
+              "Childcare",
+              "Preschools",
+              "Primary schools",
+              "Adult education",
+              "Snow removal",
+              "Parks",
+              "Roads"
+            ],
+            "text1": "Municipal decisions directly affect people's daily lives."
+          },
+          {
+            "title": "13. The System of Government in Sweden",
+            "subtitle": "Constitutional Monarchy",
+            "text": "Sweden is a constitutional monarchy.",
+            "text1": "This means that the country has:",
+            "list": [
+              "A king as head of state",
+              "Docratically elected politicians who run the country"
+            ],
+            "text2": "The King does not hold any political power."
+          },
+          {
+            "title": "14. Tasks of the King",
+            "subtitle": "",
+            "text": "The King is a symbol for Sweden.",
+            "text1": "He performs tasks such as:",
+            "list": [
+              "Representing Sweden",
+              "Conducting official visits to other countries",
+              "Receiving visiting heads of state",
+              "Attending official events"
+            ]
+          },
+          {
+            "title": "15. The Swedish Royal Family",
+            "subtitle": "",
+            "text": "The current King is Carl XVI Gustaf.",
+            "text1": "The order of succession to the throne:",
+            "list": ["Crown Princess Victoria", "Princess Estelle"],
+            "text2": "Victoria is the oldest child of the King and will become the next Queen of Sweden."
+          }
         ]
       }
     },
     {
       "lessonId": 4,
       "lessonTitle": {
-        "swedish": "Kapitel Fyra: 4. Politiska val och partier",
-        "arabic": "الفصل الرابع – الانتخابات السياسية والأحزاب"
+        "swedish": "Kapitel Fyra: 4- Politiska val och partier",
+        "arabic": "الفصل الرابع: 4 – الانتخابات السياسية والأحزاب",
+        "english": "Chapter Four: 4- Political elections and parties"
       },
       "sections": {
         "swedish": [
@@ -1628,14 +2291,178 @@
             "text": "توجد أيضًا أحزاب محلية في البلديات والمناطق.",
             "text2": "تركز على القضايا المحلية ولا تشارك دائمًا في انتخابات البرلمان."
           }
+        ],
+        "english": [
+          {
+            "title": "1. Political Elections in Sweden",
+            "subtitle": "What is a political election?",
+            "text": "A political election is when citizens vote to elect politicians to govern Sweden at different levels.",
+            "text2": "Through elections, the people decide which parties will make decisions on important societal issues such as laws, taxes, and schools.",
+            "text3": "Sweden has free and secret elections."
+          },
+          {
+            "title": "2. Which Elections Exist in Sweden?",
+            "subtitle": "",
+            "text": "There are four important elections in Sweden:",
+            "list": [
+              "Parliamentary election",
+              "Regional election",
+              "Municipal election",
+              "EU election"
+            ]
+          },
+          {
+            "title": "Parliamentary Election",
+            "subtitle": "",
+            "text": "Elects members to the parliament who:",
+            "list": [
+              "enact laws",
+              "decide on the state budget",
+              "monitor the government's work",
+              "elect the prime minister"
+            ]
+          },
+          {
+            "title": "Regional Election",
+            "subtitle": "",
+            "text": "Elects politicians to the regional council who are responsible for:",
+            "list": [
+              "healthcare",
+              "hospitals",
+              "health centers",
+              "public transportation",
+              "regional museums"
+            ]
+          },
+          {
+            "title": "Municipal Election",
+            "subtitle": "",
+            "text": "Elects politicians to the municipal council who are responsible for:",
+            "list": [
+              "schools",
+              "elderly care",
+              "childcare",
+              "water",
+              "sanitation",
+              "garbage collection",
+              "parks",
+              "streets"
+            ]
+          },
+          {
+            "title": "EU Election",
+            "subtitle": "",
+            "text": "Swedish voters elect representatives to the European Parliament, which makes decisions within the EU.",
+            "text2": "EU elections are held every five years."
+          },
+          {
+            "title": "3. How Often Are Elections Held?",
+            "subtitle": "",
+            "text": "Elections in Sweden are held regularly:",
+            "list": [
+              "Parliamentary election: every four years",
+              "Regional election: every four years",
+              "Municipal election: every four years",
+              "EU election: every five years"
+            ]
+          },
+          {
+            "title": "4. Who Is Allowed to Vote?",
+            "subtitle": "",
+            "text": "To be allowed to vote, you must be 18 years old.",
+            "text2": "The rules vary depending on the type of election.",
+            "list": [
+              "Parliamentary election: Swedish citizen + 18 years old",
+              "Municipal/regional: registered resident in Sweden",
+              "EU election: EU citizens can vote in the country where they reside"
+            ]
+          },
+          {
+            "title": "5. Referendum",
+            "subtitle": "",
+            "text": "A referendum is when the people vote directly on an issue.",
+            "text2": "The result is advisory, not binding.",
+            "text3": "Example: Sweden voted no to the euro in 2003."
+          },
+          {
+            "title": "6. How Does Voting Work?",
+            "subtitle": "",
+            "text": "Everyone eligible to vote receives a voting card sent to their home.",
+            "text2": "You can vote at a polling station or vote early.",
+            "text3": "Voting takes place behind a screen and is secret."
+          },
+          {
+            "title": "7. Political Parties",
+            "subtitle": "",
+            "text": "A political party is a group of people with similar ideas about how society should be governed.",
+            "text2": "Parties propose laws and try to win elections."
+          },
+          {
+            "title": "8. Can Anyone Become a Member?",
+            "subtitle": "",
+            "text": "Yes, anyone can become a member of a political party.",
+            "text2": "You can also start your own party."
+          },
+          {
+            "title": "9. Election Campaigns",
+            "subtitle": "",
+            "text": "Ahead of elections, parties try to convince voters through:",
+            "list": [
+              "debates",
+              "advertising",
+              "meetings",
+              "social media",
+              "campaigns"
+            ]
+          },
+          {
+            "title": "10. Proportional Elections",
+            "subtitle": "",
+            "text": "Seats in parliament are distributed according to how many votes the parties receive.",
+            "text2": "If a party gets 20% of the votes, it gets approximately 20% of the seats."
+          },
+          {
+            "title": "11. Majority",
+            "subtitle": "",
+            "text": "Parties must often cooperate to secure a majority.",
+            "text2": "A majority means more than half of the votes."
+          },
+          {
+            "title": "12. The Four Percent Threshold",
+            "subtitle": "",
+            "text": "A party must receive at least 4% of the votes to enter the parliament.",
+            "text2": "The purpose is to create stability in politics."
+          },
+          {
+            "title": "13. Parties in the Swedish Parliament",
+            "subtitle": "",
+            "text": "The following parties are in the parliament:",
+            "list": [
+              "Centre Party (C)",
+              "Christian Democrats (KD)",
+              "Liberals (L)",
+              "Green Party (MP)",
+              "Moderate Party (M)",
+              "Social Democrats (S)",
+              "Sweden Democrats (SD)",
+              "Left Party (V)"
+            ]
+          },
+          {
+            "title": "14. Local Parties",
+            "subtitle": "",
+            "text": "There are also local parties in municipalities and regions.",
+            "text2": "They focus on local issues and do not always run in parliamentary elections."
+          }
         ]
       }
     },
     {
       "lessonId": 5,
       "lessonTitle": {
-        "swedish": "Kapitel fem: 5 – Lag och rätt",
-        "arabic": "الفصل الخامس – القانون والعدالة"
+        "swedish": "Kapitel Fem: 5 – Lag och rätt",
+        "arabic": "الفصل الخامس : 5 – القانون والعدالة",
+        "english": "Chapter Five: 5 – Law and Justice"
       },
       "sections": {
         "swedish": [
@@ -2022,14 +2849,214 @@
               "يؤثر على الجنسية"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. Law and Justice in Sweden",
+            "subtitle": "What are laws?",
+            "text": "Laws are rules that everyone in Sweden must follow. They exist to protect people, maintain order and safety, resolve conflicts, and ensure society functions smoothly. Everyone is equal before the law.",
+            "list": [
+              "Protect people",
+              "Maintain order and safety",
+              "Resolve conflicts",
+              "Ensure society functions",
+              "Everyone is equal before the law"
+            ]
+          },
+          {
+            "title": "2. Sweden's Fundamental Laws",
+            "subtitle": "What are Sweden's fundamental laws?",
+            "text": "The fundamental laws (constitution) are Sweden's most important laws, protecting democracy and human rights. They are more difficult to change than ordinary laws.",
+            "list": [
+              "The Instrument of Government",
+              "The Freedom of the Press Act",
+              "The Fundamental Law on Freedom of Expression",
+              "The Act of Succession"
+            ]
+          },
+          {
+            "title": "3. The Instrument of Government",
+            "subtitle": "What does the Instrument of Government determine?",
+            "text": "The Instrument of Government is the most important fundamental law and describes how Sweden is governed and how power is divided.",
+            "list": [
+              "How Sweden is governed",
+              "The work of the Parliament",
+              "The work of the Government",
+              "The role of public agencies",
+              "The role of the Head of State",
+              "The equal value of all people",
+              "Freedoms and rights",
+              "All public power emanates from the people"
+            ]
+          },
+          {
+            "title": "4. The Freedom of the Press Act",
+            "subtitle": "What does it protect?",
+            "text": "The Freedom of the Press Act protects free speech in printed form and grants the right to publish printed media.",
+            "list": [
+              "Publishing books",
+              "Publishing newspapers",
+              "Publishing magazines",
+              "Protects expressions in printed form",
+              "No censorship of printed media"
+            ]
+          },
+          {
+            "title": "5. The Fundamental Law on Freedom of Expression",
+            "subtitle": "What does freedom of expression mean?",
+            "text": "Freedom of expression means that everyone is allowed to express their opinions, but certain things are prohibited by law.",
+            "list": [
+              "Radio",
+              "TV",
+              "Newspapers",
+              "Internet",
+              "Forming associations",
+              "Demonstrating",
+              "Prohibited from spreading hate",
+              "Prohibited from committing defamation",
+              "Prohibited from spreading classified information"
+            ]
+          },
+          {
+            "title": "6. The Act of Succession",
+            "subtitle": "What does it regulate?",
+            "text": "The Act of Succession determines who will become king or queen of Sweden.",
+            "list": [
+              "Order of succession",
+              "King or queen after the current monarch"
+            ]
+          },
+          {
+            "title": "7. The Right of Public Access",
+            "subtitle": "What are you allowed to do in nature?",
+            "text": "The Right of Public Access (Allemansrätten) gives everyone the right to roam freely in nature, but one must show consideration.",
+            "list": [
+              "Walk in nature",
+              "Hike",
+              "Cycle",
+              "Paddle",
+              "Camp for a short time",
+              "Pick berries",
+              "Pick mushrooms",
+              "Pick flowers",
+              "Do not disturb",
+              "Do not destroy",
+              "Do not walk on cultivated fields",
+              "Do not litter",
+              "Do not damage nature"
+            ]
+          },
+          {
+            "title": "8. The Justice System",
+            "subtitle": "Which authorities are included?",
+            "text": "The justice system ensures that laws are followed, and that crimes are investigated and prosecuted.",
+            "list": [
+              "The Police",
+              "The Prosecution Authority",
+              "Courts",
+              "The Crime Victim Authority",
+              "The Prison and Probation Service"
+            ]
+          },
+          {
+            "title": "9. Legal Certainty",
+            "subtitle": "What does legal certainty mean?",
+            "text": "Legal certainty (rule of law) means that everyone is equal before the law and has the right to a fair trial.",
+            "list": [
+              "Everyone is equal before the law",
+              "Fair trial",
+              "No one is convicted without proof",
+              "Courts are independent",
+              "Right to a defense attorney",
+              "Right to appeal"
+            ]
+          },
+          {
+            "title": "10. The Courts",
+            "subtitle": "How are the courts structured?",
+            "text": "Sweden has three levels of general courts that try criminal cases and civil disputes.",
+            "list": [
+              "The District Court",
+              "The Court of Appeal",
+              "The Supreme Court"
+            ]
+          },
+          {
+            "title": "11. Innocent Until Proven Guilty",
+            "subtitle": "What does this principle mean?",
+            "text": "Everyone is innocent until a court has proven that they are guilty.",
+            "list": [
+              "Innocent until convicted",
+              "Evidence is required",
+              "The court determines guilt"
+            ]
+          },
+          {
+            "title": "12. Criminal Investigation",
+            "subtitle": "How does an investigation work?",
+            "text": "A criminal investigation follows several steps from the initial report to remand in custody.",
+            "list": [
+              "Police report",
+              "Interrogation",
+              "Preliminary investigation",
+              "Arrest",
+              "Remand in custody"
+            ]
+          },
+          {
+            "title": "13. Trial",
+            "subtitle": "What happens during a trial?",
+            "text": "The prosecutor attempts to prove guilt while the defense attorney defends the accused person.",
+            "list": [
+              "The prosecutor presents evidence",
+              "The defense attorney defends",
+              "The judge decides",
+              "Lay judges participate",
+              "The court delivers a verdict"
+            ]
+          },
+          {
+            "title": "14. Verdicts",
+            "subtitle": "What punishments exist?",
+            "text": "The court can sentence someone to different penalties depending on the crime.",
+            "list": ["Fines", "Imprisonment", "Acquittal"]
+          },
+          {
+            "title": "15. Appeal",
+            "subtitle": "What does that mean?",
+            "text": "If a person is not satisfied with the verdict, they can appeal to a higher court.",
+            "list": ["New review", "Higher court", "Modify the verdict"]
+          },
+          {
+            "title": "16. Age of Criminal Responsibility",
+            "subtitle": "When do you reach the age of criminal responsibility?",
+            "text": "In Sweden, you reach the age of criminal responsibility at 15 years old.",
+            "list": [
+              "Criminal responsibility at 15 years old",
+              "Children under 15 are not convicted",
+              "Social services are responsible for children under 15",
+              "Proposal: 13 years old for serious crimes"
+            ]
+          },
+          {
+            "title": "17. Criminal Record",
+            "subtitle": "What is it?",
+            "text": "The criminal record registry contains individuals who have been convicted of crimes.",
+            "list": [
+              "Affects employment",
+              "Affects driver's license",
+              "Affects citizenship"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 6,
       "lessonTitle": {
-        "swedish": "Kapitel sex: 6- Mediernas roll",
-        "arabic": "الفصل السادس: دور وسائل الإعلام"
+        "swedish": "Kapitel Sex: 6- Mediernas roll",
+        "arabic": "الفصل السادس: 6- دور وسائل الإعلام",
+        "english": "Chapter Six: 6 - The Role of the Media"
       },
       "sections": {
         "swedish": [
@@ -2503,14 +3530,251 @@
               "التلفزيون"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. The Role of the Media",
+            "subtitle": "What are media?",
+            "text": "Media are channels that spread news, knowledge, information, and entertainment to people in society.",
+            "list": [
+              "newspapers",
+              "radio",
+              "tv",
+              "film",
+              "internet",
+              "social media"
+            ]
+          },
+          {
+            "title": "2. Free Media",
+            "subtitle": "Why are free media important?",
+            "text": "In Sweden, the media are free. The state is not allowed to decide what the media should publish or which opinions are allowed to be spread.",
+            "list": [
+              "protected by the Freedom of the Press Act",
+              "protected by the Fundamental Law on Freedom of Expression",
+              "makes it possible to spread opinions freely",
+              "strengthens democracy",
+              "gives people access to information"
+            ]
+          },
+          {
+            "title": "3. The Tasks of the Media",
+            "subtitle": "What do the media do?",
+            "text": "The media have several important functions in society.",
+            "list": [
+              "report news",
+              "spread information",
+              "convey knowledge",
+              "create debate and discussion",
+              "scrutinize those in power",
+              "offer entertainment"
+            ]
+          },
+          {
+            "title": "4. The Role of Journalists",
+            "subtitle": "Why are journalists needed?",
+            "text": "Journalists scrutinize politicians and other people in power to ensure transparency and accountability.",
+            "list": [
+              "scrutinize politicians",
+              "scrutinize authorities",
+              "scrutinize those in power",
+              "inform the public",
+              "investigate important societal issues"
+            ]
+          },
+          {
+            "title": "5. The Principle of Public Access",
+            "subtitle": "What does the principle of public access mean?",
+            "text": "The principle of public access gives people the right to access public documents held by authorities, provided they are not classified.",
+            "list": [
+              "documents from authorities are public",
+              "journalists can review decisions",
+              "emails can be requested",
+              "increases transparency in society",
+              "strengthens democracy"
+            ]
+          },
+          {
+            "title": "6. Support for the Media",
+            "subtitle": "Why does the state provide support to the media?",
+            "text": "The state provides financial support to news media to ensure the existence of many different news sources.",
+            "list": [
+              "support for daily newspapers",
+              "support for news media",
+              "promotes diversity",
+              "increases access to information",
+              "strengthens democracy"
+            ]
+          },
+          {
+            "title": "7. Protection of Sources",
+            "subtitle": "Protection for individuals who provide information",
+            "text": "Individuals are allowed to provide information to the media without being punished and have the right to remain anonymous.",
+            "list": [
+              "right to provide information",
+              "protection against punishment",
+              "right to remain anonymous",
+              "supports investigative journalism"
+            ]
+          },
+          {
+            "title": "8. Responsible Publisher",
+            "subtitle": "Who is responsible for the content?",
+            "text": "Newspapers, radio, and TV have a responsible publisher who is legally responsible for everything that is published.",
+            "list": [
+              "responsible for published content",
+              "must follow the law",
+              "responsible for avoiding defamation",
+              "responsible for avoiding offenses"
+            ]
+          },
+          {
+            "title": "9. Verification of Sources",
+            "subtitle": "How do journalists work?",
+            "text": "Journalists must check information before it is published.",
+            "list": [
+              "use multiple sources",
+              "use independent sources",
+              "verify facts",
+              "assess the credibility of sources"
+            ]
+          },
+          {
+            "title": "10. Different Types of Media",
+            "subtitle": "What types of media exist?",
+            "text": "There are many different media outlets in Sweden that spread information and entertainment.",
+            "list": [
+              "daily newspapers",
+              "magazines",
+              "radio",
+              "tv",
+              "websites",
+              "social media"
+            ]
+          },
+          {
+            "title": "11. Private and Commercially Funded Media",
+            "subtitle": "How are private media funded?",
+            "text": "Private media are often run by companies and generate income from advertising and subscriptions.",
+            "list": [
+              "advertising revenues",
+              "subscriptions",
+              "newspaper sales",
+              "digital subscriptions"
+            ]
+          },
+          {
+            "title": "12. Online Newspapers",
+            "subtitle": "Digital news",
+            "text": "Most Swedish newspapers are available on the internet today and are updated several times every day.",
+            "list": [
+              "web versions",
+              "fast news updates",
+              "digital articles",
+              "available online"
+            ]
+          },
+          {
+            "title": "13. Public Service",
+            "subtitle": "What is Public Service?",
+            "text": "Public Service refers to media companies with a specific public mandate to provide factual and impartial information.",
+            "list": [
+              "Sveriges Radio (SR)",
+              "Sveriges Television (SVT)",
+              "Utbildningsradion (UR)"
+            ]
+          },
+          {
+            "title": "14. Public Service Mandate",
+            "subtitle": "What is Public Service supposed to do?",
+            "text": "Public Service must offer a wide range of programs and remain independent from political and economic interests.",
+            "list": [
+              "news",
+              "sports",
+              "entertainment",
+              "culture",
+              "education",
+              "different perspectives"
+            ]
+          },
+          {
+            "title": "15. Funding of Public Service",
+            "subtitle": "How is Public Service funded?",
+            "text": "Public Service is funded through a tax and is not allowed to be funded by advertising.",
+            "list": [
+              "fee via the tax system",
+              "no advertising",
+              "independent funding",
+              "accessible to everyone"
+            ]
+          },
+          {
+            "title": "16. The Purpose of Public Service",
+            "subtitle": "Why does Public Service exist?",
+            "text": "The purpose is to ensure that everyone in Sweden has access to factual information, regardless of their financial situation or where they live.",
+            "list": [
+              "equal access to information",
+              "factual news",
+              "national accessibility",
+              "support for democracy"
+            ]
+          },
+          {
+            "title": "17. Web and Social Media",
+            "subtitle": "How do social media work?",
+            "text": "Anyone can create and spread content on the internet and on social media platforms.",
+            "list": [
+              "anyone can publish",
+              "fast spread of information",
+              "no traditional editors",
+              "user-generated content"
+            ]
+          },
+          {
+            "title": "18. Risks with Social Media",
+            "subtitle": "What problems can arise?",
+            "text": "Information on social media is not always checked in the same way as in traditional media.",
+            "list": [
+              "false information",
+              "disinformation",
+              "spreading of rumors",
+              "misleading content"
+            ]
+          },
+          {
+            "title": "19. Source Criticism",
+            "subtitle": "What does source criticism mean?",
+            "text": "Source criticism means reviewing and checking whether information is true and credible.",
+            "list": [
+              "question information",
+              "verify facts",
+              "compare multiple sources",
+              "assess credibility",
+              "avoid false information"
+            ]
+          },
+          {
+            "title": "20. Sources of Information",
+            "subtitle": "Where can information come from?",
+            "text": "Information can be gathered from many different types of sources.",
+            "list": [
+              "newspapers",
+              "books",
+              "websites",
+              "social media",
+              "radio",
+              "tv"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 7,
       "lessonTitle": {
-        "swedish": "Kapitel sju: Kapitel 7 – Mänskliga rättigheter",
-        "arabic": "الفصل السابع – حقوق الإنسان"
+        "swedish": "Kapitel Sju: 7– Mänskliga rättigheter",
+        "arabic": "الفصل السابع : 7- حقوق الإنسان",
+        "english": "Chapter Seven: 7 – Human Rights"
       },
       "sections": {
         "swedish": [
@@ -3000,14 +4264,247 @@
               "يعمل المجتمع على مكافحتها"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. Human Rights",
+            "subtitle": "What are human rights?",
+            "text": "Human rights are based on the idea that all human beings are of equal value and have the same fundamental rights. After World War II, the UN was formed to protect human rights and promote peace.",
+            "list": [
+              "applies to all people",
+              "everyone is equal in value and rights",
+              "protected by the UN",
+              "aims to counteract discrimination",
+              "strengthens freedom and equality"
+            ]
+          },
+          {
+            "title": "2. The UN Declaration of Human Rights",
+            "subtitle": "What did the UN decide in 1948?",
+            "text": "In 1948, the UN adopted the Universal Declaration of Human Rights, which contains 30 articles on human freedoms and rights.",
+            "list": [
+              "all human beings are born free",
+              "right to education",
+              "right to healthcare",
+              "right to work",
+              "right to religion",
+              "right to express one's opinions",
+              "right to seek asylum"
+            ]
+          },
+          {
+            "title": "3. Discrimination",
+            "subtitle": "What does discrimination mean?",
+            "text": "Discrimination means that people are treated worse than others due to, for example, gender, religion, or ethnicity.",
+            "list": [
+              "prohibited under Swedish law",
+              "violates human rights",
+              "protection against discrimination is provided in the Discrimination Act",
+              "everyone must be treated equally"
+            ]
+          },
+          {
+            "title": "4. Equality Between Women and Men",
+            "subtitle": "What is gender equality?",
+            "text": "Gender equality means that women and men must have the same rights, obligations, and opportunities in society.",
+            "list": [
+              "equal rights",
+              "equal obligations",
+              "equal opportunities",
+              "equal pay for equal work",
+              "equal influence in society"
+            ]
+          },
+          {
+            "title": "5. Sweden's Work for Gender Equality",
+            "subtitle": "How does Sweden work with gender equality?",
+            "text": "Sweden actively works to ensure that women and men have the same opportunities in politics, work, and education.",
+            "list": [
+              "more women in politics",
+              "equal pay for equal work",
+              "equal educational opportunities",
+              "shared parental leave",
+              "counteracts discrimination"
+            ]
+          },
+          {
+            "title": "6. Domestic Violence",
+            "subtitle": "What is domestic violence?",
+            "text": "Domestic violence means that someone is subjected to violence by a partner or family member.",
+            "list": [
+              "prohibited by law",
+              "can be physical violence",
+              "can be psychological violence",
+              "can be sexual violence",
+              "society offers support"
+            ]
+          },
+          {
+            "title": "7. The Consent Law",
+            "subtitle": "What does consent mean?",
+            "text": "The consent law means that sex must always be voluntary for everyone involved.",
+            "list": [
+              "voluntary participation is required",
+              "applies also to married people",
+              "protects individual rights",
+              "sexual acts without consent constitute a crime"
+            ]
+          },
+          {
+            "title": "8. Honor-Related Violence and Oppression",
+            "subtitle": "What is honor oppression?",
+            "text": "Honor-related violence and oppression means that a family or relatives attempt to control a person's life through threats, pressure, or violence.",
+            "list": [
+              "prohibited by law",
+              "can be psychological violence",
+              "can be physical violence",
+              "forced marriage is prohibited",
+              "affects both women and men"
+            ]
+          },
+          {
+            "title": "9. Child Marriage",
+            "subtitle": "Is child marriage permitted?",
+            "text": "Child marriage is prohibited in Sweden. No person under the age of 18 may be married off.",
+            "list": [
+              "prohibited by law",
+              "protects children's rights",
+              "part of the work against honor oppression"
+            ]
+          },
+          {
+            "title": "10. The Sex Purchase Act",
+            "subtitle": "What does the Sex Purchase Act say?",
+            "text": "In Sweden, it is prohibited to buy sex. Anyone who buys sex can be punished.",
+            "list": [
+              "buying sex is illegal",
+              "the seller is normally not punished",
+              "protects vulnerable individuals",
+              "counteracts exploitation"
+            ]
+          },
+          {
+            "title": "11. The Rights of the Child",
+            "subtitle": "What is the Convention on the Rights of the Child?",
+            "text": "The Convention on the Rights of the Child is the UN convention on children's rights. Since 2020, it has been Swedish law.",
+            "list": [
+              "protects children's rights",
+              "applies to all children",
+              "Swedish law since 2020",
+              "the best interests of the child must be considered"
+            ]
+          },
+          {
+            "title": "12. Children's Rights",
+            "subtitle": "What rights do children have?",
+            "text": "Children have the right to safety, education, health, and to be listened to.",
+            "list": [
+              "right to education",
+              "right to protection",
+              "right to healthcare",
+              "right to express their opinion",
+              "right not to be discriminated against"
+            ]
+          },
+          {
+            "title": "13. Prohibition of Violence Against Children",
+            "subtitle": "Are you allowed to hit children in Sweden?",
+            "text": "No. Sweden was the first country in the world to ban corporal punishment of children in 1979.",
+            "list": [
+              "all forms of violence are prohibited",
+              "applies at home and in society",
+              "assault is criminal",
+              "protects children's safety"
+            ]
+          },
+          {
+            "title": "14. National Minorities",
+            "subtitle": "Who are Sweden's national minorities?",
+            "text": "In the year 2000, Sweden recognized five national minorities.",
+            "list": ["Jews", "Roma", "Sami", "Swedish Finns", "Tornedalers"]
+          },
+          {
+            "title": "15. Minority Languages",
+            "subtitle": "Which languages are protected?",
+            "text": "National minorities have the right to use their languages in contact with authorities.",
+            "list": ["Yiddish", "Romani Chib", "Sami", "Finnish", "Meänkieli"]
+          },
+          {
+            "title": "16. The Sami People",
+            "subtitle": "Who are the Sami?",
+            "text": "The Sami are the indigenous people of Sweden and have special rights linked to culture, language, and land.",
+            "list": [
+              "Sweden's indigenous people",
+              "own popularly elected parliament",
+              "the Sami Parliament",
+              "right to reindeer husbandry",
+              "protection of culture and language"
+            ]
+          },
+          {
+            "title": "17. The Sami Parliament",
+            "subtitle": "What is the Sami Parliament?",
+            "text": "The Sami Parliament is the popularly elected parliament of the Sami people and works with issues concerning Sami culture and identity.",
+            "list": [
+              "represents Sami people",
+              "works with language issues",
+              "works with cultural issues",
+              "has certain public authority tasks"
+            ]
+          },
+          {
+            "title": "18. LGBTQI People's Rights",
+            "subtitle": "What rights do LGBTQI people have?",
+            "text": "All human beings have the right to live as they wish, regardless of sexual orientation or gender identity.",
+            "list": [
+              "protection against discrimination",
+              "right to marry",
+              "right to adopt children",
+              "equal rights for all"
+            ]
+          },
+          {
+            "title": "19. People with Disabilities",
+            "subtitle": "What rights do people with disabilities have?",
+            "text": "People with disabilities must be able to participate in society on equal terms.",
+            "list": [
+              "protection against discrimination",
+              "right to participation",
+              "equal opportunities",
+              "special support when needed"
+            ]
+          },
+          {
+            "title": "20. The Work Against Discrimination",
+            "subtitle": "Who works against discrimination?",
+            "text": "The Equality Ombudsman (DO) works for everyone's equal rights and ensures that the Discrimination Act is followed.",
+            "list": [
+              "DO is a government agency",
+              "works against discrimination",
+              "protects equal rights",
+              "monitors the Discrimination Act"
+            ]
+          },
+          {
+            "title": "21. Hate Crime",
+            "subtitle": "What is a hate crime?",
+            "text": "A hate crime is a crime committed against someone because of, for example, religion, ethnicity, sexual orientation, or other group affiliation.",
+            "list": [
+              "targeted at a specific group",
+              "often leads to harsher penalties",
+              "prohibited by law",
+              "counteracted by society"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 8,
       "lessonTitle": {
-        "swedish": "Kapitel otta: 8 - Arbetsmarknad och privatekonomi",
-        "arabic": "الفصل الثامن: 8 - سوق العمل والاقتصاد الشخصي"
+        "swedish": "Kapitel Otta: 8 - Arbetsmarknad och privatekonomi",
+        "arabic": "الفصل الثامن: 8 - سوق العمل والاقتصاد الشخصي",
+        "english": "Chapter Eight: 8 - The Labor Market and Personal Economy"
       },
       "sections": {
         "swedish": [
@@ -3301,14 +4798,161 @@
               "جزء مهم من النظام الضريبي"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. How the Labor Market Works",
+            "subtitle": "Public and private sector",
+            "text": "The labor market involves work, employers, employees, and economy. It is divided into the public sector, which is funded by taxes, and the private sector, which consists of privately owned companies.",
+            "list": [
+              "public sector is funded through taxes",
+              "around 30% work in the public sector",
+              "private sector consists of privately owned companies",
+              "around 70% work in the private sector",
+              "the labor market varies between cities and smaller towns"
+            ]
+          },
+          {
+            "title": "2. Social Partners",
+            "subtitle": "Employers and employees",
+            "text": "The labor market consists of employers who hire and pay wages, and employees who perform the work and receive a salary.",
+            "list": [
+              "employers hire staff",
+              "employers pay wages",
+              "employees perform the work",
+              "employees can join a trade union",
+              "employers are represented by organizations"
+            ]
+          },
+          {
+            "title": "3. Trade Unions",
+            "subtitle": "The tasks of trade unions",
+            "text": "Trade unions work to improve salaries, working conditions, and the rights of employees.",
+            "list": [
+              "negotiate salaries",
+              "negotiate working conditions",
+              "help members during conflicts",
+              "protect employees' rights",
+              "LO, TCO, and SACO are large central organizations"
+            ]
+          },
+          {
+            "title": "4. Collective Agreements",
+            "subtitle": "Agreements between employers and unions",
+            "text": "A collective agreement is an accord between employer organizations and trade unions that regulates conditions in the workplace.",
+            "list": [
+              "regulates salaries",
+              "regulates working hours",
+              "regulates vacation",
+              "applies to all employees at the workplace",
+              "salaries are determined through negotiations"
+            ]
+          },
+          {
+            "title": "5. Laws and Regulations in the Labor Market",
+            "subtitle": "Protection for employees",
+            "text": "Swedish laws protect employees and require employers to provide a safe working environment.",
+            "list": [
+              "the Working Hours Act",
+              "the Work Environment Act",
+              "the Annual Leave Act",
+              "the employer is responsible for the working environment",
+              "the employer pays pension and insurance contributions"
+            ]
+          },
+          {
+            "title": "6. Tax on Labor",
+            "subtitle": "How tax works",
+            "text": "Tax is a portion of income paid to the state and used to fund public services.",
+            "list": [
+              "everyone who works pays tax",
+              "the tax depends on income",
+              "funds the public sector",
+              "paid to the state",
+              "undeclared work (working off the books) is illegal"
+            ]
+          },
+          {
+            "title": "7. Unemployment Insurance Fund (A-kassan)",
+            "subtitle": "Financial support during unemployment",
+            "text": "A-kassan is an unemployment insurance that provides financial support to individuals who have become unemployed.",
+            "list": [
+              "requires membership",
+              "requires sufficient prior work history",
+              "one must be an active job seeker",
+              "provides financial compensation",
+              "funded by the state and membership fees"
+            ]
+          },
+          {
+            "title": "8. Personal Economy",
+            "subtitle": "Income and expenses",
+            "text": "Personal economy is about how a person plans and uses their money.",
+            "list": [
+              "income can be salary and pension",
+              "income can be benefits",
+              "expenses include housing",
+              "expenses include food and transport",
+              "good planning yields a better financial situation"
+            ]
+          },
+          {
+            "title": "9. Salaries in Sweden",
+            "subtitle": "What affects salaries",
+            "text": "Salaries are affected by occupation, education, experience, and industry.",
+            "list": [
+              "occupation affects salaries",
+              "education affects salaries",
+              "experience affects salaries",
+              "industry affects salaries",
+              "Sweden has relatively high salaries"
+            ]
+          },
+          {
+            "title": "10. Savings and Loans",
+            "subtitle": "Saving and borrowing money",
+            "text": "Savings help people build financial security, while loans are used for larger purchases.",
+            "list": [
+              "bank accounts are a common way to save",
+              "mutual funds are a common way to save",
+              "stocks are a common way to save",
+              "housing loans are common",
+              "credit purchases can result in high interest costs"
+            ]
+          },
+          {
+            "title": "11. The Swedish Enforcement Authority (Kronofogden)",
+            "subtitle": "Debts and debt relief",
+            "text": "Kronofogden helps collect debts and can assist individuals with severe debt issues through debt restructuring.",
+            "list": [
+              "is a government agency",
+              "ensures that debts are paid",
+              "helps individuals with severe debt",
+              "offers debt restructuring",
+              "supports people with financial problems"
+            ]
+          },
+          {
+            "title": "12. Tax Declaration",
+            "subtitle": "Reporting income",
+            "text": "A tax declaration involves reporting one's income to the Swedish Tax Agency so that the correct tax can be calculated.",
+            "list": [
+              "everyone with an income must file a tax declaration",
+              "sent to the Swedish Tax Agency (Skatteverket)",
+              "shows the year's income",
+              "used to calculate tax",
+              "is an important part of the tax system"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 9,
       "lessonTitle": {
-        "swedish": "Kapitel nio: Välfärdssamhället",
-        "arabic": "الفصل التاسع: مجتمع الرفاهية"
+        "swedish": "Kapitel Nio: 9- Välfärdssamhället",
+        "arabic": "الفصل التاسع: 9- مجتمع الرفاهية",
+        "english": "Chapter Nine: 9- The Welfare Society"
       },
       "sections": {
         "swedish": [
@@ -3518,14 +5162,119 @@
               "البلديات مسؤولة عن المدارس ورياض الأطفال ورعاية المسنين والخدمات الاجتماعية"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. What is the Welfare Society?",
+            "subtitle": "Economic and social security for everyone",
+            "text": "The welfare society means that the state, regions, and municipalities provide residents with security and support through various public services.",
+            "list": [
+              "the goal is for people to be able to live a secure life",
+              "helps during illness, unemployment, and different life situations",
+              "encompasses healthcare, education, and financial support",
+              "includes elderly care and social support"
+            ]
+          },
+          {
+            "title": "2. Taxes Finance the Welfare System",
+            "subtitle": "Money for public services",
+            "text": "Swedish welfare is mainly financed through taxes paid by residents and companies.",
+            "list": [
+              "taxes are used by the state, regions, and municipalities",
+              "finances schools and hospitals",
+              "pays for roads and community services",
+              "contributes to pensions and social support"
+            ]
+          },
+          {
+            "title": "3. Different Types of Taxes",
+            "subtitle": "How taxes are paid",
+            "text": "In Sweden, there are different types of taxes used to finance welfare and the public sector.",
+            "list": [
+              "income tax is paid on wages and income",
+              "VAT (value-added tax) is paid when buying goods and services",
+              "employer contributions are paid by employers",
+              "employer contributions are used for purposes such as pensions and health insurance"
+            ]
+          },
+          {
+            "title": "4. The State's Responsibility for Welfare",
+            "subtitle": "National support and social security systems",
+            "text": "The state is responsible for several financial supports and important parts of education and research.",
+            "list": [
+              "pensions",
+              "health insurance",
+              "parental insurance",
+              "unemployment insurance",
+              "student financial aid",
+              "child allowance",
+              "universities, colleges, and research"
+            ]
+          },
+          {
+            "title": "5. Responsibility of the Regions",
+            "subtitle": "Healthcare for the residents",
+            "text": "Sweden's 21 regions are primarily responsible for healthcare and run healthcare facilities.",
+            "list": [
+              "run hospitals",
+              "run health centers",
+              "responsible for ensuring residents receive care",
+              "finance healthcare"
+            ]
+          },
+          {
+            "title": "6. Different Types of Healthcare",
+            "subtitle": "Care at different levels",
+            "text": "Healthcare is organized into different parts depending on the support and treatment people need.",
+            "list": [
+              "primary care is the first contact with the healthcare system",
+              "health centers and child welfare centers are part of primary care",
+              "hospital care includes surgeries and emergency medical care",
+              "other healthcare includes psychiatry, rehabilitation, and dental care"
+            ]
+          },
+          {
+            "title": "7. Responsibility of the Municipalities",
+            "subtitle": "Service close to the residents",
+            "text": "Sweden's 290 municipalities are responsible for many important services that affect people's daily lives.",
+            "list": [
+              "responsible for preschools and schools",
+              "responsible for compulsory school, upper secondary school, and adult education",
+              "responsible for elderly care",
+              "responsible for social services"
+            ]
+          },
+          {
+            "title": "8. Elderly Care and Social Services",
+            "subtitle": "Support for people who need help",
+            "text": "Municipalities help the elderly and people who need support through elderly care and social services.",
+            "list": [
+              "helps the elderly with cleaning, cooking, and shopping",
+              "can offer elderly housing / nursing homes",
+              "helps people with financial problems",
+              "provides support to people without housing or with disabilities",
+              "can provide counseling and financial assistance"
+            ]
+          },
+          {
+            "title": "9. The Difference Between State, Region, and Municipality",
+            "subtitle": "Three levels in the welfare system",
+            "text": "Responsibility for welfare is divided between the state, the regions, and the municipalities.",
+            "list": [
+              "the state is responsible for pensions, health insurance, child allowance, and universities",
+              "the regions are responsible for healthcare, hospitals, and health centers",
+              "the municipalities are responsible for schools, preschools, elderly care, and social services"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 10,
       "lessonTitle": {
-        "swedish": "Kapitel Tio:10 – Sveriges moderna historia",
-        "arabic": "الفصل العاشر – 10 التاريخ الحديث للسويد"
+        "swedish": "Kapitel Tio: 10 – Sveriges moderna historia",
+        "arabic": "الفصل العاشر: 10- التاريخ الحديث للسويد",
+        "english": "Chapter Ten: 10 – Sweden's Modern History"
       },
       "sections": {
         "swedish": [
@@ -3985,14 +5734,757 @@
               "تطورت السويد إلى دولة عالية التقنية"
             ]
           }
+        ],
+        "english": [
+          {
+            "title": "1. From Agricultural Society to Industrial Society",
+            "subtitle": "Sweden's development from a poor agrarian country to a modern industrial country",
+            "text": "Around 200 years ago, Sweden was a poor agrarian country where nearly the entire population lived in rural areas, working in agriculture and animal husbandry. During the 19th century, Sweden changed rapidly as new machines and industries began to emerge.",
+            "list": [
+              "most people lived in rural areas",
+              "agriculture and animal husbandry were the most important industries",
+              "during the 19th century, Sweden developed from an agricultural society into an industrial society",
+              "many people moved from rural areas to cities to work in factories"
+            ]
+          },
+          {
+            "title": "2. Population Growth and Emigration",
+            "subtitle": "More people were born but many sought a better life in the US",
+            "text": "At the beginning of the 19th century, Sweden had around 2.5 million inhabitants. One hundred years later, the population had doubled, but Sweden was still poor and many people found it difficult to find work.",
+            "list": [
+              "better farming methods increased food production",
+              "medical advances meant fewer children died of diseases",
+              "over one million Swedes left Sweden between 1850 and 1920",
+              "most emigrated to the US to seek a better life"
+            ]
+          },
+          {
+            "title": "3. Industrialization in Sweden",
+            "subtitle": "New industries transformed work and society",
+            "text": "During the mid-19th century, large industries began to emerge in Sweden. Industrialization transformed working life, cities, and infrastructure.",
+            "list": [
+              "sawmills produced wood products",
+              "steel industries became important for the economy",
+              "textile industries and shoe factories created many job opportunities",
+              "engineering industries developed and modernized society"
+            ]
+          },
+          {
+            "title": "4. Sweden's Path to Democracy",
+            "subtitle": "From royal power to popular rule",
+            "text": "Before democracy, the king, the nobility, the church, merchants, and farmers held significant political power. As society changed, more people began to demand political rights.",
+            "list": [
+              "in 1809, a new constitution was adopted that limited the king's power",
+              "in 1865, a new parliament act was introduced",
+              "the old political power of the nobility and the clergy decreased",
+              "women and many men still lacked the right to vote"
+            ]
+          },
+          {
+            "title": "5. The Importance of Popular Movements",
+            "subtitle": "Organizations that fought for democratic rights",
+            "text": "Popular movements helped Sweden develop into a democracy by enabling people to organize and demand political and social changes.",
+            "list": [
+              "the labor movement fought for better working conditions",
+              "the women's movement fought for women's suffrage",
+              "the free church movement worked for religious freedom",
+              "the temperance movement worked against alcohol problems",
+              "they used meetings, demonstrations, and newspapers to exert influence"
+            ]
+          },
+          {
+            "title": "6. The Breakthrough of Democracy",
+            "subtitle": "Universal and equal suffrage was introduced in Sweden",
+            "text": "During the early 20th century, major democratic reforms were implemented, leading to Sweden becoming a democracy where both women and men were allowed to vote.",
+            "list": [
+              "in 1909, almost all men gained the right to vote",
+              "in 1918, a decision was made on universal and equal suffrage",
+              "in 1921, the first parliamentary election was held where both women and men could vote",
+              "women also gained the opportunity to become members of parliament",
+              "in the year 1921, Sweden became a democratic state"
+            ]
+          },
+          {
+            "title": "7. The First World War (1914–1918)",
+            "subtitle": "Sweden was neutral but affected by the war",
+            "text": "Sweden did not participate in the First World War and remained neutral. Despite this, the country suffered from economic problems and a shortage of essential goods.",
+            "list": [
+              "Sweden did not participate in the war",
+              "the country experienced shortages of food and other essential goods",
+              "many people suffered from deteriorating living conditions",
+              "protests and demonstrations occurred during the war"
+            ]
+          },
+          {
+            "title": "8. Modernization and the 'Folkhemmet' (The People's Home)",
+            "subtitle": "Society transformed during the 1920s and 1930s",
+            "text": "During the interwar period, Sweden was modernized through technical development and improved living conditions, but the country still faced major social problems.",
+            "list": [
+              "more people gained access to electricity",
+              "housing conditions improved",
+              "technology developed rapidly",
+              "unemployment was still high",
+              "class differences and conflicts between workers and employers continued"
+            ]
+          },
+          {
+            "title": "9. Ådalen 1931",
+            "subtitle": "A severe conflict between workers and the state",
+            "text": "In 1931, workers demonstrated in Ådalen. The military opened fire on the demonstrators, and several people were killed, making it a significant event in Swedish history.",
+            "list": [
+              "workers demonstrated for better conditions",
+              "the military shot at the demonstrators",
+              "several people were killed",
+              "the event highlighted the major conflicts in the labor market"
+            ]
+          },
+          {
+            "title": "10. The Swedish Model",
+            "subtitle": "Cooperation between employers and trade unions",
+            "text": "The Swedish model is based on employers and trade unions negotiating salaries and working conditions instead of the state deciding directly.",
+            "list": [
+              "in 1938, the Saltsjöbaden Agreement was signed",
+              "the agreement laid the foundation for the Swedish model",
+              "employers and trade unions negotiate salaries",
+              "collective agreements regulate working conditions",
+              "politicians do not decide salary levels directly"
+            ]
+          },
+          {
+            "title": "11. The Idea of 'Folkhemmet'",
+            "subtitle": "A society where everyone would feel secure",
+            "text": "In 1928, the Social Democratic leader Per Albin Hansson presented the idea of 'folkhemmet' (the people's home). The idea was that Sweden should become a society where all people had the opportunity to live a secure and good life.",
+            "list": [
+              "all people should feel secure",
+              "everyone should have the opportunity to live a good life",
+              "class differences should decrease",
+              "society would take greater responsibility for people's welfare"
+            ]
+          },
+          {
+            "title": "12. Sweden's Dark History",
+            "subtitle": "Racism, discrimination, and injustices",
+            "text": "Modern Sweden also had dark chapters in its history. Eugenics research and discrimination affected several minority groups, and certain individuals were subjected to forced institutionalization.",
+            "list": [
+              "eugenics research occurred in Sweden",
+              "Sami, Tornedalians, Jews, and Roma were subjected to discrimination",
+              "people with mental illnesses or disabilities could be placed in institutions",
+              "Sweden has since tried to acknowledge and rectify these injustices"
+            ]
+          },
+          {
+            "title": "13. The Second World War (1939–1945)",
+            "subtitle": "Sweden was neutral but affected by the war",
+            "text": "Sweden was neutral during the Second World War but found itself in difficult situations when Finland was attacked by the Soviet Union and Germany occupied Denmark and Norway.",
+            "list": [
+              "Sweden did not participate directly in the war",
+              "the country was affected by the war surrounding it",
+              "Sweden helped people fleeing from the war",
+              "the policy of neutrality was an important part of Sweden's history"
+            ]
+          },
+          {
+            "title": "14. Sweden's Assistance During the Holocaust",
+            "subtitle": "Efforts to save people during the Second World War",
+            "text": "During the Second World War, Sweden helped many Jews and other individuals who were threatened by Nazi persecution.",
+            "list": [
+              "around 7,000 Danish Jews fled to Sweden",
+              "Raoul Wallenberg helped Jews by issuing protective passports",
+              "the Swedish Red Cross's White Buses saved thousands of people from concentration camps",
+              "Sweden engaged in humanitarian efforts during the war"
+            ]
+          },
+          {
+            "title": "15. The Record Years After the Second World War",
+            "subtitle": "Rapid economic development and higher living standards",
+            "text": "After 1945, Sweden experienced strong economic development. This period is called the record years ('rekordåren') because industry grew rapidly and people's standard of living improved.",
+            "list": [
+              "unemployment was low",
+              "Swedish industry grew vigorously",
+              "people achieved higher living standards",
+              "major social reforms were implemented"
+            ]
+          },
+          {
+            "title": "16. Expansion of the Welfare Society",
+            "subtitle": "Security through social reforms",
+            "text": "During the record years, the Swedish welfare society expanded. The state created systems that provided people with greater security in life.",
+            "list": [
+              "a 40-hour workweek was introduced",
+              "people received more vacation days",
+              "healthcare and elderly care were improved",
+              "child allowance and health insurance were introduced",
+              "the pension system was developed"
+            ]
+          },
+          {
+            "title": "17. Sweden Becomes an Immigration Country",
+            "subtitle": "Labor immigration after the Second World War",
+            "text": "After the Second World War, Sweden transformed from a country where many emigrated to a country where many immigrated. Many immigrants arrived to work in the industrial sector.",
+            "list": [
+              "many came from Finland",
+              "people also came from Greece, Yugoslavia, and Turkey",
+              "many worked in Swedish factories",
+              "immigration contributed to Sweden's economic development"
+            ]
+          },
+          {
+            "title": "18. The Million Programme (Miljonprogrammet)",
+            "subtitle": "A massive investment in new housing",
+            "text": "During the 1960s, the state launched the Million Programme to build one million new homes in ten years. The goal was to solve the housing shortage and create modern homes.",
+            "list": [
+              "one million homes were to be built over ten years",
+              "new residential areas were created",
+              "more people gained access to modern apartments",
+              "neighborhoods were built with schools, shops, and healthcare facilities"
+            ]
+          },
+          {
+            "title": "19. Gender Equality and Cultural Changes",
+            "subtitle": "A more equal society emerges",
+            "text": "During the 20th century, gender equality increased in Sweden. Women gained greater opportunities to work and participate in society.",
+            "list": [
+              "more women began to work",
+              "daycare centers were expanded",
+              "wage gaps between men and women decreased",
+              "young people engaged in efforts for peace, the environment, and international solidarity",
+              "the 'du-reform' meant that people started using the informal 'you' (du) instead of formal titles"
+            ]
+          },
+          {
+            "title": "20. The Information Society and Digital Sweden",
+            "subtitle": "From industrial society to high-tech society",
+            "text": "From the 1970s onward, Sweden was transformed by technological development and globalization. The industrial society evolved into an information and knowledge society.",
+            "list": [
+              "computers and the internet transformed society",
+              "smartphones changed communication and daily life",
+              "digitalization affected work, education, and commerce",
+              "artificial intelligence (AI) is part of the modern digital society",
+              "Sweden developed into a high-tech country"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "lessonId": 11,
+      "lessonTitle": {
+        "swedish": "Kapitel Elva: 11 – Sverige och omvärlden",
+        "arabic": "الفصل الحادي عشر: 11 – السويد والعالم الخارجي",
+        "english": "Chapter Eleven: 11 – Sweden and the Outside World"
+      },
+      "sections": {
+        "swedish": [
+          {
+            "title": "1. Nordiskt och europeiskt samarbete",
+            "subtitle": "Samarbete mellan de nordiska länderna",
+            "text": "Sverige samarbetar med Danmark, Finland, Island och Norge genom olika nordiska organisationer för att utveckla gemensamma lösningar och stärka relationerna mellan länderna.",
+            "list": [
+              "Sverige samarbetar med Danmark, Finland, Island och Norge",
+              "samarbetet sker genom Nordiska rådet",
+              "samarbetet sker också genom Nordiska ministerrådet",
+              "länderna kommer överens om frågor som sedan kan genomföras nationellt"
+            ]
+          },
+          {
+            "title": "2. Europeiska unionen (EU) och Europarådet",
+            "subtitle": "Sveriges medlemskap i europeiska organisationer",
+            "text": "Europeiska unionen är ett politiskt och ekonomiskt samarbete mellan europeiska länder. EU bildades efter andra världskriget för att bevara fred och stabilitet i Europa. Sverige blev medlem i EU år 1995.",
+            "list": [
+              "EU bildades för att bevara fred och förhindra nya krig",
+              "Sverige blev medlem i EU år 1995",
+              "EU-länderna samarbetar inom jordbruk, ekonomi, miljö, handel och migration",
+              "EU fattar gemensamma beslut och lagar som gäller i medlemsländerna"
+            ]
+          },
+          {
+            "title": "3. EU:s fyra friheter",
+            "subtitle": "Fri rörlighet inom Europeiska unionen",
+            "text": "En viktig idé inom EU är att medlemsländerna blir starkare genom samarbete. De fyra friheterna innebär att människor, varor, tjänster och kapital kan röra sig fritt mellan medlemsländerna.",
+            "list": [
+              "fri rörlighet för människor",
+              "fri rörlighet för varor",
+              "fri rörlighet för tjänster",
+              "fri rörlighet för kapital",
+              "EU-medborgare kan arbeta, studera och bo i andra EU-länder"
+            ]
+          },
+          {
+            "title": "4. Europarådet",
+            "subtitle": "Skydd av mänskliga rättigheter och demokrati",
+            "text": "Sverige är medlem i Europarådet, som grundades år 1949. Organisationen arbetar för mänskliga rättigheter, demokrati och rättsstatens principer.",
+            "list": [
+              "Europarådet grundades år 1949",
+              "organisationen arbetar för mänskliga rättigheter",
+              "organisationen främjar demokrati",
+              "organisationen arbetar för rättsstatens principer",
+              "Europadomstolen för de mänskliga rättigheterna är en viktig institution"
+            ]
+          },
+          {
+            "title": "5. Globalt samarbete – Förenta nationerna (FN)",
+            "subtitle": "Internationellt samarbete för fred och säkerhet",
+            "text": "Sverige är medlem i Förenta nationerna (FN), som grundades år 1946. Nästan alla världens länder är medlemmar i organisationen.",
+            "list": [
+              "bevara fred och säkerhet i världen",
+              "lösa konflikter och förhindra krig",
+              "arbeta för alla folks självbestämmande",
+              "skydda mänskliga rättigheter och friheter"
+            ]
+          },
+          {
+            "title": "6. Sveriges internationella utvecklingssamarbete",
+            "subtitle": "Sida och arbetet för global utveckling",
+            "text": "Sida är en svensk statlig myndighet som arbetar för att minska fattigdom, bekämpa förtryck och stödja utveckling i andra länder.",
+            "list": [
+              "minska fattigdom",
+              "bekämpa förtryck",
+              "stödja demokrati och jämställdhet",
+              "främja ekonomisk utveckling",
+              "bidra till hållbara samhällen"
+            ]
+          },
+          {
+            "title": "7. Sveriges långa fredsperiod",
+            "subtitle": "Över 200 år utan krig mot annan stat",
+            "text": "Sverige deltog senast i krig mot en annan stat i början av 1800-talet. Landet har därefter haft en ovanligt lång fredsperiod jämfört med många andra länder.",
+            "list": [
+              "Sveriges senaste krig var mot Ryssland 1808–1809",
+              "Sverige förlorade Finland år 1809",
+              "Finland hade varit en del av Sverige i nästan 700 år",
+              "Norge blev självständigt från unionen med Sverige år 1905"
+            ]
+          },
+          {
+            "title": "8. Kalla kriget",
+            "subtitle": "Världen delades i två maktblock",
+            "text": "Efter andra världskriget delades världen upp i ett västblock under USA och ett östblock under Sovjetunionen. Båda sidor hade starka militära resurser och kärnvapen.",
+            "list": [
+              "västblocket leddes av USA",
+              "östblocket leddes av Sovjetunionen",
+              "Danmark och Norge gick med i Nato",
+              "Sverige valde neutralitet och stod utanför Nato"
+            ]
+          },
+          {
+            "title": "9. Efter kalla kriget",
+            "subtitle": "En ny säkerhetspolitisk situation",
+            "text": "När Sovjetunionen föll år 1991 tog kalla kriget slut. Därefter förändrades Europas politiska situation och Sverige blev medlem i EU år 1995.",
+            "list": [
+              "Sovjetunionen föll år 1991",
+              "kalla kriget tog slut år 1991",
+              "Sverige blev medlem i EU år 1995",
+              "Europa gick in i en ny politisk och säkerhetspolitisk period"
+            ]
+          },
+          {
+            "title": "10. Kriget i Ukraina och Nato",
+            "subtitle": "Sveriges väg till Nato-medlemskap",
+            "text": "När Ryssland angrep Ukraina år 2022 ökade oron för säkerheten i Norden. Sverige och Finland ansökte därför om medlemskap i Nato.",
+            "list": [
+              "Ryssland angrep Ukraina år 2022",
+              "säkerhetsläget i Norden förändrades",
+              "Sverige och Finland ansökte om medlemskap i Nato",
+              "Sverige blev medlem i Nato år 2024"
+            ]
+          },
+          {
+            "title": "11. Sveriges försvar",
+            "subtitle": "Skydd av landet och befolkningen",
+            "text": "Sverige ansvarar för att skydda landets territorium och befolkning mot olika hot och kriser.",
+            "list": [
+              "försvaret ska skydda landet",
+              "försvaret ska skydda befolkningen",
+              "försvaret ska stärka Sveriges säkerhet"
+            ]
+          },
+          {
+            "title": "12. Totalförsvaret",
+            "subtitle": "Militärt och civilt försvar tillsammans",
+            "text": "Totalförsvaret omfattar både det militära och det civila försvaret. Alla som bor i Sverige och är mellan 16 och 70 år kan omfattas av totalförsvarsplikt vid krig eller kris.",
+            "list": [
+              "totalförsvarsplikten gäller personer mellan 16 och 70 år",
+              "totalförsvaret består av militärt försvar och civilt försvar",
+              "syftet är att skydda samhället vid krig och kriser"
+            ]
+          },
+          {
+            "title": "13. Allmän värnplikt",
+            "subtitle": "Militär utbildning för både kvinnor och män",
+            "text": "Den allmänna värnplikten gäller både kvinnor och män från 18 års ålder. Alla genomför inte värnplikten, utan vissa väljs ut efter tester och bedömningar.",
+            "list": [
+              "värnplikten gäller både kvinnor och män",
+              "värnplikten börjar från 18 års ålder",
+              "personer svarar på frågor och genomför tester",
+              "endast vissa väljs ut till militär grundutbildning"
+            ]
+          },
+          {
+            "title": "14. Det civila försvaret",
+            "subtitle": "Samhällsviktiga funktioner under kriser",
+            "text": "Det civila försvaret ska se till att viktiga samhällsfunktioner fortsätter att fungera även under krig, kriser och katastrofer.",
+            "list": [
+              "skolor ska kunna fortsätta fungera",
+              "sjukvården ska fungera under kriser",
+              "arbetsplatser och samhällstjänster ska upprätthållas",
+              "det civila försvaret är en viktig del av totalförsvaret"
+            ]
+          },
+          {
+            "title": "15. Målet med Sveriges försvar",
+            "subtitle": "Ett tryggt och motståndskraftigt samhälle",
+            "text": "Målet med Sveriges försvar är att stärka samhällets motståndskraft och avskräcka möjliga angripare.",
+            "list": [
+              "stärka samhällets motståndskraft",
+              "skydda Sveriges självständighet",
+              "avskräcka möjliga angripare",
+              "öka tryggheten för befolkningen"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. التعاون الإسكندنافي والأوروبي",
+            "subtitle": "التعاون بين دول الشمال الأوروبي",
+            "text": "تتعاون السويد مع الدنمارك وفنلندا وآيسلندا والنرويج من خلال منظمات إسكندنافية مختلفة بهدف تطوير حلول مشتركة وتعزيز العلاقات بين الدول.",
+            "list": [
+              "تتعاون السويد مع الدنمارك وفنلندا وآيسلندا والنرويج",
+              "يتم التعاون من خلال المجلس الإسكندنافي",
+              "ويتم أيضًا من خلال مجلس وزراء دول الشمال",
+              "تتفق الدول على قضايا يتم تنفيذها لاحقًا في كل دولة"
+            ]
+          },
+          {
+            "title": "2. الاتحاد الأوروبي ومجلس أوروبا",
+            "subtitle": "عضوية السويد في المنظمات الأوروبية",
+            "text": "الاتحاد الأوروبي هو تعاون سياسي واقتصادي بين عدة دول أوروبية. تم تأسيسه بعد الحرب العالمية الثانية للحفاظ على السلام والاستقرار في أوروبا. أصبحت السويد عضوًا في الاتحاد الأوروبي عام 1995.",
+            "list": [
+              "تم إنشاء الاتحاد الأوروبي للحفاظ على السلام ومنع الحروب الجديدة",
+              "أصبحت السويد عضوًا في الاتحاد الأوروبي عام 1995",
+              "تتعاون دول الاتحاد في مجالات الزراعة والاقتصاد والبيئة والتجارة والهجرة",
+              "يتخذ الاتحاد الأوروبي قرارات وقوانين مشتركة تسري على جميع الدول الأعضاء"
+            ]
+          },
+          {
+            "title": "3. الحريات الأربع في الاتحاد الأوروبي",
+            "subtitle": "حرية التنقل داخل الاتحاد الأوروبي",
+            "text": "تتمثل إحدى الأفكار المهمة في الاتحاد الأوروبي في أن الدول تصبح أقوى من خلال التعاون. وتشمل الحريات الأربع حرية تنقل الأشخاص والبضائع والخدمات ورأس المال.",
+            "list": [
+              "حرية تنقل الأشخاص",
+              "حرية تنقل البضائع",
+              "حرية تنقل الخدمات",
+              "حرية تنقل رؤوس الأموال",
+              "يمكن لمواطني الاتحاد الأوروبي العمل والدراسة والعيش في دول أخرى داخل الاتحاد"
+            ]
+          },
+          {
+            "title": "4. مجلس أوروبا",
+            "subtitle": "حماية حقوق الإنسان والديمقراطية",
+            "text": "السويد عضو في مجلس أوروبا الذي تأسس عام 1949. تعمل المنظمة من أجل حقوق الإنسان والديمقراطية وسيادة القانون.",
+            "list": [
+              "تأسس مجلس أوروبا عام 1949",
+              "تعمل المنظمة من أجل حقوق الإنسان",
+              "تعزز المنظمة الديمقراطية",
+              "تدعم مبادئ سيادة القانون",
+              "تعد المحكمة الأوروبية لحقوق الإنسان إحدى المؤسسات المهمة"
+            ]
+          },
+          {
+            "title": "5. التعاون العالمي – الأمم المتحدة",
+            "subtitle": "التعاون الدولي من أجل السلام والأمن",
+            "text": "السويد عضو في الأمم المتحدة التي تأسست عام 1946. وتضم المنظمة تقريبًا جميع دول العالم.",
+            "list": [
+              "الحفاظ على السلام والأمن في العالم",
+              "حل النزاعات ومنع الحروب",
+              "العمل من أجل حق الشعوب في تقرير مصيرها",
+              "حماية حقوق الإنسان والحريات"
+            ]
+          },
+          {
+            "title": "6. التعاون السويدي للتنمية الدولية",
+            "subtitle": "هيئة سيدا والعمل من أجل التنمية العالمية",
+            "text": "سيدا هي هيئة حكومية سويدية تعمل على الحد من الفقر ومكافحة القمع ودعم التنمية في الدول الأخرى.",
+            "list": [
+              "الحد من الفقر",
+              "مكافحة القمع",
+              "دعم الديمقراطية والمساواة بين الجنسين",
+              "تعزيز التنمية الاقتصادية",
+              "المساهمة في بناء مجتمعات مستدامة"
+            ]
+          },
+          {
+            "title": "7. فترة السلام الطويلة في السويد",
+            "subtitle": "أكثر من 200 عام دون حرب مع دولة أخرى",
+            "text": "كانت آخر مرة شاركت فيها السويد في حرب ضد دولة أخرى في بداية القرن التاسع عشر. ومنذ ذلك الحين تمتعت البلاد بفترة سلام طويلة مقارنة بالعديد من الدول الأخرى.",
+            "list": [
+              "كانت آخر حرب للسويد ضد روسيا بين عامي 1808 و1809",
+              "فقدت السويد فنلندا عام 1809",
+              "كانت فنلندا جزءًا من السويد لمدة تقارب 700 عام",
+              "أصبحت النرويج مستقلة عن الاتحاد مع السويد عام 1905"
+            ]
+          },
+          {
+            "title": "8. الحرب الباردة",
+            "subtitle": "انقسام العالم إلى كتلتين",
+            "text": "بعد الحرب العالمية الثانية انقسم العالم إلى كتلة غربية بقيادة الولايات المتحدة وكتلة شرقية بقيادة الاتحاد السوفيتي. وكان لدى الطرفين قوى عسكرية كبيرة وأسـلحة نووية.",
+            "list": [
+              "كانت الكتلة الغربية بقيادة الولايات المتحدة",
+              "كانت الكتلة الشرقية بقيادة الاتحاد السوفيتي",
+              "انضمت الدنمارك والنرويج إلى حلف الناتو",
+              "اختارت السويد الحياد والبقاء خارج الناتو"
+            ]
+          },
+          {
+            "title": "9. بعد الحرب الباردة",
+            "subtitle": "وضع جديد للسياسة الأمنية",
+            "text": "عندما سقط الاتحاد السوفيتي عام 1991 انتهت الحرب الباردة. وبعد ذلك تغير الوضع السياسي في أوروبا وأصبحت السويد عضوًا في الاتحاد الأوروبي عام 1995.",
+            "list": [
+              "سقط الاتحاد السوفيتي عام 1991",
+              "انتهت الحرب الباردة عام 1991",
+              "أصبحت السويد عضوًا في الاتحاد الأوروبي عام 1995",
+              "دخلت أوروبا مرحلة سياسية وأمنية جديدة"
+            ]
+          },
+          {
+            "title": "10. الحرب في أوكرانيا وحلف الناتو",
+            "subtitle": "طريق السويد نحو عضوية الناتو",
+            "text": "عندما هاجمت روسيا أوكرانيا عام 2022 ازداد القلق بشأن الأمن في منطقة الشمال الأوروبي. لذلك تقدمت السويد وفنلندا بطلب الانضمام إلى حلف الناتو.",
+            "list": [
+              "هاجمت روسيا أوكرانيا عام 2022",
+              "تغير الوضع الأمني في شمال أوروبا",
+              "قدمت السويد وفنلندا طلب الانضمام إلى الناتو",
+              "أصبحت السويد عضوًا في الناتو عام 2024"
+            ]
+          },
+          {
+            "title": "11. الدفاع السويدي",
+            "subtitle": "حماية البلاد والسكان",
+            "text": "تتحمل السويد مسؤولية حماية أراضيها وسكانها من مختلف التهديدات والأزمات.",
+            "list": [
+              "يهدف الدفاع إلى حماية البلاد",
+              "يهدف الدفاع إلى حماية السكان",
+              "يهدف الدفاع إلى تعزيز أمن السويد"
+            ]
+          },
+          {
+            "title": "12. الدفاع الشامل",
+            "subtitle": "التعاون بين الدفاع العسكري والمدني",
+            "text": "يشمل الدفاع الشامل كلًا من الدفاع العسكري والدفاع المدني. ويمكن أن تشمل واجبات الدفاع جميع المقيمين في السويد الذين تتراوح أعمارهم بين 16 و70 عامًا في حالات الحرب أو الأزمات.",
+            "list": [
+              "تشمل واجبات الدفاع الشامل الأشخاص بين 16 و70 عامًا",
+              "يتكون الدفاع الشامل من دفاع عسكري ودفاع مدني",
+              "الهدف هو حماية المجتمع أثناء الحروب والأزمات"
+            ]
+          },
+          {
+            "title": "13. الخدمة العسكرية الإلزامية",
+            "subtitle": "التدريب العسكري للنساء والرجال",
+            "text": "تنطبق الخدمة العسكرية الإلزامية على كل من النساء والرجال ابتداءً من سن 18 عامًا. ولا يؤدي الجميع الخدمة العسكرية، بل يتم اختيار بعض الأشخاص بعد الاختبارات والتقييمات.",
+            "list": [
+              "تنطبق الخدمة العسكرية على النساء والرجال",
+              "تبدأ الخدمة العسكرية من سن 18 عامًا",
+              "يجيب الأشخاص عن أسئلة ويخضعون لاختبارات",
+              "يتم اختيار بعض الأشخاص فقط للتدريب العسكري الأساسي"
+            ]
+          },
+          {
+            "title": "14. الدفاع المدني",
+            "subtitle": "استمرار الخدمات الأساسية أثناء الأزمات",
+            "text": "يهدف الدفاع المدني إلى ضمان استمرار عمل الوظائف المهمة في المجتمع حتى أثناء الحروب والأزمات والكوارث.",
+            "list": [
+              "يجب أن تستمر المدارس في العمل",
+              "يجب أن تستمر الرعاية الصحية أثناء الأزمات",
+              "يجب الحفاظ على أماكن العمل والخدمات المجتمعية",
+              "يعد الدفاع المدني جزءًا مهمًا من الدفاع الشامل"
+            ]
+          },
+          {
+            "title": "15. هدف الدفاع السويدي",
+            "subtitle": "مجتمع آمن وقادر على الصمود",
+            "text": "يهدف الدفاع السويدي إلى تعزيز قدرة المجتمع على الصمود وردع أي مهاجمين محتملين.",
+            "list": [
+              "تعزيز قدرة المجتمع على الصمود",
+              "حماية استقلال السويد",
+              "ردع المهاجمين المحتملين",
+              "زيادة الأمن والطمأنينة للسكان"
+            ]
+          }
+        ],
+        "english": [
+          {
+            "title": "1. Nordic and European Cooperation",
+            "subtitle": "Cooperation between the Nordic countries",
+            "text": "Sweden cooperates with Denmark, Finland, Iceland, and Norway through various Nordic organizations to develop common solutions and strengthen relations between the countries.",
+            "list": [
+              "Sweden cooperates with Denmark, Finland, Iceland, and Norway",
+              "cooperation takes place through the Nordic Council",
+              "cooperation also takes place through the Nordic Council of Ministers",
+              "the countries reach agreements on issues that can then be implemented nationally"
+            ]
+          },
+          {
+            "title": "2. The European Union (EU) and the Council of Europe",
+            "subtitle": "Sweden's membership in European organizations",
+            "text": "The European Union is a political and economic cooperation between European countries. The EU was formed after the Second World War to preserve peace and stability in Europe. Sweden became a member of the EU in 1995.",
+            "list": [
+              "the EU was formed to preserve peace and prevent new wars",
+              "Sweden became a member of the EU in 1995",
+              "EU countries cooperate in agriculture, economy, environment, trade, and migration",
+              "the EU makes joint decisions and laws that apply in the member states"
+            ]
+          },
+          {
+            "title": "3. The EU's Four Freedoms",
+            "subtitle": "Free movement within the European Union",
+            "text": "An important idea within the EU is that the member states become stronger through cooperation. The four freedoms mean that people, goods, services, and capital can move freely between member states.",
+            "list": [
+              "free movement of people",
+              "free movement of goods",
+              "free movement of services",
+              "free movement of capital",
+              "EU citizens can work, study, and live in other EU countries"
+            ]
+          },
+          {
+            "title": "4. The Council of Europe",
+            "subtitle": "Protection of human rights and democracy",
+            "text": "Sweden is a member of the Council of Europe, which was founded in 1949. The organization works for human rights, democracy, and the principles of the rule of law.",
+            "list": [
+              "the Council of Europe was founded in 1949",
+              "the organization works for human rights",
+              "the organization promotes democracy",
+              "the organization works for the principles of the rule of law",
+              "the European Court of Human Rights is an important institution"
+            ]
+          },
+          {
+            "title": "5. Global Cooperation – The United Nations (UN)",
+            "subtitle": "International cooperation for peace and security",
+            "text": "Sweden is a member of the United Nations (UN), which was founded in 1946. Almost all the world's countries are members of the organization.",
+            "list": [
+              "preserve peace and security in the world",
+              "resolve conflicts and prevent war",
+              "work for the self-determination of all peoples",
+              "protect human rights and freedoms"
+            ]
+          },
+          {
+            "title": "6. Sweden's International Development Cooperation",
+            "subtitle": "Sida and the work for global development",
+            "text": "Sida is a Swedish government agency that works to reduce poverty, fight oppression, and support development in other countries.",
+            "list": [
+              "reduce poverty",
+              "fight oppression",
+              "support democracy and gender equality",
+              "promote economic development",
+              "contribute to sustainable societies"
+            ]
+          },
+          {
+            "title": "7. Sweden's Long Period of Peace",
+            "subtitle": "Over 200 years without war against another state",
+            "text": "Sweden last participated in a war against another state in the early 19th century. The country has since had an unusually long period of peace compared to many other countries.",
+            "list": [
+              "Sweden's last war was against Russia in 1808–1809",
+              "Sweden lost Finland in 1809",
+              "Finland had been a part of Sweden for nearly 700 years",
+              "Norway became independent from the union with Sweden in 1905"
+            ]
+          },
+          {
+            "title": "8. The Cold War",
+            "subtitle": "The world was divided into two power blocs",
+            "text": "After the Second World War, the world was divided into a Western bloc led by the US and an Eastern bloc led by the Soviet Union. Both sides possessed strong military resources and nuclear weapons.",
+            "list": [
+              "the Western bloc was led by the US",
+              "the Eastern bloc was led by the Soviet Union",
+              "Denmark and Norway joined NATO",
+              "Sweden chose neutrality and stayed out of NATO"
+            ]
+          },
+          {
+            "title": "9. After the Cold War",
+            "subtitle": "A new security policy situation",
+            "text": "When the Soviet Union fell in 1991, the Cold War came to an end. Following this, Europe's political situation transformed, and Sweden became a member of the EU in 1995.",
+            "list": [
+              "the Soviet Union fell in 1991",
+              "the Cold War ended in 1991",
+              "Sweden became a member of the EU in 1995",
+              "Europe entered a new political and security policy period"
+            ]
+          },
+          {
+            "title": "10. The War in Ukraine and NATO",
+            "subtitle": "Sweden's path to NATO membership",
+            "text": "When Russia attacked Ukraine in 2022, security concerns grew in the Nordic region. Sweden and Finland consequently applied for membership in NATO.",
+            "list": [
+              "Russia attacked Ukraine in 2022",
+              "the security situation in the Nordic region changed",
+              "Sweden and Finland applied for membership in NATO",
+              "Sweden became a member of NATO in 2024"
+            ]
+          },
+          {
+            "title": "11. Sweden's Defense",
+            "subtitle": "Protection of the country and the population",
+            "text": "Sweden is responsible for protecting the country's territory and population against various threats and crises.",
+            "list": [
+              "the defense forces shall protect the country",
+              "the defense forces shall protect the population",
+              "the defense forces shall strengthen Sweden's security"
+            ]
+          },
+          {
+            "title": "12. The Total Defense",
+            "subtitle": "Military and civil defense together",
+            "text": "The total defense encompasses both military and civil defense. Everyone living in Sweden between the ages of 16 and 70 can be subject to total defense duty during war or crisis.",
+            "list": [
+              "the total defense duty applies to individuals between 16 and 70 years of age",
+              "the total defense consists of military defense and civil defense",
+              "the purpose is to protect society during war and crises"
+            ]
+          },
+          {
+            "title": "13. Universal Conscription",
+            "subtitle": "Military training for both women and men",
+            "text": "Universal conscription applies to both women and men from the age of 18. Not everyone undergoes conscription; instead, individuals are selected following tests and assessments.",
+            "list": [
+              "conscription applies to both women and men",
+              "conscription begins from 18 years of age",
+              "individuals answer questionnaires and complete tests",
+              "only certain individuals are selected for basic military training"
+            ]
+          },
+          {
+            "title": "14. Civil Defense",
+            "subtitle": "Critical societal functions during crises",
+            "text": "Civil defense ensures that essential societal functions continue to operate even during war, crises, and disasters.",
+            "list": [
+              "schools must be able to continue operating",
+              "healthcare must function during crises",
+              "workplaces and public services must be maintained",
+              "civil defense is an important part of the total defense"
+            ]
+          },
+          {
+            "title": "15. The Goal of Sweden's Defense",
+            "subtitle": "A secure and resilient society",
+            "text": "The goal of Sweden's defense is to strengthen society's resilience and deter potential aggressors.",
+            "list": [
+              "strengthen society's resilience",
+              "protect Sweden's independence",
+              "deter potential aggressors",
+              "increase security for the population"
+            ]
+          }
         ]
       }
     },
     {
       "lessonId": 5,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel Elva: 11 – Sverige och omvärlden",
+        "arabic": "الفصل الحادي عشر: 11 – السويد والعالم الخارجي"
       },
       "sections": {
         "swedish": [],
@@ -4007,7 +6499,8 @@
       },
       "sections": {
         "swedish": [],
-        "arabic": []
+        "arabic": [],
+        "english": []
       }
     }
   ]

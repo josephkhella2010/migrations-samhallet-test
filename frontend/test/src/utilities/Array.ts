@@ -3,6 +3,7 @@ import type { LanguageDropDownType, QuestionArrType } from "./Interfaces";
 export const languageDropDown: LanguageDropDownType[] = [
   { name: "sv", title: "SV", url: "/foto/sv.webp" },
   { name: "ar", title: "AR", url: "/foto/eg.webp" },
+  { name: "en", title: "EN", url: "/foto/en.webp" },
 ];
 
 export const chapterTitles = [
