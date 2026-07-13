@@ -589,7 +589,10 @@ export default function QuestionDetails() {
   const currentAnswerState = userAnswers[currentIndex];
 
   const isAnswered = !!currentAnswerState?.isRadioChecked;
-  console.log(isAnswered);
+  console.log("isAnswered", isAnswered);
+  console.log("questions", questions);
+
+  /* function */
 
   useEffect(() => {
     if (id) {
