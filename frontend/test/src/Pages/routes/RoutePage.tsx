@@ -14,13 +14,15 @@ export default function RoutesPage() {
   const { isLoading } = useSelector(
     (state: RootState) => state.LoadAndErrorSlice,
   );
+  // Hide loading only on home page
+  const showLoading = isLoading && location.pathname !== "/";
   return (
     <div>
       <Router>
         <ToastContainer />
         <NavigationContainer />
 
-        {isLoading && <LoadingPage />}
+        {showLoading && <LoadingPage />}
 
         <Routes>
           <Route path="/" element={<HomePage />} />

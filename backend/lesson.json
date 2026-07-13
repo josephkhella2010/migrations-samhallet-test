@@ -6481,26 +6481,801 @@
       }
     },
     {
-      "lessonId": 5,
+      "lessonId": 12,
       "lessonTitle": {
-        "swedish": "Kapitel Elva: 11 – Sverige och omvärlden",
-        "arabic": "الفصل الحادي عشر: 11 – السويد والعالم الخارجي"
+        "swedish": "Kapitel Tolv:  12 – En sekulär stat och ett mångreligiöst land",
+        "arabic": "الفصل الثاني عشر: 12 – دولة علمانية وبلد متعدد الأديان",
+        "english": "Chapter Twelve: 12 – A Secular State and a Multireligious Country"
       },
       "sections": {
-        "swedish": [],
-        "arabic": []
+        "swedish": [
+          {
+            "title": "1. Sverige är en sekulär stat",
+            "subtitle": "Religiös neutralitet och frihet att välja tro",
+            "text": "Sverige är en sekulär stat, vilket innebär att staten är religiöst neutral och respekterar människors rätt att själva välja religion eller att inte ha någon religion alls.",
+            "list": [
+              "staten stödjer inte någon särskild religion",
+              "staten diskriminerar inte någon religion",
+              "människor får tro på vilken religion de vill",
+              "människor får byta religion",
+              "människor har rätt att inte tillhöra någon religion"
+            ]
+          },
+          {
+            "title": "2. Religionsfrihet i Sverige",
+            "subtitle": "Utvecklingen från statskyrka till full religionsfrihet",
+            "text": "Under lång tid var den protestantiska lutherska kyrkan den enda tillåtna religionen i Sverige. Med tiden infördes större religionsfrihet och människor fick rätt att själva välja sin tro.",
+            "list": [
+              "förr fanns ingen full religionsfrihet",
+              "år 1860 fick svenskar lämna Svenska kyrkan men måste gå med i ett annat kristet samfund",
+              "år 1951 infördes full religionsfrihet",
+              "människor fick rätt att avstå från religion helt",
+              "år 2000 skildes Svenska kyrkan från staten"
+            ]
+          },
+          {
+            "title": "3. Religionsfrihet i grundlagen",
+            "subtitle": "Skydd för religionsfrihet och mot diskriminering",
+            "text": "Enligt Sveriges grundlag har alla människor rätt att utöva sin religion, uttrycka sin tro och skyddas mot diskriminering på grund av religion eller livsåskådning.",
+            "list": [
+              "alla har rätt att utöva sin religion",
+              "alla har rätt att uttrycka sin tro",
+              "ingen får diskrimineras på grund av religion",
+              "ingen får diskrimineras på grund av tro eller religiös uppfattning"
+            ]
+          },
+          {
+            "title": "4. Religionsundervisning i skolan",
+            "subtitle": "Kunskap om religioner och livsåskådningar",
+            "text": "Religionsundervisningen i skolan ska ge elever kunskap om olika religioner och livsåskådningar från hela världen för att skapa förståelse och respekt.",
+            "list": [
+              "elever lär sig om olika religioner",
+              "undervisningen tar upp olika livsåskådningar",
+              "målet är att skapa förståelse",
+              "undervisningen ska bidra till tolerans",
+              "respekt för människors olikheter är viktig"
+            ]
+          },
+          {
+            "title": "5. Religionens roll i Sverige",
+            "subtitle": "Religionens förändrade betydelse i samhället",
+            "text": "Kristendomen har påverkat Sverige under flera hundra år och många traditioner har religiösa rötter. Samtidigt har religionens roll i samhället förändrats och Sverige har blivit mer mångreligiöst.",
+            "list": [
+              "kristna traditioner som jul och påsk är fortfarande vanliga",
+              "många deltar i religiösa traditioner utan att vara religiösa",
+              "religionens betydelse i samhället har minskat jämfört med tidigare",
+              "invandring har ökat den religiösa mångfalden",
+              "nästan alla världens religioner finns representerade i Sverige"
+            ]
+          },
+          {
+            "title": "6. Kristendom i Sverige",
+            "subtitle": "Den största religionen och Svenska kyrkans betydelse",
+            "text": "Kristendomen är världens största religion och har haft stor betydelse för Sveriges historia och kultur. Svenska kyrkan har sina rötter i den lutherska protestantiska traditionen.",
+            "list": [
+              "de viktigaste kristna riktningarna är protestantism, katolicism och ortodox kristendom",
+              "Svenska kyrkan har cirka fem miljoner medlemmar",
+              "före 1500-talet var Sverige ett katolskt land",
+              "Sverige har cirka 3 000 medeltida kyrkor"
+            ]
+          },
+          {
+            "title": "7. Judendom i Sverige",
+            "subtitle": "Judarnas historia och rättigheter i Sverige",
+            "text": "Judar började bosätta sig i Sverige under 1700-talet och fick fullständiga medborgerliga rättigheter år 1870. Idag finns judiska församlingar och verksamheter i landet.",
+            "list": [
+              "judar började bosätta sig i Sverige under 1700-talet",
+              "år 1870 fick judar fullständiga medborgerliga rättigheter",
+              "det finns judiska församlingar och synagogor",
+              "judiska verksamheter bevarar kultur och tradition",
+              "judendomen är den minsta av världsreligionerna"
+            ]
+          },
+          {
+            "title": "8. Hinduism och buddhism i Sverige",
+            "subtitle": "Religioner som växte genom invandring och kulturutbyte",
+            "text": "Kontakten med hinduism och buddhism ökade under 1900-talet genom resor, meditation och yoga. Idag finns många hinduer och buddhister i Sverige.",
+            "list": [
+              "intresset ökade genom resor till Asien",
+              "meditation och yoga bidrog till ökad kunskap",
+              "många hinduer och buddhister har kommit genom invandring",
+              "det finns hinduiska och buddhistiska tempel",
+              "religiösa föreningar och högtider finns i hela landet"
+            ]
+          },
+          {
+            "title": "9. Islam i Sverige",
+            "subtitle": "Sveriges näst största religion",
+            "text": "I början av 1900-talet fanns endast ett fåtal muslimer i Sverige, men efter andra världskriget ökade antalet genom invandring. Idag är islam Sveriges näst största religion.",
+            "list": [
+              "antalet muslimer ökade efter andra världskriget",
+              "de första moskéerna byggdes under 1970-talet",
+              "det finns moskéer och muslimska organisationer över hela landet",
+              "de två största riktningarna är sunni och shia",
+              "församlingarna erbjuder bön, undervisning och gemenskap",
+              "muslimska församlingar arbetar för att bevara kultur och tradition"
+            ]
+          }
+        ],
+        "arabic": [
+          {
+            "title": "1. السويد دولة علمانية",
+            "subtitle": "الحياد الديني وحرية اختيار المعتقد",
+            "text": "السويد دولة علمانية، وهذا يعني أن الدولة محايدة دينيًا وتحترم حق الناس في اختيار دينهم أو عدم الانتماء إلى أي دين.",
+            "list": [
+              "لا تدعم الدولة أي دين معين",
+              "لا تمارس الدولة التمييز ضد أي دين",
+              "للناس الحق في اعتناق أي دين يريدونه",
+              "للناس الحق في تغيير دينهم",
+              "للناس الحق في عدم الانتماء إلى أي دين"
+            ]
+          },
+          {
+            "title": "2. حرية الدين في السويد",
+            "subtitle": "التطور من كنيسة الدولة إلى الحرية الدينية الكاملة",
+            "text": "لفترة طويلة كانت الكنيسة اللوثرية البروتستانتية هي الدين الوحيد المسموح به في السويد. ومع مرور الوقت تم إقرار حرية دينية أكبر وأصبح للناس الحق في اختيار معتقدهم بحرية.",
+            "list": [
+              "في السابق لم تكن هناك حرية دينية كاملة",
+              "في عام 1860 سُمح للسويديين بمغادرة الكنيسة السويدية لكن كان عليهم الانضمام إلى طائفة مسيحية أخرى",
+              "في عام 1951 تم إقرار الحرية الدينية الكاملة",
+              "أصبح للناس الحق في عدم اتباع أي دين",
+              "في عام 2000 تم فصل الكنيسة السويدية عن الدولة"
+            ]
+          },
+          {
+            "title": "3. حرية الدين في الدستور",
+            "subtitle": "حماية الحرية الدينية ومنع التمييز",
+            "text": "وفقًا للدستور السويدي، يحق لجميع الأشخاص ممارسة دينهم والتعبير عن معتقداتهم، كما يحظر التمييز على أساس الدين أو المعتقد.",
+            "list": [
+              "لكل شخص الحق في ممارسة دينه",
+              "لكل شخص الحق في التعبير عن معتقداته",
+              "لا يجوز التمييز ضد أي شخص بسبب دينه",
+              "لا يجوز التمييز بسبب المعتقد أو الرأي الديني"
+            ]
+          },
+          {
+            "title": "4. التعليم الديني في المدارس",
+            "subtitle": "التعرف على الأديان والمعتقدات المختلفة",
+            "text": "يهدف تعليم الدين في المدارس إلى تزويد الطلاب بالمعرفة حول مختلف الأديان والمعتقدات في العالم من أجل تعزيز الفهم والاحترام المتبادل.",
+            "list": [
+              "يتعلم الطلاب عن الأديان المختلفة",
+              "يشمل التعليم المعتقدات ووجهات النظر المختلفة للحياة",
+              "الهدف هو تعزيز الفهم بين الناس",
+              "يساهم التعليم في نشر التسامح",
+              "احترام الاختلافات بين الناس أمر مهم"
+            ]
+          },
+          {
+            "title": "5. دور الدين في السويد",
+            "subtitle": "تغير أهمية الدين في المجتمع",
+            "text": "أثر الدين المسيحي في السويد لعدة قرون، ولا تزال العديد من التقاليد ذات جذور دينية. وفي الوقت نفسه، تغير دور الدين في المجتمع وأصبحت السويد أكثر تنوعًا دينيًا.",
+            "list": [
+              "لا تزال التقاليد المسيحية مثل عيد الميلاد وعيد الفصح شائعة",
+              "يشارك كثير من الناس في التقاليد الدينية دون اعتبار أنفسهم متدينين",
+              "انخفضت أهمية الدين في المجتمع مقارنة بالماضي",
+              "زادت الهجرة من التنوع الديني",
+              "توجد اليوم تقريبًا جميع الأديان العالمية في السويد"
+            ]
+          },
+          {
+            "title": "6. المسيحية في السويد",
+            "subtitle": "أكبر ديانة وأهمية الكنيسة السويدية",
+            "text": "المسيحية هي أكبر ديانة في العالم، وكان لها تأثير كبير على تاريخ السويد وثقافتها. وتعود جذور الكنيسة السويدية إلى التقليد البروتستانتي اللوثري.",
+            "list": [
+              "أهم الاتجاهات المسيحية هي البروتستانتية والكاثوليكية والمسيحية الأرثوذكسية",
+              "يبلغ عدد أعضاء الكنيسة السويدية حوالي خمسة ملايين عضو",
+              "قبل القرن السادس عشر كانت السويد دولة كاثوليكية",
+              "يوجد في السويد حوالي 3000 كنيسة من العصور الوسطى"
+            ]
+          },
+          {
+            "title": "7. اليهودية في السويد",
+            "subtitle": "تاريخ اليهود وحقوقهم في السويد",
+            "text": "بدأ اليهود بالاستقرار في السويد خلال القرن الثامن عشر، وحصلوا على حقوق مدنية كاملة عام 1870. ويوجد اليوم العديد من المؤسسات والجمعيات اليهودية في البلاد.",
+            "list": [
+              "بدأ اليهود بالاستقرار في السويد خلال القرن الثامن عشر",
+              "في عام 1870 حصل اليهود على حقوق مدنية كاملة",
+              "توجد جماعات يهودية ومعابد يهودية في السويد",
+              "تعمل المؤسسات اليهودية على الحفاظ على الثقافة والتقاليد",
+              "تعد اليهودية أصغر الديانات العالمية الرئيسية"
+            ]
+          },
+          {
+            "title": "8. الهندوسية والبوذية في السويد",
+            "subtitle": "أديان انتشرت من خلال الهجرة والتبادل الثقافي",
+            "text": "ازداد الاهتمام بالهندوسية والبوذية خلال القرن العشرين من خلال السفر إلى آسيا والاهتمام بالتأمل واليوغا. ويوجد اليوم العديد من الهندوس والبوذيين في السويد.",
+            "list": [
+              "ازداد الاهتمام بهذه الأديان من خلال السفر إلى آسيا",
+              "ساهم التأمل واليوغا في زيادة المعرفة بها",
+              "وصل العديد من الهندوس والبوذيين إلى السويد عن طريق الهجرة",
+              "توجد معابد هندوسية وبوذية في السويد",
+              "توجد جمعيات دينية واحتفالات دينية في مختلف أنحاء البلاد"
+            ]
+          },
+          {
+            "title": "9. الإسلام في السويد",
+            "subtitle": "ثاني أكبر ديانة في السويد",
+            "text": "في بداية القرن العشرين كان عدد المسلمين في السويد قليلًا، لكن بعد الحرب العالمية الثانية ازداد العدد بسبب الهجرة. واليوم يُعد الإسلام ثاني أكبر ديانة في السويد.",
+            "list": [
+              "ازداد عدد المسلمين بعد الحرب العالمية الثانية",
+              "تم بناء أول المساجد في سبعينيات القرن العشرين",
+              "توجد مساجد ومنظمات إسلامية في جميع أنحاء البلاد",
+              "أهم المذاهب الإسلامية هما السنة والشيعة",
+              "تقدم الجمعيات الإسلامية الصلاة والتعليم والتواصل الاجتماعي",
+              "تعمل المؤسسات الإسلامية على الحفاظ على الثقافة والتقاليد الإسلامية"
+            ]
+          }
+        ],
+        "english": [
+          {
+            "title": "1. Sweden is a Secular State",
+            "subtitle": "Religious neutrality and freedom of belief",
+            "text": "Sweden is a secular state, which means that the state is religiously neutral and respects people's right to choose their religion or not belong to any religion at all.",
+            "list": [
+              "the state does not support any particular religion",
+              "the state does not discriminate against any religion",
+              "people have the right to believe in any religion they choose",
+              "people have the right to change their religion",
+              "people have the right not to belong to any religion"
+            ]
+          },
+          {
+            "title": "2. Freedom of Religion in Sweden",
+            "subtitle": "The development from a state church to full religious freedom",
+            "text": "For a long time, the Protestant Lutheran Church was the only permitted religion in Sweden. Over time, greater religious freedom was introduced, and people gained the right to choose their beliefs freely.",
+            "list": [
+              "in the past there was no full freedom of religion",
+              "in 1860 Swedes were allowed to leave the Church of Sweden but had to join another Christian denomination",
+              "full freedom of religion was introduced in 1951",
+              "people gained the right to abstain from religion completely",
+              "in 2000 the Church of Sweden was separated from the state"
+            ]
+          },
+          {
+            "title": "3. Freedom of Religion in the Constitution",
+            "subtitle": "Protection of religious freedom and against discrimination",
+            "text": "According to the Swedish Constitution, everyone has the right to practice their religion, express their beliefs, and be protected from discrimination based on religion or belief.",
+            "list": [
+              "everyone has the right to practice their religion",
+              "everyone has the right to express their beliefs",
+              "no one may be discriminated against because of religion",
+              "no one may be discriminated against because of faith or religious beliefs"
+            ]
+          },
+          {
+            "title": "4. Religious Education in Schools",
+            "subtitle": "Knowledge about religions and worldviews",
+            "text": "Religious education in schools aims to provide students with knowledge about different religions and worldviews from around the world in order to promote understanding and respect.",
+            "list": [
+              "students learn about different religions",
+              "education includes various worldviews and beliefs",
+              "the goal is to promote understanding",
+              "religious education contributes to tolerance",
+              "respect for differences between people is important"
+            ]
+          },
+          {
+            "title": "5. The Role of Religion in Sweden",
+            "subtitle": "The changing importance of religion in society",
+            "text": "Christianity has influenced Sweden for several centuries, and many traditions still have religious roots. At the same time, the role of religion in society has changed, and Sweden has become more religiously diverse.",
+            "list": [
+              "Christian traditions such as Christmas and Easter are still common",
+              "many people participate in religious traditions without considering themselves religious",
+              "the importance of religion in society has decreased compared to the past",
+              "immigration has increased religious diversity",
+              "today almost all major world religions are represented in Sweden"
+            ]
+          },
+          {
+            "title": "6. Christianity in Sweden",
+            "subtitle": "The largest religion and the importance of the Church of Sweden",
+            "text": "Christianity is the world's largest religion and has had a major influence on Swedish history and culture. The Church of Sweden has its roots in the Lutheran Protestant tradition.",
+            "list": [
+              "the main Christian branches are Protestantism, Catholicism, and Orthodox Christianity",
+              "the Church of Sweden has approximately five million members",
+              "before the 16th century Sweden was a Catholic country",
+              "there are approximately 3,000 medieval churches in Sweden"
+            ]
+          },
+          {
+            "title": "7. Judaism in Sweden",
+            "subtitle": "The history and rights of Jews in Sweden",
+            "text": "Jews began settling in Sweden during the 18th century and received full civil rights in 1870. Today there are Jewish communities and organizations throughout the country.",
+            "list": [
+              "Jews began settling in Sweden during the 18th century",
+              "in 1870 Jews received full civil rights",
+              "there are Jewish congregations and synagogues in Sweden",
+              "Jewish organizations preserve culture and traditions",
+              "Judaism is the smallest of the major world religions"
+            ]
+          },
+          {
+            "title": "8. Hinduism and Buddhism in Sweden",
+            "subtitle": "Religions that grew through immigration and cultural exchange",
+            "text": "Interest in Hinduism and Buddhism increased during the 20th century through travel to Asia and interest in meditation and yoga. Today many Hindus and Buddhists live in Sweden.",
+            "list": [
+              "interest increased through travel to Asia",
+              "meditation and yoga contributed to greater awareness",
+              "many Hindus and Buddhists came to Sweden through immigration",
+              "there are Hindu and Buddhist temples in Sweden",
+              "religious associations and celebrations exist throughout the country"
+            ]
+          },
+          {
+            "title": "9. Islam in Sweden",
+            "subtitle": "The second largest religion in Sweden",
+            "text": "At the beginning of the 20th century there were only a few Muslims in Sweden, but after the Second World War the number increased through immigration. Today Islam is the second largest religion in Sweden.",
+            "list": [
+              "the number of Muslims increased after the Second World War",
+              "the first mosques were built during the 1970s",
+              "there are mosques and Muslim organizations throughout the country",
+              "the two main branches are Sunni and Shia Islam",
+              "Muslim communities provide prayer, education, and social support",
+              "Islamic organizations help preserve Muslim culture and traditions"
+            ]
+          }
+        ]
       }
     },
     {
       "lessonId": 5,
       "lessonTitle": {
-        "swedish": "Kapitel ett: 3 Landet Sverige",
-        "arabic": "الفصل الأول: دولة السويد"
+        "swedish": "Kapitel Treton: 13 - Traditioner och högtider",
+        "arabic": "الفصل الثالث عشر: 13 - التقاليد والأعياد",
+        "english": "Chapter Thirteen: 13 - Traditions and Holidays"
       },
       "sections": {
-        "swedish": [],
-        "arabic": [],
-        "english": []
+        "swedish": [
+          {
+            "title": "1. Vad är traditioner?",
+            "subtitle": "Sätt att fira och skapa gemenskap",
+            "text": "Traditioner är olika sätt att fira tillsammans, markera viktiga händelser under året och skapa gemenskap och kulturell samhörighet. Många svenska traditioner har rötter i kristendomen, äldre nordiska traditioner och historiska händelser.",
+            "list": [
+              "traditioner hjälper människor att fira viktiga händelser",
+              "de skapar gemenskap och kulturell identitet",
+              "många svenska traditioner har kristna rötter",
+              "vissa traditioner kommer från äldre nordiska traditioner",
+              "traditioner förändras när samhället förändras",
+              "många firar svenska högtider utan att vara religiösa"
+            ]
+          },
+          {
+            "title": "2. Nyår",
+            "subtitle": "Att välkomna det nya året",
+            "text": "Nyår firas för att avsluta det gamla året och välkomna det nya. Nyårsafton är den 31 december och firas ofta tillsammans med familj och vänner.",
+            "list": [
+              "nyårsafton firas den 31 december",
+              "människor har ofta fester och middagar",
+              "fyrverkerier skjuts vid midnatt",
+              "många ger nyårslöften inför det nya året"
+            ]
+          },
+          {
+            "title": "3. Påsk",
+            "subtitle": "En kristen högtid om Jesu död och uppståndelse",
+            "text": "Påsken är en kristen högtid som firas i mars eller april. Den handlar om att minnas Jesu död på långfredagen och hans uppståndelse på påskdagen.",
+            "list": [
+              "påsk firas under mars eller april",
+              "långfredagen handlar om Jesu död",
+              "påskdagen handlar om Jesu uppståndelse",
+              "vanlig påskmat är ägg, sill, lax och lamm",
+              "barn får godis i påskägg",
+              "barn kan klä ut sig till påskkärringar"
+            ]
+          },
+          {
+            "title": "4. Valborgsmässoafton",
+            "subtitle": "Att välkomna våren",
+            "text": "Valborgsmässoafton firas den 30 april och är en gammal svensk tradition som markerar att vintern är slut och att våren börjar.",
+            "list": [
+              "Valborg firas den 30 april",
+              "människor tänder stora brasor",
+              "vårsånger sjungs ofta",
+              "ibland hålls tal om våren",
+              "traditionen har gamla rötter i Sverige"
+            ]
+          },
+          {
+            "title": "5. Första maj",
+            "subtitle": "Arbetarnas internationella dag",
+            "text": "Första maj är arbetarnas internationella dag och en svensk helgdag. Dagen uppmärksammas ofta genom demonstrationer och politiska aktiviteter.",
+            "list": [
+              "Första maj firas den 1 maj",
+              "dagen är viktig för arbetarrörelsen",
+              "demonstrationer och politiska tal hålls",
+              "fackföreningar ordnar ofta aktiviteter",
+              "frågor om arbetsvillkor och jämlikhet diskuteras"
+            ]
+          },
+          {
+            "title": "6. Sveriges nationaldag",
+            "subtitle": "En dag för att fira Sveriges historia och gemenskap",
+            "text": "Sveriges nationaldag firas den 6 juni och blev en officiell helgdag år 2005. Datumet är kopplat till viktiga händelser i Sveriges historia.",
+            "list": [
+              "nationaldagen firas den 6 juni",
+              "år 1523 valdes Gustav Vasa till kung",
+              "år 1523 ses som början på Sveriges självständighet",
+              "år 1809 infördes en ny regeringsform",
+              "svenska flaggan hissas under firandet",
+              "kommuner välkomnar ofta nya svenska medborgare"
+            ]
+          },
+          {
+            "title": "7. Midsommar",
+            "subtitle": "En av Sveriges viktigaste traditioner",
+            "text": "Midsommar är en gammal svensk tradition med rötter från tiden före kristendomen. Högtiden handlar om att välkomna sommaren och fira ljuset och naturen.",
+            "list": [
+              "midsommarafton firas en fredag mellan 19 och 25 juni",
+              "människor reser midsommarstången",
+              "man dansar runt midsommarstången",
+              "många bär blomsterkransar",
+              "vanlig midsommarmat är sill, färskpotatis och jordgubbar"
+            ]
+          },
+          {
+            "title": "8. Alla helgons dag",
+            "subtitle": "En dag för att minnas de döda",
+            "text": "Alla helgons dag är en kristen högtid som firas på en lördag i slutet av oktober eller början av november. Många människor minns sina avlidna släktingar och vänner.",
+            "list": [
+              "högtiden firas i slutet av oktober eller början av november",
+              "människor besöker ofta kyrkogårdar",
+              "ljus tänds på gravar",
+              "man minns personer som har gått bort"
+            ]
+          },
+          {
+            "title": "9. Advent",
+            "subtitle": "Förberedelsetiden före jul",
+            "text": "Advent är en kristen tradition som infaller under de fyra söndagarna före jul. Ordet advent betyder ankomst och handlar om förberedelser inför julen.",
+            "list": [
+              "advent består av fyra söndagar före jul",
+              "ordet advent betyder ankomst",
+              "många använder adventskalendrar",
+              "adventsstjärnor sätts upp i fönster",
+              "en adventsljusstake med fyra ljus används",
+              "ett ljus tänds varje söndag fram till jul"
+            ]
+          },
+          {
+            "title": "10. Lucia",
+            "subtitle": "Ljus och gemenskap under årets mörkaste tid",
+            "text": "Lucia firas den 13 december och handlar om ljus, hopp och gemenskap under den mörka vintern. Traditionen firas ofta i skolor och på arbetsplatser.",
+            "list": [
+              "Lucia firas den 13 december",
+              "luciatåg ordnas i skolor och på arbetsplatser",
+              "en person spelar Lucia och bär en ljuskrona",
+              "deltagarna sjunger luciasånger",
+              "lussebullar med saffran är vanlig mat"
+            ]
+          },
+          {
+            "title": "11. Jul",
+            "subtitle": "Sveriges största familjehögtid",
+            "text": "Julen är traditionellt en kristen högtid som firar Jesu födelse. Idag är julen också Sveriges största familjehögtid där många firar tillsammans.",
+            "list": [
+              "julafton firas den 24 december",
+              "familjer samlas och äter tillsammans",
+              "julklappar delas ut",
+              "julgranen pyntas",
+              "vanlig julmat är julskinka, sill, köttbullar och prinskorv",
+              "vissa går till kyrkan på julotta den 25 december"
+            ]
+          },
+          {
+            "title": "12. Nya traditioner i Sverige",
+            "subtitle": "Ett mer mångkulturellt samhälle",
+            "text": "När människor flyttar till Sverige tar de med sig sina traditioner. Detta har gjort Sverige till ett mer mångkulturellt samhälle där många olika högtider firas.",
+            "list": [
+              "människor tar med sig traditioner från sina hemländer",
+              "Eid al-fitr firas efter ramadan",
+              "Nouruz är ett persiskt nyår",
+              "Newroz är ett kurdiskt nyår",
+              "Nouruz och Newroz firas omkring 21 mars",
+              "nya traditioner är en del av dagens svenska samhälle"
+            ]
+          }
+        ],
+
+        "arabic": [
+          {
+            "title": "1. ما هي التقاليد؟",
+            "subtitle": "طرق الاحتفال وبناء روح المجتمع",
+            "text": "التقاليد هي طرق مختلفة للاحتفال معًا، وإحياء المناسبات المهمة خلال السنة، وخلق الشعور بالانتماء والتواصل الثقافي. تعود العديد من التقاليد السويدية إلى المسيحية والتقاليد الاسكندنافية القديمة والأحداث التاريخية.",
+            "list": [
+              "تساعد التقاليد الناس على الاحتفال بالمناسبات المهمة",
+              "تخلق التقاليد روح الجماعة والهوية الثقافية",
+              "الكثير من التقاليد السويدية لها جذور مسيحية",
+              "بعض التقاليد تعود إلى العادات الاسكندنافية القديمة",
+              "تتغير التقاليد مع تغير المجتمع",
+              "يحتفل الكثيرون بالأعياد السويدية دون أن يكونوا متدينين"
+            ]
+          },
+          {
+            "title": "2. رأس السنة",
+            "subtitle": "الترحيب بالسنة الجديدة",
+            "text": "يتم الاحتفال برأس السنة لإنهاء السنة القديمة والترحيب بالسنة الجديدة. ليلة رأس السنة تكون في 31 ديسمبر وغالبًا ما يحتفل الناس مع العائلة والأصدقاء.",
+            "list": [
+              "تُحتفل ليلة رأس السنة في 31 ديسمبر",
+              "يقيم الناس حفلات ووجبات عشاء مع العائلة والأصدقاء",
+              "تُطلق الألعاب النارية عند منتصف الليل",
+              "يضع الكثيرون وعودًا وأهدافًا للسنة الجديدة"
+            ]
+          },
+          {
+            "title": "3. عيد الفصح",
+            "subtitle": "عيد مسيحي يذكر موت وقيامة المسيح",
+            "text": "عيد الفصح هو عيد مسيحي يُحتفل به في شهر مارس أو أبريل. يهدف إلى تذكر موت المسيح يوم الجمعة العظيمة وقيامته في يوم الفصح.",
+            "list": [
+              "يُحتفل بعيد الفصح في مارس أو أبريل",
+              "الجمعة العظيمة تذكر موت المسيح",
+              "يوم الفصح يذكر قيامة المسيح",
+              "من الأطعمة التقليدية البيض والرنجة والسلمون ولحم الخروف",
+              "يحصل الأطفال على الحلوى في بيض الفصح",
+              "يرتدي الأطفال أحيانًا ملابس ساحرات الفصح"
+            ]
+          },
+          {
+            "title": "4. ليلة فالبرغ",
+            "subtitle": "الاحتفال بقدوم الربيع",
+            "text": "تُحتفل ليلة فالبرغ في 30 أبريل، وهي تقليد سويدي قديم يرمز إلى نهاية الشتاء وبداية الربيع.",
+            "list": [
+              "تُحتفل ليلة فالبرغ في 30 أبريل",
+              "يشعل الناس النيران الكبيرة",
+              "تُغنى أغاني الربيع",
+              "تُلقى أحيانًا كلمات وخطب عن الربيع",
+              "للتقليد جذور قديمة في السويد"
+            ]
+          },
+          {
+            "title": "5. الأول من مايو",
+            "subtitle": "اليوم العالمي للعمال",
+            "text": "الأول من مايو هو اليوم العالمي للعمال ويُعد عطلة رسمية في السويد. يتم إحياء هذا اليوم من خلال المظاهرات والأنشطة السياسية.",
+            "list": [
+              "يُحتفل بالأول من مايو في 1 مايو",
+              "اليوم مهم للحركة العمالية",
+              "تُقام المظاهرات والخطب السياسية",
+              "تنظم النقابات العمالية فعاليات مختلفة",
+              "تتم مناقشة قضايا العمل والمساواة والحقوق الاجتماعية"
+            ]
+          },
+          {
+            "title": "6. اليوم الوطني للسويد",
+            "subtitle": "الاحتفال بتاريخ السويد ووحدة المجتمع",
+            "text": "يُحتفل باليوم الوطني للسويد في 6 يونيو، وأصبح عطلة رسمية عام 2005. يرتبط هذا التاريخ بأحداث مهمة في تاريخ السويد.",
+            "list": [
+              "يُحتفل باليوم الوطني في 6 يونيو",
+              "في عام 1523 تم انتخاب غوستاف فاسا ملكًا للسويد",
+              "يُعتبر عام 1523 بداية استقلال السويد",
+              "في عام 1809 تم إصدار دستور جديد وحدّ من سلطة الملك",
+              "يتم رفع العلم السويدي أثناء الاحتفال",
+              "تستقبل البلديات غالبًا المواطنين السويديين الجدد"
+            ]
+          },
+          {
+            "title": "7. عيد منتصف الصيف (Midsommar)",
+            "subtitle": "واحد من أهم التقاليد السويدية",
+            "text": "عيد منتصف الصيف هو تقليد سويدي قديم تعود جذوره إلى ما قبل المسيحية. يرتبط بالترحيب بالصيف والاحتفال بالضوء والطبيعة.",
+            "list": [
+              "يُحتفل بليلة منتصف الصيف يوم الجمعة بين 19 و25 يونيو",
+              "يرفع الناس عمود منتصف الصيف",
+              "يرقص الناس حول العمود",
+              "يرتدي الكثيرون أكاليل الزهور",
+              "من الطعام التقليدي الرنجة والبطاطس الطازجة والفراولة"
+            ]
+          },
+          {
+            "title": "8. عيد جميع القديسين",
+            "subtitle": "يوم لتذكر الأشخاص الذين توفوا",
+            "text": "عيد جميع القديسين هو عيد مسيحي يُحتفل به يوم السبت في نهاية أكتوبر أو بداية نوفمبر. يتذكر الناس أقاربهم وأصدقاءهم الذين توفوا.",
+            "list": [
+              "يُحتفل به في نهاية أكتوبر أو بداية نوفمبر",
+              "يزور الناس المقابر",
+              "يشعلون الشموع على القبور",
+              "يتذكرون الأشخاص الذين رحلوا"
+            ]
+          },
+          {
+            "title": "9. زمن المجيء (Advent)",
+            "subtitle": "فترة الاستعداد قبل عيد الميلاد",
+            "text": "زمن المجيء هو تقليد مسيحي يأتي خلال أيام الأحد الأربعة التي تسبق عيد الميلاد. تعني كلمة Advent الوصول أو القدوم، وهو وقت الاستعداد لعيد الميلاد.",
+            "list": [
+              "يتكون زمن المجيء من أربعة أيام أحد قبل عيد الميلاد",
+              "تعني كلمة Advent القدوم أو الوصول",
+              "يستخدم الكثيرون تقويم المجيء",
+              "توضع نجمة المجيء في النوافذ",
+              "تُستخدم شمعدان يحتوي على أربعة شموع",
+              "تُشعل شمعة جديدة كل يوم أحد حتى عيد الميلاد"
+            ]
+          },
+          {
+            "title": "10. عيد لوسيا",
+            "subtitle": "النور والأمل والتجمع خلال فصل الشتاء",
+            "text": "يُحتفل بعيد لوسيا في 13 ديسمبر، ويرمز إلى النور والأمل والتضامن خلال أكثر فترة ظلامًا في السنة. يُحتفل به غالبًا في المدارس وأماكن العمل.",
+            "list": [
+              "يُحتفل بعيد لوسيا في 13 ديسمبر",
+              "تقام مسيرات لوسيا في المدارس وأماكن العمل",
+              "ترتدي شخصية لوسيا تاجًا من الشموع",
+              "يغني المشاركون أغاني لوسيا",
+              "خبز لوسيا بالزعفران من الأطعمة التقليدية"
+            ]
+          },
+          {
+            "title": "11. عيد الميلاد",
+            "subtitle": "أكبر مناسبة عائلية في السويد",
+            "text": "عيد الميلاد هو تقليديًا عيد مسيحي للاحتفال بميلاد المسيح. واليوم يُعد أيضًا أكبر مناسبة عائلية في السويد حيث تجتمع العائلات للاحتفال.",
+            "list": [
+              "يُحتفل بليلة عيد الميلاد في 24 ديسمبر",
+              "تجتمع العائلات وتتناول الطعام معًا",
+              "يتم تقديم هدايا عيد الميلاد",
+              "تُزين شجرة الميلاد",
+              "من الأطعمة التقليدية لحم الخنزير الخاص بالميلاد والرنجة وكرات اللحم والنقانق",
+              "يذهب بعض الناس إلى الكنيسة صباح 25 ديسمبر لحضور صلاة عيد الميلاد"
+            ]
+          },
+          {
+            "title": "12. التقاليد الجديدة في السويد",
+            "subtitle": "مجتمع سويدي أكثر تعددًا ثقافيًا",
+            "text": "عندما ينتقل الناس إلى السويد فإنهم يجلبون معهم تقاليدهم الخاصة. وقد ساهم ذلك في جعل السويد مجتمعًا متعدد الثقافات حيث يتم الاحتفال بالعديد من المناسبات المختلفة.",
+            "list": [
+              "يجلب الناس تقاليدهم من بلدانهم الأصلية",
+              "عيد الفطر يُحتفل به بعد شهر رمضان",
+              "نوروز هو رأس السنة الفارسية",
+              "نيوزروز هو رأس السنة الكردية",
+              "يُحتفل بنوروز ونيوزروز تقريبًا في 21 مارس",
+              "أصبحت التقاليد الجديدة جزءًا من المجتمع السويدي الحديث"
+            ]
+          }
+        ],
+        "english": [
+          {
+            "title": "1. What are traditions?",
+            "subtitle": "Ways of celebrating and creating a sense of community",
+            "text": "Traditions are different ways of celebrating together, marking important events during the year, and creating a sense of belonging and cultural connection. Many Swedish traditions have roots in Christianity, older Nordic traditions, and historical events.",
+            "list": [
+              "traditions help people celebrate important events",
+              "they create community and cultural identity",
+              "many Swedish traditions have Christian roots",
+              "some traditions come from older Nordic customs",
+              "traditions change as society changes",
+              "many people celebrate Swedish holidays without being religious"
+            ]
+          },
+          {
+            "title": "2. New Year",
+            "subtitle": "Welcoming the new year",
+            "text": "New Year is celebrated to end the old year and welcome the new one. New Year's Eve is on December 31 and is often celebrated with family and friends.",
+            "list": [
+              "New Year's Eve is celebrated on December 31",
+              "people often have parties and dinners",
+              "fireworks are launched at midnight",
+              "many people make New Year's resolutions"
+            ]
+          },
+          {
+            "title": "3. Easter",
+            "subtitle": "A Christian holiday about the death and resurrection of Jesus",
+            "text": "Easter is a Christian holiday celebrated in March or April. It remembers Jesus' death on Good Friday and his resurrection on Easter Sunday.",
+            "list": [
+              "Easter is celebrated in March or April",
+              "Good Friday remembers the death of Jesus",
+              "Easter Sunday celebrates the resurrection of Jesus",
+              "traditional Easter food includes eggs, herring, salmon, and lamb",
+              "children receive candy in Easter eggs",
+              "children sometimes dress up as Easter witches"
+            ]
+          },
+          {
+            "title": "4. Walpurgis Night (Valborg)",
+            "subtitle": "Celebrating the arrival of spring",
+            "text": "Walpurgis Night is celebrated on April 30 and is an old Swedish tradition that marks the end of winter and the beginning of spring.",
+            "list": [
+              "Walpurgis Night is celebrated on April 30",
+              "people light large bonfires",
+              "spring songs are often sung",
+              "speeches about spring may be held",
+              "the tradition has ancient roots in Sweden"
+            ]
+          },
+          {
+            "title": "5. May Day",
+            "subtitle": "International Workers' Day",
+            "text": "May Day is International Workers' Day and a public holiday in Sweden. The day is often marked by demonstrations and political activities.",
+            "list": [
+              "May Day is celebrated on May 1",
+              "the day is important for the labour movement",
+              "demonstrations and political speeches are held",
+              "trade unions often organize activities",
+              "issues about working conditions and equality are discussed"
+            ]
+          },
+          {
+            "title": "6. Sweden's National Day",
+            "subtitle": "Celebrating Sweden's history and community",
+            "text": "Sweden's National Day is celebrated on June 6 and became an official public holiday in 2005. The date is connected to important events in Swedish history.",
+            "list": [
+              "National Day is celebrated on June 6",
+              "in 1523 Gustav Vasa was elected king of Sweden",
+              "1523 is considered the beginning of Sweden's independence",
+              "in 1809 a new constitution was introduced and limited the king's power",
+              "the Swedish flag is raised during celebrations",
+              "municipalities often welcome new Swedish citizens"
+            ]
+          },
+          {
+            "title": "7. Midsummer",
+            "subtitle": "One of Sweden's most important traditions",
+            "text": "Midsummer is an old Swedish tradition with roots from before Christianity. It is connected with welcoming summer and celebrating light and nature.",
+            "list": [
+              "Midsummer Eve is celebrated on a Friday between June 19 and 25",
+              "people raise the Midsummer pole",
+              "people dance around the pole",
+              "many people wear flower crowns",
+              "traditional food includes herring, new potatoes, and strawberries"
+            ]
+          },
+          {
+            "title": "8. All Saints' Day",
+            "subtitle": "A day to remember those who have died",
+            "text": "All Saints' Day is a Christian holiday celebrated on a Saturday at the end of October or the beginning of November. Many people remember relatives and friends who have passed away.",
+            "list": [
+              "it is celebrated at the end of October or beginning of November",
+              "people often visit cemeteries",
+              "candles are lit on graves",
+              "people remember those who have died"
+            ]
+          },
+          {
+            "title": "9. Advent",
+            "subtitle": "The preparation period before Christmas",
+            "text": "Advent is a Christian tradition that takes place during the four Sundays before Christmas. The word Advent means arrival and is a time of preparation for Christmas.",
+            "list": [
+              "Advent consists of the four Sundays before Christmas",
+              "the word Advent means arrival",
+              "many people use Advent calendars",
+              "Advent stars are placed in windows",
+              "an Advent candle holder with four candles is used",
+              "one candle is lit every Sunday until Christmas"
+            ]
+          },
+          {
+            "title": "10. Lucia",
+            "subtitle": "Light, hope, and togetherness during winter",
+            "text": "Lucia is celebrated on December 13 and represents light, hope, and community during the darkest time of the year. It is often celebrated in schools and workplaces.",
+            "list": [
+              "Lucia is celebrated on December 13",
+              "Lucia processions are held in schools and workplaces",
+              "one person plays Lucia and wears a crown of candles",
+              "participants sing Lucia songs",
+              "saffron buns are a traditional food"
+            ]
+          },
+          {
+            "title": "11. Christmas",
+            "subtitle": "Sweden's biggest family celebration",
+            "text": "Christmas is traditionally a Christian holiday celebrating the birth of Jesus. Today it is also Sweden's biggest family celebration where many people gather together.",
+            "list": [
+              "Christmas Eve is celebrated on December 24",
+              "families gather and eat together",
+              "Christmas gifts are exchanged",
+              "the Christmas tree is decorated",
+              "traditional food includes Christmas ham, herring, meatballs, and sausages",
+              "some people attend Christmas morning church service on December 25"
+            ]
+          },
+          {
+            "title": "12. New Traditions in Sweden",
+            "subtitle": "A more multicultural Swedish society",
+            "text": "When people move to Sweden, they bring their traditions with them. This has made Sweden a more multicultural society where many different celebrations are observed.",
+            "list": [
+              "people bring traditions from their home countries",
+              "Eid al-Fitr is celebrated after the month of Ramadan",
+              "Nowruz is the Persian New Year",
+              "Newroz is the Kurdish New Year",
+              "Nowruz and Newroz are celebrated around March 21",
+              "new traditions have become part of modern Swedish society"
+            ]
+          }
+        ]
       }
     }
   ]

@@ -410,6 +410,7 @@ import {
 } from "../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import homePageTranslation from "../../translation/Translations/HomePageTranslation";
 import { useTranslation } from "../../translation/context/useTranslation";
+import ScorePageTranslation from "../../translation/Translations/ScorePageTranslation";
 
 const useStyle = createUseStyles({
   page: {
@@ -750,7 +751,7 @@ export default function QuestionDetails() {
                             : classes.wrongAnswerPara
                         }
                       >
-                        Correct Answer:{" "}
+                        {t(ScorePageTranslation.CorrectAnswerPara)}{" "}
                         {currentLanguage === "sv"
                           ? item.correctAnswerSv
                           : currentLanguage === "ar"

@@ -152,6 +152,12 @@ const ScorePageTranslation = {
     ar: "للأسف، حاول مرة أخرى",
     en: "Sorry, try again",
   },
+
+CorrectAnswerPara: {
+  sv: "Rätt svar: ",
+  ar: "الإجابة الصحيحة: ",
+  en: "Correct Answer: "
+}
 };
 
 export default ScorePageTranslation;

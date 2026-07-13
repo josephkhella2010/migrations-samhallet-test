@@ -4,7 +4,7 @@ export const languageDropDown: LanguageDropDownType[] = [
   { name: "sv", title: "SV", url: "/foto/sv.webp" },
   { name: "ar", title: "AR", url: "/foto/eg.webp" },
   { name: "en", title: "EN", url: "/foto/en.webp" },
-];
+].sort((a, b) => b.title.localeCompare(a.title));
 
 export const chapterTitles = [
   "Landet Sverige",
@@ -55,5 +55,17 @@ export const questionArr: QuestionArrType[] = [
     ar: "أسئلة إضافية 5",
     en: "Additional Questions 5",
     number: 18,
+  },
+  {
+    sv: "Övriga frågor 6",
+    ar: "أسئلة إضافية 6",
+    en: "Additional Questions 6",
+    number: 19,
+  },
+  {
+    sv: "Övriga frågor 7",
+    ar: "أسئلة إضافية 7",
+    en: "Additional Questions 7",
+    number: 20,
   },
 ];
