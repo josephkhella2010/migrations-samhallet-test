@@ -129,12 +129,12 @@ const ScorePageTranslation = {
   },
   CorrectAnswerText: {
     sv: "✔ Rätt svar",
-    ar: "✔ الإجابة الصحيحة",
+    ar: "✔ الإجابة صحيحة",
     en: "✔ Correct Answer",
   },
   WrongAnswerText: {
     sv: "✖ Fel svar",
-    ar: "✖ إجابة خاطئة",
+    ar: "✖ الإجابة خاطئة",
     en: "✖ Incorrect Answer",
   },
   CorrectAnswerTwo: {
@@ -153,11 +153,11 @@ const ScorePageTranslation = {
     en: "Sorry, try again",
   },
 
-CorrectAnswerPara: {
-  sv: "Rätt svar: ",
-  ar: "الإجابة الصحيحة: ",
-  en: "Correct Answer: "
-}
+  CorrectAnswerPara: {
+    sv: "Rätt svar: ",
+    ar: "الإجابة الصحيحة: ",
+    en: "Correct Answer: ",
+  },
 };
 
 export default ScorePageTranslation;
