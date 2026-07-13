@@ -7590,42 +7590,7 @@
           "correctAnswerAr": "A. يدافع عن المتهم",
           "correctAnswerEn": "A. Defends the accused"
         },
-        {
-          "question": {
-            "sv": "36- Vad gör försvarsadvokaten?",
-            "ar": "36- ماذا يفعل محامي الدفاع؟",
-            "en": "36- What does the defense lawyer do?"
-          },
-          "answers": [
-            {
-              "textSv": "A. Försvarar den åtalade",
-              "textAr": "A. يدافع عن المتهم",
-              "textEn": "A. Defends the accused",
-              "correct": true
-            },
-            {
-              "textSv": "B. Dömer den åtalade",
-              "textAr": "B. يصدر الحكم على المتهم",
-              "textEn": "B. Judges the accused",
-              "correct": false
-            },
-            {
-              "textSv": "C. Skriver lagar",
-              "textAr": "C. يضع القوانين",
-              "textEn": "C. Writes laws",
-              "correct": false
-            },
-            {
-              "textSv": "D. Leder polisen",
-              "textAr": "D. يقود الشرطة",
-              "textEn": "D. Leads the police",
-              "correct": false
-            }
-          ],
-          "correctAnswerSv": "A. Försvarar den åtalade",
-          "correctAnswerAr": "A. يدافع عن المتهم",
-          "correctAnswerEn": "A. Defends the accused"
-        },
+
         {
           "question": {
             "sv": "37- Vilka straff kan domstolen döma till?",
@@ -30379,42 +30344,7 @@
           "correctAnswerAr": "C. 4",
           "correctAnswerEn": "C. 4"
         },
-        {
-          "question": {
-            "sv": "25- Vem är Sveriges statschef?",
-            "ar": "25- من هو رئيس الدولة في السويد؟",
-            "en": "25- Who is the head of state in Sweden?"
-          },
-          "answers": [
-            {
-              "textSv": "A. Statsministern",
-              "textAr": "A. رئيس الوزراء",
-              "textEn": "A. The Prime Minister",
-              "correct": false
-            },
-            {
-              "textSv": "B. Talmannen",
-              "textAr": "B. رئيس البرلمان",
-              "textEn": "B. The Speaker of Parliament",
-              "correct": false
-            },
-            {
-              "textSv": "C. Kungen",
-              "textAr": "C. الملك",
-              "textEn": "C. The King",
-              "correct": true
-            },
-            {
-              "textSv": "D. Justitieministern",
-              "textAr": "D. وزير العدل",
-              "textEn": "D. The Minister of Justice",
-              "correct": false
-            }
-          ],
-          "correctAnswerSv": "C. Kungen",
-          "correctAnswerAr": "C. الملك",
-          "correctAnswerEn": "C. The King"
-        },
+
         {
           "question": {
             "sv": "25- Vem är Sveriges statschef?",
