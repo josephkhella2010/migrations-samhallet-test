@@ -14530,6 +14530,42 @@
         },
         {
           "question": {
+            "sv": "7- Vilken organisation är Sverige medlem i för att samarbeta med andra länder i Europa?",
+            "ar": "7- ما هي المنظمة التي تعد السويد عضوًا فيها للتعاون مع الدول الأخرى في أوروبا؟",
+            "en": "7- Which organization is Sweden a member of to cooperate with other countries in Europe?"
+          },
+          "answers": [
+            {
+              "textSv": "A. NATO",
+              "textAr": "A. حلف الناتو",
+              "textEn": "A. NATO",
+              "correct": false
+            },
+            {
+              "textSv": "B. FN",
+              "textAr": "B. الأمم المتحدة",
+              "textEn": "B. The United Nations",
+              "correct": false
+            },
+            {
+              "textSv": "C. Europeiska unionen (EU)",
+              "textAr": "C. الاتحاد الأوروبي",
+              "textEn": "C. The European Union (EU)",
+              "correct": true
+            },
+            {
+              "textSv": "D. UNESCO",
+              "textAr": "D. اليونسكو",
+              "textEn": "D. UNESCO",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Europeiska unionen (EU)",
+          "correctAnswerAr": "C. الاتحاد الأوروبي",
+          "correctAnswerEn": "C. The European Union (EU)"
+        },
+        {
+          "question": {
             "sv": "8- Hur många friheter finns inom EU:s inre marknad?",
             "ar": "8- كم عدد الحريات الموجودة في السوق الداخلية للاتحاد الأوروبي؟",
             "en": "8- How many freedoms are there in the EU internal market?"
