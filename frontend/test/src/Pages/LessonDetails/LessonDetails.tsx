@@ -8,6 +8,7 @@ import { createUseStyles } from "react-jss";
 const useStyles = createUseStyles({
   mainContainer: {
     padding: "70px 30px",
+    minHeight: "100vh",
   },
   container: {
     maxWidth: "900px",

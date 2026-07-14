@@ -45,6 +45,7 @@ const useStyle = createUseStyles({
     fontWeight: 700,
     color: "#1f2937",
     paddingBottom: 5,
+    
     textTransform: "capitalize",
     "@media (max-width: 780px)": {
       fontSize: 15,
