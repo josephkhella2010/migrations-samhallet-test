@@ -353,6 +353,11 @@ const homePageTranslation = {
     ar: "أسئلة إضافية",
     en: "Additional Questions",
   },
+    fromText: {
+    sv: "från",
+    ar: "من",
+    en: "from",
+  },
 };
 
 export default homePageTranslation;
