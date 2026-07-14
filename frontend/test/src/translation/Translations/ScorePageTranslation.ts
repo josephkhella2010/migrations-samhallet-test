@@ -148,9 +148,9 @@ const ScorePageTranslation = {
     en: "Well Done",
   },
   sorryText: {
-    sv: "Tyvärr, försök igen",
-    ar: "للأسف، حاول مرة أخرى",
-    en: "Sorry, try again",
+    sv: "Tyvärr",
+    ar: "للأسف",
+    en: "Sorry",
   },
 
   CorrectAnswerPara: {

@@ -25,7 +25,7 @@ const useStyle = createUseStyles({
   },
 
   questionContainer: {
-    padding: "30px 0px",
+    padding: "30px 20px",
     width: "100%",
     maxWidth: 850,
     minHeight: "80vh",
@@ -34,6 +34,9 @@ const useStyle = createUseStyles({
     boxShadow: "0 10px 30px rgba(0,0,0,0.12)",
     overflowY: "auto",
     boxSizing: "border-box",
+    "@media (max-width: 780px)": {
+      padding: "30px 12px",
+    },
   },
   questionNumbers: {
     margin: "0 0 30px",
@@ -85,6 +88,9 @@ const useStyle = createUseStyles({
     border: "1px solid #e5e7eb",
     borderRadius: 12,
     background: "#fafafa",
+    "@media (max-width: 780px)": {
+      padding: 15,
+    },
   },
 
   questionTitle: {
