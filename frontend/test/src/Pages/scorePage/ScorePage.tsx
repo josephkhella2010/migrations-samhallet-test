@@ -338,7 +338,7 @@ export default function ScorePage() {
                     <strong style={{ color: "green" }}>
                       {t(ScorePageTranslation.CorrectAnswerTwo)}
                       {"  "}
-                      {resultCorrectAnswer}.{" "}
+                      {resultCorrectAnswer}{" "}
                     </strong>{" "}
                   </p>
                 </>
