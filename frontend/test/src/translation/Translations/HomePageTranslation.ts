@@ -310,7 +310,7 @@ const homePageTranslation = {
   },
   footerSectionHeader: {
     sv: "Sverige i Fokus",
-    ar: "السويد محور الاهتمام",
+    ar: "Sverige i Fokus",
     en: "Sverige i Fokus",
   },
   footerSectionTextOne: {

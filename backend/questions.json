@@ -35260,6 +35260,4328 @@
         "ar": "أسئلة إضافية 8",
         "en": "Additional questions 8"
       },
+      "questions": [
+  {
+    "question": {
+      "sv": "1- Vad betyder demokrati?",
+      "ar": "1- ماذا تعني الديمقراطية؟",
+      "en": "1- What does democracy mean?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Att kungen styr landet",
+        "textAr": "A. أن الملك يحكم البلاد",
+        "textEn": "A. That the king rules the country",
+        "correct": false
+      },
+      {
+        "textSv": "B. Att folket styr genom fria och rättvisa val",
+        "textAr": "B. أن الشعب يحكم من خلال انتخابات حرة ونزيهة",
+        "textEn": "B. That the people govern through free and fair elections",
+        "correct": true
+      },
+      {
+        "textSv": "C. Att regeringen bestämmer allt",
+        "textAr": "C. أن الحكومة تقرر كل شيء",
+        "textEn": "C. That the government decides everything",
+        "correct": false
+      },
+      {
+        "textSv": "D. Att domstolarna styr landet",
+        "textAr": "D. أن المحاكم تحكم البلاد",
+        "textEn": "D. That courts rule the country",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Att folket styr genom fria och rättvisa val",
+    "correctAnswerAr": "B. أن الشعب يحكم من خلال انتخابات حرة ونزيهة",
+    "correctAnswerEn": "B. That the people govern through free and fair elections"
+  },
+  {
+    "question": {
+      "sv": "2- Hur många ledamöter har riksdagen?",
+      "ar": "2- كم عدد أعضاء البرلمان السويدي؟",
+      "en": "2- How many members does the Swedish Parliament have?"
+    },
+    "answers": [
+      {
+        "textSv": "A. 290",
+        "textAr": "A. 290",
+        "textEn": "A. 290",
+        "correct": false
+      },
+      {
+        "textSv": "B. 349",
+        "textAr": "B. 349",
+        "textEn": "B. 349",
+        "correct": true
+      },
+      {
+        "textSv": "C. 300",
+        "textAr": "C. 300",
+        "textEn": "C. 300",
+        "correct": false
+      },
+      {
+        "textSv": "D. 400",
+        "textAr": "D. 400",
+        "textEn": "D. 400",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. 349",
+    "correctAnswerAr": "B. 349",
+    "correctAnswerEn": "B. 349"
+  },
+  {
+    "question": {
+      "sv": "3- Vad är Sveriges statsskick?",
+      "ar": "3- ما هو نظام الحكم في السويد؟",
+      "en": "3- What is Sweden's form of government?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Republik",
+        "textAr": "A. جمهورية",
+        "textEn": "A. Republic",
+        "correct": false
+      },
+      {
+        "textSv": "B. Konstitutionell monarki",
+        "textAr": "B. ملكية دستورية",
+        "textEn": "B. Constitutional monarchy",
+        "correct": true
+      },
+      {
+        "textSv": "C. Militärdiktatur",
+        "textAr": "C. حكم عسكري",
+        "textEn": "C. Military dictatorship",
+        "correct": false
+      },
+      {
+        "textSv": "D. Absolut monarki",
+        "textAr": "D. ملكية مطلقة",
+        "textEn": "D. Absolute monarchy",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Konstitutionell monarki",
+    "correctAnswerAr": "B. ملكية دستورية",
+    "correctAnswerEn": "B. Constitutional monarchy"
+  },
+  {
+    "question": {
+      "sv": "4- Hur många kommuner finns det i Sverige?",
+      "ar": "4- كم عدد البلديات في السويد؟",
+      "en": "4- How many municipalities are there in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. 250",
+        "textAr": "A. 250",
+        "textEn": "A. 250",
+        "correct": false
+      },
+      {
+        "textSv": "B. 275",
+        "textAr": "B. 275",
+        "textEn": "B. 275",
+        "correct": false
+      },
+      {
+        "textSv": "C. 290",
+        "textAr": "C. 290",
+        "textEn": "C. 290",
+        "correct": true
+      },
+      {
+        "textSv": "D. 310",
+        "textAr": "D. 310",
+        "textEn": "D. 310",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "C. 290",
+    "correctAnswerAr": "C. 290",
+    "correctAnswerEn": "C. 290"
+  },
+  {
+    "question": {
+      "sv": "5- Vilken myndighet ansvarar för att utreda brott?",
+      "ar": "5- أي جهة مسؤولة عن التحقيق في الجرائم؟",
+      "en": "5- Which authority is responsible for investigating crimes?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Skatteverket",
+        "textAr": "A. مصلحة الضرائب",
+        "textEn": "A. Swedish Tax Agency",
+        "correct": false
+      },
+      {
+        "textSv": "B. Polisen",
+        "textAr": "B. الشرطة",
+        "textEn": "B. The Police",
+        "correct": true
+      },
+      {
+        "textSv": "C. Arbetsförmedlingen",
+        "textAr": "C. مكتب العمل",
+        "textEn": "C. Public Employment Service",
+        "correct": false
+      },
+      {
+        "textSv": "D. Försäkringskassan",
+        "textAr": "D. صندوق التأمينات",
+        "textEn": "D. Swedish Social Insurance Agency",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Polisen",
+    "correctAnswerAr": "B. الشرطة",
+    "correctAnswerEn": "B. The Police"
+  },
+  {
+    "question": {
+      "sv": "6- Hur gammal måste man vara för att rösta i Sverige?",
+      "ar": "6- كم يجب أن يكون عمرك للتصويت في السويد؟",
+      "en": "6- How old must you be to vote in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. 16 år",
+        "textAr": "A. 16 سنة",
+        "textEn": "A. 16 years",
+        "correct": false
+      },
+      {
+        "textSv": "B. 17 år",
+        "textAr": "B. 17 سنة",
+        "textEn": "B. 17 years",
+        "correct": false
+      },
+      {
+        "textSv": "C. 18 år",
+        "textAr": "C. 18 سنة",
+        "textEn": "C. 18 years",
+        "correct": true
+      },
+      {
+        "textSv": "D. 20 år",
+        "textAr": "D. 20 سنة",
+        "textEn": "D. 20 years",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "C. 18 år",
+    "correctAnswerAr": "C. 18 سنة",
+    "correctAnswerEn": "C. 18 years"
+  },
+  {
+    "question": {
+      "sv": "7- Vilken är Sveriges högsta domstol i brottmål och tvistemål?",
+      "ar": "7- ما هي أعلى محكمة في السويد؟",
+      "en": "7- What is Sweden's highest court for civil and criminal cases?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Tingsrätten",
+        "textAr": "A. المحكمة الابتدائية",
+        "textEn": "A. District Court",
+        "correct": false
+      },
+      {
+        "textSv": "B. Hovrätten",
+        "textAr": "B. محكمة الاستئناف",
+        "textEn": "B. Court of Appeal",
+        "correct": false
+      },
+      {
+        "textSv": "C. Högsta domstolen",
+        "textAr": "C. المحكمة العليا",
+        "textEn": "C. Supreme Court",
+        "correct": true
+      },
+      {
+        "textSv": "D. Förvaltningsrätten",
+        "textAr": "D. المحكمة الإدارية",
+        "textEn": "D. Administrative Court",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "C. Högsta domstolen",
+    "correctAnswerAr": "C. المحكمة العليا",
+    "correctAnswerEn": "C. Supreme Court"
+  }, {
+    "question": {
+      "sv": "8- Hur många regioner finns det i Sverige?",
+      "ar": "8- كم عدد الأقاليم (الريجونر) في السويد؟",
+      "en": "8- How many regions are there in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. 20",
+        "textAr": "A. 20",
+        "textEn": "A. 20",
+        "correct": false
+      },
+      {
+        "textSv": "B. 21",
+        "textAr": "B. 21",
+        "textEn": "B. 21",
+        "correct": true
+      },
+      {
+        "textSv": "C. 24",
+        "textAr": "C. 24",
+        "textEn": "C. 24",
+        "correct": false
+      },
+      {
+        "textSv": "D. 25",
+        "textAr": "D. 25",
+        "textEn": "D. 25",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. 21",
+    "correctAnswerAr": "B. 21",
+    "correctAnswerEn": "B. 21"
+  },
+  {
+    "question": {
+      "sv": "9- Vem väljer Sveriges statsminister?",
+      "ar": "9- من الذي يختار رئيس الوزراء في السويد؟",
+      "en": "9- Who appoints Sweden's Prime Minister?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Kungen",
+        "textAr": "A. الملك",
+        "textEn": "A. The King",
+        "correct": false
+      },
+      {
+        "textSv": "B. Regeringen",
+        "textAr": "B. الحكومة",
+        "textEn": "B. The Government",
+        "correct": false
+      },
+      {
+        "textSv": "C. Riksdagen",
+        "textAr": "C. البرلمان",
+        "textEn": "C. The Parliament",
+        "correct": true
+      },
+      {
+        "textSv": "D. Högsta domstolen",
+        "textAr": "D. المحكمة العليا",
+        "textEn": "D. The Supreme Court",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "C. Riksdagen",
+    "correctAnswerAr": "C. البرلمان",
+    "correctAnswerEn": "C. The Parliament"
+  },
+  {
+    "question": {
+      "sv": "10- Vilken är regionernas viktigaste uppgift?",
+      "ar": "10- ما هي أهم مسؤولية للأقاليم في السويد؟",
+      "en": "10- What is the main responsibility of the regions in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Försvar",
+        "textAr": "A. الدفاع",
+        "textEn": "A. National defense",
+        "correct": false
+      },
+      {
+        "textSv": "B. Hälso- och sjukvård",
+        "textAr": "B. الرعاية الصحية",
+        "textEn": "B. Health care",
+        "correct": true
+      },
+      {
+        "textSv": "C. Utrikespolitik",
+        "textAr": "C. السياسة الخارجية",
+        "textEn": "C. Foreign policy",
+        "correct": false
+      },
+      {
+        "textSv": "D. Polis",
+        "textAr": "D. الشرطة",
+        "textEn": "D. Police",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Hälso- och sjukvård",
+    "correctAnswerAr": "B. الرعاية الصحية",
+    "correctAnswerEn": "B. Health care"
+  },
+  {
+    "question": {
+      "sv": "11- Vad finansieras främst genom skatter i Sverige?",
+      "ar": "11- ماذا يتم تمويله بشكل أساسي من الضرائب في السويد؟",
+      "en": "11- What is mainly financed through taxes in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Välfärden",
+        "textAr": "A. نظام الرفاه",
+        "textEn": "A. The welfare system",
+        "correct": true
+      },
+      {
+        "textSv": "B. Privata företag",
+        "textAr": "B. الشركات الخاصة",
+        "textEn": "B. Private companies",
+        "correct": false
+      },
+      {
+        "textSv": "C. Banker",
+        "textAr": "C. البنوك",
+        "textEn": "C. Banks",
+        "correct": false
+      },
+      {
+        "textSv": "D. Fackföreningar",
+        "textAr": "D. النقابات",
+        "textEn": "D. Trade unions",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Välfärden",
+    "correctAnswerAr": "A. نظام الرفاه",
+    "correctAnswerEn": "A. The welfare system"
+  },
+  {
+    "question": {
+      "sv": "12- Vilken grundlag skyddar yttrandefriheten i radio och tv?",
+      "ar": "12- أي قانون أساسي يحمي حرية التعبير في الإذاعة والتلفزيون؟",
+      "en": "12- Which fundamental law protects freedom of expression in radio and television?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Successionsordningen",
+        "textAr": "A. قانون الخلافة",
+        "textEn": "A. Act of Succession",
+        "correct": false
+      },
+      {
+        "textSv": "B. Regeringsformen",
+        "textAr": "B. الدستور الحكومي",
+        "textEn": "B. Instrument of Government",
+        "correct": false
+      },
+      {
+        "textSv": "C. Yttrandefrihetsgrundlagen",
+        "textAr": "C. قانون حرية التعبير",
+        "textEn": "C. Fundamental Law on Freedom of Expression",
+        "correct": true
+      },
+      {
+        "textSv": "D. Kommunallagen",
+        "textAr": "D. قانون البلديات",
+        "textEn": "D. Local Government Act",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "C. Yttrandefrihetsgrundlagen",
+    "correctAnswerAr": "C. قانون حرية التعبير",
+    "correctAnswerEn": "C. Fundamental Law on Freedom of Expression"
+  },
+  {
+    "question": {
+      "sv": "13- Vad är straffmyndighetsåldern i Sverige idag?",
+      "ar": "13- ما هو سن المسؤولية الجنائية في السويد حالياً؟",
+      "en": "13- What is the age of criminal responsibility in Sweden today?"
+    },
+    "answers": [
+      {
+        "textSv": "A. 13 år",
+        "textAr": "A. 13 سنة",
+        "textEn": "A. 13 years",
+        "correct": false
+      },
+      {
+        "textSv": "B. 15 år",
+        "textAr": "B. 15 سنة",
+        "textEn": "B. 15 years",
+        "correct": true
+      },
+      {
+        "textSv": "C. 16 år",
+        "textAr": "C. 16 سنة",
+        "textEn": "C. 16 years",
+        "correct": false
+      },
+      {
+        "textSv": "D. 18 år",
+        "textAr": "D. 18 سنة",
+        "textEn": "D. 18 years",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. 15 år",
+    "correctAnswerAr": "B. 15 سنة",
+    "correctAnswerEn": "B. 15 years"
+  },
+  {
+    "question": {
+      "sv": "14- Vilket av följande är ett public service-företag?",
+      "ar": "14- أي من التالي هو مؤسسة خدمة عامة إعلامية في السويد؟",
+      "en": "14- Which of the following is a Swedish public service broadcaster?"
+    },
+    "answers": [
+      {
+        "textSv": "A. TV4",
+        "textAr": "A. TV4",
+        "textEn": "A. TV4",
+        "correct": false
+      },
+      {
+        "textSv": "B. Sveriges Television (SVT)",
+        "textAr": "B. تلفزيون السويد (SVT)",
+        "textEn": "B. Swedish Television (SVT)",
+        "correct": true
+      },
+      {
+        "textSv": "C. Aftonbladet",
+        "textAr": "C. أفتونبلادت",
+        "textEn": "C. Aftonbladet",
+        "correct": false
+      },
+      {
+        "textSv": "D. Expressen",
+        "textAr": "D. إكسبرسن",
+        "textEn": "D. Expressen",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Sveriges Television (SVT)",
+    "correctAnswerAr": "B. تلفزيون السويد (SVT)",
+    "correctAnswerEn": "B. Swedish Television (SVT)"
+  },
+  {
+    "question": {
+      "sv": "15- Vad betyder rättssäkerhet?",
+      "ar": "15- ماذا يعني الأمن القانوني (Rättssäkerhet)؟",
+      "en": "15- What does legal certainty (rule of law) mean?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Att regeringen bestämmer domar",
+        "textAr": "A. أن الحكومة تقرر الأحكام",
+        "textEn": "A. The government decides court judgments",
+        "correct": false
+      },
+      {
+        "textSv": "B. Att alla behandlas lika inför lagen och har rätt till en rättvis rättegång",
+        "textAr": "B. أن الجميع متساوون أمام القانون ولهم الحق في محاكمة عادلة",
+        "textEn": "B. Everyone is equal before the law and has the right to a fair trial",
+        "correct": true
+      },
+      {
+        "textSv": "C. Att bara svenska medborgare skyddas av lagen",
+        "textAr": "C. أن المواطنين السويديين فقط تحميهم القوانين",
+        "textEn": "C. Only Swedish citizens are protected by the law",
+        "correct": false
+      },
+      {
+        "textSv": "D. Att polisen bestämmer straffet",
+        "textAr": "D. أن الشرطة تقرر العقوبة",
+        "textEn": "D. The police decide the punishment",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "B. Att alla behandlas lika inför lagen och har rätt till en rättvis rättegång",
+    "correctAnswerAr": "B. أن الجميع متساوون أمام القانون ولهم الحق في محاكمة عادلة",
+    "correctAnswerEn": "B. Everyone is equal before the law and has the right to a fair trial"
+  },{
+  "question": {
+    "sv": "16- Vilken myndighet ansvarar för folkbokföringen i Sverige?",
+    "ar": "16- أي جهة مسؤولة عن تسجيل السكان في السويد؟",
+    "en": "16- Which authority is responsible for population registration in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Polisen",
+      "textAr": "A. الشرطة",
+      "textEn": "A. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "B. Skatteverket",
+      "textAr": "B. مصلحة الضرائب",
+      "textEn": "B. The Swedish Tax Agency",
+      "correct": true
+    },
+    {
+      "textSv": "C. Försäkringskassan",
+      "textAr": "C. صندوق التأمينات",
+      "textEn": "C. The Swedish Social Insurance Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Arbetsförmedlingen",
+      "textAr": "D. مكتب العمل",
+      "textEn": "D. The Public Employment Service",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Skatteverket",
+  "correctAnswerAr": "B. مصلحة الضرائب",
+  "correctAnswerEn": "B. The Swedish Tax Agency"
+},
+{
+  "question": {
+    "sv": "17- Vilket är Sveriges högsta beslutande organ?",
+    "ar": "17- ما هي أعلى هيئة تتخذ القرارات في السويد؟",
+    "en": "17- What is Sweden's highest decision-making body?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Regeringen",
+      "textAr": "A. الحكومة",
+      "textEn": "A. The Government",
+      "correct": false
+    },
+    {
+      "textSv": "B. Riksdagen",
+      "textAr": "B. البرلمان",
+      "textEn": "B. The Parliament",
+      "correct": true
+    },
+    {
+      "textSv": "C. Kungen",
+      "textAr": "C. الملك",
+      "textEn": "C. The King",
+      "correct": false
+    },
+    {
+      "textSv": "D. Högsta domstolen",
+      "textAr": "D. المحكمة العليا",
+      "textEn": "D. The Supreme Court",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Riksdagen",
+  "correctAnswerAr": "B. البرلمان",
+  "correctAnswerEn": "B. The Parliament"
+},
+{
+  "question": {
+    "sv": "18- Hur ofta hålls val till riksdagen?",
+    "ar": "18- كل كم سنة تُجرى انتخابات البرلمان السويدي؟",
+    "en": "18- How often are parliamentary elections held in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Vartannat år",
+      "textAr": "A. كل سنتين",
+      "textEn": "A. Every two years",
+      "correct": false
+    },
+    {
+      "textSv": "B. Vart tredje år",
+      "textAr": "B. كل ثلاث سنوات",
+      "textEn": "B. Every three years",
+      "correct": false
+    },
+    {
+      "textSv": "C. Vart fjärde år",
+      "textAr": "C. كل أربع سنوات",
+      "textEn": "C. Every four years",
+      "correct": true
+    },
+    {
+      "textSv": "D. Vart femte år",
+      "textAr": "D. كل خمس سنوات",
+      "textEn": "D. Every five years",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "C. Vart fjärde år",
+  "correctAnswerAr": "C. كل أربع سنوات",
+  "correctAnswerEn": "C. Every four years"
+},
+{
+  "question": {
+    "sv": "19- Vilken myndighet ansvarar för allmänna val i Sverige?",
+    "ar": "19- أي جهة مسؤولة عن الانتخابات العامة في السويد؟",
+    "en": "19- Which authority is responsible for general elections in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Valmyndigheten",
+      "textAr": "A. هيئة الانتخابات",
+      "textEn": "A. The Swedish Election Authority",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "C. Skatteverket",
+      "textAr": "C. مصلحة الضرائب",
+      "textEn": "C. The Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Migrationsverket",
+      "textAr": "D. مصلحة الهجرة",
+      "textEn": "D. The Swedish Migration Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Valmyndigheten",
+  "correctAnswerAr": "A. هيئة الانتخابات",
+  "correctAnswerEn": "A. The Swedish Election Authority"
+},
+{
+  "question": {
+    "sv": "20- Vad är tryckfrihet?",
+    "ar": "20- ماذا تعني حرية الصحافة؟",
+    "en": "20- What is freedom of the press?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Staten bestämmer vad tidningar får skriva",
+      "textAr": "A. الدولة تحدد ما تنشره الصحف",
+      "textEn": "A. The state decides what newspapers may publish",
+      "correct": false
+    },
+    {
+      "textSv": "B. Tidningar får publicera information utan förhandscensur",
+      "textAr": "B. يحق للصحف نشر المعلومات دون رقابة مسبقة",
+      "textEn": "B. Newspapers may publish information without prior censorship",
+      "correct": true
+    },
+    {
+      "textSv": "C. Bara staten får ge ut tidningar",
+      "textAr": "C. الدولة فقط يمكنها إصدار الصحف",
+      "textEn": "C. Only the state may publish newspapers",
+      "correct": false
+    },
+    {
+      "textSv": "D. Tidningar behöver regeringens tillstånd för varje artikel",
+      "textAr": "D. تحتاج الصحف إلى موافقة الحكومة لكل مقال",
+      "textEn": "D. Newspapers need government approval for every article",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Tidningar får publicera information utan förhandscensur",
+  "correctAnswerAr": "B. يحق للصحف نشر المعلومات دون رقابة مسبقة",
+  "correctAnswerEn": "B. Newspapers may publish information without prior censorship"
+},
+{
+  "question": {
+    "sv": "21- Vad är diskriminering?",
+    "ar": "21- ما هو التمييز؟",
+    "en": "21- What is discrimination?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att behandla människor olika utan saklig grund",
+      "textAr": "A. معاملة الناس بشكل مختلف دون سبب مشروع",
+      "textEn": "A. Treating people unfairly without a valid reason",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att följa lagen",
+      "textAr": "B. اتباع القانون",
+      "textEn": "B. Following the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att rösta i val",
+      "textAr": "C. التصويت في الانتخابات",
+      "textEn": "C. Voting in elections",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att betala skatt",
+      "textAr": "D. دفع الضرائب",
+      "textEn": "D. Paying taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att behandla människor olika utan saklig grund",
+  "correctAnswerAr": "A. معاملة الناس بشكل مختلف دون سبب مشروع",
+  "correctAnswerEn": "A. Treating people unfairly without a valid reason"
+},
+{
+  "question": {
+    "sv": "22- Vem har rätt att bilda en förening i Sverige?",
+    "ar": "22- من له الحق في تأسيس جمعية في السويد؟",
+    "en": "22- Who has the right to form an association in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Endast svenska medborgare",
+      "textAr": "A. المواطنون السويديون فقط",
+      "textEn": "A. Only Swedish citizens",
+      "correct": false
+    },
+    {
+      "textSv": "B. Alla människor",
+      "textAr": "B. جميع الناس",
+      "textEn": "B. Everyone",
+      "correct": true
+    },
+    {
+      "textSv": "C. Endast politiker",
+      "textAr": "C. السياسيون فقط",
+      "textEn": "C. Only politicians",
+      "correct": false
+    },
+    {
+      "textSv": "D. Endast personer över 25 år",
+      "textAr": "D. الأشخاص فوق 25 سنة فقط",
+      "textEn": "D. Only people over 25",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Alla människor",
+  "correctAnswerAr": "B. جميع الناس",
+  "correctAnswerEn": "B. Everyone"
+},
+{
+  "question": {
+    "sv": "23- Vad är den vanligaste finansieringen av den svenska välfärden?",
+    "ar": "23- ما هو المصدر الرئيسي لتمويل نظام الرفاه في السويد؟",
+    "en": "23- What is the main source of funding for Sweden's welfare system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Donationer",
+      "textAr": "A. التبرعات",
+      "textEn": "A. Donations",
+      "correct": false
+    },
+    {
+      "textSv": "B. Skatter",
+      "textAr": "B. الضرائب",
+      "textEn": "B. Taxes",
+      "correct": true
+    },
+    {
+      "textSv": "C. Lotterier",
+      "textAr": "C. اليانصيب",
+      "textEn": "C. Lotteries",
+      "correct": false
+    },
+    {
+      "textSv": "D. Avgifter från andra länder",
+      "textAr": "D. رسوم من دول أخرى",
+      "textEn": "D. Fees from other countries",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Skatter",
+  "correctAnswerAr": "B. الضرائب",
+  "correctAnswerEn": "B. Taxes"
+},
+{
+  "question": {
+    "sv": "24- Vilken är Sveriges nationella minoritetsspråk?",
+    "ar": "24- أي من اللغات التالية تُعد لغة أقلية وطنية في السويد؟",
+    "en": "24- Which of the following is a national minority language in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Engelska",
+      "textAr": "A. الإنجليزية",
+      "textEn": "A. English",
+      "correct": false
+    },
+    {
+      "textSv": "B. Finska",
+      "textAr": "B. الفنلندية",
+      "textEn": "B. Finnish",
+      "correct": true
+    },
+    {
+      "textSv": "C. Tyska",
+      "textAr": "C. الألمانية",
+      "textEn": "C. German",
+      "correct": false
+    },
+    {
+      "textSv": "D. Franska",
+      "textAr": "D. الفرنسية",
+      "textEn": "D. French",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Finska",
+  "correctAnswerAr": "B. الفنلندية",
+  "correctAnswerEn": "B. Finnish"
+},{
+  "question": {
+    "sv": "25- Vad är offentlighetsprincipen?",
+    "ar": "25- ما هو مبدأ العلنية في السويد؟",
+    "en": "25- What is the Principle of Public Access?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att myndigheternas handlingar i regel är offentliga",
+      "textAr": "A. أن وثائق الجهات الحكومية تكون متاحة للعامة في العادة",
+      "textEn": "A. Government documents are generally open to the public",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bara journalister får läsa myndigheters handlingar",
+      "textAr": "B. يحق للصحفيين فقط الاطلاع على وثائق الجهات الحكومية",
+      "textEn": "B. Only journalists may read government documents",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att alla myndigheter är privata",
+      "textAr": "C. أن جميع الجهات الحكومية خاصة",
+      "textEn": "C. All authorities are private",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att domstolar bestämmer vilka dokument som publiceras",
+      "textAr": "D. أن المحاكم تقرر الوثائق التي يتم نشرها",
+      "textEn": "D. Courts decide which documents are published",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att myndigheternas handlingar i regel är offentliga",
+  "correctAnswerAr": "A. أن وثائق الجهات الحكومية تكون متاحة للعامة في العادة",
+  "correctAnswerEn": "A. Government documents are generally open to the public"
+},
+{
+  "question": {
+    "sv": "26- Vad är religionsfrihet?",
+    "ar": "26- ماذا تعني حرية الدين؟",
+    "en": "26- What is freedom of religion?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att staten bestämmer vilken religion man ska ha",
+      "textAr": "A. أن الدولة تحدد دين الشخص",
+      "textEn": "A. The state decides your religion",
+      "correct": false
+    },
+    {
+      "textSv": "B. Att var och en får välja religion eller avstå från religion",
+      "textAr": "B. لكل شخص الحق في اختيار دينه أو عدم اعتناق أي دين",
+      "textEn": "B. Everyone has the right to choose a religion or no religion",
+      "correct": true
+    },
+    {
+      "textSv": "C. Att bara svenska medborgare får utöva sin religion",
+      "textAr": "C. المواطنون السويديون فقط يحق لهم ممارسة دينهم",
+      "textEn": "C. Only Swedish citizens may practice their religion",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att bara kristendomen är tillåten",
+      "textAr": "D. المسيحية فقط مسموح بها",
+      "textEn": "D. Only Christianity is allowed",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Att var och en får välja religion eller avstå från religion",
+  "correctAnswerAr": "B. لكل شخص الحق في اختيار دينه أو عدم اعتناق أي دين",
+  "correctAnswerEn": "B. Everyone has the right to choose a religion or no religion"
+},
+{
+  "question": {
+    "sv": "27- Vilken myndighet ansvarar för arbetsförmedling i Sverige?",
+    "ar": "27- أي جهة مسؤولة عن خدمات التوظيف في السويد؟",
+    "en": "27- Which authority is responsible for employment services in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skatteverket",
+      "textAr": "A. مصلحة الضرائب",
+      "textEn": "A. Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "B. Arbetsförmedlingen",
+      "textAr": "B. مكتب العمل",
+      "textEn": "B. Swedish Public Employment Service",
+      "correct": true
+    },
+    {
+      "textSv": "C. Polisen",
+      "textAr": "C. الشرطة",
+      "textEn": "C. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "D. Migrationsverket",
+      "textAr": "D. مصلحة الهجرة",
+      "textEn": "D. Swedish Migration Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Arbetsförmedlingen",
+  "correctAnswerAr": "B. مكتب العمل",
+  "correctAnswerEn": "B. Swedish Public Employment Service"
+},
+{
+  "question": {
+    "sv": "28- Vilken myndighet ansvarar för socialförsäkringen?",
+    "ar": "28- أي جهة مسؤولة عن نظام التأمينات الاجتماعية؟",
+    "en": "28- Which authority is responsible for Sweden's social insurance?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Försäkringskassan",
+      "textAr": "A. صندوق التأمينات",
+      "textEn": "A. Swedish Social Insurance Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "C. Kronofogden",
+      "textAr": "C. مصلحة التنفيذ",
+      "textEn": "C. Enforcement Authority",
+      "correct": false
+    },
+    {
+      "textSv": "D. Domstolarna",
+      "textAr": "D. المحاكم",
+      "textEn": "D. The Courts",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Försäkringskassan",
+  "correctAnswerAr": "A. صندوق التأمينات",
+  "correctAnswerEn": "A. Swedish Social Insurance Agency"
+},
+{
+  "question": {
+    "sv": "29- Vad är Sveriges nationella språk?",
+    "ar": "29- ما هي اللغة الوطنية في السويد؟",
+    "en": "29- What is Sweden's national language?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Svenska",
+      "textAr": "A. السويدية",
+      "textEn": "A. Swedish",
+      "correct": true
+    },
+    {
+      "textSv": "B. Engelska",
+      "textAr": "B. الإنجليزية",
+      "textEn": "B. English",
+      "correct": false
+    },
+    {
+      "textSv": "C. Finska",
+      "textAr": "C. الفنلندية",
+      "textEn": "C. Finnish",
+      "correct": false
+    },
+    {
+      "textSv": "D. Samiska",
+      "textAr": "D. السامية",
+      "textEn": "D. Sami",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Svenska",
+  "correctAnswerAr": "A. السويدية",
+  "correctAnswerEn": "A. Swedish"
+},
+{
+  "question": {
+    "sv": "30- Vilket är Sveriges nationaldag?",
+    "ar": "30- ما هو اليوم الوطني للسويد؟",
+    "en": "30- When is Sweden's National Day?"
+  },
+  "answers": [
+    {
+      "textSv": "A. 1 januari",
+      "textAr": "A. 1 يناير",
+      "textEn": "A. January 1",
+      "correct": false
+    },
+    {
+      "textSv": "B. 6 juni",
+      "textAr": "B. 6 يونيو",
+      "textEn": "B. June 6",
+      "correct": true
+    },
+    {
+      "textSv": "C. 24 december",
+      "textAr": "C. 24 ديسمبر",
+      "textEn": "C. December 24",
+      "correct": false
+    },
+    {
+      "textSv": "D. 31 december",
+      "textAr": "D. 31 ديسمبر",
+      "textEn": "D. December 31",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. 6 juni",
+  "correctAnswerAr": "B. 6 يونيو",
+  "correctAnswerEn": "B. June 6"
+},
+{
+  "question": {
+    "sv": "31- Vad heter Sveriges huvudstad?",
+    "ar": "31- ما هي عاصمة السويد؟",
+    "en": "31- What is the capital of Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Göteborg",
+      "textAr": "A. يوتيبوري",
+      "textEn": "A. Gothenburg",
+      "correct": false
+    },
+    {
+      "textSv": "B. Malmö",
+      "textAr": "B. مالمو",
+      "textEn": "B. Malmö",
+      "correct": false
+    },
+    {
+      "textSv": "C. Stockholm",
+      "textAr": "C. ستوكهولم",
+      "textEn": "C. Stockholm",
+      "correct": true
+    },
+    {
+      "textSv": "D. Uppsala",
+      "textAr": "D. أوبسالا",
+      "textEn": "D. Uppsala",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "C. Stockholm",
+  "correctAnswerAr": "C. ستوكهولم",
+  "correctAnswerEn": "C. Stockholm"
+},
+{
+  "question": {
+    "sv": "32- Är kvinnor och män lika inför lagen i Sverige?",
+    "ar": "32- هل النساء والرجال متساوون أمام القانون في السويد؟",
+    "en": "32- Are women and men equal before the law in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Ja",
+      "textAr": "A. نعم",
+      "textEn": "A. Yes",
+      "correct": true
+    },
+    {
+      "textSv": "B. Nej",
+      "textAr": "B. لا",
+      "textEn": "B. No",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara i vissa kommuner",
+      "textAr": "C. فقط في بعض البلديات",
+      "textEn": "C. Only in some municipalities",
+      "correct": false
+    },
+    {
+      "textSv": "D. Bara svenska medborgare är lika inför lagen",
+      "textAr": "D. المواطنون السويديون فقط متساوون أمام القانون",
+      "textEn": "D. Only Swedish citizens are equal before the law",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Ja",
+  "correctAnswerAr": "A. نعم",
+  "correctAnswerEn": "A. Yes"
+},
+{
+  "question": {
+    "sv": "33- Vilket dokument innehåller de grundläggande reglerna för hur Sverige styrs?",
+    "ar": "33- أي وثيقة تحتوي على القواعد الأساسية لكيفية حكم السويد؟",
+    "en": "33- Which document contains the fundamental rules for governing Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Regeringsformen",
+      "textAr": "A. الدستور الحكومي (Regeringsformen)",
+      "textEn": "A. The Instrument of Government",
+      "correct": true
+    },
+    {
+      "textSv": "B. Skollagen",
+      "textAr": "B. قانون التعليم",
+      "textEn": "B. The Education Act",
+      "correct": false
+    },
+    {
+      "textSv": "C. Brottsbalken",
+      "textAr": "C. قانون العقوبات",
+      "textEn": "C. The Penal Code",
+      "correct": false
+    },
+    {
+      "textSv": "D. Kommunallagen",
+      "textAr": "D. قانون البلديات",
+      "textEn": "D. The Local Government Act",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Regeringsformen",
+  "correctAnswerAr": "A. الدستور الحكومي (Regeringsformen)",
+  "correctAnswerEn": "A. The Instrument of Government"
+},{
+  "question": {
+    "sv": "34- Vad gör regeringen i Sverige?",
+    "ar": "34- ما هي مهمة الحكومة في السويد؟",
+    "en": "34- What does the Swedish Government do?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Dömer i domstolar",
+      "textAr": "A. تصدر الأحكام في المحاكم",
+      "textEn": "A. Decides court cases",
+      "correct": false
+    },
+    {
+      "textSv": "B. Styr landet och genomför riksdagens beslut",
+      "textAr": "B. تدير البلاد وتنفذ قرارات البرلمان",
+      "textEn": "B. Governs the country and implements Parliament's decisions",
+      "correct": true
+    },
+    {
+      "textSv": "C. Leder kommunerna",
+      "textAr": "C. تدير البلديات",
+      "textEn": "C. Runs the municipalities",
+      "correct": false
+    },
+    {
+      "textSv": "D. Väljer domare",
+      "textAr": "D. تعين القضاة",
+      "textEn": "D. Appoints judges",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Styr landet och genomför riksdagens beslut",
+  "correctAnswerAr": "B. تدير البلاد وتنفذ قرارات البرلمان",
+  "correctAnswerEn": "B. Governs the country and implements Parliament's decisions"
+},
+{
+  "question": {
+    "sv": "35- Vilken myndighet ansvarar för pass i Sverige?",
+    "ar": "35- أي جهة مسؤولة عن إصدار جوازات السفر في السويد؟",
+    "en": "35- Which authority issues passports in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skatteverket",
+      "textAr": "A. مصلحة الضرائب",
+      "textEn": "A. Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": true
+    },
+    {
+      "textSv": "C. Migrationsverket",
+      "textAr": "C. مصلحة الهجرة",
+      "textEn": "C. Swedish Migration Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Försäkringskassan",
+      "textAr": "D. صندوق التأمينات",
+      "textEn": "D. Swedish Social Insurance Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Polisen",
+  "correctAnswerAr": "B. الشرطة",
+  "correctAnswerEn": "B. The Police"
+},
+{
+  "question": {
+    "sv": "36- Vilket är Sveriges officiella valuta?",
+    "ar": "36- ما هي العملة الرسمية في السويد؟",
+    "en": "36- What is Sweden's official currency?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Euro",
+      "textAr": "A. اليورو",
+      "textEn": "A. Euro",
+      "correct": false
+    },
+    {
+      "textSv": "B. Svenska kronor (SEK)",
+      "textAr": "B. الكرونة السويدية (SEK)",
+      "textEn": "B. Swedish kronor (SEK)",
+      "correct": true
+    },
+    {
+      "textSv": "C. Dollar",
+      "textAr": "C. الدولار",
+      "textEn": "C. Dollar",
+      "correct": false
+    },
+    {
+      "textSv": "D. Pund",
+      "textAr": "D. الجنيه",
+      "textEn": "D. Pound",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Svenska kronor (SEK)",
+  "correctAnswerAr": "B. الكرونة السويدية (SEK)",
+  "correctAnswerEn": "B. Swedish kronor (SEK)"
+},
+{
+  "question": {
+    "sv": "37- Vad innebär rösträtt?",
+    "ar": "37- ماذا يعني حق التصويت؟",
+    "en": "37- What does the right to vote mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att kandidera till riksdagen",
+      "textAr": "A. الحق في الترشح للبرلمان",
+      "textEn": "A. The right to run for Parliament",
+      "correct": false
+    },
+    {
+      "textSv": "B. Rätten att delta i val och rösta",
+      "textAr": "B. الحق في المشاركة في الانتخابات والتصويت",
+      "textEn": "B. The right to participate in elections and vote",
+      "correct": true
+    },
+    {
+      "textSv": "C. Rätten att bli domare",
+      "textAr": "C. الحق في أن تصبح قاضياً",
+      "textEn": "C. The right to become a judge",
+      "correct": false
+    },
+    {
+      "textSv": "D. Rätten att slippa betala skatt",
+      "textAr": "D. الحق في عدم دفع الضرائب",
+      "textEn": "D. The right not to pay taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Rätten att delta i val och rösta",
+  "correctAnswerAr": "B. الحق في المشاركة في الانتخابات والتصويت",
+  "correctAnswerEn": "B. The right to participate in elections and vote"
+},
+{
+  "question": {
+    "sv": "38- Vad är en kommun ansvarig för?",
+    "ar": "38- عن ماذا تكون البلدية مسؤولة؟",
+    "en": "38- What is a municipality responsible for?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Försvar",
+      "textAr": "A. الدفاع",
+      "textEn": "A. National defense",
+      "correct": false
+    },
+    {
+      "textSv": "B. Skola, äldreomsorg och socialtjänst",
+      "textAr": "B. المدارس ورعاية المسنين والخدمات الاجتماعية",
+      "textEn": "B. Schools, elderly care and social services",
+      "correct": true
+    },
+    {
+      "textSv": "C. Utrikespolitik",
+      "textAr": "C. السياسة الخارجية",
+      "textEn": "C. Foreign policy",
+      "correct": false
+    },
+    {
+      "textSv": "D. Passkontroll",
+      "textAr": "D. مراقبة الجوازات",
+      "textEn": "D. Passport control",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Skola, äldreomsorg och socialtjänst",
+  "correctAnswerAr": "B. المدارس ورعاية المسنين والخدمات الاجتماعية",
+  "correctAnswerEn": "B. Schools, elderly care and social services"
+},
+{
+  "question": {
+    "sv": "39- Vilken rättighet skyddas av yttrandefriheten?",
+    "ar": "39- أي حق تحميه حرية التعبير؟",
+    "en": "39- Which right is protected by freedom of expression?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att uttrycka sina åsikter",
+      "textAr": "A. الحق في التعبير عن الآراء",
+      "textEn": "A. The right to express your opinions",
+      "correct": true
+    },
+    {
+      "textSv": "B. Rätten att bryta mot lagen",
+      "textAr": "B. الحق في مخالفة القانون",
+      "textEn": "B. The right to break the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Rätten att slippa skatt",
+      "textAr": "C. الحق في عدم دفع الضرائب",
+      "textEn": "C. The right not to pay taxes",
+      "correct": false
+    },
+    {
+      "textSv": "D. Rätten att bestämma över domstolarna",
+      "textAr": "D. الحق في التحكم بالمحاكم",
+      "textEn": "D. The right to control the courts",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rätten att uttrycka sina åsikter",
+  "correctAnswerAr": "A. الحق في التعبير عن الآراء",
+  "correctAnswerEn": "A. The right to express your opinions"
+},
+{
+  "question": {
+    "sv": "40- Sverige är medlem i vilken organisation sedan 1995?",
+    "ar": "40- السويد عضو في أي منظمة منذ عام 1995؟",
+    "en": "40- Sweden has been a member of which organization since 1995?"
+  },
+  "answers": [
+    {
+      "textSv": "A. NATO",
+      "textAr": "A. الناتو",
+      "textEn": "A. NATO",
+      "correct": false
+    },
+    {
+      "textSv": "B. Europeiska unionen (EU)",
+      "textAr": "B. الاتحاد الأوروبي",
+      "textEn": "B. European Union (EU)",
+      "correct": true
+    },
+    {
+      "textSv": "C. FN",
+      "textAr": "C. الأمم المتحدة",
+      "textEn": "C. United Nations",
+      "correct": false
+    },
+    {
+      "textSv": "D. Europarådet",
+      "textAr": "D. مجلس أوروبا",
+      "textEn": "D. Council of Europe",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Europeiska unionen (EU)",
+  "correctAnswerAr": "B. الاتحاد الأوروبي",
+  "correctAnswerEn": "B. European Union (EU)"
+},{
+  "question": {
+    "sv": "41- Vilken myndighet ansvarar för migration och uppehållstillstånd i Sverige?",
+    "ar": "41- أي جهة مسؤولة عن الهجرة وتصاريح الإقامة في السويد؟",
+    "en": "41- Which authority is responsible for migration and residence permits in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Polisen",
+      "textAr": "A. الشرطة",
+      "textEn": "A. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "B. Migrationsverket",
+      "textAr": "B. مصلحة الهجرة",
+      "textEn": "B. The Swedish Migration Agency",
+      "correct": true
+    },
+    {
+      "textSv": "C. Skatteverket",
+      "textAr": "C. مصلحة الضرائب",
+      "textEn": "C. The Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Arbetsförmedlingen",
+      "textAr": "D. مكتب العمل",
+      "textEn": "D. The Public Employment Service",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Migrationsverket",
+  "correctAnswerAr": "B. مصلحة الهجرة",
+  "correctAnswerEn": "B. The Swedish Migration Agency"
+},
+{
+  "question": {
+    "sv": "42- Vad är en av domstolarnas viktigaste uppgifter?",
+    "ar": "42- ما إحدى أهم مهام المحاكم؟",
+    "en": "42- What is one of the main responsibilities of the courts?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att stifta lagar",
+      "textAr": "A. سن القوانين",
+      "textEn": "A. Make laws",
+      "correct": false
+    },
+    {
+      "textSv": "B. Att döma i tvister och brottmål",
+      "textAr": "B. الفصل في النزاعات والقضايا الجنائية",
+      "textEn": "B. Decide civil disputes and criminal cases",
+      "correct": true
+    },
+    {
+      "textSv": "C. Att välja regeringen",
+      "textAr": "C. اختيار الحكومة",
+      "textEn": "C. Elect the Government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att samla in skatt",
+      "textAr": "D. جمع الضرائب",
+      "textEn": "D. Collect taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Att döma i tvister och brottmål",
+  "correctAnswerAr": "B. الفصل في النزاعات والقضايا الجنائية",
+  "correctAnswerEn": "B. Decide civil disputes and criminal cases"
+},
+{
+  "question": {
+    "sv": "43- Vilken myndighet ansvarar för att driva in obetalda skulder?",
+    "ar": "43- أي جهة مسؤولة عن تحصيل الديون غير المدفوعة؟",
+    "en": "43- Which authority is responsible for collecting unpaid debts?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Kronofogden",
+      "textAr": "A. مصلحة التنفيذ (كرونوفوغدن)",
+      "textEn": "A. The Swedish Enforcement Authority",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "C. Arbetsförmedlingen",
+      "textAr": "C. مكتب العمل",
+      "textEn": "C. The Public Employment Service",
+      "correct": false
+    },
+    {
+      "textSv": "D. Socialtjänsten",
+      "textAr": "D. الخدمات الاجتماعية",
+      "textEn": "D. Social Services",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Kronofogden",
+  "correctAnswerAr": "A. مصلحة التنفيذ (كرونوفوغدن)",
+  "correctAnswerEn": "A. The Swedish Enforcement Authority"
+},
+{
+  "question": {
+    "sv": "44- Vad är ett fackförbund?",
+    "ar": "44- ما هي النقابة العمالية؟",
+    "en": "44- What is a trade union?"
+  },
+  "answers": [
+    {
+      "textSv": "A. En organisation som företräder arbetstagare",
+      "textAr": "A. منظمة تمثل العاملين",
+      "textEn": "A. An organization that represents employees",
+      "correct": true
+    },
+    {
+      "textSv": "B. Ett politiskt parti",
+      "textAr": "B. حزب سياسي",
+      "textEn": "B. A political party",
+      "correct": false
+    },
+    {
+      "textSv": "C. En domstol",
+      "textAr": "C. محكمة",
+      "textEn": "C. A court",
+      "correct": false
+    },
+    {
+      "textSv": "D. En myndighet",
+      "textAr": "D. جهة حكومية",
+      "textEn": "D. A government authority",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. En organisation som företräder arbetstagare",
+  "correctAnswerAr": "A. منظمة تمثل العاملين",
+  "correctAnswerEn": "A. An organization that represents employees"
+},
+{
+  "question": {
+    "sv": "45- Vad betyder allas lika värde?",
+    "ar": "45- ماذا يعني أن جميع الناس متساوون في القيمة؟",
+    "en": "45- What does the equal value of all people mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Alla människor har samma människovärde och rättigheter",
+      "textAr": "A. جميع الناس لهم نفس الكرامة والحقوق",
+      "textEn": "A. All people have equal human dignity and rights",
+      "correct": true
+    },
+    {
+      "textSv": "B. Alla måste ha samma arbete",
+      "textAr": "B. يجب أن يكون للجميع نفس العمل",
+      "textEn": "B. Everyone must have the same job",
+      "correct": false
+    },
+    {
+      "textSv": "C. Alla måste tjäna lika mycket pengar",
+      "textAr": "C. يجب أن يحصل الجميع على نفس الراتب",
+      "textEn": "C. Everyone must earn the same salary",
+      "correct": false
+    },
+    {
+      "textSv": "D. Alla måste ha samma religion",
+      "textAr": "D. يجب أن يكون للجميع نفس الدين",
+      "textEn": "D. Everyone must have the same religion",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Alla människor har samma människovärde och rättigheter",
+  "correctAnswerAr": "A. جميع الناس لهم نفس الكرامة والحقوق",
+  "correctAnswerEn": "A. All people have equal human dignity and rights"
+},
+{
+  "question": {
+    "sv": "46- Vilken myndighet ansvarar för sjukpenning och föräldrapenning?",
+    "ar": "46- أي جهة مسؤولة عن بدل المرض وبدل الوالدين؟",
+    "en": "46- Which authority administers sickness benefit and parental benefit?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Försäkringskassan",
+      "textAr": "A. صندوق التأمينات",
+      "textEn": "A. The Swedish Social Insurance Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Skatteverket",
+      "textAr": "B. مصلحة الضرائب",
+      "textEn": "B. The Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "C. Polisen",
+      "textAr": "C. الشرطة",
+      "textEn": "C. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "D. Valmyndigheten",
+      "textAr": "D. هيئة الانتخابات",
+      "textEn": "D. The Swedish Election Authority",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Försäkringskassan",
+  "correctAnswerAr": "A. صندوق التأمينات",
+  "correctAnswerEn": "A. The Swedish Social Insurance Agency"
+},
+{
+  "question": {
+    "sv": "47- Vilken är Sveriges högsta lag?",
+    "ar": "47- ما هو أعلى قانون في السويد؟",
+    "en": "47- What is the highest law in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Kommunallagen",
+      "textAr": "A. قانون البلديات",
+      "textEn": "A. The Local Government Act",
+      "correct": false
+    },
+    {
+      "textSv": "B. Grundlagarna",
+      "textAr": "B. القوانين الأساسية (الدستور)",
+      "textEn": "B. The Fundamental Laws (Constitution)",
+      "correct": true
+    },
+    {
+      "textSv": "C. Brottsbalken",
+      "textAr": "C. قانون العقوبات",
+      "textEn": "C. The Penal Code",
+      "correct": false
+    },
+    {
+      "textSv": "D. Skollagen",
+      "textAr": "D. قانون التعليم",
+      "textEn": "D. The Education Act",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Grundlagarna",
+  "correctAnswerAr": "B. القوانين الأساسية (الدستور)",
+  "correctAnswerEn": "B. The Fundamental Laws (Constitution)"
+},{
+  "question": {
+    "sv": "48- Vad innebär mötesfrihet?",
+    "ar": "48- ماذا تعني حرية الاجتماع؟",
+    "en": "48- What does freedom of assembly mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att samlas för möten och demonstrationer",
+      "textAr": "A. الحق في التجمع للاجتماعات والمظاهرات",
+      "textEn": "A. The right to gather for meetings and demonstrations",
+      "correct": true
+    },
+    {
+      "textSv": "B. Rätten att arbeta var man vill",
+      "textAr": "B. الحق في العمل أينما تريد",
+      "textEn": "B. The right to work anywhere",
+      "correct": false
+    },
+    {
+      "textSv": "C. Rätten att resa utan pass",
+      "textAr": "C. الحق في السفر دون جواز سفر",
+      "textEn": "C. The right to travel without a passport",
+      "correct": false
+    },
+    {
+      "textSv": "D. Rätten att slippa betala skatt",
+      "textAr": "D. الحق في عدم دفع الضرائب",
+      "textEn": "D. The right not to pay taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rätten att samlas för möten och demonstrationer",
+  "correctAnswerAr": "A. الحق في التجمع للاجتماعات والمظاهرات",
+  "correctAnswerEn": "A. The right to gather for meetings and demonstrations"
+},
+{
+  "question": {
+    "sv": "49- Vem betalar skatt i Sverige?",
+    "ar": "49- من يدفع الضرائب في السويد؟",
+    "en": "49- Who pays taxes in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Bara företag",
+      "textAr": "A. الشركات فقط",
+      "textEn": "A. Only companies",
+      "correct": false
+    },
+    {
+      "textSv": "B. Personer och företag som har skattepliktig inkomst",
+      "textAr": "B. الأفراد والشركات الذين لديهم دخل خاضع للضريبة",
+      "textEn": "B. Individuals and companies with taxable income",
+      "correct": true
+    },
+    {
+      "textSv": "C. Bara svenska medborgare",
+      "textAr": "C. المواطنون السويديون فقط",
+      "textEn": "C. Only Swedish citizens",
+      "correct": false
+    },
+    {
+      "textSv": "D. Bara personer över 65 år",
+      "textAr": "D. الأشخاص فوق 65 سنة فقط",
+      "textEn": "D. Only people over 65",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Personer och företag som har skattepliktig inkomst",
+  "correctAnswerAr": "B. الأفراد والشركات الذين لديهم دخل خاضع للضريبة",
+  "correctAnswerEn": "B. Individuals and companies with taxable income"
+},
+{
+  "question": {
+    "sv": "50- Vilken myndighet ansvarar för skatter i Sverige?",
+    "ar": "50- أي جهة مسؤولة عن الضرائب في السويد؟",
+    "en": "50- Which authority is responsible for taxes in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Försäkringskassan",
+      "textAr": "A. صندوق التأمينات",
+      "textEn": "A. The Swedish Social Insurance Agency",
+      "correct": false
+    },
+    {
+      "textSv": "B. Skatteverket",
+      "textAr": "B. مصلحة الضرائب",
+      "textEn": "B. The Swedish Tax Agency",
+      "correct": true
+    },
+    {
+      "textSv": "C. Polisen",
+      "textAr": "C. الشرطة",
+      "textEn": "C. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "D. Kronofogden",
+      "textAr": "D. مصلحة التنفيذ",
+      "textEn": "D. The Swedish Enforcement Authority",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Skatteverket",
+  "correctAnswerAr": "B. مصلحة الضرائب",
+  "correctAnswerEn": "B. The Swedish Tax Agency"
+},
+{
+  "question": {
+    "sv": "51- Vad är barnbidrag?",
+    "ar": "51- ما هو إعانة الأطفال؟",
+    "en": "51- What is child allowance?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Ekonomiskt stöd till familjer med barn",
+      "textAr": "A. دعم مالي للعائلات التي لديها أطفال",
+      "textEn": "A. Financial support for families with children",
+      "correct": true
+    },
+    {
+      "textSv": "B. Lån från banken",
+      "textAr": "B. قرض من البنك",
+      "textEn": "B. A bank loan",
+      "correct": false
+    },
+    {
+      "textSv": "C. En typ av skatt",
+      "textAr": "C. نوع من الضرائب",
+      "textEn": "C. A type of tax",
+      "correct": false
+    },
+    {
+      "textSv": "D. Pension",
+      "textAr": "D. معاش تقاعدي",
+      "textEn": "D. Pension",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Ekonomiskt stöd till familjer med barn",
+  "correctAnswerAr": "A. دعم مالي للعائلات التي لديها أطفال",
+  "correctAnswerEn": "A. Financial support for families with children"
+},
+{
+  "question": {
+    "sv": "52- Vilken myndighet ansvarar för den allmänna pensionen?",
+    "ar": "52- أي جهة مسؤولة عن المعاش التقاعدي العام؟",
+    "en": "52- Which authority is responsible for the public pension?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Pensionsmyndigheten",
+      "textAr": "A. هيئة المعاشات",
+      "textEn": "A. The Swedish Pensions Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "C. Skatteverket",
+      "textAr": "C. مصلحة الضرائب",
+      "textEn": "C. The Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Arbetsförmedlingen",
+      "textAr": "D. مكتب العمل",
+      "textEn": "D. The Public Employment Service",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Pensionsmyndigheten",
+  "correctAnswerAr": "A. هيئة المعاشات",
+  "correctAnswerEn": "A. The Swedish Pensions Agency"
+},
+{
+  "question": {
+    "sv": "53- Vad betyder jämställdhet?",
+    "ar": "53- ماذا تعني المساواة بين الجنسين؟",
+    "en": "53- What does gender equality mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Kvinnor och män ska ha samma rättigheter och möjligheter",
+      "textAr": "A. يجب أن تكون للنساء والرجال نفس الحقوق والفرص",
+      "textEn": "A. Women and men should have the same rights and opportunities",
+      "correct": true
+    },
+    {
+      "textSv": "B. Bara kvinnor får arbeta",
+      "textAr": "B. النساء فقط يحق لهن العمل",
+      "textEn": "B. Only women may work",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara män får rösta",
+      "textAr": "C. الرجال فقط يحق لهم التصويت",
+      "textEn": "C. Only men may vote",
+      "correct": false
+    },
+    {
+      "textSv": "D. Alla ska ha samma yrke",
+      "textAr": "D. يجب أن يكون للجميع نفس المهنة",
+      "textEn": "D. Everyone should have the same profession",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Kvinnor och män ska ha samma rättigheter och möjligheter",
+  "correctAnswerAr": "A. يجب أن تكون للنساء والرجال نفس الحقوق والفرص",
+  "correctAnswerEn": "A. Women and men should have the same rights and opportunities"
+},
+{
+  "question": {
+    "sv": "54- Vilken myndighet ansvarar för Sveriges polis?",
+    "ar": "54- ما اسم الجهة المسؤولة عن الشرطة في السويد؟",
+    "en": "54- Which authority is responsible for policing in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Polismyndigheten",
+      "textAr": "A. هيئة الشرطة",
+      "textEn": "A. The Swedish Police Authority",
+      "correct": true
+    },
+    {
+      "textSv": "B. Migrationsverket",
+      "textAr": "B. مصلحة الهجرة",
+      "textEn": "B. The Swedish Migration Agency",
+      "correct": false
+    },
+    {
+      "textSv": "C. Domstolsverket",
+      "textAr": "C. إدارة المحاكم",
+      "textEn": "C. The National Courts Administration",
+      "correct": false
+    },
+    {
+      "textSv": "D. Skolverket",
+      "textAr": "D. مصلحة التعليم",
+      "textEn": "D. The National Agency for Education",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Polismyndigheten",
+  "correctAnswerAr": "A. هيئة الشرطة",
+  "correctAnswerEn": "A. The Swedish Police Authority"
+},
+{
+  "question": {
+    "sv": "55- Vad är syftet med den svenska välfärden?",
+    "ar": "55- ما هو الهدف من نظام الرفاه في السويد؟",
+    "en": "55- What is the purpose of the Swedish welfare system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge stöd och trygghet genom olika samhällstjänster",
+      "textAr": "A. توفير الدعم والأمان من خلال خدمات المجتمع المختلفة",
+      "textEn": "A. To provide support and security through public services",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att göra alla rika",
+      "textAr": "B. جعل الجميع أغنياء",
+      "textEn": "B. To make everyone rich",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att minska antalet myndigheter",
+      "textAr": "C. تقليل عدد الجهات الحكومية",
+      "textEn": "C. To reduce the number of government agencies",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ge gratis bostäder till alla",
+      "textAr": "D. توفير مساكن مجانية للجميع",
+      "textEn": "D. To provide free housing for everyone",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge stöd och trygghet genom olika samhällstjänster",
+  "correctAnswerAr": "A. توفير الدعم والأمان من خلال خدمات المجتمع المختلفة",
+  "correctAnswerEn": "A. To provide support and security through public services"
+},{
+  "question": {
+    "sv": "56- Vad är syftet med den svenska skolan?",
+    "ar": "56- ما هو الهدف من المدرسة في السويد؟",
+    "en": "56- What is the purpose of the Swedish school system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge alla barn en likvärdig utbildning",
+      "textAr": "A. توفير تعليم متساوٍ لجميع الأطفال",
+      "textEn": "A. To provide all children with an equal education",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bara undervisa svenska medborgare",
+      "textAr": "B. تعليم المواطنين السويديين فقط",
+      "textEn": "B. To educate only Swedish citizens",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att utbilda endast vuxna",
+      "textAr": "C. تعليم البالغين فقط",
+      "textEn": "C. To educate only adults",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ge arbete till lärare",
+      "textAr": "D. توفير وظائف للمعلمين",
+      "textEn": "D. To provide jobs for teachers",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge alla barn en likvärdig utbildning",
+  "correctAnswerAr": "A. توفير تعليم متساوٍ لجميع الأطفال",
+  "correctAnswerEn": "A. To provide all children with an equal education"
+},
+{
+  "question": {
+    "sv": "57- Från vilken ålder är skolplikten i Sverige?",
+    "ar": "57- من أي عمر يبدأ التعليم الإلزامي في السويد؟",
+    "en": "57- From what age does compulsory schooling begin in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. 5 år",
+      "textAr": "A. 5 سنوات",
+      "textEn": "A. 5 years",
+      "correct": false
+    },
+    {
+      "textSv": "B. 6 år",
+      "textAr": "B. 6 سنوات",
+      "textEn": "B. 6 years",
+      "correct": true
+    },
+    {
+      "textSv": "C. 7 år",
+      "textAr": "C. 7 سنوات",
+      "textEn": "C. 7 years",
+      "correct": false
+    },
+    {
+      "textSv": "D. 8 år",
+      "textAr": "D. 8 سنوات",
+      "textEn": "D. 8 years",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. 6 år",
+  "correctAnswerAr": "B. 6 سنوات",
+  "correctAnswerEn": "B. 6 years"
+},
+{
+  "question": {
+    "sv": "58- Vilken myndighet ansvarar för det svenska skolsystemet?",
+    "ar": "58- أي جهة مسؤولة عن نظام التعليم في السويد؟",
+    "en": "58- Which authority is responsible for the Swedish school system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skolverket",
+      "textAr": "A. مصلحة التعليم",
+      "textEn": "A. The Swedish National Agency for Education",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polismyndigheten",
+      "textAr": "B. هيئة الشرطة",
+      "textEn": "B. The Swedish Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "C. Försäkringskassan",
+      "textAr": "C. صندوق التأمينات",
+      "textEn": "C. The Swedish Social Insurance Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Arbetsförmedlingen",
+      "textAr": "D. مكتب العمل",
+      "textEn": "D. The Public Employment Service",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Skolverket",
+  "correctAnswerAr": "A. مصلحة التعليم",
+  "correctAnswerEn": "A. The Swedish National Agency for Education"
+},
+{
+  "question": {
+    "sv": "59- Vad är en av de viktigaste skyldigheterna för den som bor i Sverige?",
+    "ar": "59- ما هو أحد أهم الواجبات على من يعيش في السويد؟",
+    "en": "59- What is one of the most important responsibilities of people living in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att följa lagarna",
+      "textAr": "A. اتباع القوانين",
+      "textEn": "A. To follow the laws",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att vara medlem i ett politiskt parti",
+      "textAr": "B. الانضمام إلى حزب سياسي",
+      "textEn": "B. To belong to a political party",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att göra militärtjänst varje år",
+      "textAr": "C. أداء الخدمة العسكرية كل عام",
+      "textEn": "C. To perform military service every year",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att rösta i alla val",
+      "textAr": "D. التصويت في جميع الانتخابات",
+      "textEn": "D. To vote in every election",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att följa lagarna",
+  "correctAnswerAr": "A. اتباع القوانين",
+  "correctAnswerEn": "A. To follow the laws"
+},
+{
+  "question": {
+    "sv": "60- Vad innebär föreningsfrihet?",
+    "ar": "60- ماذا تعني حرية تكوين الجمعيات؟",
+    "en": "60- What does freedom of association mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att bilda och delta i föreningar",
+      "textAr": "A. الحق في تأسيس الجمعيات والانضمام إليها",
+      "textEn": "A. The right to form and join associations",
+      "correct": true
+    },
+    {
+      "textSv": "B. Rätten att starta företag utan regler",
+      "textAr": "B. الحق في إنشاء شركة دون قوانين",
+      "textEn": "B. The right to start a company without rules",
+      "correct": false
+    },
+    {
+      "textSv": "C. Rätten att slippa skatt",
+      "textAr": "C. الحق في عدم دفع الضرائب",
+      "textEn": "C. The right not to pay taxes",
+      "correct": false
+    },
+    {
+      "textSv": "D. Rätten att bli politiker",
+      "textAr": "D. الحق في أن تصبح سياسياً",
+      "textEn": "D. The right to become a politician",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rätten att bilda och delta i föreningar",
+  "correctAnswerAr": "A. الحق في تأسيس الجمعيات والانضمام إليها",
+  "correctAnswerEn": "A. The right to form and join associations"
+},
+{
+  "question": {
+    "sv": "61- Vad är en folkomröstning?",
+    "ar": "61- ما هو الاستفتاء الشعبي؟",
+    "en": "61- What is a referendum?"
+  },
+  "answers": [
+    {
+      "textSv": "A. När medborgarna röstar direkt i en viss fråga",
+      "textAr": "A. عندما يصوت المواطنون مباشرة في قضية معينة",
+      "textEn": "A. When citizens vote directly on a specific issue",
+      "correct": true
+    },
+    {
+      "textSv": "B. Ett val av statsminister",
+      "textAr": "B. انتخاب رئيس الوزراء",
+      "textEn": "B. An election for Prime Minister",
+      "correct": false
+    },
+    {
+      "textSv": "C. Ett möte i riksdagen",
+      "textAr": "C. اجتماع في البرلمان",
+      "textEn": "C. A meeting in Parliament",
+      "correct": false
+    },
+    {
+      "textSv": "D. Ett beslut av kungen",
+      "textAr": "D. قرار من الملك",
+      "textEn": "D. A decision by the King",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. När medborgarna röstar direkt i en viss fråga",
+  "correctAnswerAr": "A. عندما يصوت المواطنون مباشرة في قضية معينة",
+  "correctAnswerEn": "A. When citizens vote directly on a specific issue"
+},
+{
+  "question": {
+    "sv": "62- Vad är en myndighet?",
+    "ar": "62- ما هي الجهة الحكومية (Myndighet)؟",
+    "en": "62- What is a government agency (myndighet)?"
+  },
+  "answers": [
+    {
+      "textSv": "A. En organisation som genomför riksdagens och regeringens beslut",
+      "textAr": "A. جهة تنفذ قرارات البرلمان والحكومة",
+      "textEn": "A. An organization that implements decisions made by Parliament and the Government",
+      "correct": true
+    },
+    {
+      "textSv": "B. Ett politiskt parti",
+      "textAr": "B. حزب سياسي",
+      "textEn": "B. A political party",
+      "correct": false
+    },
+    {
+      "textSv": "C. En privat organisation",
+      "textAr": "C. منظمة خاصة",
+      "textEn": "C. A private organization",
+      "correct": false
+    },
+    {
+      "textSv": "D. En domstol",
+      "textAr": "D. محكمة",
+      "textEn": "D. A court",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. En organisation som genomför riksdagens och regeringens beslut",
+  "correctAnswerAr": "A. جهة تنفذ قرارات البرلمان والحكومة",
+  "correctAnswerEn": "A. An organization that implements decisions made by Parliament and the Government"
+},{
+  "question": {
+    "sv": "63- Hur många grundlagar har Sverige?",
+    "ar": "63- كم عدد القوانين الأساسية (الدستورية) في السويد؟",
+    "en": "63- How many fundamental laws does Sweden have?"
+  },
+  "answers": [
+    {
+      "textSv": "A. 2",
+      "textAr": "A. 2",
+      "textEn": "A. 2",
+      "correct": false
+    },
+    {
+      "textSv": "B. 3",
+      "textAr": "B. 3",
+      "textEn": "B. 3",
+      "correct": false
+    },
+    {
+      "textSv": "C. 4",
+      "textAr": "C. 4",
+      "textEn": "C. 4",
+      "correct": true
+    },
+    {
+      "textSv": "D. 5",
+      "textAr": "D. 5",
+      "textEn": "D. 5",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "C. 4",
+  "correctAnswerAr": "C. 4",
+  "correctAnswerEn": "C. 4"
+},
+{
+  "question": {
+    "sv": "64- Vilken är den minsta politiska nivån i Sverige?",
+    "ar": "64- ما هو أصغر مستوى سياسي في السويد؟",
+    "en": "64- What is the smallest political level in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Staten",
+      "textAr": "A. الدولة",
+      "textEn": "A. The State",
+      "correct": false
+    },
+    {
+      "textSv": "B. Regionen",
+      "textAr": "B. الإقليم",
+      "textEn": "B. The Region",
+      "correct": false
+    },
+    {
+      "textSv": "C. Kommunen",
+      "textAr": "C. البلدية",
+      "textEn": "C. The Municipality",
+      "correct": true
+    },
+    {
+      "textSv": "D. Europeiska unionen",
+      "textAr": "D. الاتحاد الأوروبي",
+      "textEn": "D. The European Union",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "C. Kommunen",
+  "correctAnswerAr": "C. البلدية",
+  "correctAnswerEn": "C. The Municipality"
+},
+{
+  "question": {
+    "sv": "65- Vilken myndighet ansvarar för folk- och bostadsräkningar samt officiell statistik?",
+    "ar": "65- أي جهة مسؤولة عن الإحصاءات الرسمية في السويد؟",
+    "en": "65- Which authority is responsible for official statistics in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skolverket",
+      "textAr": "A. مصلحة التعليم",
+      "textEn": "A. National Agency for Education",
+      "correct": false
+    },
+    {
+      "textSv": "B. Statistiska centralbyrån (SCB)",
+      "textAr": "B. هيئة الإحصاء المركزية (SCB)",
+      "textEn": "B. Statistics Sweden (SCB)",
+      "correct": true
+    },
+    {
+      "textSv": "C. Polismyndigheten",
+      "textAr": "C. هيئة الشرطة",
+      "textEn": "C. Swedish Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "D. Domstolsverket",
+      "textAr": "D. إدارة المحاكم",
+      "textEn": "D. National Courts Administration",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "B. Statistiska centralbyrån (SCB)",
+  "correctAnswerAr": "B. هيئة الإحصاء المركزية (SCB)",
+  "correctAnswerEn": "B. Statistics Sweden (SCB)"
+},
+{
+  "question": {
+    "sv": "66- Vad innebär principen om allas lika värde?",
+    "ar": "66- ماذا يعني مبدأ تساوي جميع الناس في القيمة؟",
+    "en": "66- What does the principle of equal value of all people mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Alla människor ska behandlas med respekt och har samma värde",
+      "textAr": "A. يجب معاملة جميع الناس باحترام ولهم نفس القيمة",
+      "textEn": "A. All people should be treated with respect and have equal value",
+      "correct": true
+    },
+    {
+      "textSv": "B. Alla ska ha samma lön",
+      "textAr": "B. يجب أن يحصل الجميع على نفس الراتب",
+      "textEn": "B. Everyone must earn the same salary",
+      "correct": false
+    },
+    {
+      "textSv": "C. Alla ska bo i samma kommun",
+      "textAr": "C. يجب أن يعيش الجميع في نفس البلدية",
+      "textEn": "C. Everyone must live in the same municipality",
+      "correct": false
+    },
+    {
+      "textSv": "D. Alla måste ha samma utbildning",
+      "textAr": "D. يجب أن يحصل الجميع على نفس التعليم",
+      "textEn": "D. Everyone must have the same education",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Alla människor ska behandlas med respekt och har samma värde",
+  "correctAnswerAr": "A. يجب معاملة جميع الناس باحترام ولهم نفس القيمة",
+  "correctAnswerEn": "A. All people should be treated with respect and have equal value"
+},
+{
+  "question": {
+    "sv": "67- Vad betyder sekretess hos myndigheter?",
+    "ar": "67- ماذا تعني السرية لدى الجهات الحكومية؟",
+    "en": "67- What does confidentiality in government authorities mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Vissa uppgifter skyddas och får inte lämnas ut",
+      "textAr": "A. بعض المعلومات محمية ولا يجوز الكشف عنها",
+      "textEn": "A. Certain information is protected and may not be disclosed",
+      "correct": true
+    },
+    {
+      "textSv": "B. Alla dokument är hemliga",
+      "textAr": "B. جميع الوثائق سرية",
+      "textEn": "B. All documents are secret",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara regeringen får läsa myndigheters handlingar",
+      "textAr": "C. الحكومة فقط يمكنها قراءة الوثائق الحكومية",
+      "textEn": "C. Only the Government may read official documents",
+      "correct": false
+    },
+    {
+      "textSv": "D. Myndigheter får inte skriva dokument",
+      "textAr": "D. لا يحق للجهات الحكومية كتابة وثائق",
+      "textEn": "D. Government agencies may not write documents",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Vissa uppgifter skyddas och får inte lämnas ut",
+  "correctAnswerAr": "A. بعض المعلومات محمية ولا يجوز الكشف عنها",
+  "correctAnswerEn": "A. Certain information is protected and may not be disclosed"
+},
+{
+  "question": {
+    "sv": "68- Vad är syftet med att betala skatt?",
+    "ar": "68- ما الهدف من دفع الضرائب؟",
+    "en": "68- What is the purpose of paying taxes?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att finansiera välfärd och offentlig service",
+      "textAr": "A. تمويل نظام الرفاه والخدمات العامة",
+      "textEn": "A. To finance welfare and public services",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att betala kungens lön",
+      "textAr": "B. دفع راتب الملك",
+      "textEn": "B. To pay the King's salary",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att finansiera privata företag",
+      "textAr": "C. تمويل الشركات الخاصة",
+      "textEn": "C. To finance private companies",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att minska antalet kommuner",
+      "textAr": "D. تقليل عدد البلديات",
+      "textEn": "D. To reduce the number of municipalities",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att finansiera välfärd och offentlig service",
+  "correctAnswerAr": "A. تمويل نظام الرفاه والخدمات العامة",
+  "correctAnswerEn": "A. To finance welfare and public services"
+},
+{
+  "question": {
+    "sv": "69- Vilken rättighet innebär att du får välja var du vill bo i Sverige?",
+    "ar": "69- أي حق يعني أنه يمكنك اختيار مكان السكن في السويد؟",
+    "en": "69- Which right means you can choose where to live in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rörelsefrihet",
+      "textAr": "A. حرية التنقل",
+      "textEn": "A. Freedom of movement",
+      "correct": true
+    },
+    {
+      "textSv": "B. Tryckfrihet",
+      "textAr": "B. حرية الصحافة",
+      "textEn": "B. Freedom of the press",
+      "correct": false
+    },
+    {
+      "textSv": "C. Religionsfrihet",
+      "textAr": "C. حرية الدين",
+      "textEn": "C. Freedom of religion",
+      "correct": false
+    },
+    {
+      "textSv": "D. Föreningsfrihet",
+      "textAr": "D. حرية تكوين الجمعيات",
+      "textEn": "D. Freedom of association",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rörelsefrihet",
+  "correctAnswerAr": "A. حرية التنقل",
+  "correctAnswerEn": "A. Freedom of movement"
+},
+{
+  "question": {
+    "sv": "70- Vilken myndighet ansvarar för Sveriges domstolar?",
+    "ar": "70- أي جهة مسؤولة عن إدارة المحاكم في السويد؟",
+    "en": "70- Which authority is responsible for administering Sweden's courts?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Domstolsverket",
+      "textAr": "A. إدارة المحاكم",
+      "textEn": "A. The Swedish National Courts Administration",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polismyndigheten",
+      "textAr": "B. هيئة الشرطة",
+      "textEn": "B. Swedish Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "C. Skatteverket",
+      "textAr": "C. مصلحة الضرائب",
+      "textEn": "C. Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Arbetsförmedlingen",
+      "textAr": "D. مكتب العمل",
+      "textEn": "D. Public Employment Service",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Domstolsverket",
+  "correctAnswerAr": "A. إدارة المحاكم",
+  "correctAnswerEn": "A. The Swedish National Courts Administration"
+},{
+  "question": {
+    "sv": "71- Vad innebär tryckfrihet?",
+    "ar": "71- ماذا تعني حرية الصحافة؟",
+    "en": "71- What does freedom of the press mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att publicera information och åsikter i tryckta medier",
+      "textAr": "A. الحق في نشر المعلومات والآراء في وسائل الإعلام المطبوعة",
+      "textEn": "A. The right to publish information and opinions in printed media",
+      "correct": true
+    },
+    {
+      "textSv": "B. Rätten att skriva utan ansvar",
+      "textAr": "B. الحق في الكتابة دون مسؤولية",
+      "textEn": "B. The right to write without responsibility",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara journalister får skriva tidningar",
+      "textAr": "C. الصحفيون فقط يحق لهم كتابة الصحف",
+      "textEn": "C. Only journalists may write newspapers",
+      "correct": false
+    },
+    {
+      "textSv": "D. Staten bestämmer vad som får publiceras",
+      "textAr": "D. الدولة تحدد ما يمكن نشره",
+      "textEn": "D. The state decides what may be published",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rätten att publicera information och åsikter i tryckta medier",
+  "correctAnswerAr": "A. الحق في نشر المعلومات والآراء في وسائل الإعلام المطبوعة",
+  "correctAnswerEn": "A. The right to publish information and opinions in printed media"
+},
+{
+  "question": {
+    "sv": "72- Hur ofta hålls val till riksdagen i Sverige?",
+    "ar": "72- كم مرة تُجرى انتخابات البرلمان في السويد؟",
+    "en": "72- How often are parliamentary elections held in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Vartannat år",
+      "textAr": "A. كل سنتين",
+      "textEn": "A. Every two years",
+      "correct": false
+    },
+    {
+      "textSv": "B. Vart tredje år",
+      "textAr": "B. كل ثلاث سنوات",
+      "textEn": "B. Every three years",
+      "correct": false
+    },
+    {
+      "textSv": "C. Vart fjärde år",
+      "textAr": "C. كل أربع سنوات",
+      "textEn": "C. Every four years",
+      "correct": true
+    },
+    {
+      "textSv": "D. Vart femte år",
+      "textAr": "D. كل خمس سنوات",
+      "textEn": "D. Every five years",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "C. Vart fjärde år",
+  "correctAnswerAr": "C. كل أربع سنوات",
+  "correctAnswerEn": "C. Every four years"
+},
+{
+  "question": {
+    "sv": "73- Vad är diskriminering?",
+    "ar": "73- ما هو التمييز؟",
+    "en": "73- What is discrimination?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att behandla människor sämre på grund av exempelvis kön, religion eller ursprung",
+      "textAr": "A. معاملة الأشخاص بشكل أسوأ بسبب الجنس أو الدين أو الأصل وغيرها",
+      "textEn": "A. Treating people unfairly because of gender, religion, origin, or similar reasons",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att följa lagen",
+      "textAr": "B. اتباع القانون",
+      "textEn": "B. Following the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att rösta i val",
+      "textAr": "C. التصويت في الانتخابات",
+      "textEn": "C. Voting in elections",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att betala skatt",
+      "textAr": "D. دفع الضرائب",
+      "textEn": "D. Paying taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att behandla människor sämre på grund av exempelvis kön, religion eller ursprung",
+  "correctAnswerAr": "A. معاملة الأشخاص بشكل أسوأ بسبب الجنس أو الدين أو الأصل وغيرها",
+  "correctAnswerEn": "A. Treating people unfairly because of gender, religion, origin, or similar reasons"
+},
+{
+  "question": {
+    "sv": "74- Vilken myndighet ansvarar för val i Sverige?",
+    "ar": "74- أي جهة مسؤولة عن الانتخابات في السويد؟",
+    "en": "74- Which authority is responsible for elections in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Valmyndigheten",
+      "textAr": "A. هيئة الانتخابات",
+      "textEn": "A. The Swedish Election Authority",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polismyndigheten",
+      "textAr": "B. هيئة الشرطة",
+      "textEn": "B. The Swedish Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "C. Skatteverket",
+      "textAr": "C. مصلحة الضرائب",
+      "textEn": "C. The Swedish Tax Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Migrationsverket",
+      "textAr": "D. مصلحة الهجرة",
+      "textEn": "D. The Swedish Migration Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Valmyndigheten",
+  "correctAnswerAr": "A. هيئة الانتخابات",
+  "correctAnswerEn": "A. The Swedish Election Authority"
+},
+{
+  "question": {
+    "sv": "75- Vad betyder rättssäkerhet?",
+    "ar": "75- ماذا يعني الأمن القانوني؟",
+    "en": "75- What does the rule of law (legal certainty) mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att lagarna gäller lika för alla och att domstolar är oberoende",
+      "textAr": "A. أن القوانين تطبق على الجميع بالتساوي وأن المحاكم مستقلة",
+      "textEn": "A. Laws apply equally to everyone and courts are independent",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att polisen bestämmer straffen",
+      "textAr": "B. أن الشرطة تحدد العقوبات",
+      "textEn": "B. The police decide punishments",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att regeringen dömer i domstolar",
+      "textAr": "C. أن الحكومة تصدر الأحكام",
+      "textEn": "C. The Government decides court cases",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att bara medborgare skyddas av lagen",
+      "textAr": "D. المواطنون فقط يحميهم القانون",
+      "textEn": "D. Only citizens are protected by law",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att lagarna gäller lika för alla och att domstolar är oberoende",
+  "correctAnswerAr": "A. أن القوانين تطبق على الجميع بالتساوي وأن المحاكم مستقلة",
+  "correctAnswerEn": "A. Laws apply equally to everyone and courts are independent"
+},
+{
+  "question": {
+    "sv": "76- Vad är en region ansvarig för?",
+    "ar": "76- عن ماذا تكون المنطقة (Region) مسؤولة؟",
+    "en": "76- What is a region mainly responsible for?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Hälso- och sjukvård samt kollektivtrafik",
+      "textAr": "A. الرعاية الصحية والنقل العام",
+      "textEn": "A. Healthcare and public transport",
+      "correct": true
+    },
+    {
+      "textSv": "B. Försvar",
+      "textAr": "B. الدفاع",
+      "textEn": "B. National defense",
+      "correct": false
+    },
+    {
+      "textSv": "C. Utrikespolitik",
+      "textAr": "C. السياسة الخارجية",
+      "textEn": "C. Foreign policy",
+      "correct": false
+    },
+    {
+      "textSv": "D. Polisverksamhet",
+      "textAr": "D. أعمال الشرطة",
+      "textEn": "D. Police services",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Hälso- och sjukvård samt kollektivtrafik",
+  "correctAnswerAr": "A. الرعاية الصحية والنقل العام",
+  "correctAnswerEn": "A. Healthcare and public transport"
+},
+{
+  "question": {
+    "sv": "77- Vilken myndighet ansvarar för folkbokföringen i Sverige?",
+    "ar": "77- أي جهة مسؤولة عن تسجيل السكان في السويد؟",
+    "en": "77- Which authority is responsible for population registration in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skatteverket",
+      "textAr": "A. مصلحة الضرائب",
+      "textEn": "A. The Swedish Tax Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polisen",
+      "textAr": "B. الشرطة",
+      "textEn": "B. The Police",
+      "correct": false
+    },
+    {
+      "textSv": "C. Migrationsverket",
+      "textAr": "C. مصلحة الهجرة",
+      "textEn": "C. The Swedish Migration Agency",
+      "correct": false
+    },
+    {
+      "textSv": "D. Försäkringskassan",
+      "textAr": "D. صندوق التأمينات",
+      "textEn": "D. The Swedish Social Insurance Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Skatteverket",
+  "correctAnswerAr": "A. مصلحة الضرائب",
+  "correctAnswerEn": "A. The Swedish Tax Agency"
+},{
+  "question": {
+    "sv": "78- Vad är syftet med den svenska grundlagen?",
+    "ar": "78- ما هو الهدف من القوانين الأساسية (الدستور) في السويد؟",
+    "en": "78- What is the purpose of Sweden's Fundamental Laws?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att bestämma hur landet ska styras och skydda medborgarnas fri- och rättigheter",
+      "textAr": "A. تحديد كيفية حكم البلاد وحماية حقوق وحريات الأفراد",
+      "textEn": "A. To determine how the country is governed and protect people's rights and freedoms",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bestämma skattesatser",
+      "textAr": "B. تحديد نسب الضرائب",
+      "textEn": "B. To determine tax rates",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att reglera idrott",
+      "textAr": "C. تنظيم الرياضة",
+      "textEn": "C. To regulate sports",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att välja ministrar",
+      "textAr": "D. اختيار الوزراء",
+      "textEn": "D. To choose ministers",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att bestämma hur landet ska styras och skydda medborgarnas fri- och rättigheter",
+  "correctAnswerAr": "A. تحديد كيفية حكم البلاد وحماية حقوق وحريات الأفراد",
+  "correctAnswerEn": "A. To determine how the country is governed and protect people's rights and freedoms"
+},
+{
+  "question": {
+    "sv": "79- Vad är en medborgares viktigaste demokratiska rättighet?",
+    "ar": "79- ما هو أهم حق ديمقراطي للمواطن؟",
+    "en": "79- What is a citizen's most important democratic right?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att rösta i allmänna val",
+      "textAr": "A. التصويت في الانتخابات العامة",
+      "textEn": "A. To vote in general elections",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att slippa betala skatt",
+      "textAr": "B. عدم دفع الضرائب",
+      "textEn": "B. Not paying taxes",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att bestämma lagar själv",
+      "textAr": "C. وضع القوانين بنفسه",
+      "textEn": "C. To make laws personally",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att bli statsminister",
+      "textAr": "D. أن يصبح رئيساً للوزراء",
+      "textEn": "D. To become Prime Minister",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att rösta i allmänna val",
+  "correctAnswerAr": "A. التصويت في الانتخابات العامة",
+  "correctAnswerEn": "A. To vote in general elections"
+},
+{
+  "question": {
+    "sv": "80- Vad gör en kommunfullmäktige?",
+    "ar": "80- ماذا يفعل مجلس البلدية؟",
+    "en": "80- What does a municipal council do?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Fattar beslut om kommunens verksamhet och budget",
+      "textAr": "A. يتخذ قرارات بشأن شؤون البلدية وميزانيتها",
+      "textEn": "A. Decides on municipal affairs and the municipal budget",
+      "correct": true
+    },
+    {
+      "textSv": "B. Dömer i brottmål",
+      "textAr": "B. يصدر أحكاماً في القضايا الجنائية",
+      "textEn": "B. Decides criminal cases",
+      "correct": false
+    },
+    {
+      "textSv": "C. Leder regeringen",
+      "textAr": "C. يقود الحكومة",
+      "textEn": "C. Leads the Government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Ansvarar för försvaret",
+      "textAr": "D. مسؤول عن الدفاع",
+      "textEn": "D. Responsible for national defense",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Fattar beslut om kommunens verksamhet och budget",
+  "correctAnswerAr": "A. يتخذ قرارات بشأن شؤون البلدية وميزانيتها",
+  "correctAnswerEn": "A. Decides on municipal affairs and the municipal budget"
+},
+{
+  "question": {
+    "sv": "81- Vad är en lag?",
+    "ar": "81- ما هو القانون؟",
+    "en": "81- What is a law?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Regler som beslutats av riksdagen och som alla ska följa",
+      "textAr": "A. قواعد يقرها البرلمان ويجب على الجميع اتباعها",
+      "textEn": "A. Rules passed by Parliament that everyone must follow",
+      "correct": true
+    },
+    {
+      "textSv": "B. Regler som bara gäller myndigheter",
+      "textAr": "B. قواعد تخص الجهات الحكومية فقط",
+      "textEn": "B. Rules that apply only to government agencies",
+      "correct": false
+    },
+    {
+      "textSv": "C. Regler som kommunen hittar på",
+      "textAr": "C. قواعد تضعها البلدية بنفسها",
+      "textEn": "C. Rules created by municipalities",
+      "correct": false
+    },
+    {
+      "textSv": "D. Rekommendationer utan betydelse",
+      "textAr": "D. توصيات غير ملزمة",
+      "textEn": "D. Non-binding recommendations",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Regler som beslutats av riksdagen och som alla ska följa",
+  "correctAnswerAr": "A. قواعد يقرها البرلمان ويجب على الجميع اتباعها",
+  "correctAnswerEn": "A. Rules passed by Parliament that everyone must follow"
+},
+{
+  "question": {
+    "sv": "82- Vad betyder att alla är lika inför lagen?",
+    "ar": "82- ماذا يعني أن الجميع متساوون أمام القانون؟",
+    "en": "82- What does it mean that everyone is equal before the law?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Lagen gäller alla på samma sätt",
+      "textAr": "A. يطبق القانون على الجميع بنفس الطريقة",
+      "textEn": "A. The law applies equally to everyone",
+      "correct": true
+    },
+    {
+      "textSv": "B. Bara svenska medborgare följer lagen",
+      "textAr": "B. المواطنون السويديون فقط يتبعون القانون",
+      "textEn": "B. Only Swedish citizens follow the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Politiker följer inte lagen",
+      "textAr": "C. السياسيون لا يتبعون القانون",
+      "textEn": "C. Politicians do not follow the law",
+      "correct": false
+    },
+    {
+      "textSv": "D. Domare bestämmer olika regler för olika personer",
+      "textAr": "D. القضاة يطبقون قوانين مختلفة على أشخاص مختلفين",
+      "textEn": "D. Judges apply different rules to different people",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Lagen gäller alla på samma sätt",
+  "correctAnswerAr": "A. يطبق القانون على الجميع بنفس الطريقة",
+  "correctAnswerEn": "A. The law applies equally to everyone"
+},
+{
+  "question": {
+    "sv": "83- Vad innebär personlig integritet?",
+    "ar": "83- ماذا تعني الخصوصية الشخصية؟",
+    "en": "83- What does personal privacy mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att människor har rätt till skydd för sitt privatliv",
+      "textAr": "A. أن للناس الحق في حماية حياتهم الخاصة",
+      "textEn": "A. People have the right to protection of their private life",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att myndigheter får läsa allt om alla",
+      "textAr": "B. يحق للجهات الحكومية قراءة كل شيء عن الجميع",
+      "textEn": "B. Authorities may read everything about everyone",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att ingen behöver följa lagen",
+      "textAr": "C. لا أحد ملزم باتباع القانون",
+      "textEn": "C. Nobody has to follow the law",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att alla dokument är offentliga",
+      "textAr": "D. جميع الوثائق متاحة للعامة",
+      "textEn": "D. All documents are public",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att människor har rätt till skydd för sitt privatliv",
+  "correctAnswerAr": "A. أن للناس الحق في حماية حياتهم الخاصة",
+  "correctAnswerEn": "A. People have the right to protection of their private life"
+},
+{
+  "question": {
+    "sv": "84- Vem utser statsministern i Sverige?",
+    "ar": "84- من يعين رئيس الوزراء في السويد؟",
+    "en": "84- Who appoints the Prime Minister of Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Riksdagen röstar om talmannens förslag",
+      "textAr": "A. يصوت البرلمان على اقتراح رئيس البرلمان",
+      "textEn": "A. Parliament votes on the Speaker's proposal",
+      "correct": true
+    },
+    {
+      "textSv": "B. Kungen väljer statsministern",
+      "textAr": "B. الملك يختار رئيس الوزراء",
+      "textEn": "B. The King chooses the Prime Minister",
+      "correct": false
+    },
+    {
+      "textSv": "C. Högsta domstolen utser statsministern",
+      "textAr": "C. المحكمة العليا تعين رئيس الوزراء",
+      "textEn": "C. The Supreme Court appoints the Prime Minister",
+      "correct": false
+    },
+    {
+      "textSv": "D. EU-kommissionen utser statsministern",
+      "textAr": "D. المفوضية الأوروبية تعين رئيس الوزراء",
+      "textEn": "D. The European Commission appoints the Prime Minister",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Riksdagen röstar om talmannens förslag",
+  "correctAnswerAr": "A. يصوت البرلمان على اقتراح رئيس البرلمان",
+  "correctAnswerEn": "A. Parliament votes on the Speaker's proposal"
+},{
+  "question": {
+    "sv": "85- Vad är en av riksdagens viktigaste uppgifter?",
+    "ar": "85- ما هي إحدى أهم مهام البرلمان السويدي؟",
+    "en": "85- What is one of the main responsibilities of the Swedish Parliament?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att stifta lagar och besluta om statens budget",
+      "textAr": "A. سن القوانين وإقرار ميزانية الدولة",
+      "textEn": "A. To pass laws and decide the state budget",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att döma i domstolar",
+      "textAr": "B. إصدار الأحكام في المحاكم",
+      "textEn": "B. To decide court cases",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att leda Polismyndigheten",
+      "textAr": "C. إدارة هيئة الشرطة",
+      "textEn": "C. To lead the Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att utfärda pass",
+      "textAr": "D. إصدار جوازات السفر",
+      "textEn": "D. To issue passports",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att stifta lagar och besluta om statens budget",
+  "correctAnswerAr": "A. سن القوانين وإقرار ميزانية الدولة",
+  "correctAnswerEn": "A. To pass laws and decide the state budget"
+},
+{
+  "question": {
+    "sv": "86- Vilket ansvar har den som bor i Sverige?",
+    "ar": "86- ما هي مسؤولية من يعيش في السويد؟",
+    "en": "86- What responsibility does a person living in Sweden have?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att följa lagarna och respektera andra människors rättigheter",
+      "textAr": "A. اتباع القوانين واحترام حقوق الآخرين",
+      "textEn": "A. To follow the laws and respect the rights of others",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att vara medlem i ett politiskt parti",
+      "textAr": "B. الانضمام إلى حزب سياسي",
+      "textEn": "B. To belong to a political party",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att arbeta för staten",
+      "textAr": "C. العمل لدى الدولة",
+      "textEn": "C. To work for the government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att göra militärtjänst varje år",
+      "textAr": "D. أداء الخدمة العسكرية كل عام",
+      "textEn": "D. To perform military service every year",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att följa lagarna och respektera andra människors rättigheter",
+  "correctAnswerAr": "A. اتباع القوانين واحترام حقوق الآخرين",
+  "correctAnswerEn": "A. To follow the laws and respect the rights of others"
+},
+{
+  "question": {
+    "sv": "87- Vad innebär religionsfrihet i Sverige?",
+    "ar": "87- ماذا تعني حرية الدين في السويد؟",
+    "en": "87- What does freedom of religion mean in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Var och en får välja religion eller att inte ha någon religion",
+      "textAr": "A. لكل شخص الحق في اختيار دينه أو عدم اعتناق أي دين",
+      "textEn": "A. Everyone may choose a religion or have no religion",
+      "correct": true
+    },
+    {
+      "textSv": "B. Staten bestämmer vilken religion alla ska ha",
+      "textAr": "B. الدولة تحدد دين الجميع",
+      "textEn": "B. The state decides everyone's religion",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara svenska medborgare får ha en religion",
+      "textAr": "C. المواطنون السويديون فقط يحق لهم اعتناق دين",
+      "textEn": "C. Only Swedish citizens may have a religion",
+      "correct": false
+    },
+    {
+      "textSv": "D. Bara en religion är tillåten",
+      "textAr": "D. دين واحد فقط مسموح به",
+      "textEn": "D. Only one religion is allowed",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Var och en får välja religion eller att inte ha någon religion",
+  "correctAnswerAr": "A. لكل شخص الحق في اختيار دينه أو عدم اعتناق أي دين",
+  "correctAnswerEn": "A. Everyone may choose a religion or have no religion"
+},
+{
+  "question": {
+    "sv": "88- Vad betyder demokratiska val?",
+    "ar": "88- ماذا تعني الانتخابات الديمقراطية؟",
+    "en": "88- What are democratic elections?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Fria och hemliga val där människor får rösta",
+      "textAr": "A. انتخابات حرة وسرية يستطيع الناس التصويت فيها",
+      "textEn": "A. Free and secret elections where people can vote",
+      "correct": true
+    },
+    {
+      "textSv": "B. Val där bara regeringen röstar",
+      "textAr": "B. انتخابات تصوت فيها الحكومة فقط",
+      "textEn": "B. Elections where only the Government votes",
+      "correct": false
+    },
+    {
+      "textSv": "C. Val där kungen bestämmer resultatet",
+      "textAr": "C. انتخابات يحدد الملك نتيجتها",
+      "textEn": "C. Elections where the King decides the result",
+      "correct": false
+    },
+    {
+      "textSv": "D. Val som hålls bara vid behov",
+      "textAr": "D. انتخابات تُجرى فقط عند الحاجة",
+      "textEn": "D. Elections held only when needed",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Fria och hemliga val där människor får rösta",
+  "correctAnswerAr": "A. انتخابات حرة وسرية يستطيع الناس التصويت فيها",
+  "correctAnswerEn": "A. Free and secret elections where people can vote"
+},
+{
+  "question": {
+    "sv": "89- Vad gör Högsta domstolen?",
+    "ar": "89- ماذا تفعل المحكمة العليا؟",
+    "en": "89- What does the Supreme Court do?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Prövar vissa viktiga mål och skapar vägledning för domstolar",
+      "textAr": "A. تنظر في بعض القضايا المهمة وتضع سوابق للمحاكم",
+      "textEn": "A. Reviews important cases and provides legal guidance for courts",
+      "correct": true
+    },
+    {
+      "textSv": "B. Skriver nya lagar",
+      "textAr": "B. تكتب قوانين جديدة",
+      "textEn": "B. Writes new laws",
+      "correct": false
+    },
+    {
+      "textSv": "C. Leder regeringen",
+      "textAr": "C. تقود الحكومة",
+      "textEn": "C. Leads the Government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Ansvarar för val",
+      "textAr": "D. مسؤولة عن الانتخابات",
+      "textEn": "D. Is responsible for elections",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Prövar vissa viktiga mål och skapar vägledning för domstolar",
+  "correctAnswerAr": "A. تنظر في بعض القضايا المهمة وتضع سوابق للمحاكم",
+  "correctAnswerEn": "A. Reviews important cases and provides legal guidance for courts"
+},
+{
+  "question": {
+    "sv": "90- Varför är yttrandefrihet viktig i en demokrati?",
+    "ar": "90- لماذا تعتبر حرية التعبير مهمة في الديمقراطية؟",
+    "en": "90- Why is freedom of expression important in a democracy?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Människor kan uttrycka sina åsikter och delta i samhällsdebatten",
+      "textAr": "A. يمكن للناس التعبير عن آرائهم والمشاركة في النقاش المجتمعي",
+      "textEn": "A. People can express their opinions and participate in public debate",
+      "correct": true
+    },
+    {
+      "textSv": "B. Människor får bryta mot lagen",
+      "textAr": "B. يحق للناس مخالفة القانون",
+      "textEn": "B. People may break the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara journalister får uttrycka sina åsikter",
+      "textAr": "C. الصحفيون فقط يحق لهم التعبير عن آرائهم",
+      "textEn": "C. Only journalists may express opinions",
+      "correct": false
+    },
+    {
+      "textSv": "D. Regeringen bestämmer vad alla ska tycka",
+      "textAr": "D. الحكومة تحدد ما يجب أن يعتقده الجميع",
+      "textEn": "D. The Government decides what everyone should think",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Människor kan uttrycka sina åsikter och delta i samhällsdebatten",
+  "correctAnswerAr": "A. يمكن للناس التعبير عن آرائهم والمشاركة في النقاش المجتمعي",
+  "correctAnswerEn": "A. People can express their opinions and participate in public debate"
+},{
+  "question": {
+    "sv": "91- Vad är syftet med offentlighetsprincipen?",
+    "ar": "91- ما هو الهدف من مبدأ العلنية؟",
+    "en": "91- What is the purpose of the Principle of Public Access?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge insyn i myndigheternas arbete och stärka demokratin",
+      "textAr": "A. منح الناس إمكانية الاطلاع على عمل الجهات الحكومية وتعزيز الديمقراطية",
+      "textEn": "A. To provide transparency in government and strengthen democracy",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att hålla alla myndighetsdokument hemliga",
+      "textAr": "B. إبقاء جميع الوثائق الحكومية سرية",
+      "textEn": "B. To keep all government documents secret",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att ge journalister särskilda rättigheter",
+      "textAr": "C. منح الصحفيين حقوقًا خاصة",
+      "textEn": "C. To give journalists special rights",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att minska antalet myndigheter",
+      "textAr": "D. تقليل عدد الجهات الحكومية",
+      "textEn": "D. To reduce the number of government agencies",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge insyn i myndigheternas arbete och stärka demokratin",
+  "correctAnswerAr": "A. منح الناس إمكانية الاطلاع على عمل الجهات الحكومية وتعزيز الديمقراطية",
+  "correctAnswerEn": "A. To provide transparency in government and strengthen democracy"
+},
+{
+  "question": {
+    "sv": "92- Vilken myndighet utfärdar id-kort i Sverige?",
+    "ar": "92- أي جهة تصدر بطاقات الهوية في السويد؟",
+    "en": "92- Which authority issues national ID cards in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skatteverket",
+      "textAr": "A. مصلحة الضرائب",
+      "textEn": "A. The Swedish Tax Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Försäkringskassan",
+      "textAr": "B. صندوق التأمينات",
+      "textEn": "B. The Swedish Social Insurance Agency",
+      "correct": false
+    },
+    {
+      "textSv": "C. Arbetsförmedlingen",
+      "textAr": "C. مكتب العمل",
+      "textEn": "C. The Public Employment Service",
+      "correct": false
+    },
+    {
+      "textSv": "D. Domstolsverket",
+      "textAr": "D. إدارة المحاكم",
+      "textEn": "D. The National Courts Administration",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Skatteverket",
+  "correctAnswerAr": "A. مصلحة الضرائب",
+  "correctAnswerEn": "A. The Swedish Tax Agency"
+},
+{
+  "question": {
+    "sv": "93- Vad innebär barns rättigheter i Sverige?",
+    "ar": "93- ماذا تعني حقوق الطفل في السويد؟",
+    "en": "93- What do children's rights mean in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Barn har rätt till skydd, utbildning och utveckling",
+      "textAr": "A. للأطفال الحق في الحماية والتعليم والنمو",
+      "textEn": "A. Children have the right to protection, education and development",
+      "correct": true
+    },
+    {
+      "textSv": "B. Barn bestämmer alla lagar",
+      "textAr": "B. الأطفال يضعون جميع القوانين",
+      "textEn": "B. Children make all laws",
+      "correct": false
+    },
+    {
+      "textSv": "C. Barn behöver inte gå i skolan",
+      "textAr": "C. الأطفال غير ملزمين بالذهاب إلى المدرسة",
+      "textEn": "C. Children do not have to attend school",
+      "correct": false
+    },
+    {
+      "textSv": "D. Barn får rösta från födseln",
+      "textAr": "D. الأطفال يحق لهم التصويت منذ الولادة",
+      "textEn": "D. Children may vote from birth",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Barn har rätt till skydd, utbildning och utveckling",
+  "correctAnswerAr": "A. للأطفال الحق في الحماية والتعليم والنمو",
+  "correctAnswerEn": "A. Children have the right to protection, education and development"
+},
+{
+  "question": {
+    "sv": "94- Vad är en viktig princip i svensk demokrati?",
+    "ar": "94- ما هو أحد المبادئ المهمة في الديمقراطية السويدية؟",
+    "en": "94- What is an important principle of Swedish democracy?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Makten utgår från folket",
+      "textAr": "A. السلطة مصدرها الشعب",
+      "textEn": "A. Power comes from the people",
+      "correct": true
+    },
+    {
+      "textSv": "B. Kungen bestämmer lagarna",
+      "textAr": "B. الملك يقرر القوانين",
+      "textEn": "B. The King decides the laws",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara myndigheter får rösta",
+      "textAr": "C. الجهات الحكومية فقط يحق لها التصويت",
+      "textEn": "C. Only government agencies may vote",
+      "correct": false
+    },
+    {
+      "textSv": "D. Domstolarna väljer regeringen",
+      "textAr": "D. المحاكم تختار الحكومة",
+      "textEn": "D. The courts choose the Government",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Makten utgår från folket",
+  "correctAnswerAr": "A. السلطة مصدرها الشعب",
+  "correctAnswerEn": "A. Power comes from the people"
+},
+{
+  "question": {
+    "sv": "95- Vad är diskrimineringslagen till för?",
+    "ar": "95- ما الهدف من قانون مكافحة التمييز؟",
+    "en": "95- What is the purpose of the Discrimination Act?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att motverka diskriminering och främja lika rättigheter",
+      "textAr": "A. مكافحة التمييز وتعزيز المساواة في الحقوق",
+      "textEn": "A. To combat discrimination and promote equal rights",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bestämma skatten",
+      "textAr": "B. تحديد الضرائب",
+      "textEn": "B. To determine taxes",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att välja riksdagen",
+      "textAr": "C. اختيار البرلمان",
+      "textEn": "C. To elect Parliament",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ge bidrag till företag",
+      "textAr": "D. تقديم إعانات للشركات",
+      "textEn": "D. To provide grants to companies",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att motverka diskriminering och främja lika rättigheter",
+  "correctAnswerAr": "A. مكافحة التمييز وتعزيز المساواة في الحقوق",
+  "correctAnswerEn": "A. To combat discrimination and promote equal rights"
+},
+{
+  "question": {
+    "sv": "96- Vad krävs för att ett samhälle ska vara demokratiskt?",
+    "ar": "96- ما الذي يتطلبه المجتمع الديمقراطي؟",
+    "en": "96- What is required for a society to be democratic?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Fria val, rättssäkerhet och respekt för mänskliga rättigheter",
+      "textAr": "A. انتخابات حرة، وسيادة القانون، واحترام حقوق الإنسان",
+      "textEn": "A. Free elections, rule of law, and respect for human rights",
+      "correct": true
+    },
+    {
+      "textSv": "B. En kung som bestämmer allt",
+      "textAr": "B. ملك يقرر كل شيء",
+      "textEn": "B. A king who decides everything",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att bara ett parti får ställa upp i val",
+      "textAr": "C. السماح لحزب واحد فقط بالمشاركة في الانتخابات",
+      "textEn": "C. Allowing only one political party",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att regeringen inte kan granskas",
+      "textAr": "D. عدم إمكانية مراقبة الحكومة",
+      "textEn": "D. The Government cannot be scrutinized",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Fria val, rättssäkerhet och respekt för mänskliga rättigheter",
+  "correctAnswerAr": "A. انتخابات حرة، وسيادة القانون، واحترام حقوق الإنسان",
+  "correctAnswerEn": "A. Free elections, rule of law, and respect for human rights"
+},{
+  "question": {
+    "sv": "97- Vad är syftet med kommunalskatt?",
+    "ar": "97- ما الهدف من ضريبة البلدية؟",
+    "en": "97- What is the purpose of municipal tax?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att finansiera kommunens service, till exempel skola och äldreomsorg",
+      "textAr": "A. تمويل خدمات البلدية مثل المدارس ورعاية كبار السن",
+      "textEn": "A. To finance municipal services such as schools and elderly care",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att finansiera kungahuset",
+      "textAr": "B. تمويل العائلة المالكة",
+      "textEn": "B. To finance the Royal Family",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att betala EU:s budget",
+      "textAr": "C. تمويل ميزانية الاتحاد الأوروبي",
+      "textEn": "C. To finance the EU budget",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att bygga privata företag",
+      "textAr": "D. إنشاء شركات خاصة",
+      "textEn": "D. To build private companies",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att finansiera kommunens service, till exempel skola och äldreomsorg",
+  "correctAnswerAr": "A. تمويل خدمات البلدية مثل المدارس ورعاية كبار السن",
+  "correctAnswerEn": "A. To finance municipal services such as schools and elderly care"
+},
+{
+  "question": {
+    "sv": "98- Vad betyder jämställdhet?",
+    "ar": "98- ماذا تعني المساواة بين الجنسين؟",
+    "en": "98- What does gender equality mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Kvinnor och män ska ha samma rättigheter och möjligheter",
+      "textAr": "A. أن تكون للنساء والرجال نفس الحقوق والفرص",
+      "textEn": "A. Women and men should have the same rights and opportunities",
+      "correct": true
+    },
+    {
+      "textSv": "B. Bara kvinnor får rösta",
+      "textAr": "B. النساء فقط يحق لهن التصويت",
+      "textEn": "B. Only women may vote",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara män får arbeta",
+      "textAr": "C. الرجال فقط يحق لهم العمل",
+      "textEn": "C. Only men may work",
+      "correct": false
+    },
+    {
+      "textSv": "D. Kvinnor och män måste ha samma yrke",
+      "textAr": "D. يجب أن يعمل النساء والرجال في نفس المهنة",
+      "textEn": "D. Women and men must have the same profession",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Kvinnor och män ska ha samma rättigheter och möjligheter",
+  "correctAnswerAr": "A. أن تكون للنساء والرجال نفس الحقوق والفرص",
+  "correctAnswerEn": "A. Women and men should have the same rights and opportunities"
+},
+{
+  "question": {
+    "sv": "99- Vad gör JO (Justitieombudsmannen)?",
+    "ar": "99- ماذا يفعل أمين المظالم البرلماني (JO)؟",
+    "en": "99- What does the Parliamentary Ombudsman (JO) do?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Granskar att myndigheter följer lagar och behandlar människor korrekt",
+      "textAr": "A. يراقب التزام الجهات الحكومية بالقوانين ومعاملة الناس بشكل صحيح",
+      "textEn": "A. Supervises that government authorities follow the law and treat people fairly",
+      "correct": true
+    },
+    {
+      "textSv": "B. Skriver nya lagar",
+      "textAr": "B. يكتب قوانين جديدة",
+      "textEn": "B. Writes new laws",
+      "correct": false
+    },
+    {
+      "textSv": "C. Leder regeringen",
+      "textAr": "C. يقود الحكومة",
+      "textEn": "C. Leads the Government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Ansvarar för Sveriges försvar",
+      "textAr": "D. مسؤول عن الدفاع السويدي",
+      "textEn": "D. Is responsible for Sweden's defense",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Granskar att myndigheter följer lagar och behandlar människor korrekt",
+  "correctAnswerAr": "A. يراقب التزام الجهات الحكومية بالقوانين ومعاملة الناس بشكل صحيح",
+  "correctAnswerEn": "A. Supervises that government authorities follow the law and treat people fairly"
+},
+{
+  "question": {
+    "sv": "100- Vilken är Sveriges nationella minoritetsspråk?",
+    "ar": "100- أي من اللغات التالية هي لغة أقلية وطنية في السويد؟",
+    "en": "100- Which of the following is a national minority language in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Samiska",
+      "textAr": "A. اللغة السامية",
+      "textEn": "A. Sami",
+      "correct": true
+    },
+    {
+      "textSv": "B. Engelska",
+      "textAr": "B. الإنجليزية",
+      "textEn": "B. English",
+      "correct": false
+    },
+    {
+      "textSv": "C. Tyska",
+      "textAr": "C. الألمانية",
+      "textEn": "C. German",
+      "correct": false
+    },
+    {
+      "textSv": "D. Franska",
+      "textAr": "D. الفرنسية",
+      "textEn": "D. French",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Samiska",
+  "correctAnswerAr": "A. اللغة السامية",
+  "correctAnswerEn": "A. Sami"
+},
+{
+  "question": {
+    "sv": "101- Vad är Sveriges officiella språk?",
+    "ar": "101- ما هي اللغة الرسمية في السويد؟",
+    "en": "101- What is Sweden's official language?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Svenska",
+      "textAr": "A. السويدية",
+      "textEn": "A. Swedish",
+      "correct": true
+    },
+    {
+      "textSv": "B. Engelska",
+      "textAr": "B. الإنجليزية",
+      "textEn": "B. English",
+      "correct": false
+    },
+    {
+      "textSv": "C. Finska",
+      "textAr": "C. الفنلندية",
+      "textEn": "C. Finnish",
+      "correct": false
+    },
+    {
+      "textSv": "D. Samiska",
+      "textAr": "D. السامية",
+      "textEn": "D. Sami",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Svenska",
+  "correctAnswerAr": "A. السويدية",
+  "correctAnswerEn": "A. Swedish"
+},
+{
+  "question": {
+    "sv": "102- Varför är det viktigt att betala skatt i Sverige?",
+    "ar": "102- لماذا من المهم دفع الضرائب في السويد؟",
+    "en": "102- Why is it important to pay taxes in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. För att finansiera välfärd, sjukvård, skola och andra offentliga tjänster",
+      "textAr": "A. لتمويل نظام الرفاه والرعاية الصحية والمدارس والخدمات العامة الأخرى",
+      "textEn": "A. To finance welfare, healthcare, schools, and other public services",
+      "correct": true
+    },
+    {
+      "textSv": "B. För att finansiera privata företag",
+      "textAr": "B. لتمويل الشركات الخاصة",
+      "textEn": "B. To finance private companies",
+      "correct": false
+    },
+    {
+      "textSv": "C. För att betala löner till politiker endast",
+      "textAr": "C. لدفع رواتب السياسيين فقط",
+      "textEn": "C. To pay only politicians' salaries",
+      "correct": false
+    },
+    {
+      "textSv": "D. För att alla ska få samma lön",
+      "textAr": "D. ليحصل الجميع على نفس الراتب",
+      "textEn": "D. So everyone receives the same salary",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. För att finansiera välfärd, sjukvård, skola och andra offentliga tjänster",
+  "correctAnswerAr": "A. لتمويل نظام الرفاه والرعاية الصحية والمدارس والخدمات العامة الأخرى",
+  "correctAnswerEn": "A. To finance welfare, healthcare, schools, and other public services"
+},{
+  "question": {
+    "sv": "103- Vad innebär principen om människors lika värde?",
+    "ar": "103- ماذا يعني مبدأ المساواة في قيمة جميع البشر؟",
+    "en": "103- What does the principle of equal human worth mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Alla människor har samma värde och ska behandlas med respekt",
+      "textAr": "A. جميع الناس لهم نفس القيمة ويجب معاملتهم باحترام",
+      "textEn": "A. All people have equal worth and should be treated with respect",
+      "correct": true
+    },
+    {
+      "textSv": "B. Bara svenska medborgare har rättigheter",
+      "textAr": "B. المواطنون السويديون فقط لهم حقوق",
+      "textEn": "B. Only Swedish citizens have rights",
+      "correct": false
+    },
+    {
+      "textSv": "C. Alla måste ha samma arbete",
+      "textAr": "C. يجب أن يعمل الجميع في نفس المهنة",
+      "textEn": "C. Everyone must have the same job",
+      "correct": false
+    },
+    {
+      "textSv": "D. Alla måste tjäna lika mycket pengar",
+      "textAr": "D. يجب أن يحصل الجميع على نفس الدخل",
+      "textEn": "D. Everyone must earn the same amount of money",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Alla människor har samma värde och ska behandlas med respekt",
+  "correctAnswerAr": "A. جميع الناس لهم نفس القيمة ويجب معاملتهم باحترام",
+  "correctAnswerEn": "A. All people have equal worth and should be treated with respect"
+},
+{
+  "question": {
+    "sv": "104- Vad är Sveriges statsskick?",
+    "ar": "104- ما هو نظام الحكم في السويد؟",
+    "en": "104- What is Sweden's system of government?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Konstitutionell monarki och parlamentarisk demokrati",
+      "textAr": "A. ملكية دستورية وديمقراطية برلمانية",
+      "textEn": "A. Constitutional monarchy and parliamentary democracy",
+      "correct": true
+    },
+    {
+      "textSv": "B. Absolut monarki",
+      "textAr": "B. ملكية مطلقة",
+      "textEn": "B. Absolute monarchy",
+      "correct": false
+    },
+    {
+      "textSv": "C. Presidentstyre",
+      "textAr": "C. نظام رئاسي",
+      "textEn": "C. Presidential system",
+      "correct": false
+    },
+    {
+      "textSv": "D. Militärdiktatur",
+      "textAr": "D. حكم عسكري",
+      "textEn": "D. Military dictatorship",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Konstitutionell monarki och parlamentarisk demokrati",
+  "correctAnswerAr": "A. ملكية دستورية وديمقراطية برلمانية",
+  "correctAnswerEn": "A. Constitutional monarchy and parliamentary democracy"
+},
+{
+  "question": {
+    "sv": "105- Vem har rösträtt i riksdagsval om personen är svensk medborgare?",
+    "ar": "105- من يحق له التصويت في انتخابات البرلمان إذا كان مواطنًا سويديًا؟",
+    "en": "105- Who has the right to vote in parliamentary elections if they are a Swedish citizen?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Alla svenska medborgare som fyllt 18 år",
+      "textAr": "A. جميع المواطنين السويديين الذين بلغوا 18 عامًا",
+      "textEn": "A. All Swedish citizens aged 18 or older",
+      "correct": true
+    },
+    {
+      "textSv": "B. Alla som arbetar i Sverige",
+      "textAr": "B. كل من يعمل في السويد",
+      "textEn": "B. Everyone working in Sweden",
+      "correct": false
+    },
+    {
+      "textSv": "C. Alla över 16 år",
+      "textAr": "C. كل من تجاوز 16 عامًا",
+      "textEn": "C. Everyone over 16 years old",
+      "correct": false
+    },
+    {
+      "textSv": "D. Bara personer födda i Sverige",
+      "textAr": "D. فقط المولودون في السويد",
+      "textEn": "D. Only people born in Sweden",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Alla svenska medborgare som fyllt 18 år",
+  "correctAnswerAr": "A. جميع المواطنين السويديين الذين بلغوا 18 عامًا",
+  "correctAnswerEn": "A. All Swedish citizens aged 18 or older"
+},
+{
+  "question": {
+    "sv": "106- Vad är syftet med socialförsäkringen i Sverige?",
+    "ar": "106- ما الهدف من نظام التأمينات الاجتماعية في السويد؟",
+    "en": "106- What is the purpose of Sweden's social insurance system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge ekonomiskt stöd vid exempelvis sjukdom, föräldraledighet eller funktionsnedsättning",
+      "textAr": "A. تقديم دعم مالي في حالات المرض أو إجازة الوالدين أو الإعاقة",
+      "textEn": "A. To provide financial support during illness, parental leave, or disability",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att finansiera företag",
+      "textAr": "B. تمويل الشركات",
+      "textEn": "B. To finance businesses",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att betala ut studielån",
+      "textAr": "C. دفع القروض الدراسية",
+      "textEn": "C. To provide student loans",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ordna val",
+      "textAr": "D. تنظيم الانتخابات",
+      "textEn": "D. To organize elections",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge ekonomiskt stöd vid exempelvis sjukdom, föräldraledighet eller funktionsnedsättning",
+  "correctAnswerAr": "A. تقديم دعم مالي في حالات المرض أو إجازة الوالدين أو الإعاقة",
+  "correctAnswerEn": "A. To provide financial support during illness, parental leave, or disability"
+},
+{
+  "question": {
+    "sv": "107- Vad gör Försäkringskassan?",
+    "ar": "107- ماذا تفعل هيئة التأمينات الاجتماعية (Försäkringskassan)؟",
+    "en": "107- What does the Swedish Social Insurance Agency do?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Handlägger och betalar ut socialförsäkringsförmåner",
+      "textAr": "A. تدير وتصرف تعويضات التأمينات الاجتماعية",
+      "textEn": "A. Administers and pays social insurance benefits",
+      "correct": true
+    },
+    {
+      "textSv": "B. Driver domstolar",
+      "textAr": "B. تدير المحاكم",
+      "textEn": "B. Runs the courts",
+      "correct": false
+    },
+    {
+      "textSv": "C. Beslutar om nya lagar",
+      "textAr": "C. تقر قوانين جديدة",
+      "textEn": "C. Passes new laws",
+      "correct": false
+    },
+    {
+      "textSv": "D. Organiserar val",
+      "textAr": "D. تنظم الانتخابات",
+      "textEn": "D. Organizes elections",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Handlägger och betalar ut socialförsäkringsförmåner",
+  "correctAnswerAr": "A. تدير وتصرف تعويضات التأمينات الاجتماعية",
+  "correctAnswerEn": "A. Administers and pays social insurance benefits"
+},
+{
+  "question": {
+    "sv": "108- Vad betyder yttrandefrihet?",
+    "ar": "108- ماذا تعني حرية التعبير؟",
+    "en": "108- What does freedom of expression mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Rätten att uttrycka sina åsikter inom lagens ramar",
+      "textAr": "A. الحق في التعبير عن الآراء ضمن حدود القانون",
+      "textEn": "A. The right to express your opinions within the limits of the law",
+      "correct": true
+    },
+    {
+      "textSv": "B. Rätten att hota andra",
+      "textAr": "B. الحق في تهديد الآخرين",
+      "textEn": "B. The right to threaten others",
+      "correct": false
+    },
+    {
+      "textSv": "C. Rätten att bryta mot lagen",
+      "textAr": "C. الحق في مخالفة القانون",
+      "textEn": "C. The right to break the law",
+      "correct": false
+    },
+    {
+      "textSv": "D. Bara politiker får uttrycka sina åsikter",
+      "textAr": "D. السياسيون فقط يحق لهم التعبير عن آرائهم",
+      "textEn": "D. Only politicians may express opinions",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Rätten att uttrycka sina åsikter inom lagens ramar",
+  "correctAnswerAr": "A. الحق في التعبير عن الآراء ضمن حدود القانون",
+  "correctAnswerEn": "A. The right to express your opinions within the limits of the law"
+},
+{
+  "question": {
+    "sv": "109- Vad är ett av målen med svensk välfärd?",
+    "ar": "109- ما أحد أهداف نظام الرفاه في السويد؟",
+    "en": "109- What is one goal of the Swedish welfare system?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge människor trygghet genom hela livet",
+      "textAr": "A. توفير الأمان للناس طوال حياتهم",
+      "textEn": "A. To provide security for people throughout life",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bara hjälpa företag",
+      "textAr": "B. مساعدة الشركات فقط",
+      "textEn": "B. To help only businesses",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att minska antalet skolor",
+      "textAr": "C. تقليل عدد المدارس",
+      "textEn": "C. To reduce the number of schools",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ta bort sjukvården",
+      "textAr": "D. إلغاء الرعاية الصحية",
+      "textEn": "D. To remove healthcare",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge människor trygghet genom hela livet",
+  "correctAnswerAr": "A. توفير الأمان للناس طوال حياتهم",
+  "correctAnswerEn": "A. To provide security for people throughout life"
+},
+{
+  "question": {
+    "sv": "110- Varför är det viktigt att följa Sveriges lagar?",
+    "ar": "110- لماذا من المهم اتباع قوانين السويد؟",
+    "en": "110- Why is it important to follow Sweden's laws?"
+  },
+  "answers": [
+    {
+      "textSv": "A. För att skapa trygghet, rättvisa och ett fungerande samhälle",
+      "textAr": "A. لتحقيق الأمان والعدالة ومجتمع يعمل بشكل جيد",
+      "textEn": "A. To create safety, justice, and a well-functioning society",
+      "correct": true
+    },
+    {
+      "textSv": "B. För att bara skydda myndigheter",
+      "textAr": "B. لحماية الجهات الحكومية فقط",
+      "textEn": "B. To protect only government agencies",
+      "correct": false
+    },
+    {
+      "textSv": "C. För att göra det lättare att höja skatten",
+      "textAr": "C. لتسهيل رفع الضرائب",
+      "textEn": "C. To make it easier to raise taxes",
+      "correct": false
+    },
+    {
+      "textSv": "D. För att alla ska arbeta på samma plats",
+      "textAr": "D. لكي يعمل الجميع في نفس المكان",
+      "textEn": "D. So everyone works in the same place",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. För att skapa trygghet, rättvisa och ett fungerande samhälle",
+  "correctAnswerAr": "A. لتحقيق الأمان والعدالة ومجتمع يعمل بشكل جيد",
+  "correctAnswerEn": "A. To create safety, justice, and a well-functioning society"
+},{
+  "question": {
+    "sv": "111- Vad innebär principen om fri åsiktsbildning?",
+    "ar": "111- ماذا يعني مبدأ حرية تكوين الآراء؟",
+    "en": "111- What does the principle of free formation of opinion mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Människor får fritt bilda och uttrycka sina åsikter",
+      "textAr": "A. يحق للناس تكوين آرائهم والتعبير عنها بحرية",
+      "textEn": "A. People are free to form and express their opinions",
+      "correct": true
+    },
+    {
+      "textSv": "B. Bara politiker får uttrycka sina åsikter",
+      "textAr": "B. السياسيون فقط يحق لهم التعبير عن آرائهم",
+      "textEn": "B. Only politicians may express their opinions",
+      "correct": false
+    },
+    {
+      "textSv": "C. Staten bestämmer människors åsikter",
+      "textAr": "C. الدولة تحدد آراء الناس",
+      "textEn": "C. The state decides people's opinions",
+      "correct": false
+    },
+    {
+      "textSv": "D. Tidningar får inte kritisera regeringen",
+      "textAr": "D. لا يجوز للصحف انتقاد الحكومة",
+      "textEn": "D. Newspapers may not criticize the Government",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Människor får fritt bilda och uttrycka sina åsikter",
+  "correctAnswerAr": "A. يحق للناس تكوين آرائهم والتعبير عنها بحرية",
+  "correctAnswerEn": "A. People are free to form and express their opinions"
+},
+{
+  "question": {
+    "sv": "112- Vad är syftet med offentlig sjukvård i Sverige?",
+    "ar": "112- ما الهدف من الرعاية الصحية العامة في السويد؟",
+    "en": "112- What is the purpose of public healthcare in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ge vård till hela befolkningen efter behov",
+      "textAr": "A. تقديم الرعاية الصحية لجميع السكان حسب الحاجة",
+      "textEn": "A. To provide healthcare to the population according to need",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att bara behandla svenska medborgare",
+      "textAr": "B. علاج المواطنين السويديين فقط",
+      "textEn": "B. To treat only Swedish citizens",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att ge gratis vård bara till pensionärer",
+      "textAr": "C. تقديم علاج مجاني للمتقاعدين فقط",
+      "textEn": "C. To provide free healthcare only to pensioners",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ge vård endast till personer med arbete",
+      "textAr": "D. تقديم العلاج للأشخاص العاملين فقط",
+      "textEn": "D. To provide healthcare only to employed people",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ge vård till hela befolkningen efter behov",
+  "correctAnswerAr": "A. تقديم الرعاية الصحية لجميع السكان حسب الحاجة",
+  "correctAnswerEn": "A. To provide healthcare to the population according to need"
+},
+{
+  "question": {
+    "sv": "113- Vad är en av kommunens viktigaste uppgifter?",
+    "ar": "113- ما إحدى أهم مهام البلدية؟",
+    "en": "113- What is one of the municipality's main responsibilities?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att ansvara för förskola och grundskola",
+      "textAr": "A. المسؤولية عن رياض الأطفال والمدرسة الأساسية",
+      "textEn": "A. To be responsible for preschool and compulsory school",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att sköta utrikespolitiken",
+      "textAr": "B. إدارة السياسة الخارجية",
+      "textEn": "B. To manage foreign policy",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att leda Försvarsmakten",
+      "textAr": "C. قيادة القوات المسلحة",
+      "textEn": "C. To lead the Armed Forces",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att besluta om EU-lagar",
+      "textAr": "D. إقرار قوانين الاتحاد الأوروبي",
+      "textEn": "D. To decide EU laws",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att ansvara för förskola och grundskola",
+  "correctAnswerAr": "A. المسؤولية عن رياض الأطفال والمدرسة الأساسية",
+  "correctAnswerEn": "A. To be responsible for preschool and compulsory school"
+},
+{
+  "question": {
+    "sv": "114- Vad betyder att domstolarna är oberoende?",
+    "ar": "114- ماذا يعني أن المحاكم مستقلة؟",
+    "en": "114- What does it mean that the courts are independent?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Domstolarna dömer enligt lagen utan påverkan från politiker",
+      "textAr": "A. تصدر المحاكم أحكامها وفقًا للقانون دون تأثير من السياسيين",
+      "textEn": "A. Courts decide cases according to the law without political influence",
+      "correct": true
+    },
+    {
+      "textSv": "B. Regeringen bestämmer domarna",
+      "textAr": "B. الحكومة تقرر الأحكام",
+      "textEn": "B. The Government decides court judgments",
+      "correct": false
+    },
+    {
+      "textSv": "C. Polisen avgör alla mål",
+      "textAr": "C. الشرطة تفصل في جميع القضايا",
+      "textEn": "C. The Police decide all cases",
+      "correct": false
+    },
+    {
+      "textSv": "D. Kungen dömer i domstolar",
+      "textAr": "D. الملك يصدر الأحكام",
+      "textEn": "D. The King decides court cases",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Domstolarna dömer enligt lagen utan påverkan från politiker",
+  "correctAnswerAr": "A. تصدر المحاكم أحكامها وفقًا للقانون دون تأثير من السياسيين",
+  "correctAnswerEn": "A. Courts decide cases according to the law without political influence"
+},
+{
+  "question": {
+    "sv": "115- Vad är syftet med barnkonventionen?",
+    "ar": "115- ما الهدف من اتفاقية حقوق الطفل؟",
+    "en": "115- What is the purpose of the UN Convention on the Rights of the Child?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att skydda barns rättigheter och säkerställa deras bästa",
+      "textAr": "A. حماية حقوق الأطفال وضمان مصلحتهم الفضلى",
+      "textEn": "A. To protect children's rights and ensure their best interests",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att ge barn rösträtt från 10 års ålder",
+      "textAr": "B. منح الأطفال حق التصويت من سن 10 سنوات",
+      "textEn": "B. To give children the right to vote from age 10",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att bestämma skolans lov",
+      "textAr": "C. تحديد العطل المدرسية",
+      "textEn": "C. To decide school holidays",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att ge barn rätt att köra bil",
+      "textAr": "D. منح الأطفال حق قيادة السيارة",
+      "textEn": "D. To give children the right to drive",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att skydda barns rättigheter och säkerställa deras bästa",
+  "correctAnswerAr": "A. حماية حقوق الأطفال وضمان مصلحتهم الفضلى",
+  "correctAnswerEn": "A. To protect children's rights and ensure their best interests"
+},
+{
+  "question": {
+    "sv": "116- Vad är den viktigaste grunden för Sveriges demokrati?",
+    "ar": "116- ما هو الأساس الأهم للديمقراطية في السويد؟",
+    "en": "116- What is the most important foundation of Sweden's democracy?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att all offentlig makt utgår från folket",
+      "textAr": "A. أن جميع السلطات العامة تستمد شرعيتها من الشعب",
+      "textEn": "A. That all public power proceeds from the people",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att regeringen bestämmer allt",
+      "textAr": "B. أن الحكومة تقرر كل شيء",
+      "textEn": "B. That the Government decides everything",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att kungen styr landet",
+      "textAr": "C. أن الملك يحكم البلاد",
+      "textEn": "C. That the King rules the country",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att domstolarna skriver lagarna",
+      "textAr": "D. أن المحاكم تكتب القوانين",
+      "textEn": "D. That the courts write the laws",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att all offentlig makt utgår från folket",
+  "correctAnswerAr": "A. أن جميع السلطات العامة تستمد شرعيتها من الشعب",
+  "correctAnswerEn": "A. That all public power proceeds from the people"
+},{
+  "question": {
+    "sv": "117- Vad innebär religionsfrihet enligt svensk lag?",
+    "ar": "117- ماذا تعني حرية الدين وفقًا للقانون السويدي؟",
+    "en": "117- What does freedom of religion mean under Swedish law?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Alla får välja, byta eller avstå från religion",
+      "textAr": "A. يحق للجميع اختيار الدين أو تغييره أو عدم اعتناق أي دين",
+      "textEn": "A. Everyone may choose, change, or have no religion",
+      "correct": true
+    },
+    {
+      "textSv": "B. Alla måste tillhöra samma religion",
+      "textAr": "B. يجب على الجميع اتباع نفس الدين",
+      "textEn": "B. Everyone must belong to the same religion",
+      "correct": false
+    },
+    {
+      "textSv": "C. Bara svenska medborgare har religionsfrihet",
+      "textAr": "C. المواطنون السويديون فقط يتمتعون بحرية الدين",
+      "textEn": "C. Only Swedish citizens have freedom of religion",
+      "correct": false
+    },
+    {
+      "textSv": "D. Staten bestämmer vilken religion människor ska ha",
+      "textAr": "D. الدولة تحدد الدين الذي يجب أن يعتنقه الناس",
+      "textEn": "D. The state decides which religion people should have",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Alla får välja, byta eller avstå från religion",
+  "correctAnswerAr": "A. يحق للجميع اختيار الدين أو تغييره أو عدم اعتناق أي دين",
+  "correctAnswerEn": "A. Everyone may choose, change, or have no religion"
+},
+{
+  "question": {
+    "sv": "118- Vilken myndighet ansvarar för folkbokföringen i Sverige?",
+    "ar": "118- أي جهة مسؤولة عن تسجيل السكان في السويد؟",
+    "en": "118- Which authority is responsible for population registration in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Skatteverket",
+      "textAr": "A. مصلحة الضرائب (Skatteverket)",
+      "textEn": "A. The Swedish Tax Agency",
+      "correct": true
+    },
+    {
+      "textSv": "B. Polismyndigheten",
+      "textAr": "B. هيئة الشرطة",
+      "textEn": "B. The Police Authority",
+      "correct": false
+    },
+    {
+      "textSv": "C. Arbetsförmedlingen",
+      "textAr": "C. مكتب العمل",
+      "textEn": "C. The Public Employment Service",
+      "correct": false
+    },
+    {
+      "textSv": "D. Försäkringskassan",
+      "textAr": "D. هيئة التأمينات الاجتماعية",
+      "textEn": "D. The Swedish Social Insurance Agency",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Skatteverket",
+  "correctAnswerAr": "A. مصلحة الضرائب (Skatteverket)",
+  "correctAnswerEn": "A. The Swedish Tax Agency"
+},
+{
+  "question": {
+    "sv": "119- Vad innebär rättssäkerhet?",
+    "ar": "119- ماذا تعني سيادة القانون (الأمان القانوني)؟",
+    "en": "119- What does the rule of law (legal certainty) mean?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att lagarna gäller lika för alla och att rättsprocessen är rättvis",
+      "textAr": "A. أن القوانين تطبق على الجميع بالتساوي وأن الإجراءات القضائية عادلة",
+      "textEn": "A. Laws apply equally to everyone and legal processes are fair",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att politiker står över lagen",
+      "textAr": "B. أن السياسيين فوق القانون",
+      "textEn": "B. Politicians are above the law",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att bara domare måste följa lagen",
+      "textAr": "C. القضاة فقط ملزمون باتباع القانون",
+      "textEn": "C. Only judges must follow the law",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att myndigheter får fatta vilka beslut de vill",
+      "textAr": "D. يحق للسلطات اتخاذ أي قرار تريده",
+      "textEn": "D. Authorities may make any decisions they want",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att lagarna gäller lika för alla och att rättsprocessen är rättvis",
+  "correctAnswerAr": "A. أن القوانين تطبق على الجميع بالتساوي وأن الإجراءات القضائية عادلة",
+  "correctAnswerEn": "A. Laws apply equally to everyone and legal processes are fair"
+},
+{
+  "question": {
+    "sv": "120- Vad är en viktig skyldighet för alla som bor i Sverige?",
+    "ar": "120- ما هو أحد الواجبات المهمة لكل من يعيش في السويد؟",
+    "en": "120- What is an important responsibility for everyone living in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att följa lagarna och respektera andra människors rättigheter",
+      "textAr": "A. اتباع القوانين واحترام حقوق الآخرين",
+      "textEn": "A. To follow the laws and respect the rights of others",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att vara medlem i ett politiskt parti",
+      "textAr": "B. الانضمام إلى حزب سياسي",
+      "textEn": "B. To be a member of a political party",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att arbeta för staten",
+      "textAr": "C. العمل لدى الدولة",
+      "textEn": "C. To work for the government",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att rösta i val från 16 års ålder",
+      "textAr": "D. التصويت في الانتخابات ابتداءً من سن 16 عامًا",
+      "textEn": "D. To vote in elections from the age of 16",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att följa lagarna och respektera andra människors rättigheter",
+  "correctAnswerAr": "A. اتباع القوانين واحترام حقوق الآخرين",
+  "correctAnswerEn": "A. To follow the laws and respect the rights of others"
+}
+]
+    },
+      {
+      "lessonId": 21,
+      "lessonTitle": {
+        "sv": "Övriga frågor 8",
+        "ar": "أسئلة إضافية 8",
+        "en": "Additional questions 8"
+      },
+      "questions": []
+    },  {
+      "lessonId": 21,
+      "lessonTitle": {
+        "sv": "Övriga frågor 8",
+        "ar": "أسئلة إضافية 8",
+        "en": "Additional questions 8"
+      },
       "questions": []
     }
   ]
