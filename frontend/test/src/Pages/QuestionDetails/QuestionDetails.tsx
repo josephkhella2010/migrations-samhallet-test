@@ -260,7 +260,10 @@ export default function QuestionDetails() {
   return (
     <div className={classes.page}>
       <div className={classes.questionContainer}>
-        <p className={classes.questionNumbers}>
+        <p
+          className={classes.questionNumbers}
+          dir={currentLanguage === "ar" ? "rtl" : "ltr"}
+        >
           {currentIndex + 1} {t(homePageTranslation.fromText)}{" "}
           {questions.length}
         </p>
