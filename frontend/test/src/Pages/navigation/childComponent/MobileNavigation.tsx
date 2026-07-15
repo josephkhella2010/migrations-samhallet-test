@@ -5,24 +5,17 @@ import NavigationPageTranslation from "../../../translation/Translations/Navigat
 import { useDispatch, useSelector } from "react-redux";
 import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 import { useNavigate } from "react-router-dom";
-import { useEffect, useRef, useState } from "react";
 import { questionArr } from "../../../utilities/Array";
 import { IoClose } from "react-icons/io5";
 import type { RootState } from "../../../Store/store";
+import type { ShowSubMenuType } from "../NavigationContainer";
 
 const useStyles = createUseStyles({
   mainMobileNavContainer: {
-    position: "fixed",
-    inset: 0,
-    zIndex: 1000,
-    width: "100%",
-    height: "100dvh",
-    backgroundColor: "#fff",
+ 
     display: "flex",
     flexDirection: "column",
-    overflow: "hidden",
-    padding: "24px 20px",
-    boxSizing: "border-box",
+    height: "100%",
   },
 
   desktopNavMainMenu: {
@@ -34,7 +27,8 @@ const useStyles = createUseStyles({
     gap: "24px",
   },
   desktopNavSectionMenu: {
-    overflow: "auto",
+    flex: 1,
+    minHeight: 0,
     overflowY: "auto",
     overflowX: "hidden",
     WebkitOverflowScrolling: "touch",
@@ -152,15 +146,12 @@ interface PropsType {
   handleNavigateQuestion: (id: number | string) => void;
   setLangDropDown: React.Dispatch<React.SetStateAction<string>>;
   setShowLangDropDown: React.Dispatch<React.SetStateAction<boolean>>;
-  setShowMobileHeader: React.Dispatch<React.SetStateAction<boolean>>;
+  closeAllMenus: () => void;
+  setShowSubMenu: React.Dispatch<React.SetStateAction<ShowSubMenuType>>;
   showLangDropDown: boolean;
   lessonsArr: number[];
   langDropDown: string;
-}
-interface ShowSubMenuType {
-  lessonSubMenu: boolean;
-  testSubMenu: boolean;
-  testSubMenuTwo: boolean;
+  showSubMenu: ShowSubMenuType;
 }
 
 export default function MobileNavigation({
@@ -168,62 +159,22 @@ export default function MobileNavigation({
   handleNavigateQuestion,
   setShowLangDropDown,
   setLangDropDown,
-  setShowMobileHeader,
+  setShowSubMenu,
+  closeAllMenus,
   lessonsArr,
   langDropDown,
   showLangDropDown,
+  showSubMenu,
 }: PropsType) {
   const classes = useStyles();
   const { t } = useTranslation();
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const menuRef = useRef<HTMLDivElement>(null);
   const { lang } = useSelector((state: RootState) => state.languageSlice);
-  const [showSubMenu, setShowSubMenu] = useState<ShowSubMenuType>({
-    lessonSubMenu: false,
-    testSubMenu: false,
-    testSubMenuTwo: false,
-  });
-
-  const closeAllMenus = () => {
-    setShowSubMenu({
-      lessonSubMenu: false,
-      testSubMenu: false,
-      testSubMenuTwo: false,
-    });
-
-    setShowMobileHeader(false);
-  };
-
-  useEffect(() => {
-    const html = document.documentElement;
-    const body = document.body;
-
-    const htmlOverflow = html.style.overflow;
-    const bodyOverflow = body.style.overflow;
-
-    html.style.overflow = "hidden";
-    body.style.overflow = "hidden";
-
-    const handleClickOutside = (event: MouseEvent) => {
-      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
-        closeAllMenus();
-      }
-    };
-
-    document.addEventListener("mousedown", handleClickOutside);
-
-    return () => {
-      html.style.overflow = htmlOverflow;
-      body.style.overflow = bodyOverflow;
-      document.removeEventListener("mousedown", handleClickOutside);
-    };
-  });
 
   return (
     <div
-      className={classes.mainMobileNavContainer}
-      ref={menuRef}
+      className={`${classes.mainMobileNavContainer} `}
       onClick={closeAllMenus}
     >
       <div className={classes.desktopNavMainMenu}>
