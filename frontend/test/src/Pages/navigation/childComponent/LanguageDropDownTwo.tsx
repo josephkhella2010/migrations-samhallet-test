@@ -74,7 +74,7 @@ interface LangDropDownType {
   setShowLangDropDown: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-export default function LanguageDropDown({
+export default function LanguageDropDownTwo({
   selectedLanguage,
   showLangDropDown,
   setLangDropDown,
