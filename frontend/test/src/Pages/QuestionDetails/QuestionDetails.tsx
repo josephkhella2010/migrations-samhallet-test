@@ -45,7 +45,7 @@ const useStyle = createUseStyles({
     fontWeight: 700,
     color: "#1f2937",
     paddingBottom: 5,
-    
+
     textTransform: "capitalize",
     "@media (max-width: 780px)": {
       fontSize: 15,
@@ -112,14 +112,13 @@ const useStyle = createUseStyles({
     cursor: "pointer",
     transition: "0.2s",
     alignItems: "flex-start",
-    "&:hover": {
-      background: "#eef2ff",
-    },
-
     "& input": {
       cursor: "pointer",
       transform: "scale(1.2)",
       marginTop: "2px",
+    },
+    "&:hover": {
+      backgroundColor: "#eef2ff",
     },
 
     "& p": {
@@ -179,6 +178,30 @@ const useStyle = createUseStyles({
   notDisabledBtn: {
     backgroundColor: "#1f2937",
     color: "white",
+  },
+  correctAnswerInput: {
+    backgroundColor: "#04b30454",
+  },
+
+  wrongAnswerInput: {
+    backgroundColor: "#f780805c",
+  },
+  hover: {
+    "&:hover": {
+      backgroundColor: "#eef2ff",
+    },
+  },
+
+  correctHover: {
+    "&:hover": {
+      backgroundColor: "#04b30454",
+    },
+  },
+
+  wrongHover: {
+    "&:hover": {
+      backgroundColor: "#f780805c",
+    },
   },
 });
 export default function QuestionDetails() {
@@ -325,7 +348,29 @@ export default function QuestionDetails() {
                       const answerTextEn = answer.textEn;
 
                       return (
-                        <label key={i} className={classes.answer}>
+                        <label
+                          key={i}
+                          className={`${classes.answer} ${
+                            isAnswered
+                              ? answer.correct
+                                ? classes.correctAnswerInput
+                                : isSelected
+                                  ? classes.wrongAnswerInput
+                                  : ""
+                              : ""
+                          }
+                          ${
+                            !isAnswered
+                              ? classes.hover
+                              : answer.correct
+                                ? `${classes.correctAnswerInput} ${classes.correctHover}`
+                                : isSelected
+                                  ? `${classes.wrongAnswerInput} ${classes.wrongHover}`
+                                  : ""
+                          }
+                        
+                          `}
+                        >
                           <input
                             type="radio"
                             name={`question-${index}`}
@@ -342,29 +387,39 @@ export default function QuestionDetails() {
                               )
                             }
                             className={
-                              isSelected
+                              isAnswered
                                 ? answer.correct
                                   ? classes.correctAnswer
-                                  : classes.wrongAnswer
+                                  : isSelected
+                                    ? classes.wrongAnswer
+                                    : ""
                                 : ""
                             }
                           />
+
                           <div>
                             <p
                               className={
-                                isSelected
+                                isAnswered
                                   ? answer.correct
                                     ? classes.correctAnswerPara
-                                    : classes.wrongAnswerPara
+                                    : isSelected
+                                      ? classes.wrongAnswerPara
+                                      : ""
                                   : ""
                               }
                             >
                               {answerText}
-                              {isSelected && (
+
+                              {isAnswered && answer.correct && (
                                 <span className={classes.CorrectOrWrongSpan}>
-                                  {answer.correct
-                                    ? " ✅ Correct Answer"
-                                    : " ❌ Wrong Answer"}
+                                  {" ✅ Correct Answer"}
+                                </span>
+                              )}
+
+                              {isSelected && !answer.correct && (
+                                <span className={classes.CorrectOrWrongSpan}>
+                                  {" ❌ Wrong Answer"}
                                 </span>
                               )}
                             </p>
