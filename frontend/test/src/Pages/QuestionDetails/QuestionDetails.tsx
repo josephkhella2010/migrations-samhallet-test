@@ -413,13 +413,15 @@ export default function QuestionDetails() {
 
                               {isAnswered && answer.correct && (
                                 <span className={classes.CorrectOrWrongSpan}>
-                                  {" ✅ Correct Answer"}
+                                  {" ✅ "}
+                                  {t(ScorePageTranslation.CorrectAnswerTextTwo)}
                                 </span>
                               )}
 
                               {isSelected && !answer.correct && (
                                 <span className={classes.CorrectOrWrongSpan}>
-                                  {" ❌ Wrong Answer"}
+                                  {" ❌ "}
+                                  {t(ScorePageTranslation.WrongAnswerTextTwo)}
                                 </span>
                               )}
                             </p>

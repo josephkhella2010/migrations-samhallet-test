@@ -88,6 +88,16 @@ const ScorePageTranslation = {
     ar: "الإجابة الصحيحة: ",
     en: "Correct Answer: ",
   },
+   CorrectAnswerTextTwo: {
+    sv: " Rätt svar",
+    ar: " الإجابة صحيحة",
+    en: " Correct Answer",
+  },
+  WrongAnswerTextTwo: {
+    sv: " Fel svar",
+    ar: " الإجابة خاطئة",
+    en: " Incorrect Answer",
+  },
 };
 
 export default ScorePageTranslation;

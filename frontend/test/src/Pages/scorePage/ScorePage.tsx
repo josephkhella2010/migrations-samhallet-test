@@ -267,7 +267,9 @@ export default function ScorePage() {
           {"  "}
           <strong>
             {" "}
-            {Number(totalQuestion) - Number(minCorrectAnswers)}
+            {Number(totalQuestion) -
+              Number(minCorrectAnswers) -
+              Number(TotalWrongAnswer)}
           </strong>{" "}
           {t(ScorePageTranslation.ScorePageFailMessageTwo)}{" "}
         </p>
