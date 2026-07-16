@@ -43,7 +43,7 @@ const useStyle = createUseStyles({
     textAlign: "center",
     fontSize: 25,
     fontWeight: 700,
-    color: "#1f2937",
+    color: "#7a7a7a",
     paddingBottom: 5,
 
     textTransform: "capitalize",
