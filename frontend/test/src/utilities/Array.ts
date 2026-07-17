@@ -74,4 +74,10 @@ export const questionArr: QuestionArrType[] = [
     en: "Additional Questions 8",
     number: 21,
   },
+  {
+    sv: "Övriga frågor 9",
+    ar: "أسئلة إضافية 9",
+    en: "Additional Questions 9",
+    number: 22,
+  },
 ];
