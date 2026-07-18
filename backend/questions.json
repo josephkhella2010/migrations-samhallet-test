@@ -40206,7 +40206,7 @@
         {
           "question": {
             "sv": "18- Hur många nivåer av domstolar finns det i Sverige?",
-            "ar": "18- كم عدد مستويات المحاكم في السويد؟",
+            "ar": "18- كم عدد مستويات النظام القضائي في السويد؟",
             "en": "18- How many levels of courts are there in Sweden?"
           },
           "answers": [
@@ -40529,148 +40529,149 @@
         },
         {
           "question": {
-            "sv": "27- Vilket år fick homosexuella par rätt att adoptera barn i Sverige?",
-            "ar": "27- في أي سنة حصل الأزواج المثليون على حق تبني الأطفال في السويد؟",
-            "en": "27- In what year did same-sex couples gain the right to adopt children in Sweden?"
+            "sv": "27- Vad är ett fackförbunds viktigaste uppgift?",
+            "ar": "27- ما هي أهم مهمة للنقابة العمالية؟",
+            "en": "27- What is the main task of a trade union?"
           },
           "answers": [
             {
-              "textSv": "A. 2000",
-              "textAr": "A. 2000",
-              "textEn": "A. 2000",
-              "correct": false
-            },
-            {
-              "textSv": "B. 2003",
-              "textAr": "B. 2003",
-              "textEn": "B. 2003",
+              "textSv": "A. Att representera arbetstagare och hjälpa till med arbetsvillkor",
+              "textAr": "A. تمثيل العمال والمساعدة في ظروف العمل",
+              "textEn": "A. To represent workers and help with working conditions",
               "correct": true
             },
             {
-              "textSv": "C. 2005",
-              "textAr": "C. 2005",
-              "textEn": "C. 2005",
+              "textSv": "B. Att bestämma Sveriges lagar",
+              "textAr": "B. تحديد قوانين السويد",
+              "textEn": "B. To decide Sweden's laws",
               "correct": false
             },
             {
-              "textSv": "D. 2009",
-              "textAr": "D. 2009",
-              "textEn": "D. 2009",
+              "textSv": "C. Att driva alla företag",
+              "textAr": "C. إدارة جميع الشركات",
+              "textEn": "C. To run all companies",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att samla in skatter",
+              "textAr": "D. جمع الضرائب",
+              "textEn": "D. To collect taxes",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 2003",
-          "correctAnswerAr": "B. 2003",
-          "correctAnswerEn": "B. 2003"
+          "correctAnswerSv": "A. Att representera arbetstagare och hjälpa till med arbetsvillkor",
+          "correctAnswerAr": "A. تمثيل العمال والمساعدة في ظروف العمل",
+          "correctAnswerEn": "A. To represent workers and help with working conditions"
         },
         {
           "question": {
-            "sv": "28- Vilket år började Svenska kyrkan viga samkönade par?",
-            "ar": "28- في أي سنة بدأت الكنيسة السويدية بتزويج الأزواج من نفس الجنس؟",
-            "en": "28- In what year did the Church of Sweden begin marrying same-sex couples?"
+            "sv": "28- Vilken organisation representerade arbetsgivarna när Saltsjöbadsavtalet tecknades 1938?",
+            "ar": "28- ما اسم المنظمة التي مثلت أصحاب العمل عند توقيع اتفاقية سالتسيوفاد عام 1938؟",
+            "en": "28- Which organization represented employers when the Saltsjöbaden Agreement was signed in 1938?"
           },
           "answers": [
             {
-              "textSv": "A. 2003",
-              "textAr": "A. 2003",
-              "textEn": "A. 2003",
-              "correct": false
-            },
-            {
-              "textSv": "B. 2005",
-              "textAr": "B. 2005",
-              "textEn": "B. 2005",
-              "correct": false
-            },
-            {
-              "textSv": "C. 2009",
-              "textAr": "C. 2009",
-              "textEn": "C. 2009",
+              "textSv": "A. SAF (Svenska Arbetsgivareföreningen)",
+              "textAr": "A. جمعية أصحاب العمل السويدية (SAF)",
+              "textEn": "A. SAF (Swedish Employers' Association)",
               "correct": true
             },
             {
-              "textSv": "D. 2015",
-              "textAr": "D. 2015",
-              "textEn": "D. 2015",
+              "textSv": "B. LO (Landsorganisationen)",
+              "textAr": "B. اتحاد العمال LO",
+              "textEn": "B. LO (Swedish Trade Union Confederation)",
+              "correct": false
+            },
+            {
+              "textSv": "C. TCO",
+              "textAr": "C. منظمة الموظفين TCO",
+              "textEn": "C. TCO",
+              "correct": false
+            },
+            {
+              "textSv": "D. Riksdagen",
+              "textAr": "D. البرلمان السويدي",
+              "textEn": "D. The Swedish Parliament",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. 2009",
-          "correctAnswerAr": "C. 2009",
-          "correctAnswerEn": "C. 2009"
+          "correctAnswerSv": "A. SAF (Svenska Arbetsgivareföreningen)",
+          "correctAnswerAr": "A. جمعية أصحاب العمل السويدية (SAF)",
+          "correctAnswerEn": "A. SAF (Swedish Employers' Association)"
         },
         {
           "question": {
-            "sv": "29- Hur många procent av de arbetande i Sverige arbetar i offentlig sektor?",
-            "ar": "29- كم نسبة العاملين في السويد الذين يعملون في القطاع العام؟",
-            "en": "29- What percentage of workers in Sweden work in the public sector?"
+            "sv": "29- Vilka tecknade Saltsjöbadsavtalet år 1938?",
+            "ar": "29- من هم الذين وقعوا اتفاقية سالتسيوفاد عام 1938؟",
+            "en": "29- Who signed the Saltsjöbaden Agreement in 1938?"
           },
           "answers": [
             {
-              "textSv": "A. Cirka 30 %",
-              "textAr": "A. حوالي 30٪",
-              "textEn": "A. About 30%",
+              "textSv": "A. LO och SAF",
+              "textAr": "A. اتحاد العمال LO واتحاد أصحاب العمل SAF",
+              "textEn": "A. LO and SAF",
               "correct": true
             },
             {
-              "textSv": "B. Cirka 50 %",
-              "textAr": "B. حوالي 50٪",
-              "textEn": "B. About 50%",
+              "textSv": "B. Riksdagen och regeringen",
+              "textAr": "B. البرلمان والحكومة",
+              "textEn": "B. The Parliament and the Government",
               "correct": false
             },
             {
-              "textSv": "C. Cirka 70 %",
-              "textAr": "C. حوالي 70٪",
-              "textEn": "C. About 70%",
+              "textSv": "C. Kommunerna och regionerna",
+              "textAr": "C. البلديات والمناطق",
+              "textEn": "C. Municipalities and regions",
               "correct": false
             },
             {
-              "textSv": "D. Cirka 80 %",
-              "textAr": "D. حوالي 80٪",
-              "textEn": "D. About 80%",
+              "textSv": "D. EU och Sverige",
+              "textAr": "D. الاتحاد الأوروبي والسويد",
+              "textEn": "D. The EU and Sweden",
               "correct": false
             }
           ],
-          "correctAnswerSv": "A. Cirka 30 %",
-          "correctAnswerAr": "A. حوالي 30٪",
-          "correctAnswerEn": "A. About 30%"
+          "correctAnswerSv": "A. LO och SAF",
+          "correctAnswerAr": "A. اتحاد العمال LO واتحاد أصحاب العمل SAF",
+          "correctAnswerEn": "A. LO and SAF"
         },
         {
           "question": {
-            "sv": "30- Hur många procent av de arbetande i Sverige arbetar i privat sektor?",
-            "ar": "30- كم نسبة العاملين في السويد الذين يعملون في القطاع الخاص؟",
-            "en": "30- What percentage of workers in Sweden work in the private sector?"
+            "sv": "30- Vilket år tecknades Saltsjöbadsavtalet mellan LO och SAF?",
+            "ar": "30- في أي سنة تم توقيع اتفاقية سالتسيوفاد بين اتحاد العمال LO واتحاد أصحاب العمل SAF؟",
+            "en": "30- In what year was the Saltsjöbaden Agreement signed between LO and SAF?"
           },
           "answers": [
             {
-              "textSv": "A. Cirka 30 %",
-              "textAr": "A. حوالي 30٪",
-              "textEn": "A. About 30%",
+              "textSv": "A. 1918",
+              "textAr": "A. 1918",
+              "textEn": "A. 1918",
               "correct": false
             },
             {
-              "textSv": "B. Cirka 50 %",
-              "textAr": "B. حوالي 50٪",
-              "textEn": "B. About 50%",
-              "correct": false
-            },
-            {
-              "textSv": "C. Cirka 70 %",
-              "textAr": "C. حوالي 70٪",
-              "textEn": "C. About 70%",
+              "textSv": "B. 1938",
+              "textAr": "B. 1938",
+              "textEn": "B. 1938",
               "correct": true
             },
             {
-              "textSv": "D. Cirka 90 %",
-              "textAr": "D. حوالي 90٪",
-              "textEn": "D. About 90%",
+              "textSv": "C. 1958",
+              "textAr": "C. 1958",
+              "textEn": "C. 1958",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1978",
+              "textAr": "D. 1978",
+              "textEn": "D. 1978",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. Cirka 70 %",
-          "correctAnswerAr": "C. حوالي 70٪",
-          "correctAnswerEn": "C. About 70%"
+          "correctAnswerSv": "B. 1938",
+          "correctAnswerAr": "B. 1938",
+          "correctAnswerEn": "B. 1938"
         },
+
         {
           "question": {
             "sv": "31- Hur många invånare hade Sverige i början av 1800-talet?",
@@ -40781,39 +40782,39 @@
         },
         {
           "question": {
-            "sv": "34- Hur många officiella minoritetsspråk finns det i Sverige?",
-            "ar": "34- كم عدد لغات الأقليات الرسمية في السويد؟",
-            "en": "34- How many official minority languages are there in Sweden?"
+            "sv": "34- Vilket år fick Sverige sin nuvarande regeringsform?",
+            "ar": "34- في أي سنة حصلت السويد على دستورها الحكومي الحالي؟",
+            "en": "34- In what year did Sweden get its current Instrument of Government?"
           },
           "answers": [
             {
-              "textSv": "A. 4",
-              "textAr": "A. 4",
-              "textEn": "A. 4",
+              "textSv": "A. 1809",
+              "textAr": "A. 1809",
+              "textEn": "A. 1809",
               "correct": false
             },
             {
-              "textSv": "B. 5",
-              "textAr": "B. 5",
-              "textEn": "B. 5",
+              "textSv": "B. 1974",
+              "textAr": "B. 1974",
+              "textEn": "B. 1974",
               "correct": true
             },
             {
-              "textSv": "C. 6",
-              "textAr": "C. 6",
-              "textEn": "C. 6",
+              "textSv": "C. 1985",
+              "textAr": "C. 1985",
+              "textEn": "C. 1985",
               "correct": false
             },
             {
-              "textSv": "D. 7",
-              "textAr": "D. 7",
-              "textEn": "D. 7",
+              "textSv": "D. 2000",
+              "textAr": "D. 2000",
+              "textEn": "D. 2000",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 5",
-          "correctAnswerAr": "B. 5",
-          "correctAnswerEn": "B. 5"
+          "correctAnswerSv": "B. 1974",
+          "correctAnswerAr": "B. 1974",
+          "correctAnswerEn": "B. 1974"
         },
         {
           "question": {
@@ -40853,39 +40854,39 @@
         },
         {
           "question": {
-            "sv": "36- Hur många artiklar finns i FN:s förklaring om de mänskliga rättigheterna?",
-            "ar": "36- كم عدد مواد الإعلان العالمي لحقوق الإنسان؟",
-            "en": "36- How many articles are in the Universal Declaration of Human Rights?"
+            "sv": "36- Vilket datum firas Lucia i Sverige?",
+            "ar": "36- في أي تاريخ يتم الاحتفال بعيد لوسيا في السويد؟",
+            "en": "36- On what date is Lucia celebrated in Sweden?"
           },
           "answers": [
             {
-              "textSv": "A. 20",
-              "textAr": "A. 20",
-              "textEn": "A. 20",
+              "textSv": "A. 1 december",
+              "textAr": "A. 1 ديسمبر",
+              "textEn": "A. 1 December",
               "correct": false
             },
             {
-              "textSv": "B. 25",
-              "textAr": "B. 25",
-              "textEn": "B. 25",
-              "correct": false
-            },
-            {
-              "textSv": "C. 30",
-              "textAr": "C. 30",
-              "textEn": "C. 30",
+              "textSv": "B. 13 december",
+              "textAr": "B. 13 ديسمبر",
+              "textEn": "B. 13 December",
               "correct": true
             },
             {
-              "textSv": "D. 35",
-              "textAr": "D. 35",
-              "textEn": "D. 35",
+              "textSv": "C. 24 december",
+              "textAr": "C. 24 ديسمبر",
+              "textEn": "C. 24 December",
+              "correct": false
+            },
+            {
+              "textSv": "D. 31 december",
+              "textAr": "D. 31 ديسمبر",
+              "textEn": "D. 31 December",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. 30",
-          "correctAnswerAr": "C. 30",
-          "correctAnswerEn": "C. 30"
+          "correctAnswerSv": "B. 13 december",
+          "correctAnswerAr": "B. 13 ديسمبر",
+          "correctAnswerEn": "B. 13 December"
         },
         {
           "question": {
@@ -41141,39 +41142,39 @@
         },
         {
           "question": {
-            "sv": "44- Hur många nationella minoriteter finns det i Sverige?",
-            "ar": "44- كم عدد الأقليات القومية المعترف بها في السويد؟",
-            "en": "44- How many recognized national minorities are there in Sweden?"
+            "sv": "44- Vilket år grundades Sveriges riksdag?",
+            "ar": "44- في أي سنة تأسس البرلمان السويدي؟",
+            "en": "44- In what year was the Swedish Parliament (Riksdag) founded?"
           },
           "answers": [
             {
-              "textSv": "A. 3",
-              "textAr": "A. 3",
-              "textEn": "A. 3",
+              "textSv": "A. 1523",
+              "textAr": "A. 1523",
+              "textEn": "A. 1523",
               "correct": false
             },
             {
-              "textSv": "B. 4",
-              "textAr": "B. 4",
-              "textEn": "B. 4",
-              "correct": false
-            },
-            {
-              "textSv": "C. 5",
-              "textAr": "C. 5",
-              "textEn": "C. 5",
+              "textSv": "B. 1866",
+              "textAr": "B. 1866",
+              "textEn": "B. 1866",
               "correct": true
             },
             {
-              "textSv": "D. 6",
-              "textAr": "D. 6",
-              "textEn": "D. 6",
+              "textSv": "C. 1905",
+              "textAr": "C. 1905",
+              "textEn": "C. 1905",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1974",
+              "textAr": "D. 1974",
+              "textEn": "D. 1974",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. 5",
-          "correctAnswerAr": "C. 5",
-          "correctAnswerEn": "C. 5"
+          "correctAnswerSv": "B. 1866",
+          "correctAnswerAr": "B. 1866",
+          "correctAnswerEn": "B. 1866"
         },
         {
           "question": {
@@ -41285,39 +41286,39 @@
         },
         {
           "question": {
-            "sv": "48- Vilket år blev Sverige medlem i Europeiska unionen (EU)?",
-            "ar": "48- في أي سنة أصبحت السويد عضواً في الاتحاد الأوروبي؟",
-            "en": "48- In what year did Sweden become a member of the European Union (EU)?"
+            "sv": "48- Vad heter samernas folkvalda parlament i Sverige?",
+            "ar": "48- ما اسم البرلمان المنتخب للشعب السامي في السويد؟",
+            "en": "48- What is the name of the Sami people's elected parliament in Sweden?"
           },
           "answers": [
             {
-              "textSv": "A. 1991",
-              "textAr": "A. 1991",
-              "textEn": "A. 1991",
-              "correct": false
-            },
-            {
-              "textSv": "B. 1995",
-              "textAr": "B. 1995",
-              "textEn": "B. 1995",
+              "textSv": "A. Sametinget",
+              "textAr": "A. البرلمان السامي (ساميتينغيت)",
+              "textEn": "A. The Sami Parliament",
               "correct": true
             },
             {
-              "textSv": "C. 2000",
-              "textAr": "C. 2000",
-              "textEn": "C. 2000",
+              "textSv": "B. Riksdagen",
+              "textAr": "B. البرلمان السويدي",
+              "textEn": "B. The Swedish Parliament",
               "correct": false
             },
             {
-              "textSv": "D. 2003",
-              "textAr": "D. 2003",
-              "textEn": "D. 2003",
+              "textSv": "C. Regeringen",
+              "textAr": "C. الحكومة",
+              "textEn": "C. The Government",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunfullmäktige",
+              "textAr": "D. مجلس البلدية",
+              "textEn": "D. Municipal Council",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 1995",
-          "correctAnswerAr": "B. 1995",
-          "correctAnswerEn": "B. 1995"
+          "correctAnswerSv": "A. Sametinget",
+          "correctAnswerAr": "A. البرلمان السامي (ساميتينغيت)",
+          "correctAnswerEn": "A. The Sami Parliament"
         },
         {
           "question": {
@@ -41465,111 +41466,111 @@
         },
         {
           "question": {
-            "sv": "53- Vilket år blev homosexualitet lagligt i Sverige?",
-            "ar": "53- في أي سنة أصبحت المثلية الجنسية قانونية في السويد؟",
-            "en": "53- In what year did homosexuality become legal in Sweden?"
+            "sv": "53- Vilket folk är Sveriges urfolk?",
+            "ar": "53- من هم السكان الأصليون في السويد؟",
+            "en": "53- Which people are the Indigenous people of Sweden?"
           },
           "answers": [
             {
-              "textSv": "A. 1944",
-              "textAr": "A. 1944",
-              "textEn": "A. 1944",
+              "textSv": "A. Samerna",
+              "textAr": "A. شعب الساميين",
+              "textEn": "A. The Sami people",
               "correct": true
             },
             {
-              "textSv": "B. 1954",
-              "textAr": "B. 1954",
-              "textEn": "B. 1954",
+              "textSv": "B. Vikingarna",
+              "textAr": "B. الفايكنج",
+              "textEn": "B. The Vikings",
               "correct": false
             },
             {
-              "textSv": "C. 1964",
-              "textAr": "C. 1964",
-              "textEn": "C. 1964",
+              "textSv": "C. Svenskarna",
+              "textAr": "C. السويديون",
+              "textEn": "C. Swedes",
               "correct": false
             },
             {
-              "textSv": "D. 1974",
-              "textAr": "D. 1974",
-              "textEn": "D. 1974",
+              "textSv": "D. Finnarna",
+              "textAr": "D. الفنلنديون",
+              "textEn": "D. Finns",
               "correct": false
             }
           ],
-          "correctAnswerSv": "A. 1944",
-          "correctAnswerAr": "A. 1944",
-          "correctAnswerEn": "A. 1944"
+          "correctAnswerSv": "A. Samerna",
+          "correctAnswerAr": "A. شعب الساميين",
+          "correctAnswerEn": "A. The Sami people"
         },
         {
           "question": {
-            "sv": "54- Vilket år fick samkönade par rätt att adoptera barn i Sverige?",
-            "ar": "54- في أي سنة حصل الأزواج من نفس الجنس على حق تبني الأطفال في السويد؟",
-            "en": "54- In what year did same-sex couples gain the right to adopt children in Sweden?"
+            "sv": "54- Vilket år blev Sverige medlem i Förenta nationerna (FN)?",
+            "ar": "54- في أي سنة أصبحت السويد عضوًا في الأمم المتحدة (UN)؟",
+            "en": "54- In what year did Sweden become a member of the United Nations (UN)?"
           },
           "answers": [
             {
-              "textSv": "A. 2000",
-              "textAr": "A. 2000",
-              "textEn": "A. 2000",
-              "correct": false
-            },
-            {
-              "textSv": "B. 2003",
-              "textAr": "B. 2003",
-              "textEn": "B. 2003",
+              "textSv": "A. 1945",
+              "textAr": "A. 1945",
+              "textEn": "A. 1945",
               "correct": true
             },
             {
-              "textSv": "C. 2006",
-              "textAr": "C. 2006",
-              "textEn": "C. 2006",
+              "textSv": "B. 1950",
+              "textAr": "B. 1950",
+              "textEn": "B. 1950",
               "correct": false
             },
             {
-              "textSv": "D. 2009",
-              "textAr": "D. 2009",
-              "textEn": "D. 2009",
+              "textSv": "C. 1955",
+              "textAr": "C. 1955",
+              "textEn": "C. 1955",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1960",
+              "textAr": "D. 1960",
+              "textEn": "D. 1960",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 2003",
-          "correctAnswerAr": "B. 2003",
-          "correctAnswerEn": "B. 2003"
+          "correctAnswerSv": "A. 1945",
+          "correctAnswerAr": "A. 1945",
+          "correctAnswerEn": "A. 1945"
         },
         {
           "question": {
-            "sv": "55- Vilket år började Svenska kyrkan viga samkönade par?",
-            "ar": "55- في أي سنة بدأت الكنيسة السويدية بتزويج الأزواج من نفس الجنس؟",
-            "en": "55- In what year did the Church of Sweden begin marrying same-sex couples?"
+            "sv": "55- När beslutade riksdagen att kvinnor skulle få rösträtt i Sverige?",
+            "ar": "55- متى قرر البرلمان السويدي منح النساء حق التصويت؟",
+            "en": "55- When did the Swedish Parliament decide that women should have the right to vote?"
           },
           "answers": [
             {
-              "textSv": "A. 2003",
-              "textAr": "A. 2003",
-              "textEn": "A. 2003",
+              "textSv": "A. 1918",
+              "textAr": "A. 1918",
+              "textEn": "A. 1918",
               "correct": false
             },
             {
-              "textSv": "B. 2005",
-              "textAr": "B. 2005",
-              "textEn": "B. 2005",
-              "correct": false
-            },
-            {
-              "textSv": "C. 2009",
-              "textAr": "C. 2009",
-              "textEn": "C. 2009",
+              "textSv": "B. 1919",
+              "textAr": "B. 1919",
+              "textEn": "B. 1919",
               "correct": true
             },
             {
-              "textSv": "D. 2012",
-              "textAr": "D. 2012",
-              "textEn": "D. 2012",
+              "textSv": "C. 1921",
+              "textAr": "C. 1921",
+              "textEn": "C. 1921",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1924",
+              "textAr": "D. 1924",
+              "textEn": "D. 1924",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. 2009",
-          "correctAnswerAr": "C. 2009",
-          "correctAnswerEn": "C. 2009"
+          "correctAnswerSv": "B. 1919",
+          "correctAnswerAr": "B. 1919",
+          "correctAnswerEn": "B. 1919"
         },
         {
           "question": {
@@ -41609,39 +41610,39 @@
         },
         {
           "question": {
-            "sv": "57- Hur många procent av de som arbetar i Sverige arbetar i privat sektor?",
-            "ar": "57- كم نسبة العاملين في السويد الذين يعملون في القطاع الخاص؟",
-            "en": "57- What percentage of workers in Sweden work in the private sector?"
+            "sv": "57- När fick kvinnor rösträtt i Sverige?",
+            "ar": "57- متى حصلت النساء على حق التصويت في السويد؟",
+            "en": "57- When did women gain the right to vote in Sweden?"
           },
           "answers": [
             {
-              "textSv": "A. Cirka 30 %",
-              "textAr": "A. حوالي 30٪",
-              "textEn": "A. About 30%",
+              "textSv": "A. 1910",
+              "textAr": "A. 1910",
+              "textEn": "A. 1910",
               "correct": false
             },
             {
-              "textSv": "B. Cirka 50 %",
-              "textAr": "B. حوالي 50٪",
-              "textEn": "B. About 50%",
-              "correct": false
-            },
-            {
-              "textSv": "C. Cirka 70 %",
-              "textAr": "C. حوالي 70٪",
-              "textEn": "C. About 70%",
+              "textSv": "B. 1921",
+              "textAr": "B. 1921",
+              "textEn": "B. 1921",
               "correct": true
             },
             {
-              "textSv": "D. Cirka 90 %",
-              "textAr": "D. حوالي 90٪",
-              "textEn": "D. About 90%",
+              "textSv": "C. 1935",
+              "textAr": "C. 1935",
+              "textEn": "C. 1935",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1945",
+              "textAr": "D. 1945",
+              "textEn": "D. 1945",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. Cirka 70 %",
-          "correctAnswerAr": "C. حوالي 70٪",
-          "correctAnswerEn": "C. About 70%"
+          "correctAnswerSv": "B. 1921",
+          "correctAnswerAr": "B. 1921",
+          "correctAnswerEn": "B. 1921"
         },
         {
           "question": {
@@ -41789,39 +41790,39 @@
         },
         {
           "question": {
-            "sv": "62- Hur många län finns det i Sverige?",
-            "ar": "62- كم عدد المحافظات (الأقاليم) في السويد؟",
-            "en": "62- How many counties are there in Sweden?"
+            "sv": "62- Vad är en kommun ansvarig för?",
+            "ar": "62- ما الذي تقع مسؤوليته على البلدية في السويد؟",
+            "en": "62- What is a municipality responsible for in Sweden?"
           },
           "answers": [
             {
-              "textSv": "A. 20",
-              "textAr": "A. 20",
-              "textEn": "A. 20",
-              "correct": false
-            },
-            {
-              "textSv": "B. 21",
-              "textAr": "B. 21",
-              "textEn": "B. 21",
+              "textSv": "A. Skola, äldreomsorg och socialtjänst",
+              "textAr": "A. المدارس، ورعاية المسنين، والخدمات الاجتماعية",
+              "textEn": "A. Schools, elderly care and social services",
               "correct": true
             },
             {
-              "textSv": "C. 25",
-              "textAr": "C. 25",
-              "textEn": "C. 25",
+              "textSv": "B. Försvar och utrikespolitik",
+              "textAr": "B. الدفاع والسياسة الخارجية",
+              "textEn": "B. Defence and foreign policy",
               "correct": false
             },
             {
-              "textSv": "D. 290",
-              "textAr": "D. 290",
-              "textEn": "D. 290",
+              "textSv": "C. Att stifta Sveriges lagar",
+              "textAr": "C. سن قوانين السويد",
+              "textEn": "C. Making Sweden's laws",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att välja statsminister",
+              "textAr": "D. اختيار رئيس الوزراء",
+              "textEn": "D. Electing the Prime Minister",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 21",
-          "correctAnswerAr": "B. 21",
-          "correctAnswerEn": "B. 21"
+          "correctAnswerSv": "A. Skola, äldreomsorg och socialtjänst",
+          "correctAnswerAr": "A. المدارس، ورعاية المسنين، والخدمات الاجتماعية",
+          "correctAnswerEn": "A. Schools, elderly care and social services"
         },
         {
           "question": {
@@ -42185,75 +42186,75 @@
         },
         {
           "question": {
-            "sv": "73- Hur många ledamöter finns det i riksdagen?",
-            "ar": "73- كم عدد أعضاء البرلمان السويدي؟",
-            "en": "73- How many members are there in the Swedish Parliament?"
+            "sv": "73- Vilken är riksdagens viktigaste uppgift?",
+            "ar": "73- ما هي أهم مهمة للبرلمان السويدي؟",
+            "en": "73- What is the Riksdag's most important task?"
           },
           "answers": [
             {
-              "textSv": "A. 290",
-              "textAr": "A. 290",
-              "textEn": "A. 290",
-              "correct": false
-            },
-            {
-              "textSv": "B. 349",
-              "textAr": "B. 349",
-              "textEn": "B. 349",
+              "textSv": "A. Att stifta lagar och besluta om statens budget",
+              "textAr": "A. سن القوانين وإقرار ميزانية الدولة",
+              "textEn": "A. To make laws and decide the state's budget",
               "correct": true
             },
             {
-              "textSv": "C. 400",
-              "textAr": "C. 400",
-              "textEn": "C. 400",
+              "textSv": "B. Att leda domstolarna",
+              "textAr": "B. إدارة المحاكم",
+              "textEn": "B. To manage the courts",
               "correct": false
             },
             {
-              "textSv": "D. 250",
-              "textAr": "D. 250",
-              "textEn": "D. 250",
+              "textSv": "C. Att utse landets kung",
+              "textAr": "C. تعيين ملك البلاد",
+              "textEn": "C. To appoint the King",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att styra kommunerna",
+              "textAr": "D. إدارة البلديات",
+              "textEn": "D. To govern the municipalities",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. 349",
-          "correctAnswerAr": "B. 349",
-          "correctAnswerEn": "B. 349"
+          "correctAnswerSv": "A. Att stifta lagar och besluta om statens budget",
+          "correctAnswerAr": "A. سن القوانين وإقرار ميزانية الدولة",
+          "correctAnswerEn": "A. To make laws and decide the state's budget"
         },
         {
           "question": {
-            "sv": "74- Hur ofta hålls val till riksdagen?",
-            "ar": "74- كل كم سنة تُجرى انتخابات البرلمان السويدي؟",
-            "en": "74- How often are elections to the Swedish Parliament held?"
+            "sv": "74- Vad är en folkomröstning?",
+            "ar": "74- ما هو الاستفتاء الشعبي؟",
+            "en": "74- What is a referendum?"
           },
           "answers": [
             {
-              "textSv": "A. Vartannat år",
-              "textAr": "A. كل سنتين",
-              "textEn": "A. Every two years",
-              "correct": false
-            },
-            {
-              "textSv": "B. Var tredje år",
-              "textAr": "B. كل ثلاث سنوات",
-              "textEn": "B. Every three years",
-              "correct": false
-            },
-            {
-              "textSv": "C. Vart fjärde år",
-              "textAr": "C. كل أربع سنوات",
-              "textEn": "C. Every four years",
+              "textSv": "A. När medborgarna röstar direkt i en viktig fråga",
+              "textAr": "A. عندما يصوت المواطنون مباشرةً في قضية مهمة",
+              "textEn": "A. When citizens vote directly on an important issue",
               "correct": true
             },
             {
-              "textSv": "D. Vart femte år",
-              "textAr": "D. كل خمس سنوات",
-              "textEn": "D. Every five years",
+              "textSv": "B. När riksdagen väljer statsminister",
+              "textAr": "B. عندما يختار البرلمان رئيس الوزراء",
+              "textEn": "B. When the Riksdag elects the Prime Minister",
+              "correct": false
+            },
+            {
+              "textSv": "C. När regeringen utser nya domare",
+              "textAr": "C. عندما تعين الحكومة قضاة جدداً",
+              "textEn": "C. When the government appoints new judges",
+              "correct": false
+            },
+            {
+              "textSv": "D. När kommunen beslutar om budgeten",
+              "textAr": "D. عندما تقرر البلدية الميزانية",
+              "textEn": "D. When the municipality decides the budget",
               "correct": false
             }
           ],
-          "correctAnswerSv": "C. Vart fjärde år",
-          "correctAnswerAr": "C. كل أربع سنوات",
-          "correctAnswerEn": "C. Every four years"
+          "correctAnswerSv": "A. När medborgarna röstar direkt i en viktig fråga",
+          "correctAnswerAr": "A. عندما يصوت المواطنون مباشرةً في قضية مهمة",
+          "correctAnswerEn": "A. When citizens vote directly on an important issue"
         },
         {
           "question": {
@@ -42365,39 +42366,39 @@
         },
         {
           "question": {
-            "sv": "78- Hur många nationella minoritetsspråk finns det i Sverige?",
-            "ar": "78- كم عدد لغات الأقليات القومية في السويد؟",
-            "en": "78- How many national minority languages are there in Sweden?"
+            "sv": "78- Vad är syftet med offentlighetsprincipen?",
+            "ar": "78- ما الهدف من مبدأ العلنية في السويد؟",
+            "en": "78- What is the purpose of the principle of public access to official documents?"
           },
           "answers": [
             {
-              "textSv": "A. Fyra",
-              "textAr": "A. أربع",
-              "textEn": "A. Four",
-              "correct": false
-            },
-            {
-              "textSv": "B. Fem",
-              "textAr": "B. خمس",
-              "textEn": "B. Five",
+              "textSv": "A. Att ge allmänheten insyn i myndigheternas arbete",
+              "textAr": "A. منح الجمهور حق الاطلاع على عمل السلطات",
+              "textEn": "A. To give the public insight into the work of public authorities",
               "correct": true
             },
             {
-              "textSv": "C. Sex",
-              "textAr": "C. ست",
-              "textEn": "C. Six",
+              "textSv": "B. Att skydda myndigheters hemligheter",
+              "textAr": "B. حماية أسرار السلطات",
+              "textEn": "B. To protect government secrets",
               "correct": false
             },
             {
-              "textSv": "D. Sju",
-              "textAr": "D. سبع",
-              "textEn": "D. Seven",
+              "textSv": "C. Att bara journalister får läsa offentliga handlingar",
+              "textAr": "C. السماح للصحفيين فقط بقراءة الوثائق الرسمية",
+              "textEn": "C. Only journalists may read official documents",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att regeringen bestämmer vilken information medborgarna får veta",
+              "textAr": "D. أن الحكومة تقرر ما هي المعلومات التي يحق للمواطنين معرفتها",
+              "textEn": "D. The government decides what information citizens may know",
               "correct": false
             }
           ],
-          "correctAnswerSv": "B. Fem",
-          "correctAnswerAr": "B. خمس",
-          "correctAnswerEn": "B. Five"
+          "correctAnswerSv": "A. Att ge allmänheten insyn i myndigheternas arbete",
+          "correctAnswerAr": "A. منح الجمهور حق الاطلاع على عمل السلطات",
+          "correctAnswerEn": "A. To give the public insight into the work of public authorities"
         },
         {
           "question": {
@@ -43194,13 +43195,2888 @@
       ]
     },
     {
-      "lessonId": 21,
+      "lessonId": 23,
       "lessonTitle": {
-        "sv": "Övriga frågor 8",
-        "ar": "أسئلة إضافية 8",
-        "en": "Additional questions 8"
+        "sv": "Övriga frågor 10",
+        "ar": "أسئلة إضافية 10",
+        "en": "Additional questions 10"
       },
-      "questions": []
+      "questions": [
+        {
+          "question": {
+            "sv": "1- Vilket land är det största i Norden?",
+            "ar": "1- ما هي أكبر دولة في منطقة الشمال الأوروبي؟",
+            "en": "1- Which country is the largest in the Nordic region?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Norge",
+              "textAr": "A. النرويج",
+              "textEn": "A. Norway",
+              "correct": false
+            },
+            {
+              "textSv": "B. Finland",
+              "textAr": "B. فنلندا",
+              "textEn": "B. Finland",
+              "correct": false
+            },
+            {
+              "textSv": "C. Sverige",
+              "textAr": "C. السويد",
+              "textEn": "C. Sweden",
+              "correct": true
+            },
+            {
+              "textSv": "D. Danmark",
+              "textAr": "D. الدنمارك",
+              "textEn": "D. Denmark",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Sverige",
+          "correctAnswerAr": "C. السويد",
+          "correctAnswerEn": "C. Sweden"
+        },
+        {
+          "question": {
+            "sv": "2- Hur långt är Sverige från norr till söder ungefär?",
+            "ar": "2- ما طول السويد تقريبًا من الشمال إلى الجنوب؟",
+            "en": "2- Approximately how long is Sweden from north to south?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 800 kilometer",
+              "textAr": "A. 800 كيلومتر",
+              "textEn": "A. 800 kilometers",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1200 kilometer",
+              "textAr": "B. 1200 كيلومتر",
+              "textEn": "B. 1200 kilometers",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1600 kilometer",
+              "textAr": "C. 1600 كيلومتر",
+              "textEn": "C. 1600 kilometers",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2200 kilometer",
+              "textAr": "D. 2200 كيلومتر",
+              "textEn": "D. 2200 kilometers",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1600 kilometer",
+          "correctAnswerAr": "C. 1600 كيلومتر",
+          "correctAnswerEn": "C. 1600 kilometers"
+        },
+        {
+          "question": {
+            "sv": "3- Vad heter Sveriges största ö?",
+            "ar": "3- ما اسم أكبر جزيرة في السويد؟",
+            "en": "3- What is Sweden's largest island?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Öland",
+              "textAr": "A. أولاند",
+              "textEn": "A. Öland",
+              "correct": false
+            },
+            {
+              "textSv": "B. Gotland",
+              "textAr": "B. غوتلاند",
+              "textEn": "B. Gotland",
+              "correct": true
+            },
+            {
+              "textSv": "C. Hisingen",
+              "textAr": "C. هيسينغن",
+              "textEn": "C. Hisingen",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ven",
+              "textAr": "D. فين",
+              "textEn": "D. Ven",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Gotland",
+          "correctAnswerAr": "B. غوتلاند",
+          "correctAnswerEn": "B. Gotland"
+        },
+        {
+          "question": {
+            "sv": "4- Vad heter Sveriges högsta berg?",
+            "ar": "4- ما اسم أعلى جبل في السويد؟",
+            "en": "4- What is Sweden's highest mountain?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kebnekaise",
+              "textAr": "A. كيبنكايزه",
+              "textEn": "A. Kebnekaise",
+              "correct": true
+            },
+            {
+              "textSv": "B. Åreskutan",
+              "textAr": "B. أوريشكوتان",
+              "textEn": "B. Åreskutan",
+              "correct": false
+            },
+            {
+              "textSv": "C. Helags",
+              "textAr": "C. هيلاكس",
+              "textEn": "C. Helags",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skuleberget",
+              "textAr": "D. سكوله برييت",
+              "textEn": "D. Skuleberget",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Kebnekaise",
+          "correctAnswerAr": "A. كيبنكايزه",
+          "correctAnswerEn": "A. Kebnekaise"
+        },
+        {
+          "question": {
+            "sv": "5- Hur många län finns det i Sverige?",
+            "ar": "5- كم عدد المحافظات (اللَّن) في السويد؟",
+            "en": "5- How many counties are there in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "textEn": "A. 21",
+              "correct": true
+            },
+            {
+              "textSv": "B. 25",
+              "textAr": "B. 25",
+              "textEn": "B. 25",
+              "correct": false
+            },
+            {
+              "textSv": "C. 290",
+              "textAr": "C. 290",
+              "textEn": "C. 290",
+              "correct": false
+            },
+            {
+              "textSv": "D. 349",
+              "textAr": "D. 349",
+              "textEn": "D. 349",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 21",
+          "correctAnswerAr": "A. 21",
+          "correctAnswerEn": "A. 21"
+        },
+        {
+          "question": {
+            "sv": "6- Hur många kommuner finns det i Sverige?",
+            "ar": "6- كم عدد البلديات في السويد؟",
+            "en": "6- How many municipalities are there in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "textEn": "A. 21",
+              "correct": false
+            },
+            {
+              "textSv": "B. 290",
+              "textAr": "B. 290",
+              "textEn": "B. 290",
+              "correct": true
+            },
+            {
+              "textSv": "C. 349",
+              "textAr": "C. 349",
+              "textEn": "C. 349",
+              "correct": false
+            },
+            {
+              "textSv": "D. 450",
+              "textAr": "D. 450",
+              "textEn": "D. 450",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 290",
+          "correctAnswerAr": "B. 290",
+          "correctAnswerEn": "B. 290"
+        },
+        {
+          "question": {
+            "sv": "7- Vilken stad är Sveriges huvudstad?",
+            "ar": "7- ما هي عاصمة السويد؟",
+            "en": "7- What is the capital of Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Göteborg",
+              "textAr": "A. يوتيبوري",
+              "textEn": "A. Gothenburg",
+              "correct": false
+            },
+            {
+              "textSv": "B. Malmö",
+              "textAr": "B. مالمو",
+              "textEn": "B. Malmö",
+              "correct": false
+            },
+            {
+              "textSv": "C. Stockholm",
+              "textAr": "C. ستوكهولم",
+              "textEn": "C. Stockholm",
+              "correct": true
+            },
+            {
+              "textSv": "D. Uppsala",
+              "textAr": "D. أوبسالا",
+              "textEn": "D. Uppsala",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Stockholm",
+          "correctAnswerAr": "C. ستوكهولم",
+          "correctAnswerEn": "C. Stockholm"
+        },
+        {
+          "question": {
+            "sv": "8- Hur många ledamöter har riksdagen?",
+            "ar": "8- كم عدد أعضاء البرلمان السويدي؟",
+            "en": "8- How many members does the Swedish Parliament have?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 290",
+              "textAr": "A. 290",
+              "textEn": "A. 290",
+              "correct": false
+            },
+            {
+              "textSv": "B. 349",
+              "textAr": "B. 349",
+              "textEn": "B. 349",
+              "correct": true
+            },
+            {
+              "textSv": "C. 400",
+              "textAr": "C. 400",
+              "textEn": "C. 400",
+              "correct": false
+            },
+            {
+              "textSv": "D. 500",
+              "textAr": "D. 500",
+              "textEn": "D. 500",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 349",
+          "correctAnswerAr": "B. 349",
+          "correctAnswerEn": "B. 349"
+        },
+        {
+          "question": {
+            "sv": "9- Hur ofta hålls val till riksdagen?",
+            "ar": "9- كل كم سنة تُجرى انتخابات البرلمان؟",
+            "en": "9- How often are parliamentary elections held?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Var tredje år",
+              "textAr": "A. كل ثلاث سنوات",
+              "textEn": "A. Every three years",
+              "correct": false
+            },
+            {
+              "textSv": "B. Var fjärde år",
+              "textAr": "B. كل أربع سنوات",
+              "textEn": "B. Every four years",
+              "correct": true
+            },
+            {
+              "textSv": "C. Var femte år",
+              "textAr": "C. كل خمس سنوات",
+              "textEn": "C. Every five years",
+              "correct": false
+            },
+            {
+              "textSv": "D. Var sjätte år",
+              "textAr": "D. كل ست سنوات",
+              "textEn": "D. Every six years",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Var fjärde år",
+          "correctAnswerAr": "B. كل أربع سنوات",
+          "correctAnswerEn": "B. Every four years"
+        },
+        {
+          "question": {
+            "sv": "10- Vad betyder demokrati?",
+            "ar": "10- ماذا تعني الديمقراطية؟",
+            "en": "10- What does democracy mean?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungastyre",
+              "textAr": "A. حكم ملكي",
+              "textEn": "A. Monarchy",
+              "correct": false
+            },
+            {
+              "textSv": "B. Folkstyre",
+              "textAr": "B. حكم الشعب",
+              "textEn": "B. Rule by the people",
+              "correct": true
+            },
+            {
+              "textSv": "C. Militärstyre",
+              "textAr": "C. حكم عسكري",
+              "textEn": "C. Military rule",
+              "correct": false
+            },
+            {
+              "textSv": "D. Diktatur",
+              "textAr": "D. ديكتاتورية",
+              "textEn": "D. Dictatorship",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Folkstyre",
+          "correctAnswerAr": "B. حكم الشعب",
+          "correctAnswerEn": "B. Rule by the people"
+        },
+        {
+          "question": {
+            "sv": "11- Hur många grundlagar har Sverige?",
+            "ar": "11- كم عدد القوانين الأساسية (الدستورية) في السويد؟",
+            "en": "11- How many fundamental laws does Sweden have?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2",
+              "textAr": "A. 2",
+              "textEn": "A. 2",
+              "correct": false
+            },
+            {
+              "textSv": "B. 3",
+              "textAr": "B. 3",
+              "textEn": "B. 3",
+              "correct": false
+            },
+            {
+              "textSv": "C. 4",
+              "textAr": "C. 4",
+              "textEn": "C. 4",
+              "correct": true
+            },
+            {
+              "textSv": "D. 5",
+              "textAr": "D. 5",
+              "textEn": "D. 5",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 4",
+          "correctAnswerAr": "C. 4",
+          "correctAnswerEn": "C. 4"
+        },
+        {
+          "question": {
+            "sv": "12- Vilken myndighet ansvarar för att organisera val i Sverige?",
+            "ar": "12- أي هيئة مسؤولة عن تنظيم الانتخابات في السويد؟",
+            "en": "12- Which authority is responsible for organizing elections in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "textEn": "A. The Police",
+              "correct": false
+            },
+            {
+              "textSv": "B. Valmyndigheten",
+              "textAr": "B. هيئة الانتخابات",
+              "textEn": "B. The Election Authority",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "textEn": "C. The Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. المحاكم",
+              "textEn": "D. The Courts",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Valmyndigheten",
+          "correctAnswerAr": "B. هيئة الانتخابات",
+          "correctAnswerEn": "B. The Election Authority"
+        },
+        {
+          "question": {
+            "sv": "13- Vad heter Sveriges kung?",
+            "ar": "13- ما اسم ملك السويد؟",
+            "en": "13- What is the name of Sweden's King?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Carl XVI Gustaf",
+              "textAr": "A. كارل السادس عشر غوستاف",
+              "textEn": "A. Carl XVI Gustaf",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gustaf V",
+              "textAr": "B. غوستاف الخامس",
+              "textEn": "B. Gustaf V",
+              "correct": false
+            },
+            {
+              "textSv": "C. Carl XVII Gustaf",
+              "textAr": "C. كارل السابع عشر غوستاف",
+              "textEn": "C. Carl XVII Gustaf",
+              "correct": false
+            },
+            {
+              "textSv": "D. Oscar II",
+              "textAr": "D. أوسكار الثاني",
+              "textEn": "D. Oscar II",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Carl XVI Gustaf",
+          "correctAnswerAr": "A. كارل السادس عشر غوستاف",
+          "correctAnswerEn": "A. Carl XVI Gustaf"
+        },
+        {
+          "question": {
+            "sv": "14- Vem är Sveriges statschef?",
+            "ar": "14- من هو رئيس الدولة في السويد؟",
+            "en": "14- Who is Sweden's Head of State?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statsministern",
+              "textAr": "A. رئيس الوزراء",
+              "textEn": "A. The Prime Minister",
+              "correct": false
+            },
+            {
+              "textSv": "B. Kungen",
+              "textAr": "B. الملك",
+              "textEn": "B. The King",
+              "correct": true
+            },
+            {
+              "textSv": "C. Riksdagens talman",
+              "textAr": "C. رئيس البرلمان",
+              "textEn": "C. The Speaker of Parliament",
+              "correct": false
+            },
+            {
+              "textSv": "D. Chefen för Högsta domstolen",
+              "textAr": "D. رئيس المحكمة العليا",
+              "textEn": "D. The Chief Justice",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Kungen",
+          "correctAnswerAr": "B. الملك",
+          "correctAnswerEn": "B. The King"
+        },
+        {
+          "question": {
+            "sv": "15- Vem är chef för regeringen i Sverige?",
+            "ar": "15- من هو رئيس الحكومة في السويد؟",
+            "en": "15- Who is the head of the Swedish Government?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Kungen",
+              "textAr": "A. الملك",
+              "textEn": "A. The King",
+              "correct": false
+            },
+            {
+              "textSv": "B. Statsministern",
+              "textAr": "B. رئيس الوزراء",
+              "textEn": "B. The Prime Minister",
+              "correct": true
+            },
+            {
+              "textSv": "C. Talmannen",
+              "textAr": "C. رئيس البرلمان",
+              "textEn": "C. The Speaker",
+              "correct": false
+            },
+            {
+              "textSv": "D. Rikspolischefen",
+              "textAr": "D. قائد الشرطة الوطنية",
+              "textEn": "D. The National Police Commissioner",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Statsministern",
+          "correctAnswerAr": "B. رئيس الوزراء",
+          "correctAnswerEn": "B. The Prime Minister"
+        },
+        {
+          "question": {
+            "sv": "16- Vem leder riksdagens arbete?",
+            "ar": "16- من يقود عمل البرلمان السويدي؟",
+            "en": "16- Who leads the work of the Swedish Parliament?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Statsministern",
+              "textAr": "A. رئيس الوزراء",
+              "textEn": "A. The Prime Minister",
+              "correct": false
+            },
+            {
+              "textSv": "B. Talmannen",
+              "textAr": "B. رئيس البرلمان",
+              "textEn": "B. The Speaker",
+              "correct": true
+            },
+            {
+              "textSv": "C. Kungen",
+              "textAr": "C. الملك",
+              "textEn": "C. The King",
+              "correct": false
+            },
+            {
+              "textSv": "D. Justitieministern",
+              "textAr": "D. وزير العدل",
+              "textEn": "D. The Minister of Justice",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Talmannen",
+          "correctAnswerAr": "B. رئيس البرلمان",
+          "correctAnswerEn": "B. The Speaker"
+        },
+        {
+          "question": {
+            "sv": "17- Vilken myndighet ansvarar för att ta in skatt?",
+            "ar": "17- أي هيئة مسؤولة عن تحصيل الضرائب؟",
+            "en": "17- Which authority is responsible for collecting taxes?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. صندوق التأمينات",
+              "textEn": "A. The Social Insurance Agency",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. The Swedish Tax Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "textEn": "C. The Public Employment Service",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. دائرة الهجرة",
+              "textEn": "D. The Migration Agency",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Skatteverket",
+          "correctAnswerAr": "B. مصلحة الضرائب",
+          "correctAnswerEn": "B. The Swedish Tax Agency"
+        },
+        {
+          "question": {
+            "sv": "18- Vem ansvarar för sjukvården i Sverige?",
+            "ar": "18- من المسؤول عن الرعاية الصحية في السويد؟",
+            "en": "18- Who is responsible for healthcare in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regionerna",
+              "textAr": "A. الأقاليم",
+              "textEn": "A. The Regions",
+              "correct": true
+            },
+            {
+              "textSv": "B. Riksdagen",
+              "textAr": "B. البرلمان",
+              "textEn": "B. Parliament",
+              "correct": false
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "textEn": "C. The Police",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolarna",
+              "textAr": "D. المحاكم",
+              "textEn": "D. The Courts",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Regionerna",
+          "correctAnswerAr": "A. الأقاليم",
+          "correctAnswerEn": "A. The Regions"
+        },
+        {
+          "question": {
+            "sv": "19- Hur många regioner finns det i Sverige?",
+            "ar": "19- كم عدد الأقاليم في السويد؟",
+            "en": "19- How many regions are there in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 21",
+              "textAr": "A. 21",
+              "textEn": "A. 21",
+              "correct": true
+            },
+            {
+              "textSv": "B. 18",
+              "textAr": "B. 18",
+              "textEn": "B. 18",
+              "correct": false
+            },
+            {
+              "textSv": "C. 25",
+              "textAr": "C. 25",
+              "textEn": "C. 25",
+              "correct": false
+            },
+            {
+              "textSv": "D. 290",
+              "textAr": "D. 290",
+              "textEn": "D. 290",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 21",
+          "correctAnswerAr": "A. 21",
+          "correctAnswerEn": "A. 21"
+        },
+        {
+          "question": {
+            "sv": "20- Vilken myndighet ansvarar för arbetslöshetsstöd och att hjälpa människor att hitta arbete?",
+            "ar": "20- أي هيئة تساعد العاطلين عن العمل في إيجاد وظائف؟",
+            "en": "20- Which authority helps unemployed people find jobs?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsförmedlingen",
+              "textAr": "A. مكتب العمل",
+              "textEn": "A. The Public Employment Service",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "textEn": "B. The Police",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skolverket",
+              "textAr": "C. إدارة التعليم",
+              "textEn": "C. The National Agency for Education",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kronofogden",
+              "textAr": "D. دائرة تنفيذ الديون",
+              "textEn": "D. The Enforcement Authority",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsförmedlingen",
+          "correctAnswerAr": "A. مكتب العمل",
+          "correctAnswerEn": "A. The Public Employment Service"
+        },
+        {
+          "question": {
+            "sv": "21- Vem ansvarar för att utreda och bekämpa brott?",
+            "ar": "21- من المسؤول عن التحقيق في الجرائم ومكافحتها؟",
+            "en": "21- Who is responsible for investigating and combating crime?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "textEn": "A. The Police",
+              "correct": true
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. صندوق التأمينات",
+              "textEn": "B. The Social Insurance Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "textEn": "C. The Swedish Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. CSN",
+              "textAr": "D. هيئة دعم الطلاب",
+              "textEn": "D. CSN",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Polisen",
+          "correctAnswerAr": "A. الشرطة",
+          "correctAnswerEn": "A. The Police"
+        },
+        {
+          "question": {
+            "sv": "22- När blev barnaga förbjudet i Sverige?",
+            "ar": "22- متى مُنع ضرب الأطفال في السويد؟",
+            "en": "22- When was corporal punishment of children banned in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1965",
+              "textAr": "A. 1965",
+              "textEn": "A. 1965",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1979",
+              "textAr": "B. 1979",
+              "textEn": "B. 1979",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1989",
+              "textAr": "C. 1989",
+              "textEn": "C. 1989",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1995",
+              "textAr": "D. 1995",
+              "textEn": "D. 1995",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1979",
+          "correctAnswerAr": "B. 1979",
+          "correctAnswerEn": "B. 1979"
+        },
+        {
+          "question": {
+            "sv": "23- När fick kvinnor rösträtt i Sverige?",
+            "ar": "23- متى حصلت النساء على حق التصويت في السويد؟",
+            "en": "23- When did women gain the right to vote in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1909",
+              "textAr": "A. 1909",
+              "textEn": "A. 1909",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1911",
+              "textAr": "B. 1911",
+              "textEn": "B. 1911",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1921",
+              "textAr": "C. 1921",
+              "textEn": "C. 1921",
+              "correct": true
+            },
+            {
+              "textSv": "D. 1945",
+              "textAr": "D. 1945",
+              "textEn": "D. 1945",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 1921",
+          "correctAnswerAr": "C. 1921",
+          "correctAnswerEn": "C. 1921"
+        },
+        {
+          "question": {
+            "sv": "24- När blev Sverige medlem i Europeiska unionen (EU)?",
+            "ar": "24- متى أصبحت السويد عضوًا في الاتحاد الأوروبي؟",
+            "en": "24- When did Sweden become a member of the European Union?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1990",
+              "textAr": "A. 1990",
+              "textEn": "A. 1990",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1995",
+              "textAr": "B. 1995",
+              "textEn": "B. 1995",
+              "correct": true
+            },
+            {
+              "textSv": "C. 2000",
+              "textAr": "C. 2000",
+              "textEn": "C. 2000",
+              "correct": false
+            },
+            {
+              "textSv": "D. 2005",
+              "textAr": "D. 2005",
+              "textEn": "D. 2005",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1995",
+          "correctAnswerAr": "B. 1995",
+          "correctAnswerEn": "B. 1995"
+        },
+        {
+          "question": {
+            "sv": "25- När infördes allmän och lika rösträtt i Sverige?",
+            "ar": "25- متى تم تطبيق حق التصويت العام والمتساوي في السويد؟",
+            "en": "25- When was universal and equal suffrage introduced in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1921",
+              "textAr": "A. 1921",
+              "textEn": "A. 1921",
+              "correct": true
+            },
+            {
+              "textSv": "B. 1910",
+              "textAr": "B. 1910",
+              "textEn": "B. 1910",
+              "correct": false
+            },
+            {
+              "textSv": "C. 1945",
+              "textAr": "C. 1945",
+              "textEn": "C. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1975",
+              "textAr": "D. 1975",
+              "textEn": "D. 1975",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 1921",
+          "correctAnswerAr": "A. 1921",
+          "correctAnswerEn": "A. 1921"
+        },
+        {
+          "question": {
+            "sv": "26- När blev Sverige medlem i FN?",
+            "ar": "26- متى أصبحت السويد عضوًا في الأمم المتحدة؟",
+            "en": "26- When did Sweden become a member of the United Nations?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1945",
+              "textAr": "A. 1945",
+              "textEn": "A. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1946",
+              "textAr": "B. 1946",
+              "textEn": "B. 1946",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1950",
+              "textAr": "C. 1950",
+              "textEn": "C. 1950",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1955",
+              "textAr": "D. 1955",
+              "textEn": "D. 1955",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1946",
+          "correctAnswerAr": "B. 1946",
+          "correctAnswerEn": "B. 1946"
+        },
+        {
+          "question": {
+            "sv": "27- Vad är ett fackförbunds viktigaste uppgift?",
+            "ar": "27- ما هي أهم مهمة للنقابة العمالية؟",
+            "en": "27- What is the main task of a trade union?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Att representera arbetstagare och hjälpa till med arbetsvillkor",
+              "textAr": "A. تمثيل العمال والمساعدة في ظروف العمل",
+              "textEn": "A. To represent workers and help with working conditions",
+              "correct": true
+            },
+            {
+              "textSv": "B. Att bestämma Sveriges lagar",
+              "textAr": "B. تحديد قوانين السويد",
+              "textEn": "B. To decide Sweden's laws",
+              "correct": false
+            },
+            {
+              "textSv": "C. Att driva alla företag",
+              "textAr": "C. إدارة جميع الشركات",
+              "textEn": "C. To run all companies",
+              "correct": false
+            },
+            {
+              "textSv": "D. Att samla in skatter",
+              "textAr": "D. جمع الضرائب",
+              "textEn": "D. To collect taxes",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Att representera arbetstagare och hjälpa till med arbetsvillkor",
+          "correctAnswerAr": "A. تمثيل العمال والمساعدة في ظروف العمل",
+          "correctAnswerEn": "A. To represent workers and help with working conditions"
+        },
+        {
+          "question": {
+            "sv": "28- När får man rösta i riksdagsval om man är svensk medborgare?",
+            "ar": "28- في أي عمر يمكن للمواطن السويدي التصويت في انتخابات البرلمان؟",
+            "en": "28- At what age can a Swedish citizen vote in parliamentary elections?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 16 år",
+              "textAr": "A. 16 سنة",
+              "textEn": "A. 16 years",
+              "correct": false
+            },
+            {
+              "textSv": "B. 17 år",
+              "textAr": "B. 17 سنة",
+              "textEn": "B. 17 years",
+              "correct": false
+            },
+            {
+              "textSv": "C. 18 år",
+              "textAr": "C. 18 سنة",
+              "textEn": "C. 18 years",
+              "correct": true
+            },
+            {
+              "textSv": "D. 20 år",
+              "textAr": "D. 20 سنة",
+              "textEn": "D. 20 years",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 18 år",
+          "correctAnswerAr": "C. 18 سنة",
+          "correctAnswerEn": "C. 18 years"
+        },
+        {
+          "question": {
+            "sv": "29- När firas Sveriges nationaldag?",
+            "ar": "29- متى يُحتفل باليوم الوطني للسويد؟",
+            "en": "29- When is Sweden's National Day celebrated?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1 maj",
+              "textAr": "A. 1 مايو",
+              "textEn": "A. May 1",
+              "correct": false
+            },
+            {
+              "textSv": "B. 6 juni",
+              "textAr": "B. 6 يونيو",
+              "textEn": "B. June 6",
+              "correct": true
+            },
+            {
+              "textSv": "C. 24 december",
+              "textAr": "C. 24 ديسمبر",
+              "textEn": "C. December 24",
+              "correct": false
+            },
+            {
+              "textSv": "D. 31 december",
+              "textAr": "D. 31 ديسمبر",
+              "textEn": "D. December 31",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 6 juni",
+          "correctAnswerAr": "B. 6 يونيو",
+          "correctAnswerEn": "B. June 6"
+        },
+        {
+          "question": {
+            "sv": "30- När blev FN:s barnkonvention svensk lag?",
+            "ar": "30- متى أصبحت اتفاقية حقوق الطفل قانونًا سويديًا؟",
+            "en": "30- When did the UN Convention on the Rights of the Child become Swedish law?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2010",
+              "textAr": "A. 2010",
+              "textEn": "A. 2010",
+              "correct": false
+            },
+            {
+              "textSv": "B. 2015",
+              "textAr": "B. 2015",
+              "textEn": "B. 2015",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2020",
+              "textAr": "C. 2020",
+              "textEn": "C. 2020",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2022",
+              "textAr": "D. 2022",
+              "textEn": "D. 2022",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 2020",
+          "correctAnswerAr": "C. 2020",
+          "correctAnswerEn": "C. 2020"
+        },
+        {
+          "question": {
+            "sv": "31- När slöts Saltsjöbadsavtalet?",
+            "ar": "31- متى تم توقيع اتفاقية سالتشيوباد؟",
+            "en": "31- When was the Saltsjöbaden Agreement signed?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1921",
+              "textAr": "A. 1921",
+              "textEn": "A. 1921",
+              "correct": false
+            },
+            {
+              "textSv": "B. 1938",
+              "textAr": "B. 1938",
+              "textEn": "B. 1938",
+              "correct": true
+            },
+            {
+              "textSv": "C. 1945",
+              "textAr": "C. 1945",
+              "textEn": "C. 1945",
+              "correct": false
+            },
+            {
+              "textSv": "D. 1995",
+              "textAr": "D. 1995",
+              "textEn": "D. 1995",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 1938",
+          "correctAnswerAr": "B. 1938",
+          "correctAnswerEn": "B. 1938"
+        },
+        {
+          "question": {
+            "sv": "32- Mellan vilka organisationer slöts Saltsjöbadsavtalet?",
+            "ar": "32- بين أي منظمتين تم توقيع اتفاقية سالتشيوباد؟",
+            "en": "32- Between which organizations was the Saltsjöbaden Agreement signed?"
+          },
+          "answers": [
+            {
+              "textSv": "A. LO och SAF",
+              "textAr": "A. LO و SAF",
+              "textEn": "A. LO and SAF",
+              "correct": true
+            },
+            {
+              "textSv": "B. LO och EU",
+              "textAr": "B. LO والاتحاد الأوروبي",
+              "textEn": "B. LO and EU",
+              "correct": false
+            },
+            {
+              "textSv": "C. Riksdagen och LO",
+              "textAr": "C. البرلمان و LO",
+              "textEn": "C. Parliament and LO",
+              "correct": false
+            },
+            {
+              "textSv": "D. Regeringen och SAF",
+              "textAr": "D. الحكومة و SAF",
+              "textEn": "D. Government and SAF",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. LO och SAF",
+          "correctAnswerAr": "A. LO و SAF",
+          "correctAnswerEn": "A. LO and SAF"
+        },
+        {
+          "question": {
+            "sv": "33- Vad heter avtalet mellan LO och SAF som slöts 1938?",
+            "ar": "33- ما اسم الاتفاقية بين LO و SAF التي وُقعت عام 1938؟",
+            "en": "33- What is the name of the agreement between LO and SAF signed in 1938?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Decemberöverenskommelsen",
+              "textAr": "A. اتفاق ديسمبر",
+              "textEn": "A. December Agreement",
+              "correct": false
+            },
+            {
+              "textSv": "B. Saltsjöbadsavtalet",
+              "textAr": "B. اتفاقية سالتشيوباد",
+              "textEn": "B. The Saltsjöbaden Agreement",
+              "correct": true
+            },
+            {
+              "textSv": "C. Schengenavtalet",
+              "textAr": "C. اتفاقية شنغن",
+              "textEn": "C. The Schengen Agreement",
+              "correct": false
+            },
+            {
+              "textSv": "D. Maastrichtavtalet",
+              "textAr": "D. اتفاقية ماستريخت",
+              "textEn": "D. The Maastricht Treaty",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Saltsjöbadsavtalet",
+          "correctAnswerAr": "B. اتفاقية سالتشيوباد",
+          "correctAnswerEn": "B. The Saltsjöbaden Agreement"
+        },
+        {
+          "question": {
+            "sv": "34- Vad står LO för?",
+            "ar": "34- ماذا يعني الاختصار LO؟",
+            "en": "34- What does LO stand for?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Landsorganisationen i Sverige",
+              "textAr": "A. المنظمة الوطنية للعمال في السويد",
+              "textEn": "A. The Swedish Trade Union Confederation",
+              "correct": true
+            },
+            {
+              "textSv": "B. Länsorganisationen",
+              "textAr": "B. منظمة المقاطعات",
+              "textEn": "B. County Organization",
+              "correct": false
+            },
+            {
+              "textSv": "C. Lagorganisationen",
+              "textAr": "C. منظمة القوانين",
+              "textEn": "C. Law Organization",
+              "correct": false
+            },
+            {
+              "textSv": "D. Lokala Organisationen",
+              "textAr": "D. المنظمة المحلية",
+              "textEn": "D. Local Organization",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Landsorganisationen i Sverige",
+          "correctAnswerAr": "A. المنظمة الوطنية للعمال في السويد",
+          "correctAnswerEn": "A. The Swedish Trade Union Confederation"
+        },
+        {
+          "question": {
+            "sv": "35- Vad är Sveriges officiella språk?",
+            "ar": "35- ما هي اللغة الرسمية في السويد؟",
+            "en": "35- What is Sweden's official language?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Engelska",
+              "textAr": "A. الإنجليزية",
+              "textEn": "A. English",
+              "correct": false
+            },
+            {
+              "textSv": "B. Svenska",
+              "textAr": "B. السويدية",
+              "textEn": "B. Swedish",
+              "correct": true
+            },
+            {
+              "textSv": "C. Finska",
+              "textAr": "C. الفنلندية",
+              "textEn": "C. Finnish",
+              "correct": false
+            },
+            {
+              "textSv": "D. Samiska",
+              "textAr": "D. السامية",
+              "textEn": "D. Sami",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Svenska",
+          "correctAnswerAr": "B. السويدية",
+          "correctAnswerEn": "B. Swedish"
+        },
+        {
+          "question": {
+            "sv": "36- Vilken myndighet ansvarar för folkbokföringen?",
+            "ar": "36- أي هيئة مسؤولة عن تسجيل السكان؟",
+            "en": "36- Which authority is responsible for population registration?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Migrationsverket",
+              "textAr": "A. دائرة الهجرة",
+              "textEn": "A. Migration Agency",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. Swedish Tax Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "textEn": "C. Public Employment Service",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "textEn": "D. Police",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Skatteverket",
+          "correctAnswerAr": "B. مصلحة الضرائب",
+          "correctAnswerEn": "B. Swedish Tax Agency"
+        },
+        {
+          "question": {
+            "sv": "37- Vad heter Sveriges valuta?",
+            "ar": "37- ما اسم العملة السويدية؟",
+            "en": "37- What is Sweden's currency called?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Euro",
+              "textAr": "A. اليورو",
+              "textEn": "A. Euro",
+              "correct": false
+            },
+            {
+              "textSv": "B. Krona",
+              "textAr": "B. الكرونة",
+              "textEn": "B. Krona",
+              "correct": true
+            },
+            {
+              "textSv": "C. Dollar",
+              "textAr": "C. الدولار",
+              "textEn": "C. Dollar",
+              "correct": false
+            },
+            {
+              "textSv": "D. Pund",
+              "textAr": "D. الجنيه",
+              "textEn": "D. Pound",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Krona",
+          "correctAnswerAr": "B. الكرونة",
+          "correctAnswerEn": "B. Krona"
+        },
+        {
+          "question": {
+            "sv": "38- Vilken myndighet betalar ut barnbidrag?",
+            "ar": "38- أي هيئة تدفع إعانة الأطفال؟",
+            "en": "38- Which authority pays child allowance?"
+          },
+          "answers": [
+            {
+              "textSv": "A. CSN",
+              "textAr": "A. هيئة دعم الطلاب",
+              "textEn": "A. CSN",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. صندوق التأمينات الاجتماعية",
+              "textEn": "B. Swedish Social Insurance Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "textEn": "C. Police",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolen",
+              "textAr": "D. المحكمة",
+              "textEn": "D. Court",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Försäkringskassan",
+          "correctAnswerAr": "B. صندوق التأمينات الاجتماعية",
+          "correctAnswerEn": "B. Swedish Social Insurance Agency"
+        },
+        {
+          "question": {
+            "sv": "39- Vad heter Sveriges urfolk?",
+            "ar": "39- ما اسم السكان الأصليين في السويد؟",
+            "en": "39- What is the name of Sweden's indigenous people?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Samerna",
+              "textAr": "A. شعب السامي",
+              "textEn": "A. The Sami",
+              "correct": true
+            },
+            {
+              "textSv": "B. Vikingarna",
+              "textAr": "B. الفايكنغ",
+              "textEn": "B. Vikings",
+              "correct": false
+            },
+            {
+              "textSv": "C. Svearna",
+              "textAr": "C. السفيار",
+              "textEn": "C. Svear",
+              "correct": false
+            },
+            {
+              "textSv": "D. Götarna",
+              "textAr": "D. اليوتر",
+              "textEn": "D. Geats",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Samerna",
+          "correctAnswerAr": "A. شعب السامي",
+          "correctAnswerEn": "A. The Sami"
+        },
+        {
+          "question": {
+            "sv": "40- Vilket år blev Sverige medlem i Nato?",
+            "ar": "40- في أي عام أصبحت السويد عضوًا في حلف الناتو؟",
+            "en": "40- In which year did Sweden become a member of NATO?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2022",
+              "textAr": "A. 2022",
+              "textEn": "A. 2022",
+              "correct": false
+            },
+            {
+              "textSv": "B. 2023",
+              "textAr": "B. 2023",
+              "textEn": "B. 2023",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2024",
+              "textAr": "C. 2024",
+              "textEn": "C. 2024",
+              "correct": true
+            },
+            {
+              "textSv": "D. 2025",
+              "textAr": "D. 2025",
+              "textEn": "D. 2025",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 2024",
+          "correctAnswerAr": "C. 2024",
+          "correctAnswerEn": "C. 2024"
+        },
+        {
+          "question": {
+            "sv": "41- Vad är statens viktigaste ansvar i Sverige?",
+            "ar": "41- ما هي أهم مسؤوليات الدولة في السويد؟",
+            "en": "41- What is the main responsibility of the state in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Grundskolan",
+              "textAr": "A. التعليم الأساسي",
+              "textEn": "A. Primary school",
+              "correct": false
+            },
+            {
+              "textSv": "B. Äldreomsorg",
+              "textAr": "B. رعاية المسنين",
+              "textEn": "B. Elderly care",
+              "correct": false
+            },
+            {
+              "textSv": "C. Försvar, polis och utrikespolitik",
+              "textAr": "C. الدفاع والشرطة والسياسة الخارجية",
+              "textEn": "C. Defense, police and foreign policy",
+              "correct": true
+            },
+            {
+              "textSv": "D. Lokaltrafik",
+              "textAr": "D. المواصلات المحلية",
+              "textEn": "D. Local transport",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Försvar, polis och utrikespolitik",
+          "correctAnswerAr": "C. الدفاع والشرطة والسياسة الخارجية",
+          "correctAnswerEn": "C. Defense, police and foreign policy"
+        },
+        {
+          "question": {
+            "sv": "42- Vad ansvarar kommunerna för?",
+            "ar": "42- ما الذي تتحمل البلديات مسؤوليته؟",
+            "en": "42- What are municipalities responsible for?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försvaret",
+              "textAr": "A. الدفاع",
+              "textEn": "A. Defense",
+              "correct": false
+            },
+            {
+              "textSv": "B. Grundskola, äldreomsorg och socialtjänst",
+              "textAr": "B. المدارس الأساسية ورعاية المسنين والخدمات الاجتماعية",
+              "textEn": "B. Primary schools, elderly care and social services",
+              "correct": true
+            },
+            {
+              "textSv": "C. Utrikespolitik",
+              "textAr": "C. السياسة الخارجية",
+              "textEn": "C. Foreign policy",
+              "correct": false
+            },
+            {
+              "textSv": "D. Domstolar",
+              "textAr": "D. المحاكم",
+              "textEn": "D. Courts",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Grundskola, äldreomsorg och socialtjänst",
+          "correctAnswerAr": "B. المدارس الأساسية ورعاية المسنين والخدمات الاجتماعية",
+          "correctAnswerEn": "B. Primary schools, elderly care and social services"
+        },
+        {
+          "question": {
+            "sv": "43- Vad ansvarar regionerna främst för?",
+            "ar": "43- ما المسؤولية الرئيسية للأقاليم في السويد؟",
+            "en": "43- What are the regions mainly responsible for?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Hälso- och sjukvård",
+              "textAr": "A. الرعاية الصحية",
+              "textEn": "A. Healthcare",
+              "correct": true
+            },
+            {
+              "textSv": "B. Försvaret",
+              "textAr": "B. الدفاع",
+              "textEn": "B. Defense",
+              "correct": false
+            },
+            {
+              "textSv": "C. Domstolar",
+              "textAr": "C. المحاكم",
+              "textEn": "C. Courts",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polis",
+              "textAr": "D. الشرطة",
+              "textEn": "D. Police",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Hälso- och sjukvård",
+          "correctAnswerAr": "A. الرعاية الصحية",
+          "correctAnswerEn": "A. Healthcare"
+        },
+        {
+          "question": {
+            "sv": "44- Hur många nivåer finns det i den offentliga sektorn i Sverige?",
+            "ar": "44- كم عدد مستويات القطاع العام في السويد؟",
+            "en": "44- How many levels are there in Sweden's public sector?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2",
+              "textAr": "A. 2",
+              "textEn": "A. 2",
+              "correct": false
+            },
+            {
+              "textSv": "B. 3",
+              "textAr": "B. 3",
+              "textEn": "B. 3",
+              "correct": true
+            },
+            {
+              "textSv": "C. 4",
+              "textAr": "C. 4",
+              "textEn": "C. 4",
+              "correct": false
+            },
+            {
+              "textSv": "D. 5",
+              "textAr": "D. 5",
+              "textEn": "D. 5",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. 3",
+          "correctAnswerAr": "B. 3",
+          "correctAnswerEn": "B. 3"
+        },
+        {
+          "question": {
+            "sv": "45- Hur många grundlagar har Sverige?",
+            "ar": "45- كم عدد القوانين الأساسية (الدستورية) في السويد؟",
+            "en": "45- How many fundamental laws does Sweden have?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 2",
+              "textAr": "A. 2",
+              "textEn": "A. 2",
+              "correct": false
+            },
+            {
+              "textSv": "B. 3",
+              "textAr": "B. 3",
+              "textEn": "B. 3",
+              "correct": false
+            },
+            {
+              "textSv": "C. 4",
+              "textAr": "C. 4",
+              "textEn": "C. 4",
+              "correct": true
+            },
+            {
+              "textSv": "D. 5",
+              "textAr": "D. 5",
+              "textEn": "D. 5",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. 4",
+          "correctAnswerAr": "C. 4",
+          "correctAnswerEn": "C. 4"
+        },
+        {
+          "question": {
+            "sv": "46- Vilken är Sveriges största grundlag?",
+            "ar": "46- ما أهم وأكبر القوانين الأساسية في السويد؟",
+            "en": "46- Which is Sweden's most important fundamental law?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Successionsordningen",
+              "textAr": "A. قانون وراثة العرش",
+              "textEn": "A. Act of Succession",
+              "correct": false
+            },
+            {
+              "textSv": "B. Regeringsformen",
+              "textAr": "B. قانون الحكم",
+              "textEn": "B. Instrument of Government",
+              "correct": true
+            },
+            {
+              "textSv": "C. Tryckfrihetsförordningen",
+              "textAr": "C. قانون حرية الصحافة",
+              "textEn": "C. Freedom of the Press Act",
+              "correct": false
+            },
+            {
+              "textSv": "D. Yttrandefrihetsgrundlagen",
+              "textAr": "D. قانون حرية التعبير",
+              "textEn": "D. Fundamental Law on Freedom of Expression",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Regeringsformen",
+          "correctAnswerAr": "B. قانون الحكم",
+          "correctAnswerEn": "B. Instrument of Government"
+        },
+        {
+          "question": {
+            "sv": "47- Vilken domstol är högsta instans i allmänna domstolar?",
+            "ar": "47- ما هي أعلى محكمة ضمن المحاكم العامة في السويد؟",
+            "en": "47- Which court is the highest instance in the general court system?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Tingsrätten",
+              "textAr": "A. المحكمة الابتدائية",
+              "textEn": "A. District Court",
+              "correct": false
+            },
+            {
+              "textSv": "B. Hovrätten",
+              "textAr": "B. محكمة الاستئناف",
+              "textEn": "B. Court of Appeal",
+              "correct": false
+            },
+            {
+              "textSv": "C. Högsta domstolen",
+              "textAr": "C. المحكمة العليا",
+              "textEn": "C. Supreme Court",
+              "correct": true
+            },
+            {
+              "textSv": "D. Förvaltningsrätten",
+              "textAr": "D. المحكمة الإدارية",
+              "textEn": "D. Administrative Court",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "C. Högsta domstolen",
+          "correctAnswerAr": "C. المحكمة العليا",
+          "correctAnswerEn": "C. Supreme Court"
+        },
+        {
+          "question": {
+            "sv": "48- Vilken myndighet ansvarar för barnbidrag i Sverige?",
+            "ar": "48- أي هيئة مسؤولة عن إعانة الأطفال في السويد؟",
+            "en": "48- Which authority is responsible for child allowance in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. صندوق التأمينات الاجتماعية",
+              "textEn": "A. The Swedish Social Insurance Agency",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. The Swedish Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Arbetsförmedlingen",
+              "textAr": "C. مكتب العمل",
+              "textEn": "C. The Public Employment Service",
+              "correct": false
+            },
+            {
+              "textSv": "D. Polisen",
+              "textAr": "D. الشرطة",
+              "textEn": "D. The Police",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Försäkringskassan",
+          "correctAnswerAr": "A. صندوق التأمينات الاجتماعية",
+          "correctAnswerEn": "A. The Swedish Social Insurance Agency"
+        },
+        {
+          "question": {
+            "sv": "49- Vilken myndighet ansvarar för föräldrapenning?",
+            "ar": "49- أي هيئة مسؤولة عن بدل الوالدين؟",
+            "en": "49- Which authority is responsible for parental benefit?"
+          },
+          "answers": [
+            {
+              "textSv": "A. CSN",
+              "textAr": "A. هيئة دعم الطلاب",
+              "textEn": "A. CSN",
+              "correct": false
+            },
+            {
+              "textSv": "B. Försäkringskassan",
+              "textAr": "B. صندوق التأمينات الاجتماعية",
+              "textEn": "B. The Swedish Social Insurance Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Migrationsverket",
+              "textAr": "C. دائرة الهجرة",
+              "textEn": "C. The Migration Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skolverket",
+              "textAr": "D. إدارة التعليم",
+              "textEn": "D. The National Agency for Education",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Försäkringskassan",
+          "correctAnswerAr": "B. صندوق التأمينات الاجتماعية",
+          "correctAnswerEn": "B. The Swedish Social Insurance Agency"
+        },
+        {
+          "question": {
+            "sv": "50- Vilken myndighet hjälper arbetssökande att hitta jobb?",
+            "ar": "50- أي هيئة تساعد الباحثين عن عمل في إيجاد وظيفة؟",
+            "en": "50- Which authority helps job seekers find employment?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Arbetsförmedlingen",
+              "textAr": "A. مكتب العمل",
+              "textEn": "A. The Public Employment Service",
+              "correct": true
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "textEn": "B. The Police",
+              "correct": false
+            },
+            {
+              "textSv": "C. Domstolarna",
+              "textAr": "C. المحاكم",
+              "textEn": "C. The Courts",
+              "correct": false
+            },
+            {
+              "textSv": "D. Riksbanken",
+              "textAr": "D. البنك المركزي",
+              "textEn": "D. The Riksbank",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Arbetsförmedlingen",
+          "correctAnswerAr": "A. مكتب العمل",
+          "correctAnswerEn": "A. The Public Employment Service"
+        },
+        {
+          "question": {
+            "sv": "51- Vilken myndighet ansvarar för folkbokföring och personnummer?",
+            "ar": "51- أي هيئة مسؤولة عن تسجيل السكان والرقم الشخصي؟",
+            "en": "51- Which authority is responsible for population registration and personal identity numbers?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Försäkringskassan",
+              "textAr": "A. صندوق التأمينات",
+              "textEn": "A. Social Insurance Agency",
+              "correct": false
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. Swedish Tax Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "textEn": "C. Police",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "textEn": "D. Public Employment Service",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Skatteverket",
+          "correctAnswerAr": "B. مصلحة الضرائب",
+          "correctAnswerEn": "B. Swedish Tax Agency"
+        },
+        {
+          "question": {
+            "sv": "52- Vilken myndighet ansvarar för att ta in skatt?",
+            "ar": "52- أي هيئة مسؤولة عن تحصيل الضرائب؟",
+            "en": "52- Which authority is responsible for collecting taxes?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "textEn": "A. Swedish Tax Agency",
+              "correct": true
+            },
+            {
+              "textSv": "B. Kronofogden",
+              "textAr": "B. دائرة تنفيذ الديون",
+              "textEn": "B. Enforcement Authority",
+              "correct": false
+            },
+            {
+              "textSv": "C. CSN",
+              "textAr": "C. هيئة دعم الطلاب",
+              "textEn": "C. CSN",
+              "correct": false
+            },
+            {
+              "textSv": "D. Migrationsverket",
+              "textAr": "D. دائرة الهجرة",
+              "textEn": "D. Migration Agency",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skatteverket",
+          "correctAnswerAr": "A. مصلحة الضرائب",
+          "correctAnswerEn": "A. Swedish Tax Agency"
+        },
+        {
+          "question": {
+            "sv": "53- Vilken myndighet ansvarar för uppehållstillstånd och asylärenden?",
+            "ar": "53- أي هيئة مسؤولة عن تصاريح الإقامة وقضايا اللجوء؟",
+            "en": "53- Which authority is responsible for residence permits and asylum cases?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polisen",
+              "textAr": "A. الشرطة",
+              "textEn": "A. Police",
+              "correct": false
+            },
+            {
+              "textSv": "B. Migrationsverket",
+              "textAr": "B. دائرة الهجرة",
+              "textEn": "B. The Migration Agency",
+              "correct": true
+            },
+            {
+              "textSv": "C. Skatteverket",
+              "textAr": "C. مصلحة الضرائب",
+              "textEn": "C. Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "textEn": "D. Public Employment Service",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Migrationsverket",
+          "correctAnswerAr": "B. دائرة الهجرة",
+          "correctAnswerEn": "B. The Migration Agency"
+        },
+        {
+          "question": {
+            "sv": "54- Vilken myndighet ansvarar för att förebygga och utreda brott?",
+            "ar": "54- أي هيئة مسؤولة عن منع الجرائم والتحقيق فيها؟",
+            "en": "54- Which authority is responsible for preventing and investigating crimes?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Domstolarna",
+              "textAr": "A. المحاكم",
+              "textEn": "A. Courts",
+              "correct": false
+            },
+            {
+              "textSv": "B. Polisen",
+              "textAr": "B. الشرطة",
+              "textEn": "B. The Police",
+              "correct": true
+            },
+            {
+              "textSv": "C. Försäkringskassan",
+              "textAr": "C. صندوق التأمينات",
+              "textEn": "C. Social Insurance Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Skolverket",
+              "textAr": "D. إدارة التعليم",
+              "textEn": "D. National Agency for Education",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "B. Polisen",
+          "correctAnswerAr": "B. الشرطة",
+          "correctAnswerEn": "B. The Police"
+        },
+        {
+          "question": {
+            "sv": "55- Vilken myndighet ansvarar för studiestöd och studielån?",
+            "ar": "55- أي هيئة مسؤولة عن الدعم الدراسي والقروض الدراسية؟",
+            "en": "55- Which authority is responsible for student aid and student loans?"
+          },
+          "answers": [
+            {
+              "textSv": "A. CSN",
+              "textAr": "A. هيئة الدعم الدراسي CSN",
+              "textEn": "A. CSN",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "textEn": "C. Police",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "textEn": "D. Public Employment Service",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. CSN",
+          "correctAnswerAr": "A. هيئة الدعم الدراسي CSN",
+          "correctAnswerEn": "A. CSN"
+        },
+        {
+          "question": {
+            "sv": "56- Vilken myndighet ansvarar för att ta emot ansökningar om svenskt medborgarskap?",
+            "ar": "56- أي هيئة مسؤولة عن استقبال طلبات الحصول على الجنسية السويدية؟",
+            "en": "56- Which authority is responsible for receiving applications for Swedish citizenship?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Migrationsverket",
+              "textAr": "A. مصلحة الهجرة السويدية",
+              "textEn": "A. Swedish Migration Agency",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Polisen",
+              "textAr": "C. الشرطة",
+              "textEn": "C. Police",
+              "correct": false
+            },
+            {
+              "textSv": "D. Kommunen",
+              "textAr": "D. البلدية",
+              "textEn": "D. Municipality",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Migrationsverket",
+          "correctAnswerAr": "A. مصلحة الهجرة السويدية",
+          "correctAnswerEn": "A. Swedish Migration Agency"
+        },
+        {
+          "question": {
+            "sv": "57- Vilket år blev Sverige medlem i Europeiska unionen (EU)?",
+            "ar": "57- في أي سنة أصبحت السويد عضوًا في الاتحاد الأوروبي؟",
+            "en": "57- In which year did Sweden become a member of the European Union (EU)?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 1995",
+              "textAr": "A. 1995",
+              "textEn": "A. 1995",
+              "correct": true
+            },
+            {
+              "textSv": "B. 1985",
+              "textAr": "B. 1985",
+              "textEn": "B. 1985",
+              "correct": false
+            },
+            {
+              "textSv": "C. 2005",
+              "textAr": "C. 2005",
+              "textEn": "C. 2005",
+              "correct": false
+            },
+            {
+              "textSv": "D. 2010",
+              "textAr": "D. 2010",
+              "textEn": "D. 2010",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 1995",
+          "correctAnswerAr": "A. 1995",
+          "correctAnswerEn": "A. 1995"
+        },
+        {
+          "question": {
+            "sv": "58- Vad heter Sveriges grundlag som beskriver människors fri- och rättigheter?",
+            "ar": "58- ما اسم الدستور السويدي الذي يصف حقوق وحريات الناس؟",
+            "en": "58- What is the name of the Swedish constitution that describes people's freedoms and rights?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Regeringsformen",
+              "textAr": "A. قانون الحكم",
+              "textEn": "A. Instrument of Government",
+              "correct": true
+            },
+            {
+              "textSv": "B. Socialtjänstlagen",
+              "textAr": "B. قانون الخدمات الاجتماعية",
+              "textEn": "B. Social Services Act",
+              "correct": false
+            },
+            {
+              "textSv": "C. Skollagen",
+              "textAr": "C. قانون التعليم",
+              "textEn": "C. Education Act",
+              "correct": false
+            },
+            {
+              "textSv": "D. Brottsbalken",
+              "textAr": "D. قانون العقوبات",
+              "textEn": "D. Criminal Code",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Regeringsformen",
+          "correctAnswerAr": "A. قانون الحكم",
+          "correctAnswerEn": "A. Instrument of Government"
+        },
+        {
+          "question": {
+            "sv": "59- Vilken dag firas Sveriges nationaldag?",
+            "ar": "59- في أي يوم يتم الاحتفال باليوم الوطني للسويد؟",
+            "en": "59- On which day is Sweden's National Day celebrated?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 6 juni",
+              "textAr": "A. 6 يونيو",
+              "textEn": "A. 6 June",
+              "correct": true
+            },
+            {
+              "textSv": "B. 1 maj",
+              "textAr": "B. 1 مايو",
+              "textEn": "B. 1 May",
+              "correct": false
+            },
+            {
+              "textSv": "C. 24 december",
+              "textAr": "C. 24 ديسمبر",
+              "textEn": "C. 24 December",
+              "correct": false
+            },
+            {
+              "textSv": "D. 31 december",
+              "textAr": "D. 31 ديسمبر",
+              "textEn": "D. 31 December",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 6 juni",
+          "correctAnswerAr": "A. 6 يونيو",
+          "correctAnswerEn": "A. 6 June"
+        },
+        {
+          "question": {
+            "sv": "60- Vem brukar räknas som Sveriges första kung?",
+            "ar": "60- من يُعتبر عادة أول ملك للسويد؟",
+            "en": "60- Who is usually considered the first king of Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Erik Segersäll",
+              "textAr": "A. إريك المنتصر",
+              "textEn": "A. Eric the Victorious",
+              "correct": true
+            },
+            {
+              "textSv": "B. Gustav Vasa",
+              "textAr": "B. غوستاف فاسا",
+              "textEn": "B. Gustav Vasa",
+              "correct": false
+            },
+            {
+              "textSv": "C. Karl XII",
+              "textAr": "C. كارل الثاني عشر",
+              "textEn": "C. Charles XII",
+              "correct": false
+            },
+            {
+              "textSv": "D. Olof Skötkonung",
+              "textAr": "D. أولوف شوتكونونغ",
+              "textEn": "D. Olof Skötkonung",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Erik Segersäll",
+          "correctAnswerAr": "A. إريك المنتصر",
+          "correctAnswerEn": "A. Eric the Victorious"
+        },
+        {
+          "question": {
+            "sv": "61- Hur många år måste ett barn normalt gå i grundskolan i Sverige?",
+            "ar": "61- كم سنة يجب أن يدرس الطفل عادة في المدرسة الأساسية في السويد؟",
+            "en": "61- How many years does a child normally attend compulsory school in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. 10 år",
+              "textAr": "A. 10 سنوات",
+              "textEn": "A. 10 years",
+              "correct": true
+            },
+            {
+              "textSv": "B. 5 år",
+              "textAr": "B. 5 سنوات",
+              "textEn": "B. 5 years",
+              "correct": false
+            },
+            {
+              "textSv": "C. 7 år",
+              "textAr": "C. 7 سنوات",
+              "textEn": "C. 7 years",
+              "correct": false
+            },
+            {
+              "textSv": "D. 12 år",
+              "textAr": "D. 12 سنة",
+              "textEn": "D. 12 years",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. 10 år",
+          "correctAnswerAr": "A. 10 سنوات",
+          "correctAnswerEn": "A. 10 years"
+        },
+        {
+          "question": {
+            "sv": "62- Vilken myndighet utfärdar svenska pass och nationella ID-kort?",
+            "ar": "62- أي هيئة تصدر جوازات السفر السويدية وبطاقات الهوية الوطنية؟",
+            "en": "62- Which authority issues Swedish passports and national ID cards?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Polismyndigheten",
+              "textAr": "A. هيئة الشرطة السويدية",
+              "textEn": "A. The Swedish Police Authority",
+              "correct": true
+            },
+            {
+              "textSv": "B. Skatteverket",
+              "textAr": "B. مصلحة الضرائب",
+              "textEn": "B. Tax Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Migrationsverket",
+              "textAr": "C. مصلحة الهجرة السويدية",
+              "textEn": "C. Swedish Migration Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Försäkringskassan",
+              "textAr": "D. هيئة التأمينات الاجتماعية",
+              "textEn": "D. Social Insurance Agency",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Polismyndigheten",
+          "correctAnswerAr": "A. هيئة الشرطة السويدية",
+          "correctAnswerEn": "A. The Swedish Police Authority"
+        },
+        {
+          "question": {
+            "sv": "63- Vilken myndighet ansvarar för folkbokföringen i Sverige?",
+            "ar": "63- أي هيئة مسؤولة عن تسجيل السكان في السويد؟",
+            "en": "63- Which authority is responsible for population registration in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Skatteverket",
+              "textAr": "A. مصلحة الضرائب",
+              "textEn": "A. Tax Agency",
+              "correct": true
+            },
+            {
+              "textSv": "B. Migrationsverket",
+              "textAr": "B. مصلحة الهجرة",
+              "textEn": "B. Migration Agency",
+              "correct": false
+            },
+            {
+              "textSv": "C. Försäkringskassan",
+              "textAr": "C. صندوق التأمينات الاجتماعية",
+              "textEn": "C. Social Insurance Agency",
+              "correct": false
+            },
+            {
+              "textSv": "D. Arbetsförmedlingen",
+              "textAr": "D. مكتب العمل",
+              "textEn": "D. Public Employment Service",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Skatteverket",
+          "correctAnswerAr": "A. مصلحة الضرائب",
+          "correctAnswerEn": "A. Tax Agency"
+        },
+        {
+          "question": {
+            "sv": "64- Hur kan man beskriva Sveriges statsskick?",
+            "ar": "64- كيف يمكن وصف نظام الحكم في السويد؟",
+            "en": "64- How can Sweden's system of government be described?"
+          },
+          "answers": [
+            {
+              "textSv": "A. En demokratisk monarki",
+              "textAr": "A. ملكية ديمقراطية",
+              "textEn": "A. A democratic monarchy",
+              "correct": true
+            },
+            {
+              "textSv": "B. En diktatur",
+              "textAr": "B. دكتاتورية",
+              "textEn": "B. A dictatorship",
+              "correct": false
+            },
+            {
+              "textSv": "C. En republik",
+              "textAr": "C. جمهورية",
+              "textEn": "C. A republic",
+              "correct": false
+            },
+            {
+              "textSv": "D. Ett kejsardöme",
+              "textAr": "D. إمبراطورية",
+              "textEn": "D. An empire",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. En demokratisk monarki",
+          "correctAnswerAr": "A. ملكية ديمقراطية",
+          "correctAnswerEn": "A. A democratic monarchy"
+        },
+        {
+          "question": {
+            "sv": "65- Vilka får rösta i riksdagsvalet i Sverige?",
+            "ar": "65- من يحق له التصويت في انتخابات البرلمان السويدي؟",
+            "en": "65- Who can vote in the Swedish parliamentary election?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Svenska medborgare som har fyllt 18 år",
+              "textAr": "A. المواطنون السويديون الذين بلغوا 18 سنة",
+              "textEn": "A. Swedish citizens who are 18 years or older",
+              "correct": true
+            },
+            {
+              "textSv": "B. Alla turister i Sverige",
+              "textAr": "B. جميع السياح في السويد",
+              "textEn": "B. All tourists in Sweden",
+              "correct": false
+            },
+            {
+              "textSv": "C. Alla personer utan medborgarskap",
+              "textAr": "C. جميع الأشخاص بدون جنسية",
+              "textEn": "C. All people without citizenship",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara personer över 30 år",
+              "textAr": "D. فقط الأشخاص فوق 30 سنة",
+              "textEn": "D. Only people over 30 years",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Svenska medborgare som har fyllt 18 år",
+          "correctAnswerAr": "A. المواطنون السويديون الذين بلغوا 18 سنة",
+          "correctAnswerEn": "A. Swedish citizens who are 18 years or older"
+        },
+        {
+          "question": {
+            "sv": "66- Vilka personer omfattas av totalförsvarsplikten i Sverige?",
+            "ar": "66- من هم الأشخاص الذين يشملهم واجب الدفاع الشامل في السويد؟",
+            "en": "66- Who is covered by total defence duty in Sweden?"
+          },
+          "answers": [
+            {
+              "textSv": "A. Alla som är bosatta i Sverige mellan 16 och 70 år",
+              "textAr": "A. جميع المقيمين في السويد بين 16 و70 سنة",
+              "textEn": "A. Everyone living in Sweden between the ages of 16 and 70",
+              "correct": true
+            },
+            {
+              "textSv": "B. Bara personer över 70 år",
+              "textAr": "B. فقط الأشخاص فوق 70 سنة",
+              "textEn": "B. Only people over 70 years",
+              "correct": false
+            },
+            {
+              "textSv": "C. Bara politiker",
+              "textAr": "C. فقط السياسيون",
+              "textEn": "C. Only politicians",
+              "correct": false
+            },
+            {
+              "textSv": "D. Bara militärer",
+              "textAr": "D. فقط العسكريون",
+              "textEn": "D. Only soldiers",
+              "correct": false
+            }
+          ],
+          "correctAnswerSv": "A. Alla som är bosatta i Sverige mellan 16 och 70 år",
+          "correctAnswerAr": "A. جميع المقيمين في السويد mellan 16 و70 سنة",
+          "correctAnswerEn": "A. Everyone living in Sweden between the ages of 16 and 70"
+        }, {
+    "question": {
+      "sv": "67- Hur många nationella minoritetsspråk finns det i Sverige?",
+      "ar": "67- كم عدد لغات الأقليات القومية الموجودة في السويد؟",
+      "en": "67- How many national minority languages are there in Sweden?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Fem",
+        "textAr": "A. خمس لغات",
+        "textEn": "A. Five",
+        "correct": true
+      },
+      {
+        "textSv": "B. Tre",
+        "textAr": "B. ثلاث لغات",
+        "textEn": "B. Three",
+        "correct": false
+      },
+      {
+        "textSv": "C. Tio",
+        "textAr": "C. عشر لغات",
+        "textEn": "C. Ten",
+        "correct": false
+      },
+      {
+        "textSv": "D. En",
+        "textAr": "D. لغة واحدة",
+        "textEn": "D. One",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Fem",
+    "correctAnswerAr": "A. خمس لغات",
+    "correctAnswerEn": "A. Five"
+  },
+  {
+    "question": {
+      "sv": "68- Vilka är Sveriges nationella minoritetsspråk?",
+      "ar": "68- ما هي لغات الأقليات القومية في السويد؟",
+      "en": "68- What are Sweden's national minority languages?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Samiska, finska, meänkieli, romani chib och jiddisch",
+        "textAr": "A. السامية، الفنلندية، الميانكيلي، روماني تشيب، واليديشية",
+        "textEn": "A. Sami, Finnish, Meänkieli, Romani Chib and Yiddish",
+        "correct": true
+      },
+      {
+        "textSv": "B. Engelska, tyska, franska, spanska och svenska",
+        "textAr": "B. الإنجليزية والألمانية والفرنسية والإسبانية والسويدية",
+        "textEn": "B. English, German, French, Spanish and Swedish",
+        "correct": false
+      },
+      {
+        "textSv": "C. Arabiska, persiska och turkiska",
+        "textAr": "C. العربية والفارسية والتركية",
+        "textEn": "C. Arabic, Persian and Turkish",
+        "correct": false
+      },
+      {
+        "textSv": "D. Danska, norska och isländska",
+        "textAr": "D. الدنماركية والنرويجية والأيسلندية",
+        "textEn": "D. Danish, Norwegian and Icelandic",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Samiska, finska, meänkieli, romani chib och jiddisch",
+    "correctAnswerAr": "A. السامية، الفنلندية، الميانكيلي، روماني تشيب، واليديشية",
+    "correctAnswerEn": "A. Sami, Finnish, Meänkieli, Romani Chib and Yiddish"
+  },
+  {
+    "question": {
+      "sv": "69- När erkände Sverige de nationella minoriteterna och minoritetsspråken?",
+      "ar": "69- متى اعترفت السويد بالأقليات القومية ولغاتها؟",
+      "en": "69- When did Sweden recognize the national minorities and minority languages?"
+    },
+    "answers": [
+      {
+        "textSv": "A. År 2000",
+        "textAr": "A. عام 2000",
+        "textEn": "A. In 2000",
+        "correct": true
+      },
+      {
+        "textSv": "B. År 1900",
+        "textAr": "B. عام 1900",
+        "textEn": "B. In 1900",
+        "correct": false
+      },
+      {
+        "textSv": "C. År 2015",
+        "textAr": "C. عام 2015",
+        "textEn": "C. In 2015",
+        "correct": false
+      },
+      {
+        "textSv": "D. År 2025",
+        "textAr": "D. عام 2025",
+        "textEn": "D. In 2025",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. År 2000",
+    "correctAnswerAr": "A. عام 2000",
+    "correctAnswerEn": "A. In 2000"
+  },{
+  "question": {
+    "sv": "70- Vilket är Sveriges urfolk?",
+    "ar": "70- ما هي الشعوب الأصلية في السويد؟",
+    "en": "70- Which is the indigenous people of Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Samer",
+      "textAr": "A. شعب الساميين",
+      "textEn": "A. Sami people",
+      "correct": true
+    },
+    {
+      "textSv": "B. Sverigefinnar",
+      "textAr": "B. الفنلنديون السويديون",
+      "textEn": "B. Sweden Finns",
+      "correct": false
+    },
+    {
+      "textSv": "C. Tornedalingar",
+      "textAr": "C. التورنيداليون",
+      "textEn": "C. Tornedalians",
+      "correct": false
+    },
+    {
+      "textSv": "D. Romer",
+      "textAr": "D. الروما",
+      "textEn": "D. Roma people",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Samer",
+  "correctAnswerAr": "A. شعب الساميين",
+  "correctAnswerEn": "A. Sami people"
+},{
+  "question": {
+    "sv": "71- Vad heter samernas parlament i Sverige?",
+    "ar": "71- ما اسم برلمان شعب الساميين في السويد؟",
+    "en": "71- What is the name of the Sami parliament in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Sametinget",
+      "textAr": "A. برلمان الساميين (Sametinget)",
+      "textEn": "A. Sami Parliament (Sametinget)",
+      "correct": true
+    },
+    {
+      "textSv": "B. Riksdagen",
+      "textAr": "B. البرلمان السويدي",
+      "textEn": "B. The Swedish Parliament",
+      "correct": false
+    },
+    {
+      "textSv": "C. Kommunfullmäktige",
+      "textAr": "C. مجلس البلدية",
+      "textEn": "C. Municipal council",
+      "correct": false
+    },
+    {
+      "textSv": "D. Länsstyrelsen",
+      "textAr": "D. مجلس المحافظة",
+      "textEn": "D. County Administrative Board",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Sametinget",
+  "correctAnswerAr": "A. برلمان الساميين (Sametinget)",
+  "correctAnswerEn": "A. Sami Parliament (Sametinget)"
+},{
+  "question": {
+    "sv": "72- Vilket år förbjöd Sverige barnaga?",
+    "ar": "72- في أي سنة منعت السويد ضرب الأطفال؟",
+    "en": "72- In which year did Sweden ban corporal punishment of children?"
+  },
+  "answers": [
+    {
+      "textSv": "A. 1979",
+      "textAr": "A. 1979",
+      "textEn": "A. 1979",
+      "correct": true
+    },
+    {
+      "textSv": "B. 1969",
+      "textAr": "B. 1969",
+      "textEn": "B. 1969",
+      "correct": false
+    },
+    {
+      "textSv": "C. 1999",
+      "textAr": "C. 1999",
+      "textEn": "C. 1999",
+      "correct": false
+    },
+    {
+      "textSv": "D. 2010",
+      "textAr": "D. 2010",
+      "textEn": "D. 2010",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. 1979",
+  "correctAnswerAr": "A. 1979",
+  "correctAnswerEn": "A. 1979"
+},{
+    "question": {
+      "sv": "73- Vilken är Sveriges viktigaste energikälla för elproduktion?",
+      "ar": "73- ما هو أهم مصدر للطاقة لإنتاج الكهرباء في السويد؟",
+      "en": "73- What is Sweden's most important energy source for electricity production?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Vattenkraft",
+        "textAr": "A. الطاقة الكهرومائية",
+        "textEn": "A. Hydropower",
+        "correct": true
+      },
+      {
+        "textSv": "B. Kolkraft",
+        "textAr": "B. طاقة الفحم",
+        "textEn": "B. Coal power",
+        "correct": false
+      },
+      {
+        "textSv": "C. Olja",
+        "textAr": "C. النفط",
+        "textEn": "C. Oil",
+        "correct": false
+      },
+      {
+        "textSv": "D. Naturgas",
+        "textAr": "D. الغاز الطبيعي",
+        "textEn": "D. Natural gas",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Vattenkraft",
+    "correctAnswerAr": "A. الطاقة الكهرومائية",
+    "correctAnswerEn": "A. Hydropower"
+  },
+  {
+    "question": {
+      "sv": "74- Vilken naturresurs är Sverige känt för att ha mycket av?",
+      "ar": "74- ما هو المورد الطبيعي الذي تشتهر السويد بوجود الكثير منه؟",
+      "en": "74- Which natural resource is Sweden known for having a lot of?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Järnmalm",
+        "textAr": "A. خام الحديد",
+        "textEn": "A. Iron ore",
+        "correct": true
+      },
+      {
+        "textSv": "B. Olja",
+        "textAr": "B. النفط",
+        "textEn": "B. Oil",
+        "correct": false
+      },
+      {
+        "textSv": "C. Diamanter",
+        "textAr": "C. الألماس",
+        "textEn": "C. Diamonds",
+        "correct": false
+      },
+      {
+        "textSv": "D. Guld",
+        "textAr": "D. الذهب",
+        "textEn": "D. Gold",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Järnmalm",
+    "correctAnswerAr": "A. خام الحديد",
+    "correctAnswerEn": "A. Iron ore"
+  },{
+  "question": {
+    "sv": "75- När ska Sverige nå målet om nettonollutsläpp av växthusgaser?",
+    "ar": "75- متى يجب أن تحقق السويد هدف صافي الانبعاثات الصفرية من الغازات الدفيئة؟",
+    "en": "75- When should Sweden reach the goal of net zero greenhouse gas emissions?"
+  },
+  "answers": [
+    {
+      "textSv": "A. År 2045",
+      "textAr": "A. عام 2045",
+      "textEn": "A. In 2045",
+      "correct": true
+    },
+    {
+      "textSv": "B. År 2025",
+      "textAr": "B. عام 2025",
+      "textEn": "B. In 2025",
+      "correct": false
+    },
+    {
+      "textSv": "C. År 2030",
+      "textAr": "C. عام 2030",
+      "textEn": "C. In 2030",
+      "correct": false
+    },
+    {
+      "textSv": "D. År 2100",
+      "textAr": "D. عام 2100",
+      "textEn": "D. In 2100",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. År 2045",
+  "correctAnswerAr": "A. عام 2045",
+  "correctAnswerEn": "A. In 2045"
+},
+{
+  "question": {
+    "sv": "76- Vem eller vad är en viktig orsak till utsläpp av växthusgaser?",
+    "ar": "76- من أو ما هو سبب مهم لانبعاثات الغازات الدفيئة؟",
+    "en": "76- Who or what is an important cause of greenhouse gas emissions?"
+  },
+  "answers": [
+  {
+  "textSv": "A. Människans aktiviteter som orsakar utsläpp av växthusgaser",
+  "textAr": "A. أنشطة الإنسان التي تسبب انبعاث الغازات الدفيئة",
+  "textEn": "A. Human activities that cause greenhouse gas emissions",
+  "correct": true
+},
+    {
+      "textSv": "B. Månen",
+      "textAr": "B. القمر",
+      "textEn": "B. The Moon",
+      "correct": false
+    },
+    {
+      "textSv": "C. Vind och regn",
+      "textAr": "C. الرياح والأمطار",
+      "textEn": "C. Wind and rain",
+      "correct": false
+    },
+    {
+      "textSv": "D. Jordens årstider",
+      "textAr": "D. فصول السنة",
+      "textEn": "D. The seasons of the year",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Människans aktiviteter, till exempel användning av fossila bränslen",
+  "correctAnswerAr": "A. أنشطة الإنسان، مثل استخدام الوقود الأحفوري",
+  "correctAnswerEn": "A. Human activities, such as the use of fossil fuels"
+},{
+  "question": {
+    "sv": "77- Vad är viktigt för alla som bor i Sverige?",
+    "ar": "77- ما هو المهم لجميع الأشخاص الذين يعيشون في السويد؟",
+    "en": "77- What is important for everyone living in Sweden?"
+  },
+  "answers": [
+    {
+      "textSv": "A. Att följa lagar och regler i samhället",
+      "textAr": "A. اتباع القوانين والقواعد في المجتمع",
+      "textEn": "A. To follow laws and rules in society",
+      "correct": true
+    },
+    {
+      "textSv": "B. Att inte bry sig om andra människor",
+      "textAr": "B. عدم الاهتمام بالآخرين",
+      "textEn": "B. Not to care about other people",
+      "correct": false
+    },
+    {
+      "textSv": "C. Att bara följa sina egna regler",
+      "textAr": "C. اتباع القواعد الخاصة به فقط",
+      "textEn": "C. To only follow your own rules",
+      "correct": false
+    },
+    {
+      "textSv": "D. Att inte betala skatt",
+      "textAr": "D. عدم دفع الضرائب",
+      "textEn": "D. Not to pay taxes",
+      "correct": false
+    }
+  ],
+  "correctAnswerSv": "A. Att följa lagar och regler i samhället",
+  "correctAnswerAr": "A. اتباع القوانين والقواعد في المجتمع",
+  "correctAnswerEn": "A. To follow laws and rules in society"
+},
+  {
+    "question": {
+      "sv": "78- Vem leder Sveriges regering?",
+      "ar": "78- من يقود حكومة السويد؟",
+      "en": "78- Who leads the Swedish government?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Statsministern",
+        "textAr": "A. رئيس الوزراء",
+        "textEn": "A. The Prime Minister",
+        "correct": true
+      },
+      {
+        "textSv": "B. Kungen",
+        "textAr": "B. الملك",
+        "textEn": "B. The King",
+        "correct": false
+      },
+      {
+        "textSv": "C. Riksdagens talman",
+        "textAr": "C. رئيس البرلمان",
+        "textEn": "C. Speaker of Parliament",
+        "correct": false
+      },
+      {
+        "textSv": "D. Landshövdingen",
+        "textAr": "D. حاكم المقاطعة",
+        "textEn": "D. County Governor",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Statsministern",
+    "correctAnswerAr": "A. رئيس الوزراء",
+    "correctAnswerEn": "A. The Prime Minister"
+  },
+  {
+    "question": {
+      "sv": "79- Hur utses Sveriges statsminister?",
+      "ar": "79- كيف يتم تعيين رئيس وزراء السويد؟",
+      "en": "79- How is Sweden's Prime Minister appointed?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Riksdagen röstar om talmannens förslag",
+        "textAr": "A. يصوت البرلمان على اقتراح رئيس البرلمان",
+        "textEn": "A. The Parliament votes on the Speaker's proposal",
+        "correct": true
+      },
+      {
+        "textSv": "B. Kungen väljer statsministern",
+        "textAr": "B. الملك يختار رئيس الوزراء",
+        "textEn": "B. The King chooses the Prime Minister",
+        "correct": false
+      },
+      {
+        "textSv": "C. Folket röstar direkt på statsministern",
+        "textAr": "C. الشعب يصوت مباشرة لرئيس الوزراء",
+        "textEn": "C. The people vote directly for the Prime Minister",
+        "correct": false
+      },
+      {
+        "textSv": "D. Domstolen utser statsministern",
+        "textAr": "D. المحكمة تعين رئيس الوزراء",
+        "textEn": "D. The court appoints the Prime Minister",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Riksdagen röstar om talmannens förslag",
+    "correctAnswerAr": "A. يصوت البرلمان على اقتراح رئيس البرلمان",
+    "correctAnswerEn": "A. The Parliament votes on the Speaker's proposal"
+  },
+  {
+    "question": {
+      "sv": "80- Vilka ingår i Sveriges regering?",
+      "ar": "80- من هم أعضاء حكومة السويد؟",
+      "en": "80- Who are members of the Swedish government?"
+    },
+    "answers": [
+      {
+        "textSv": "A. Statsministern och ministrarna",
+        "textAr": "A. رئيس الوزراء والوزراء",
+        "textEn": "A. The Prime Minister and ministers",
+        "correct": true
+      },
+      {
+        "textSv": "B. Kungen och drottningen",
+        "textAr": "B. الملك والملكة",
+        "textEn": "B. The King and Queen",
+        "correct": false
+      },
+      {
+        "textSv": "C. Alla ledamöter i riksdagen",
+        "textAr": "C. جميع أعضاء البرلمان",
+        "textEn": "C. All members of Parliament",
+        "correct": false
+      },
+      {
+        "textSv": "D. Alla kommunpolitiker",
+        "textAr": "D. جميع السياسيين في البلديات",
+        "textEn": "D. All municipal politicians",
+        "correct": false
+      }
+    ],
+    "correctAnswerSv": "A. Statsministern och ministrarna",
+    "correctAnswerAr": "A. رئيس الوزراء والوزراء",
+    "correctAnswerEn": "A. The Prime Minister and ministers"
+  }
+ 
+      ]
     },
     {
       "lessonId": 21,
