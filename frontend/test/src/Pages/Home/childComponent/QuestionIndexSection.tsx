@@ -3,6 +3,8 @@ import { useTranslation } from "../../../translation/context/useTranslation";
 import homePageTranslation from "../../../translation/Translations/HomePageTranslation";
 import { useNavigate } from "react-router-dom";
 import { questionArr } from "../../../utilities/Array";
+import { useDispatch } from "react-redux";
+import { clearAnswers } from "../../../Store/Slice/QuestionSlice/UserAnswerSlice";
 
 const useStyles = createUseStyles({
   chapterSection: {
@@ -183,6 +185,7 @@ export default function QuestionIndexSection() {
   const classes = useStyles();
   const { t } = useTranslation();
   const navigate = useNavigate();
+  const dispatch = useDispatch();
   const lang = localStorage.getItem("lang");
 
   const lessonsLength = 13;
@@ -202,6 +205,7 @@ export default function QuestionIndexSection() {
                   className={classes.indexCard}
                   onClick={() => {
                     navigate(`/question-detail/${id} `);
+                    dispatch(clearAnswers());
                   }}
                 >
                   <h3>
@@ -222,17 +226,20 @@ export default function QuestionIndexSection() {
         <div className={classes.indexSection}>
           {questionArr &&
             questionArr.map((item, index) => {
+              const currentLanguage =
+                lang === "sv" ? item.sv : lang === "en" ? item.en : item.ar;
               return (
                 <div
                   key={index}
                   className={classes.indexCard}
                   onClick={() => {
                     navigate(`/question-detail/${item.number} `);
+                    dispatch(clearAnswers());
                   }}
                 >
                   <h3>
                     {" "}
-                    {index + 1}- {lang === "sv" ? item.sv : item.ar}
+                    {index + 1}- {currentLanguage}
                   </h3>
                 </div>
               );
