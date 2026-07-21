@@ -350,10 +350,10 @@ const homePageTranslation = {
   },
   otherQuestionsHeader: {
     sv: "Övriga frågor",
-    ar: "أسئلة إضافية",
-    en: "Additional Questions",
+    ar: "أسئلة متنوعة",
+    en: "Various Questions",
   },
-    fromText: {
+  fromText: {
     sv: "från",
     ar: "من",
     en: "from",
